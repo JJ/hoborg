@@ -22,7 +22,7 @@ How you can help
 -----------------------
 
 After 4 paragraphs, you might have already realized English is not my
-main language. That's not the only way you can help
+main language. Sending me corrections  is not the only way you can help
 
 * Get a GitHub account http://github.com
 * Watch, star or fork this repo. You don't need to do anything else
@@ -37,6 +37,7 @@ main language. That's not the only way you can help
   branch and evolve the story in whicheer way you want
 * You can keep it (hey, it's free as in free speech) or, if you think
   it's a worthwhile addition to Hoborg, do a Pull Request.
+* [Check out the TODO list](TODO.md). 
 
 Full disclosure
 ------------------
