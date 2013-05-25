@@ -49,3 +49,8 @@ acknowledge it also in the prologue itself and, if I earn enough to be
 able to physically print it and mail it, will mail you a copy. That's
 quite unlikely to happen, however, so I'll make a promise I can keep:
 to follow you in Twitter.
+
+Start reading and participating
+---------------------------------------
+
+Just go to [the novel](text/text.md).
