@@ -24,17 +24,17 @@ How you can help
 After 4 paragraphs, you might have already realized English is not my
 main language. Sending me corrections  is not the only way you can help
 
-* Get a GitHub account http://github.com
-* Watch, star or fork this repo. You don't need to do anything else
+* Get a GitHub account http://github.com.
+* Watch, star or fork this repo. You don't need to do anything else.
    for the time being, but it will help me achieve some visibility.
 * You can interact with the text and the rest directly from the web:
-  you can comment on text and changes in it (called *commits*)
+  you can comment on text and changes in it (called *commits*).
 * You can also request changes on the text using *issues*. If you find
   an error of any kind, just raise an issue and I'll fix it (or try
   to).
 * Create your own version: once forked, you can use git (check out
   this manual http://wiki.freegeek.org/index.php/Git_for_dummies ) to
-  branch and evolve the story in whicheer way you want
+  branch and evolve the story in whicheer way you want.
 * You can keep it (hey, it's free as in free speech) or, if you think
   it's a worthwhile addition to Hoborg, do a Pull Request.
 * [Check out the TODO list](TODO.md). 
