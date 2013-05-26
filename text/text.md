@@ -15,4 +15,12 @@ a Mexican father. That was twenty and three years ago.
 
 Now I'm here, at the Circus of the People, amusing myself while I bid
 my time to get hold of the mechanical man, which is the main reason
-I am here.
+I am here. Here being Freedomville, formerly called Jacksonville, as
+in Andrew Jackson, a paleface and slaver long dead and now definitely
+buried. 
+
+And now being the tenth year after the revolution that produced the
+All Races People's Republic of Florida. 
+
+But a free man has to earn a living, too. That is why I am after José,
+the mechanical man. 
