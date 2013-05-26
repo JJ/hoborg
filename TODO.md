@@ -2,8 +2,8 @@ TO DO
 ====
 
 - Create a logo for Twitter and other sites. 
-- Figure out Google pages layout and deployment
 - Write the darn thing.
 - Create a CSS that suits the content.
 - Write a script to convert it to ePub just the way I like it.
-- Draw a map
+- Draw a map of the Republic of Florida.
+- Write a synopsis of the novel it's a sequel to: [Historia Lógico-Natural](https://authorcentral.amazon.com/gp/books/book-detail-page?ie=UTF8&bookASIN=B00CLOF224&index=default&language=en_US)
