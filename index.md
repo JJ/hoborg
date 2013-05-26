@@ -6,7 +6,7 @@ hoborg
 ======
 
 A dieselpunk novel with Spanish-created robot hobos in a balcanized
-America at the beginning of the XX century 
+America at the beginning of the XX century. 
 
 Plot outline
 ---------------
@@ -25,15 +25,16 @@ railway hobo, accompanied with a hobo cyborg - the hoborg of the title.
 How you can help
 -----------------------
 
-After 4 paragraphs, you might have already realized English is not my
+After four paragraphs, you might have already realized English is not my
 main language. Sending me corrections  is not the only way you can help
 
-* Get a GitHub account http://github.com.
+* You can just [follow @hoborg_novel on Twitter](http://twitter.com/hobog_novel) and interact with it.
+* Get a [GitHub account](http://github.com).
 * Watch, star or fork this repo. You don't need to do anything else.
    for the time being, but it will help me achieve some visibility.
 * You can interact with the text and the rest directly from the web:
   you can comment on text and changes in it (called *commits*).
-* You can also request changes on the text using *issues*. If you find
+* You can also request changes on the text using [*issues*](https://github.com/JJ/hoborg/issues). If you find
   an error of any kind, just raise an issue and I'll fix it (or try
   to).
 * Create your own version: once forked, you can use git (check out
