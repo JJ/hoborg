@@ -32,3 +32,38 @@ the capitalist system started to exloit my juvenile skills back there
 in awful California of awful America.
 
 
+Who wants a mechanical man?
+-------------------------------------------
+
+This story starts in Mobile, a rough and tumble border town of the
+United All Races People's Republic  of Florida. That's a pretty long
+name for a place that starts at Pascagoula and and goes no further
+than Brunswick, if only our people can have their way. Which they
+will, I have no doubt. Every dawning day brings new brothers to our
+new republic, brothers of all races, creeds and dispositions. 
+
+I was there, taking a walk in the docks, minding my own business,
+which was precisely what I was looking for at that moment of the day,
+looking for a hire, somebody who needed a quick mind and a strong pair
+of arms. I was dodging the sun and keeping myself in the shade,
+because the season was warm. What was it? September? August? Can't
+tell. Even less so now that all months have changed their names to
+something that does not have gods or umpirators in them. Something
+like that. That means that people no longer know the month they are
+in. Not that they cared, anyways.
+
+So, it ws hot and these two dandy types came up to me, dressed to the
+nines and sweating as if they were going to melt. Standing out as a
+sore thumb, if you ask me, no way to walk in the docks crying "Mug
+me"; adding insult to injury they were also crying yelling "I'm a capitalist
+pig". But I was minding my own business, which is not related to those
+guys, which were nondescript besides what I have already said. They
+probably had not been mugged yet because one of the dandies had his
+demeanor bolted on, instead of having been born into it. Strong but
+nondescript too. Or nondescript for a those-fists-mean-business
+meaning of the word. 
+
+Was not afraid, though, although they also seemed to avoid the sun and
+their caps were set just so you could not really see their face. So
+that you could not describe it later. That is why they were
+nondescript. Hey, said that already. You weren't listening?
