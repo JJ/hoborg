@@ -15,4 +15,4 @@ a Mexican father. That was twenty and three years ago.
 
 Now I'm here, at the Circus of the People, amusing myself while I bid
 my time to get hold of the mechanical man, which is the main reason
-I'm here.
+I am here.
