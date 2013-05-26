@@ -29,6 +29,10 @@ All Races People's Republic of Florida.
 But a free man has to earn a living, too. That is why I am after José,
 the mechanical man. A real marvel of the people's republic
 ingenuity. Just look at him. All by himself, he has hushed everyone in
-this dusty, hot, humid and forsaken place.
+this dusty, hot, humid and forsaken place. How can I describe it? I
+lack words, because there is nothing like it in the whole wide
+world. I can try, even as I received only the barest education before
+the capitalist system started to exloit my juvenile skills back there
+in awful California of awful America.
 
 
