@@ -37,7 +37,8 @@ main language. Sending me corrections  is not the only way you can help
   branch and evolve the story in whicheer way you want.
 * You can keep it (hey, it's free as in free speech) or, if you think
   it's a worthwhile addition to Hoborg, do a Pull Request.
-* [Check out the TODO list](TODO.md). 
+* [Check out the TODO list](TODO.md) in case you find something that
+  you could do yourself. 
 
 Full disclosure
 ------------------
@@ -55,3 +56,7 @@ Start reading and participating
 ---------------------------------------
 
 Just go to [the novel](text/text.md).
+
+Navigating the repository
+---------------------------------
+
