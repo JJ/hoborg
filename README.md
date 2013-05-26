@@ -60,3 +60,5 @@ Just go to [the novel](text/text.md).
 Navigating the repository
 ---------------------------------
 
+You already know the [text](text/README.md) directory, which contains
+the novel text itself as well as scraps I might need for later. 
