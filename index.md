@@ -41,7 +41,7 @@ main language. Sending me corrections  is not the only way you can help
   branch and evolve the story in whicheer way you want.
 * You can keep it (hey, it's free as in free speech) or, if you think
   it's a worthwhile addition to Hoborg, do a Pull Request.
-* [Check out the TODO list](TODO.md) in case you find something that
+* [Check out the TODO list](TODO) in case you find something that
   you could do yourself. 
 
 Full disclosure
@@ -59,14 +59,21 @@ to follow you in Twitter.
 Start reading and participating
 ---------------------------------------
 
-Just go to [the novel](text/text.md).
+Just go to [the novel](text/text).
 
 Navigating the repository
 ---------------------------------
 
-You already know the [text](text/README.md) directory, which contains
+You already know the [text](text/README) directory, which contains
 the novel text itself as well as scraps we might need for
-later. [resources](resources/README.md) contains HTML templates,
-images and other non-text stuff. [apps](apps/README.md) includes
+later. [resources](resources/README) contains HTML templates,
+images and other non-text stuff. [apps](apps/README) includes
 conversion scripts and other mainly Perl scripts I use for managing
 this. 
+
+Get in touch
+---------------
+
+If it is some issue related to the novel, [use the GitHub
+issues](https://github.com/JJ/hoborg/issues), any other business, just
+[email me](mailto:hoborg@merelo.net).
