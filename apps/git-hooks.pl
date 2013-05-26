@@ -65,6 +65,16 @@ Then copy git-hooks.pl to .git/hooks, make it runnable (chmod +x
 
 Any trouble, just check the L<Git::Hooks> manual.
 
+=head2 DESCRIPTION
+
+Inpired by
+L<http://stackoverflow.com/questions/15214762/how-can-i-sync-documentation-with-github-pages>
+this answer by Cory Gross in StackOverflow, the ever helpful site. It
+was adapted to Perl instead of bash.
+
+Besides including Jekyll YAML headers in the files, it eliminates
+C<.md> suffixes to convert them to the correct URL in Github Pages. 
+
 =head1 LICENSE
 
 This is released under the Artistic 
