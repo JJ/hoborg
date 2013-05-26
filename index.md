@@ -20,7 +20,7 @@ An American Pinkerton agent is sent into that state to recover a
 Pensacola to St. Pitersburg entertaining the masses. 
 
 He succeeds, but going back to Washington is not easy. He becomes a
-raiway hobo, accompanied with a hobo cyborg - the hoborg of the title.
+railway hobo, accompanied with a hobo cyborg - the hoborg of the title.
 
 How you can help
 -----------------------
@@ -41,7 +41,8 @@ main language. Sending me corrections  is not the only way you can help
   branch and evolve the story in whicheer way you want.
 * You can keep it (hey, it's free as in free speech) or, if you think
   it's a worthwhile addition to Hoborg, do a Pull Request.
-* [Check out the TODO list](TODO). 
+* [Check out the TODO list](TODO.md) in case you find something that
+  you could do yourself. 
 
 Full disclosure
 ------------------
@@ -58,4 +59,14 @@ to follow you in Twitter.
 Start reading and participating
 ---------------------------------------
 
-Just go to [the novel](text/text).
+Just go to [the novel](text/text.md).
+
+Navigating the repository
+---------------------------------
+
+You already know the [text](text/README.md) directory, which contains
+the novel text itself as well as scraps we might need for
+later. [resources](resources/README.md) contains HTML templates,
+images and other non-text stuff. [apps](apps/README.md) includes
+conversion scripts and other mainly Perl scripts I use for managing
+this. 
