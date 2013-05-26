@@ -61,4 +61,6 @@ Navigating the repository
 ---------------------------------
 
 You already know the [text](text/README.md) directory, which contains
-the novel text itself as well as scraps I might need for later. 
+the novel text itself as well as scraps I might need for
+later. [resources](resources/README.md) contains HTML templates,
+images and other non-text stuff.
