@@ -66,3 +66,10 @@ later. [resources](resources/README.md) contains HTML templates,
 images and other non-text stuff. [apps](apps/README.md) includes
 conversion scripts and other mainly Perl scripts I use for managing
 this. 
+
+Get in touch
+---------------
+
+If it is some issue related to the novel, [use the GitHub
+issues](https://github.com/JJ/hoborg/issues), any other business, just
+[email me](mailto:hoborg@merelo.net).
