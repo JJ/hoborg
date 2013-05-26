@@ -23,4 +23,8 @@ And now being the tenth year after the revolution that produced the
 All Races People's Republic of Florida. 
 
 But a free man has to earn a living, too. That is why I am after José,
-the mechanical man. 
+the mechanical man. A real marvel of the people's republic
+ingenuity. Just look at him. All by himself, he has hushed everyone in
+this dusty, hot, humid and forsaken place.
+
+
