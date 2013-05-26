@@ -7,9 +7,8 @@ And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
-And the public... the people there would make anybody like me nervous
-even in broad daylight. Not a single white man there. Negroes,
-indians, chinamen... spics like me. Because my name is Fulgencio
-Gómez, and although I am American in heart, and a good American at
-that, I was born and raised in California from a Guatemalan mother and
-a Mexican father. That was twenty five years ago.
+And the public... filled with brothers, of my own race, of the other
+races that have been oppressed since they arrived here or since the
+paleface newcomers arrived. Because my name is Fulgencio
+Gómez and  I was born and raised in California from a Guatemalan mother and
+a Mexican father. That was twenty five years ago. 
