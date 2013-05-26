@@ -16,7 +16,7 @@ An American Pinkerton agent is sent into that state to recover a
 Pensacola to St. Pitersburg entertaining the masses. 
 
 He succeeds, but going back to Washington is not easy. He becomes a
-raiway hobo, accompanied with a hobo cyborg - the hoborg of the title.
+railway hobo, accompanied with a hobo cyborg - the hoborg of the title.
 
 How you can help
 -----------------------
