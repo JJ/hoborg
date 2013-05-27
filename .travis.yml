@@ -1,0 +1,7 @@
+language: perl
+perl:
+  - "5.14"
+  - "5.16"
+before_install:
+  - sudo apt-get install libhunspell libhunspell-dev hunspell-en-us
+script: "cd Text-Hoborg; perl Makefile.PL && make test"
