@@ -67,3 +67,21 @@ Was not afraid, though, although they also seemed to avoid the sun and
 their caps were set just so you could not really see their face. So
 that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
+
+Around file
+--------------
+
+"I'm gonna get me one of those dummies, I'm gonna do it" The first
+hobo announced, with just a hint of a threat in his voice, veiled by
+the amount of moonshine he had already taken. José sat slumped a few
+steps away from the fire, out of fuel or simply not working. Fulgencio
+just spat at the fire, raising a small flame that made José look alive
+for a brief moment. 
+
+Fulgencio had found this group in a railtrack yard in Tallahassee when
+desceding from a train, trying to be unobtrusive. No way to do it when
+being trailed by a two hundred and fifty pound waking cash register,
+and he was inmediately hailed by them and asked to join them by the
+fire. Liquor was passed, bread and cheese shared, and histories
+and local tips swapped. Then, more alcohol had flowed and everything
+became a bit blurry. 
