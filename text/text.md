@@ -56,7 +56,7 @@ something that does not have gods or umpirators in them. Something
 like that. That means that people no longer know the month they are
 in. Not that they cared, anyways.
 
-So, it ws hot and these two dandy types came up to me, dressed to the
+So, it was hot and these two dandy types came up to me, dressed to the
 nines and sweating as if they were going to melt. Standing out as a
 sore thumb, if you ask me, no way to walk in the docks crying "Mug
 me"; adding insult to injury they were also crying yelling "I'm a capitalist
