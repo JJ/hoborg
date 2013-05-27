@@ -72,7 +72,7 @@ their caps were set just so you could not really see their face. So
 that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
 
-Around file
+Wit the hobos around the fire
 --------------
 
 "I'm gonna get me one of those dummies, I'm gonna do it" The first
@@ -82,10 +82,10 @@ steps away from the fire, out of fuel or simply not working. Fulgencio
 just spat at the fire, raising a small flame that made José look alive
 for a brief moment. 
 
-Fulgencio had found this group in a railtrack yard in Tallahassee when
-desceding from a train, trying to be unobtrusive. No way to do it when
+Fulgencio had found this group in a rail yard in Tallahassee when
+descending from a train, trying to be unobtrusive. No way to do it when
 being trailed by a two hundred and fifty pound waking cash register,
-and he was inmediately hailed by them and asked to join them by the
+and he was immediately hailed by them and asked to join them by the
 fire. Liquor was passed, bread and cheese shared, and histories
 and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry. 
