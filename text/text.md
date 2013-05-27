@@ -28,7 +28,7 @@ ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
 world. I can try, even as I received only the barest education before
-the capitalist system started to exloit my juvenile skills back there
+the capitalist system started to exploit my juvenile skills back there
 in awful California of awful America.
 
 
