@@ -6,6 +6,5 @@ perl:
   - "5.16"
 before_install:
   - sudo apt-get install libhunspell-1.3-0 hunspell-en-us libhunspell-dev
-  - "cpanm Text::Hunspell"
-  - "cpanm File::Slurp"
+  - cd Text-Hoborg
 script: "cd Text-Hoborg; perl Makefile.PL && make test"
