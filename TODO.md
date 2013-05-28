@@ -11,3 +11,5 @@ TO DO
 - Write a script to convert it to ePub just the way I like it.
 - Draw a map of the Republic of Florida.
 - Write a synopsis of the novel it's a sequel to: [Historia Lógico-Natural](https://authorcentral.amazon.com/gp/books/book-detail-page?ie=UTF8&bookASIN=B00CLOF224&index=default&language=en_US)
+- Create a flag of the republic. Something with lots of colors and obviously a star. Or a sickle and a hammer. 
+- Write instructions on how to reproduce this rig somewhere else for some other creative writing project.
