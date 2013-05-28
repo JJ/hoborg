@@ -35,6 +35,7 @@ world. I can try, even as I received only the barest education before
 the capitalist system started to exploit my juvenile skills back there
 in awful California of awful America.
 
+But I am jumping over myself. Let me tell you how it all started.
 
 Who wants a mechanical man?
 -------------------------------------------
@@ -71,6 +72,28 @@ Was not afraid, though, although they also seemed to avoid the sun and
 their caps were set just so you could not really see their face. So
 that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
+
+A teakettle with ears
+---------------------------
+
+Think about a teakettle. You got it? That's it, thicker on the bottom
+and not so much on top. Yes, Count, we all know you served tea to
+royalty in your castle in Central Europe. Allright, south by southwest
+Europe. Whatever. You picture that, right? That would be a milk pail
+for you, Gummy. Please stop smiling or I'll never ever say your name
+aloud again. You all got the milk pail? Well, now put it on top of the
+teakettle. A small one. Two milk pails for you, Gummy. Lost you? Aw,
+what the hell, just go to sleep again. 
+
+Lost you all? Big, roundish, thick-on-the-bottom, metallic upside-down
+bucket with another on top, body and head. Which goes to account for
+the name mechanical man, but when I first saw him that what I though
+about. It was even steaming a little bit, because he's not actually
+mechanical, you see, it's also fuel-powered ad some electrickal cables
+to spark it to motion whenever it's needed. Or something like that. I
+didn't built it, I just carry it from one place to another. 
+
+
 
 Wit the hobos around the fire
 --------------
