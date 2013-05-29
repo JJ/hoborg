@@ -74,7 +74,7 @@ A teakettle with ears
 
 Think about a teakettle. You got it? That's it, thicker on the bottom
 and not so much on top. Yes, Count, we all know you served tea to
-royalty in your castle in Central Europe. Allright, south by southwest
+royalty in your castle in Central Europe. Alright, south by southwest
 Europe. Whatever. You picture that, right? That would be a milk pail
 for you, Gummy. Please stop smiling or I'll never ever say your name
 aloud again. You all got the milk pail? Well, now put it on top of the
