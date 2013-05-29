@@ -58,6 +58,11 @@ Start reading and participating
 
 Just go to [the novel](text/text.md).
 
+How this can help
+-----------------------
+
+Read the [installation instructions](INSTALL.md) to get your very own novel going in Github. 
+
 Navigating the repository
 ---------------------------------
 
