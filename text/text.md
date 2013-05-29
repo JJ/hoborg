@@ -93,6 +93,29 @@ mechanical, you see, it's also fuel-powered ad some electrickal cables
 to spark it to motion whenever it's needed. Or something like that. I
 didn't built it, I just carry it from one place to another. 
 
+The second greatest show on earth arrives in New Orleans
+----------------------------------------------------------------------------
+
+Back to the United States of America. What was left of them,
+anyways. Which still seemed all too happy shooting the odd border
+patrol or even taking an useless pop at an airship, but was mostly
+happy to get rid of second-rate citizens, or so it seemed. 
+
+That was apparently not enough to restore the broken railway links
+between the Republic and the US. Beyond Mobile, the railroad was blown
+up to, at least, Red Bluff. So the easiest way to go from here to
+there, from the real Land of the Free to the purported Land of the
+Free, was to sail from Pensacola. 
+
+So it was Noah's Ark all over again, as the circus manager said at
+least one zillion times before, during and after boarding. Not that we
+did not know already that all that Noah stuff was a big steaming pile
+of elephant dung, but if you put lions and horses and bearded women
+and whatnots inside a steamer they're gonna get mighty nervous, I tell
+ya. So no way Noah would have made it for 40 days. Unless he got him a
+circus manager like we did. Friend of platitudes, but a good organizer
+all the same. 
+
 
 
 Wit the hobos around the fire
