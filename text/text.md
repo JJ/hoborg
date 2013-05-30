@@ -89,11 +89,28 @@ mechanical, you see, it's also fuel-powered ad some electrickal cables
 to spark it to motion whenever it's needed. Or something like that. I
 didn't built it, I just carry it from one place to another. 
 
+And, you see, it ain't have any legs. I don't know why, man, but those
+four wheels it has on the bottom just save me a lot of work. Yes, it
+did have some sort of midget legs at the beginning, but they made him,
+er, it, a piece of larry on stilted legs so they were ripped of and
+substituted by this bogie rigged from, gee, I really don't know. A toy
+train? 
+
+Of course the legs didn't go to waste! They were used for a sideshow
+in the ten-in-one called Robbie Lee, the Half-Mechanical Wonder of the
+New Century!
+
+So what we have here is a teakettle with ears on wheels. A mechanical
+hobo. A hobo mechanical organism? Count, I like that. Cut it down to
+hoborg and you've got it! Pass the bottle, man, don't hog it all for yourself!
+
+
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
 
-Back to the United States of America. What was left of them,
-anyways. Which still seemed all too happy shooting the odd border
+So we were going back to the United States of America. What was left
+of them, 
+anyways. They still seemed all too happy to shoot the odd border
 patrol or even taking an useless pop at an airship, but was mostly
 happy to get rid of second-rate citizens, or so it seemed. 
 
@@ -108,9 +125,53 @@ least one zillion times before, during and after boarding. Not that we
 did not know already that all that Noah stuff was a big steaming pile
 of elephant dung, but if you put lions and horses and bearded women
 and whatnots inside a steamer they're gonna get mighty nervous, I tell
-ya. So no way Noah would have made it for 40 days. Unless he got him a
-circus manager like we did. Friend of platitudes, but a good organizer
-all the same. 
+ya. So no way Noah would have made it for forty days. Unless he got him a
+circus manager like we did. Friend of saying platitudes, but a good organizer
+all the same.  
+
+Yes, I would have preferred an airship. The circus commisar was on its
+way to New Orleans already. But, pray tell, how the fuck do you expect
+to put an elephant in an airship? You did it once? Really? Why didn't
+you stick a couple of wings and a rocket up its butt and made it fly?
+No way, man, absolutely no way you could put the thirty-odd carriages
+in airships, you would have needed so many of them. Yes, you love
+airships, Commodore, that's a fact.
+
+It was my first chance to actually drive the mech. Aw, man, we are
+calling it a hoborg, but just from a couple of nights ago! Just let me
+call it the way I've always done. You want to hear the story? As I was
+saying, you already know it has to be driven. On its own, he is barely
+able to repeatedly bump into a wall or wander aimlessly like a chicket
+whose head has just been bitten by a geek. Or a frog, yes,
+Frog-Eatin'.  Grease was the one usually driving the mech, but he was
+too busy disengaging carriages from the tractor, securing them on the
+deck and trying at the same time to put the poor beasts at ease. The
+space occupied by the mech was needed for something so I got to drive
+it for the first time. 
+
+No, it does not even come close to driving a horse and I ain't never
+piloted a car. It's a metal box with a wheel and several levers and
+knobs. I was told to never get farther than a dozen feet from from it,
+this wheel for turning, this lever forward, this knob to make it
+faster. Grease gave it to me, and I swear it turned its teakettle head
+to look at me. Yes, it does that. It's not only levers and knobs and
+whatnots. I still don't know what half the driving box does, but I do
+know that the fucking mech has a mind of its own. No soul, Blackie, no
+soul, man. No man's got a soul, nobody. It's humbug the American
+capitalistas have been feeding you. So how come a fucking mechanical
+contraption have a soul if not even you have it!  But, boy, does it
+have a mind. A cat's mind, if you ask me.
+
+So after checking me out he just did what it was told, turn right,
+turn left, up the plank, to the prow. To tell you the truth, it kind
+*wanted* to get to the very end of the prow; every time I veered away
+to let it rest near the castle it kind of tugged to the right, as if
+wanting to be there, looking at the sea. Ever seen the sea? Yes,
+Count, you watched it for hours on end from your own boat. It's mighty
+beautiful. No wonder even a mech would want to watch it. Or maybe it
+was just a bit cranky. Who knows.
+
+
 
 
 
