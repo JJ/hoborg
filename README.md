@@ -4,6 +4,13 @@ hoborg
 A dieselpunk novel with Spanish-created robot hobos in a balcanized
 America at the beginning of the XX century. 
 
+Build status
+---------------
+
+For the time being, mainly related to typos:
+
+[![Build Status](https://travis-ci.org/JJ/hoborg.png)](https://travis-ci.org/JJ/hoborg)
+
 Plot outline
 ---------------
 
