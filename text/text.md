@@ -94,7 +94,7 @@ four wheels it has on the bottom just save me a lot of work. Yes, it
 did have some sort of midget legs at the beginning, but they made him,
 er, it, a piece of larry on stilted legs so they were ripped of and
 substituted by this bogie rigged from, gee, I really don't know. A toy
-train? 
+train? A streetcar?
 
 Of course the legs didn't go to waste! They were used for a sideshow
 in the ten-in-one called Robbie Lee, the Half-Mechanical Wonder of the
@@ -129,7 +129,7 @@ ya. So no way Noah would have made it for forty days. Unless he got him a
 circus manager like we did. Friend of saying platitudes, but a good organizer
 all the same.  
 
-Yes, I would have preferred an airship. The circus commisar was on its
+Yes, I would have preferred an airship. The circus comisario was on its
 way to New Orleans already. But, pray tell, how the fuck do you expect
 to put an elephant in an airship? You did it once? Really? Why didn't
 you stick a couple of wings and a rocket up its butt and made it fly?
