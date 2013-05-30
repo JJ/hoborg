@@ -141,7 +141,7 @@ It was my first chance to actually drive the mech. Aw, man, we are
 calling it a hoborg, but just from a couple of nights ago! Just let me
 call it the way I've always done. You want to hear the story? As I was
 saying, you already know it has to be driven. On its own, he is barely
-able to repeatedly bump into a wall or wander aimlessly like a chicket
+able to repeatedly bump into a wall or wander aimlessly like a chicken
 whose head has just been bitten by a geek. Or a frog, yes,
 Frog-Eatin'.  Grease was the one usually driving the mech, but he was
 too busy disengaging carriages from the tractor, securing them on the
