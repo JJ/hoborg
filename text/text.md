@@ -203,7 +203,7 @@ dressed and went up to the deck to check it out.
 Attack on the high seas
 ------------------------------
 
-When I arrived at the main deck, everyhing seemed to be quiet for a
+When I arrived at the main deck, everything seemed to be quiet for a
 few seconds. The sea was calm and deep blue, the sky only sported a
 few wispy clouds, and the ship was rocked just a bit back and forth. I
 took a breath and thought about going back to my cabin to properly
