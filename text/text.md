@@ -111,7 +111,7 @@ they looked like those in mannequins, with a joint in the elbow and
 another at the shoulder and a grip at the end. No hands, just a
 grip. I didn't try to wrestle with him, no way. It was four hundred
 pounds of iron and copper. The grips were made with copper, and they
-could be so delicate as to grasp a pidgeon's egg without breaking
+could be so delicate as to grasp a pigeon egg without breaking
 it. Great machine, I tell you. 
 
 Yes, let's make it dance for a while, let me just get my driving box. 
