@@ -107,6 +107,18 @@ So what we have here is a teakettle with ears on wheels. A mechanical
 hobo. A hobo mechanical organism? Count, I like that. Cut it down to
 hoborg and you've got it! Pass the bottle, man, don't hog it all for yourself!
 
+Arms? Gee, I forgot that. Of course it did have arms! Just two of
+them, yes. I always wondered why. Come to build a thing with arms, you
+could make it with three or four or what! But no, it had to be two and
+they looked like those in mannequins, with a joint in the elbow and
+another at the shoulder and a grip at the end. No hands, just a
+grip. I didn't try to wrestle with him, no way. It was four hundred
+pounds of iron and copper. The grips were made with copper, and they
+could be so delicate as to grasp a pidgeon's egg without breaking
+it. Great machine, I tell you. 
+
+Yes, let's make it dance for a while, let me just get my driving box. 
+
 
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
@@ -165,14 +177,55 @@ capitalistas have been feeding you. So how come a fucking mechanical
 contraption have a soul if not even you have it!  But, boy, does it
 have a mind. A cat's mind, if you ask me.
 
-So after checking me out he just did what it was told, turn right,
+So after checking me out he mostly did what it was told, turn right,
 turn left, up the plank, to the prow. To tell you the truth, it kind
 *wanted* to get to the very end of the prow; every time I veered away
 to let it rest near the castle it kind of tugged to the right, as if
 wanting to be there, looking at the sea. Ever seen the sea? Yes,
 Count, you watched it for hours on end from your own boat. It's mighty
-beautiful. No wonder even a mech would want to watch it. Or maybe it
-was just a bit cranky. Who knows.
+beautiful. No wonder even a mech would want to stand where he could watch it. Or maybe it
+was just a bit cranky. Who knows. He could not have gone there,
+anyways, because the space was taken by a bulk covered with a
+tarp. Nothing related with the circus, it should have been there
+before us, because the tarp had a different color, ours were green,
+this one was tan. 
+
+I didn't have the time to stay around to watch it any more because the
+circus manager grabbed me again and had me running errands, putting
+things in cabins, covering the carriages with tarpaulins and hauling
+supplies belowdecks. Which is a nice word that somebody shouted while
+we were doing there and means in the basement of the ship. 
+
+I got myself a cabin with Shorty and one of the windjammers. Which I
+only discovered after I woke up to the sound of explosions
+somewhere. Some mighty thunderstorm might be happening, but that was
+unlikely since the boat did not seem to be swinging too
+much. Something completely different might be going on, and I got
+dressed and went up to the deck to check it out.
+
+Attack on the high seas
+------------------------------
+
+When I arrived at the main deck, everyhing seemed to be quiet for a
+few seconds. The sea was calm and deep blue, the sky only sported a
+few wispy clouds, and the ship was rocked just a bit back and forth. I
+took a breath and thought about going back to my cabin to properly
+finish the dream I was dreaming when I heard a second explosion and
+started to see what looked like the whole roustabout crew running to
+both ends of the ship. Some of them were pointing up and above, a bit
+to the left, "fore and port", somebody was yelling.
+
+It was difficult to make out, but a few hundred of feet in that
+direction was an airship. It was mostly painted in blue, sky blue but
+its cabin had some struts coming out of it that were pointing directly
+at us and apparently popping some rounds. 
+
+"Some mark that has not been happy with our act, apparently." Raúl the
+ringmaster was by my side, smiling with part of his mouth and smoking
+his pipe. I hadn't heard his coming, as I never did. 
+
+
+
 
 
 
