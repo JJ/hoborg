@@ -219,13 +219,32 @@ at us and apparently popping some rounds.
 
 "Some mark that has not been happy with our act, apparently." Raúl the
 ringmaster was by my side, smiling with part of his mouth and smoking
-his pipe. I hadn't heard his coming, as I never did. 
+his pipe. I hadn't heard his coming, as I never did. This guy was the
+master of the ring and made himself heard and seen but his special
+skill was to make that happen only when and if he wanted. 
 
+The mystery of the tarp to the front of the ship was soon revealed
+along with the long tube that was below it. It was quite obviously a
+gun, and it didn't even need to be loaded; it had a big gunsight in
+front of a seat which was quicly occupied by what I thought to be a
+deck hand before. It didn't take long to have it shot; something came
+out of it sprouting flames and unrolling a cable while the guy manning
+the gunsight was moving a stick and turning knobs from time to time. 
 
+"Looks like we are going to hunt us a big fat evil capitalista whale"
+Raúl said, the crooked smile never leaving its face while the harpoon
+wiggled towards the airship, which seemed to be getting farther and
+farther up. Small geysers raised above the otherwise quiet surface of
+the water, and we all seemed like the public of a lion taming act
+without a jail, just looking on as if the air was protection enough to
+what could happen. I knew it was not. And I knew I had to protect what
+could be my property, so I run to the mech, which was just a few feet
+behind the harpoon gun, unfastened it from the deck, retrieved the
+driving box and started to move it.
 
-
-
-
+It was stupid, of course. But nobody was there to tell me that at that
+moment. No, it didn't sink, Gummy, you moron. Can't you see it is
+right there. And please stop crying!
 
 
 Wit the hobos around the fire
