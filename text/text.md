@@ -229,7 +229,7 @@ skill was to make that happen only when and if he wanted.
 The mystery of the tarp to the front of the ship was soon revealed
 along with the long tube that was below it. It was quite obviously a
 gun, and it didn't even need to be loaded; it had a big gunsight in
-front of a seat which was quicly occupied by what I thought to be a
+front of a seat which was quickly occupied by what I thought to be a
 deck hand before. It didn't take long to have it shot; something came
 out of it sprouting flames and unrolling a cable while the guy manning
 the gunsight was moving a stick and turning knobs from time to time. 
