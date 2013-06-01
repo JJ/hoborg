@@ -124,7 +124,7 @@ two holes covered with glass the eyes. Some dummy painted two lines on
 top of that that could go for eyebrows, and then two holes on the side
 of the head with two half-moons behind them. It could move left and
 right, that's it. It made a screeching noise, like a door closing. A
-teensie door closing. 
+teensy door closing. 
 
 When it walked, or rather rolled, there was smoke coming out of its
 neck. Some dummy put it initially in the ass, but it made the eyes of
@@ -132,7 +132,7 @@ whoever was driving it sting, so somebody else rigged it to have the
 exhaust as hight as possible. Not in the head, it wouldn't look
 healthy, people would keep saying "Your dummy is *burning*!".
 
-Anyway, the noise. It couldn honk, did I tell ya? Yes, he can do stuff
+Anyway, the noise. It could honk, did I tell ya? Yes, he can do stuff
 all of its own when he wants. When there's something in front, I don't
 know how the hell it does that, but he notices and honks the same way
 that he avoids to crash into people by just stopping. How do I know
