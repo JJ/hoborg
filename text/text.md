@@ -94,7 +94,7 @@ four wheels it has on the bottom just save me a lot of work. Yes, it
 did have some sort of midget legs at the beginning, but they made him,
 er, it, a piece of larry on stilted legs so they were ripped of and
 substituted by this bogie rigged from, gee, I really don't know. A toy
-train? A streetcar? But the wheels, they had real tres on them, lest
+train? A streetcar? But the wheels, they had real tires on them, lest
 it could move only on rails. Come to think of it, I'll have to patch
 them, they seem the worse for wear now... 
 
@@ -142,6 +142,7 @@ how it does that? Am I a fucking mechanician? So, all things
 considered,  it sounded like a car coming at you if you didn't see it
 coming. A honking, screeching, clanking little car.
 
+And now, for all of you, a honking, screeching, clanking dancing mech.
 
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
