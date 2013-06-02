@@ -142,7 +142,61 @@ how it does that? Am I a fucking mechanician? So, all things
 considered,  it sounded like a car coming at you if you didn't see it
 coming. A honking, screeching, clanking little car.
 
-And now, for all of you, a honking, screeching, clanking dancing mech.
+And now, for all of you, a honking, screeching, clanking dancing
+mech. Tomorrow, or the day after that, I'll tell you how I became a
+circus roustabout.
+
+I married a bearded woman
+------------------------------------
+
+Not quite, although seducing one of them would be a way of marrying
+into the circus, I was not amused by that prospect. So I have to words
+for you: Fake. Papers.
+
+"Let me check that." said the improbably named Boris, the circus
+manager, a big, dark brother with shoulders one mile long that could
+have stood for the strongman or the lion tamer if there was a need for
+that. I was standing in the carriage that served as an office and as a
+ticket booth, these circus guys like to keep all money matters close
+together, lest they contaminate the rest of the stuff; a man and a
+woman were idling at their desks, rustling papers and listening to the
+wireless, which was broadcasting a speech by one of the high-ups in
+our Republic. I tried to listen intently, but couldn't. He didn't seem
+angry, so he was probably cheering up the workers and farmers of our
+land. I probably had heard it anyways. 
+
+I knew it would check out. The official at the People's Party in
+Pascagoula had been paid dearly to request an assignment of one
+Fulgencio Ribera, 24, to the Number One Glorious People's Circus, Menagerie, and
+Moral Exhibition Featuring Karl the Elephant and the Mysterious
+Mechanical Man. Took less for him to take the bribe than to write the
+name of the place where I wanted to be transferred. A second bribe
+would be needed for the archivist, but that was all. Yes, capitalita
+ways in the people's republic and all that. I didn't like it, but I
+like even less the umpirialist ways of the United-not-for-long
+States. Did I say umpirialist? I meant umpirialistic. Imperialist? You
+made that word up, Duke, didn't you? OK, OK, OK, imperialist, so what
+gives? 
+
+What's bad about crooked officials is that they can bend two or three
+different ways. And this Boris was taking too long to wire a request
+to Tallahassee and get it back. The clerk and the secretary kept
+looking at me with that look of "You don't belong here" which I tried
+hard not to return. And this was starting to look like a situation in
+which I would have to fight my way out.
+
+So to avoid their gaze I started to look around. In the walls of the office hanged posters of annnoucements and
+features. "The Mighty Mechanical Man" featured what looked like a guy
+sheathed in gold foil lifting an elephant. "The Human Radio Receiver"
+was on another poster, dressed like a sailor for no reason and with a
+hat from which several wires sprouted, from the wires, wavy lines came
+out (or in, who knows) while he seemed to be speaking, arms wide
+open. I'd heard about that one, and it looked like a scam. But then I
+was not buying this circus, I was here for a reason. A heavy, metal,
+mechanical reason.
+
+And then Boris came back from his office at the end of the
+carriage. And he did not seem happy. 
 
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
