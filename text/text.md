@@ -154,7 +154,8 @@ I married a bearded woman
 
 Not quite, although seducing one of them would be a way of marrying
 into the circus, I was not amused by that prospect. So I have to words
-for you: Fake. Papers.
+for you: Fake. Papers. I went up to the circus, which had just arrived
+to the city of Ferry Pass. 
 
 "Let me check that." said the improbably named Boris, the circus
 manager, a big, dark brother with shoulders one mile long that could
