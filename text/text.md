@@ -232,7 +232,7 @@ really didn't know what to do. I'd have to hire a band of rustlers to
 get the iron dummy out of here. Disappointment probably crept to my
 face, and Boris said
 
-"These things happens. Wires go down, Circus Commision clerks gets
+"These things happens. Wires go down, Circus Commission clerks gets
 asleep, forgets to file the folder where he should. Tell you what: we
 need strong and young hands like you around here, the Party knows we
 do. So just stick around, I'll pay you by the day, and will check back
