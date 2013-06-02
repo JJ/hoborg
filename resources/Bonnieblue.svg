@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1020" height="680" viewBox="-3,-2 6,4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify">
+
+<rect width="100%" height="100%" x="-50%" y="-50%" fill="navy"/>
+<g id="cone">
+  <polyline id="triangle" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)" fill="white"/>
+  <use xlink:href="#triangle" transform="scale(-1,1)"/>
+</g>
+<use xlink:href="#cone" transform="rotate(72)"/>
+<use xlink:href="#cone" transform="rotate(-72)"/>
+<use xlink:href="#cone" transform="rotate(144)"/>
+<use xlink:href="#cone" transform="rotate(-144)"/>
+</svg>
