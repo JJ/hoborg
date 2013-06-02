@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1020"
+   height="680"
+   viewBox="-3,-2 6,4"
+   preserveAspectRatio="xMidYMid meet"
+   zoomAndPan="magnify"
+   id="svg2985"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="florida republic icon.svg"
+   inkscape:export-filename="/home/jmerelo/txt/ocio/hoborg/resources/florida republic icon.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <metadata
+     id="metadata3005">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3003" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3001"
+     showgrid="false"
+     inkscape:zoom="0.34705882"
+     inkscape:cx="510"
+     inkscape:cy="340"
+     inkscape:window-x="2325"
+     inkscape:window-y="311"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2985" />
+  <rect
+     width="2.1016948"
+     height="1.9999999"
+     x="-1.0169492"
+     y="-1.0508474"
+     id="rect2987"
+     style="fill:#000080" />
+  <g
+     id="cone">
+    <polyline
+       id="triangle"
+       points="0,0 0,1 .5,1"
+       transform="translate(0,-1) rotate(18)"
+       fill="white" />
+    <use
+       xlink:href="#triangle"
+       transform="scale(-1,1)"
+       id="use2991" />
+  </g>
+  <use
+     xlink:href="#cone"
+     transform="rotate(72)"
+     id="use2993" />
+  <use
+     xlink:href="#cone"
+     transform="rotate(-72)"
+     id="use2995" />
+  <use
+     xlink:href="#cone"
+     transform="rotate(144)"
+     id="use2997" />
+  <use
+     xlink:href="#cone"
+     transform="rotate(-144)"
+     id="use2999" />
+  <g
+     id="g3089"
+     transform="matrix(2.8352076,0,0,2.7618598,-0.05161881,-0.28934168)">
+    <path
+       id="path3036"
+       style="fill:#800000"
+       d="m 0.21940543,0.28932049 0.042894,-0.050303 c 0.0225781,0.021849 0.0529801,0.043387 0.07503,0.062956 0.02205,0.019569 0.038944,0.035838 0.0526191,0.058069 0.020042,0.032582 -0.00246,0.069482 -0.0336721,0.047823 -0.016877,-0.011713 -0.027481,-0.043333 -0.053335,-0.069499 -0.019149,-0.016302 -0.034237,-0.033391 -0.082367,-0.041637 -0.00231,-3.958e-4 -0.00299,-0.00528 -0.00117,-0.00741 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#800000"
+       id="path13009"
+       d="m 0.28304919,0.27420689 c 3.2e-6,0.00212 -0.00113,0.00408 -0.00296,0.00514 -0.00183,0.00106 -0.00409,0.00106 -0.00593,0 -0.00183,-0.00106 -0.00296,-0.00302 -0.00296,-0.00514 -3.1e-6,-0.00212 0.00113,-0.00408 0.00296,-0.00514 0.00183,-0.00106 0.00409,-0.00106 0.00593,0 0.00183,0.00106 0.00296,0.00302 0.00296,0.00514 l 0,0 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3043"
+       style="fill:#800000"
+       d="m 0.21397363,0.28239829 c -0.15314873,-0.1018471 -0.25053472,-0.1568423 -0.39730584,-0.2402943 -0.057656,-0.0327826 -0.14719313,-0.1151877 -0.076565,-0.2530602 0.00445,0.090513 0.36216934,0.3389598 0.51332447,0.4469862 l -0.039453,0.046368 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#800000;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.00315319;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       id="path11763"
+       d="m -0.16001279,-0.048013 c 0.1179163,0.1111227 0.26641223,0.2017752 0.39889444,0.3019734"
+       inkscape:connector-curvature="0" />
+    <use
+       style="fill:#800000"
+       id="use3046"
+       xlink:href="#path13009"
+       transform="translate(0.04364447,0.03803299)"
+       x="0"
+       y="0"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       style="fill:#800000"
+       id="use3048"
+       xlink:href="#path13009"
+       transform="translate(0.08198887,0.07700189)"
+       x="0"
+       y="0"
+       width="744.09448"
+       height="1052.3622" />
+  </g>
+</svg>
