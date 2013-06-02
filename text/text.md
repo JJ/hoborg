@@ -247,7 +247,7 @@ true, Duke?
 So that's how and why I entered the circus. Until my cover was blown
 or I was off with my prize, whatever happened first. 
 
-Circus hand. And feet.
+Circus hand. And foot
 ----------------------------
 
 Do you think it would be easy to steal an elephant from a circus? They
@@ -265,7 +265,10 @@ weeks.
 
 "Gaucho" was one the words I learned early and heard often during
 those days, sometimes from closed lips, sometimes accompanied by a
-sidewise spit. 
+sideways spit. That's how they call the people that is not born into
+the circus, people sent from the circus commission specially, which
+they call *red* gauchos. That's why I did not have other way out that
+stick with them when sticking needed to be done. 
 
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
