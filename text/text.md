@@ -174,7 +174,7 @@ Fulgencio Ribera, 24, to the Number One Glorious People's Circus, Menagerie, and
 Moral Exhibition Featuring Karl the Elephant and the Mysterious
 Mechanical Man. Took less for him to take the bribe than to write the
 name of the place where I wanted to be transferred. A second bribe
-would be needed for the archivist, but that was all. Yes, capitalita
+would be needed for the archivist, but that was all. Yes, capitalista
 ways in the people's republic and all that. I didn't like it, but I
 like even less the umpirialist ways of the United-not-for-long
 States. Did I say umpirialist? I meant umpirialistic. Imperialist? You
@@ -188,7 +188,7 @@ looking at me with that look of "You don't belong here" which I tried
 hard not to return. And this was starting to look like a situation in
 which I would have to fight my way out.
 
-So to avoid their gaze I started to look around. In the walls of the office hanged posters of annnoucements and
+So to avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
 features. "The Mighty Mechanical Man" featured what looked like a guy
 sheathed in gold foil lifting an elephant. "The Human Radio Receiver"
 was on another poster, dressed like a sailor for no reason and with a
@@ -200,6 +200,11 @@ mechanical reason.
 
 And then Boris came back from his office at the end of the
 carriage. And he did not seem happy. 
+
+You don't look like a circus person
+---------------------------------------------
+
+"Sorry, boy. This does not check out."
 
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
