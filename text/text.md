@@ -238,11 +238,31 @@ in a few days to see what happens. Does that sound fair to you?"
 I just smiled and revisited my non-conformant thoughts on the paleface
 clerk. This republic is the republic of all races and peoples of
 America and the whole wide world, and palefaces, sorry, white people
-have also been oppresed. All of you have, even the Duke. Isn't that
+have also been oppressed. All of you have, even the Duke. Isn't that
 true, Duke? 
 
 So that's how and why I entered the circus. Until my cover was blown
 or I was off with my prize, whatever happened first. 
+
+Circus hand. And feet.
+----------------------------
+
+Do you think it would be easy to steal an elephant from a circus? They
+are big, they are heavy, they can trample you or slug you a good one
+with the trunk. Plus you need to know how to ride them or it will end
+up somewhere else than the circus, but not where you want it. Well, a
+mechanical man is pretty much the same, less the trunk. And the
+shit. Man, do they shit... 
+
+This I know because that was how I started kicking sawdust. And
+laying. And wiping. And producing. And fucking breathing and shitting
+sawdust all the fucking day. That was all for the greater good, which
+I could barely see, not to mention touch, during those first two
+weeks. 
+
+"Gaucho" was one the words I learned early and heard often during
+those days, sometimes from closed lips, sometimes accompanied by a
+sidewise spit. 
 
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
