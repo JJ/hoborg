@@ -167,14 +167,22 @@ woman were idling at their desks, rustling papers and listening to the
 wireless, which was broadcasting a speech by one of the high-ups in
 our Republic. I tried to listen intently, but couldn't. He didn't seem
 angry, so he was probably cheering up the workers and farmers of our
-land. I probably had heard it anyways. 
+land. I probably had heard it anyways. I had made a beeline from the
+circus arch, which I didn't know yet was called an arch, to the
+office. The less people that could intercept you and ask questions
+about your business, the better. Circus people aren't known for
+cheerful treatments of strangers. 
 
-I knew it would check out. The official at the People's Party in
+I saw Boris go to its office at one of the ends of the carriage. I
+knew it would check out. The official at the People's Party in 
 Pascagoula had been paid dearly to request an assignment of one
 Fulgencio Ribera, 24, to the Number One Glorious People's Circus, Menagerie, and
-Moral Exhibition Featuring Karl the Elephant and the Mysterious
+Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
 Mechanical Man. Took less for him to take the bribe than to write the
-name of the place where I wanted to be transferred. A second bribe
+name of the job where I wanted to be transferred. Took him a bit
+more to endow the paper with all kinds of stamps and copies and a huge
+paper trail all the way to Tampa. 
+A second bribe
 would be needed for the archivist, but that was all. Yes, capitalista
 ways in the people's republic and all that. I didn't like it, but I
 like even less the umpirialist ways of the United-not-for-long
@@ -184,12 +192,12 @@ gives?
 
 What's bad about crooked officials is that they can bend two or three
 different ways. And this Boris was taking too long to wire a request
-to Tallahassee and get it back. The clerk and the secretary kept
+to Tampa and get it back. The clerk and the secretary kept
 looking at me with that look of "You don't belong here" which I tried
 hard not to return. And this was starting to look like a situation in
 which I would have to fight my way out.
 
-So to avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
+Thus to avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
 features. "The Mighty Mechanical Man" featured what looked like a guy
 sheathed in gold foil lifting an elephant. "The Human Radio Receiver"
 was on another poster, dressed like a sailor for no reason and with a
@@ -205,7 +213,39 @@ carriage. And he did not seem happy.
 You don't look like a circus person
 ---------------------------------------------
 
-"Sorry, boy. This does not check out."
+"Sorry, boy. This does not check out." He said, handing the papers
+back to me. The clerks nodded and continued their rustling and radio
+listening. From another poster, Mento the Mystical Miner, eyes wide
+open, was looking at me trying to find out what I was thinking.
+
+Which was "What a fucking waste of money". I picked up the paper and
+started to rip them out, meanwhile thinking that the paleface clerk
+that had taken my money in Pascagoula was going to suffer three
+different kids of hell when I laid my hands on him. If hell actually
+existed, of course, which I really don't think it does, and you don't
+either, right? You have been there, Gummy? That might account for your
+lack of hair, for sure!
+
+"Hey, hey, hey. No need to make a racket out of this. " I stopped and
+started to fold them with exaggerated care while looking at them. I
+really didn't know what to do. I'd have to hire a band of rustlers to
+get the iron dummy out of here. Disappointment probably crept to my
+face, and Boris said
+
+"These things happens. Wires go down, Circus Commision clerks gets
+asleep, forgets to file the folder where he should. Tell you what: we
+need strong and young hands like you around here, the Party knows we
+do. So just stick around, I'll pay you by the day, and will check back
+in a few days to see what happens. Does that sound fair to you?"
+
+I just smiled and revisited my non-conformant thoughts on the paleface
+clerk. This republic is the republic of all races and peoples of
+America and the whole wide world, and palefaces, sorry, white people
+have also been oppresed. All of you have, even the Duke. Isn't that
+true, Duke? 
+
+So that's how and why I entered the circus. Until my cover was blown
+or I was off with my prize, whatever happened first. 
 
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
