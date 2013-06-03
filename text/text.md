@@ -270,6 +270,39 @@ the circus, people sent from the circus commission specially, which
 they call *red* gauchos. That's why I did not have other way out that
 stick with them when sticking needed to be done. 
 
+Clown act
+-------------
+
+I saw the clown car go past us, pursuing the attackers in their
+horses. Wigs and feet came out of its windows and they were honking
+and laughing and shooting all at the same time. It didn't take long
+for them to reach our attackers and in due time we could see light
+arising from a clearing in the path, in front of us. 
+
+I would have stopped right there but didn't afraid of being uncovered
+by the other circus hands. But I should have, because I didn't like
+what I saw down the road.
+
+The four klansmen, robes on fire, were lying down, trying to stand up,
+yelling, The clown posse was going around them, using their squirt
+guns to douse them with something that kindled the fire, while they
+were laughing. An they were doing the routine.
+
+"Oh my oh my oh my, my guests are on fire" said Clippo, the Auguste.
+
+"They are just keeping warm, my boy.", answered Guido, the
+Blackface. The other six were dancing around them, keeping a distance
+and amusing themselves. Another one had gone to fetch the klansmen's
+horses.
+
+"Oh my, they seem a tad too warm, ain't they." Said Clippo.
+
+"Here, help them with a blanket." Answered Guido, giving him a
+hankerchief. Clippo made all a show of throwing the handerchief on
+what seemed now just a pile of ashes of a man.
+
+
+
 The second greatest show on earth arrives in New Orleans
 ----------------------------------------------------------------------------
 
