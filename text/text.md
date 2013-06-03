@@ -283,7 +283,7 @@ I would have stopped right there but didn't afraid of being uncovered
 by the other circus hands. But I should have, because I didn't like
 what I saw down the road.
 
-The four klansmen, robes on fire, were lying down, trying to stand up,
+The four Klansmen, robes on fire, were lying down, trying to stand up,
 yelling, The clown posse was going around them, using their squirt
 guns to douse them with something that kindled the fire, while they
 were laughing. An they were doing the routine.
@@ -314,7 +314,7 @@ back into their car.
 Rebuilding
 -------------
 
-Fortunately, nobody was badly damaged by the fire at the circus.
+Fortunately, nobody was badly damaged by the fire at the circus. And you have to fight fire with fire, so no big deal here. 
 
 
 The second greatest show on earth arrives in New Orleans
