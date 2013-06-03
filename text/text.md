@@ -289,7 +289,7 @@ were laughing. An they were doing the routine.
 
 "They are just keeping warm, my boy.", answered Guido, the
 Blackface. The other six were dancing around them, keeping a distance
-and amusing themselves. Another one had gone to fetch the klansmen's
+and amusing themselves. Another one had gone to fetch the Klansmen's
 horses.
 
 "Oh my, they seem a tad too warm, ain't they." Said Clippo.
@@ -308,7 +308,10 @@ back into their car.
 
 "Let's go. Let the Guard take care of this mess". 
 
+Rebuilding
+-------------
 
+Fortunately, nobody was badly damaged by the fire at the circus.
 
 
 The second greatest show on earth arrives in New Orleans
