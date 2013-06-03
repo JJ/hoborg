@@ -298,8 +298,19 @@ horses.
 "Oh my, they seem a tad too warm, ain't they." Said Clippo.
 
 "Here, help them with a blanket." Answered Guido, giving him a
-hankerchief. Clippo made all a show of throwing the handerchief on
+handkerchief. Clippo made all a show of throwing the handkerchief on
 what seemed now just a pile of ashes of a man.
+
+This went on for a while, and the rest of us that had arrived later on
+horseback couldn't do anything but look. Eventually Guido produced a
+gun with a barrel as long as his leg and shot one of them, who still
+was whimpering and moving, in the head.
+
+All was quiet after that, except for the laughs of the clowns getting
+back into their car.
+
+"Let's go. Let the Guard take care of this mess". 
+
 
 
 
