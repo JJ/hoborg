@@ -207,6 +207,16 @@ mechanical reason.
 And then Boris came back from his office at the end of the
 carriage. And he did not seem happy. 
 
+School years
+----------------
+
+No, that's Fulgencio Ribera, with a b. I don't know any Rivera from
+anywhere. I went to school in... What's with it? Why do you want to
+know? Did I ask you where you served, Captain? Does anybody know the
+whereabouts of Duke's castle?
+
+Just go to hell. I'm off to sleep. 
+
 You don't look like a circus person
 ---------------------------------------------
 
@@ -267,6 +277,21 @@ the circus, people sent from the circus commission specially, which
 they call *red* gauchos. That's why I did not have other way out that
 stick with them when sticking needed to be done. 
 
+That was usually at lunchtime or when any food was served. As was done
+in the army, we went to the mess tent, lined for food and went to a
+table to eat. What? No, I haven't been in the army, in no army,
+indeed. How do I know about that? People talk, you know. 
+
+As a matter of fact, somebody told me that in the table where we
+gauchos sat. There was Jay, who had actually fought in the patriotic
+war and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
+that helped with anything that was needed, and Gina, who rode horses. 
+
+And sometimes, Rufus the mechanical man man, the one that took care of
+the mech, Rufus three-M himself, joined us. He couldn't have been born
+into the circus, no mechanical men in the previous generation, no
+way. 
+
 Clown act
 -------------
 
@@ -274,11 +299,14 @@ I saw the clown car go past us, pursuing the attackers in their
 horses. Wigs and feet came out of its windows and they were honking
 and laughing and shooting all at the same time. It didn't take long
 for them to reach our attackers and in due time we could see light
-arising from a clearing in the path, in front of us. 
+arising from a clearing in the path, a few hunder yards ahead of us. 
 
-I would have stopped right there but didn't afraid of being uncovered
+I would have stopped right there but didn't, afraid of being uncovered
 by the other circus hands. But I should have, because I didn't like
-what I saw down the road.
+what I saw down the road. It was not nice, you know. Not that they
+didn't deserve it, but one thing is thinking that somebody deserves
+what comes his way and another wanting him to be done in front of
+you. 
 
 The four Klansmen, robes on fire, were lying down, trying to stand up,
 yelling, The clown posse was going around them, using their squirt
