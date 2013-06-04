@@ -16,7 +16,7 @@ paleface newcomers arrived. Because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
 a Mexican father. That was twenty and three years ago. 
 
-Now I'm here, at the Circus of the People, amusing myself while I bid
+Now I'm here, at the Circus f the People, amusing myself while I bid
 my time to get hold of the mechanical man, which is the main reason
 I am here. Here being Freedomville, formerly called Jacksonville, as
 in Andrew Jackson, a paleface and slaver long dead and now definitely
@@ -25,7 +25,7 @@ buried.
 And now being the tenth year after the revolution that produced the
 All Races People's Republic of Florida. 
 
-But a free man has to earn a living, too. That is why I am after José,
+But a free man has to earn a living, too. That is why I am after Manuel,
 the mechanical man. A real marvel of the people's republic
 ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
@@ -176,7 +176,7 @@ cheerful treatments of strangers.
 I saw Boris go to its office at one of the ends of the carriage. I
 knew it would check out. The official at the People's Party in 
 Pascagoula had been paid dearly to request an assignment of one
-Fulgencio Ribera, 24, to the Number One Glorious People's Circus, Menagerie, and
+Fulgencio Ribera, 23, to the Number One Glorious People's Circus, Menagerie, and
 Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
 Mechanical Man. Took less for him to take the bribe than to write the
 name of the job where I wanted to be transferred. Took him a bit
@@ -198,7 +198,7 @@ hard not to return. And this was starting to look like a situation in
 which I would have to fight my way out.
 
 Thus to avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
-features. "The Mighty Mechanical Man" featured what looked like a guy
+features. "Manuel The Mighty Mechanical Man" featured what looked like a guy
 sheathed in gold foil lifting an elephant. "The Human Radio Receiver"
 was on another poster, dressed like a sailor for no reason and with a
 hat from which several wires sprouted, from the wires, wavy lines came
@@ -293,7 +293,17 @@ that helped with anything that was needed, and Gina, who rode horses.
 And sometimes, Rufus the mechanical man man, the one that took care of
 the mech, Rufus three-M himself, joined us. He couldn't have been born
 into the circus, no mechanical men in the previous generation, no
-way. 
+way. So, despite have been for years in circus life he was still
+considered a gaucho. He didn't do it himself, so he joined us
+reluctanctly and when there was pussy to be smelled. 
+
+That didn't allow him to focus too much on the information I wanted
+from him. Which was all for the better, People would have suspected if
+I did. So I threw questions at him to see if they stuck, and they did
+from time to time.
+
+Did he score? Why are you interested? Hey, stop touching yourself, you
+old blue man! I'm out of here!
 
 Clown act
 -------------
