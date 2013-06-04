@@ -302,7 +302,7 @@ I saw the clown car go past us, pursuing the attackers in their
 horses. Wigs and feet came out of its windows and they were honking
 and laughing and shooting all at the same time. It didn't take long
 for them to reach our attackers and in due time we could see light
-arising from a clearing in the path, a few hunder yards ahead of us. 
+arising from somewhere in the path, a few hundred yards ahead of us. 
 
 I would have stopped right there but didn't, afraid of being uncovered
 by the other circus hands. But I should have, because I didn't like
@@ -310,6 +310,11 @@ what I saw down the road. It was not nice, you know. Not that they
 didn't deserve it, but one thing is thinking that somebody deserves
 what comes his way and another wanting him to be done in front of
 you. 
+
+It didn't take long for us to arrive there, but the whole time we
+listened to laughs and explosions and shoots. And yells, some happy yells, some
+not. The yellow light coming out of it and above it danced, as if
+something was burning. And the smell. 
 
 The four Klansmen, robes on fire, were lying down, trying to stand up,
 yelling, The clown posse was going around them, using their squirt
