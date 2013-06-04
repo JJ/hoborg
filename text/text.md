@@ -328,10 +328,10 @@ listened to laughs and explosions and shoots. And yells, some happy yells, some
 not. The yellow light coming out of it and above it danced, as if
 something was burning. And the smell. 
 
-One of the horses the klansmen were using came in our direction and it
+One of the horses the Klansmen were using came in our direction and it
 very nearly made us fall from the horses; that along with the smoke
 and smell frightened our horses and we could not start them back
-again. So we tied them to a bush and took from there by feet, half
+again. So we tied them to some bush stalks and took from there by feet, half
 running. 
 
 Not that we could do much when we arrived at a small clearing at the
@@ -351,7 +351,7 @@ horses.
 
 "Oh my, they seem a tad too warm, ain't they." Said Clippo.
 
-"Here, help them with a blanket." Answered Guido, giving him a
+"Here, help them with a blanket." Answered Guido, giving him a 
 handkerchief. Clippo made all a show of throwing the handkerchief on
 what seemed now just a pile of ashes of a man.
 
@@ -363,7 +363,7 @@ was whimpering and moving, in the head.
 All was quiet after that, except for the laughs of the clowns getting
 back into their car.
 
-"Let's go. Let the Guard take care of this mess". 
+"Let's go. Let the Guard take care of this mess".  We walked back to our horses, not speaking at all. We arrived all tired and sooty back at the circus and we went straight to our carriage; we could hear laughs coming from the clown carriages for a while still. 
 
 Rebuilding
 -------------
