@@ -300,9 +300,12 @@ I did. So I threw questions at him to see if they stuck, and they did
 from time to time.
 
 Did he score? Why are you interested? Hey, stop touching yourself, you
-old blue man! I'm out of here!
+old pervert! I'm out of here!
 
+There's a lot of vice in Miami
+--------------------------------------
 
+"We usually play to a full house here", Vincent told me while we were on the road to post papers to announce the circus around town. Elegant people came after us to check them out "Look, we are scoring good hits." There was a method to posting paper, I was discovering. You couldn't just paste them anywhere; barns, fences some buildings, corners, always at eye's height, those were the places to do it. As a matter of fact, sometimes they were occupied by other posters announcing past or present shows. They were promptly ditched. 
 
 Clown act
 -------------
@@ -365,7 +368,7 @@ back into their car.
 Rebuilding
 -------------
 
-Fortunately, nobody was badly damaged by the fire at the circus. And you have to fight fire with fire, so no big deal here. 
+Fortunately, nobody was badly damaged by the fire at the circus. And you have to fight fire with fire, so no big deal here. But didn't mean I had to breath the same air as the clowns, and I tried to keep as far away from them as possible. 
 
 
 The second greatest show on earth arrives in New Orleans
