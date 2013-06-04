@@ -292,7 +292,7 @@ the mech, Rufus three-M himself, joined us. He couldn't have been born
 into the circus, no mechanical men in the previous generation, no
 way. So, despite have been for years in circus life he was still
 considered a gaucho. He didn't do it himself, so he joined us
-reluctanctly and when there was pussy to be smelled. 
+reluctantly and when there was pussy to be smelled. 
 
 That didn't allow him to focus too much on the information I wanted
 from him. Which was all for the better, People would have suspected if
@@ -301,6 +301,8 @@ from time to time.
 
 Did he score? Why are you interested? Hey, stop touching yourself, you
 old blue man! I'm out of here!
+
+
 
 Clown act
 -------------
@@ -323,10 +325,19 @@ listened to laughs and explosions and shoots. And yells, some happy yells, some
 not. The yellow light coming out of it and above it danced, as if
 something was burning. And the smell. 
 
-The four Klansmen, robes on fire, were lying down, trying to stand up,
+One of the horses the klansmen were using came in our direction and it
+very nearly made us fall from the horses; that along with the smoke
+and smell frightened our horses and we could not start them back
+again. So we tied them to a bush and took from there by feet, half
+running. 
+
+Not that we could do much when we arrived at a small clearing at the
+highway, from where the laughs and smells and smoke seemed to be
+coming from. The four Klansmen, robes on fire, were lying down, one of
+them still trying to stand up,
 yelling, The clown posse was going around them, using their squirt
 guns to douse them with something that kindled the fire, while they
-were laughing. An they were doing the routine.
+were laughing. And  doing the routine.
 
 "Oh my oh my oh my, my guests are on fire" said Clippo, the Auguste.
 

@@ -63,7 +63,7 @@ to follow you in Twitter.
 Start reading and participating
 ---------------------------------------
 
-Just go to [the novel](text/text.md).
+Just go to [the novel](text/text.md). You can also [read about the characters](text/characters.md), although doing so might result in spoilerage. 
 
 How this can help
 -----------------------
