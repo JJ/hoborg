@@ -305,7 +305,14 @@ old pervert! I'm out of here!
 There's a lot of vice in Miami
 --------------------------------------
 
-"We usually play to a full house here", Vincent told me while we were on the road to post papers to announce the circus around town. Elegant people came after us to check them out "Look, we are scoring good hits." There was a method to posting paper, I was discovering. You couldn't just paste them anywhere; barns, fences some buildings, corners, always at eye's height, those were the places to do it. As a matter of fact, sometimes they were occupied by other posters announcing past or present shows. They were promptly ditched. 
+"We usually play to a full house here", Vincent told me while we were
+on the road to post papers to announce the circus around town. Elegant
+people came after us to check them out "Look, we are scoring good
+hits." There was a method to posting paper, I was discovering. You
+couldn't just paste them anywhere; barns, fences some buildings,
+corners, always at eye's height, those were the places to do it. As a
+matter of fact, sometimes they were occupied by other posters
+announcing past or present shows. They were promptly ditched.  
 
 Clown act
 -------------
@@ -375,9 +382,12 @@ away from them as possible.
 
 As did, apparently, Rufus. Back then I did not know why, but he became
 a bit twitchy every time a clown was getting close to us. That made
-him almost a permanent fixture in the gaucho crew, even if there was
-no hoochie-koochie. 
+him almost a permanent fixture in the gaucho crew, even if there were
+no revue girls around. 
 
+He even sometimes paid attention when I talked to him, but he seemed
+to have some difficulty staying focused, trying always to steal the
+focus of the conversation to talk about other stuff.
 
 The second greatest show on earth goes to New Orleans
 ----------------------------------------------------------------------------
