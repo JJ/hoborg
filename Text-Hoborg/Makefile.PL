@@ -12,7 +12,8 @@ WriteMakefile(
         'Test::More' => 0,
         'version'    => 0,
 		  'File::Slurp' => 0,
-		  'Text::Hunspell' => 2.08
+		  'Text::Hunspell' => 2.08,
+		  'Lingua::EN::Fathom' => 0.250
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Text-Hoborg-*' },
