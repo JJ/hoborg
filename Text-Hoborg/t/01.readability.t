@@ -1,5 +1,8 @@
 use lib qw( ../lib );
 
+use strict;
+use warnings; 
+
 use Test::More;
 use Lingua::EN::Fathom;
 use Text::Hoborg;
@@ -12,12 +15,12 @@ my $text = new Lingua::EN::Fathom;
 my $dir = -d "../text" ? "../text": "../../text";
 
 my $text_file = "$dir/text.md";
-my $text = $text->analyse_file($text_file);
+$text->analyse_file($text_file);
 my $fog = $text->fog;
 my $kincaid = $text->kincaid;
 my $flesch = $text->flesch;
 
-
+diag( "Fog = $fog\nKincaid = $kincaid\nFlesch = $flesch\n");
 cmp_ok( $fog, ">", 6, "Fog value $fog better than 6" );
 cmp_ok( $fog, "<", 14, "Fog value $fog lower than 14" );
 cmp_ok( $kincaid, ">", 6, "Kincaid value $kincaid better than 6" );
