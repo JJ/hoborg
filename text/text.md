@@ -368,10 +368,18 @@ back into their car.
 Rebuilding
 -------------
 
-Fortunately, nobody was badly damaged by the fire at the circus. And you have to fight fire with fire, so no big deal here. But didn't mean I had to breath the same air as the clowns, and I tried to keep as far away from them as possible. 
+Fortunately, nobody was badly damaged by the fire at the circus. And
+you have to fight fire with fire, so no big deal here. But didn't mean
+I had to breath the same air as the clowns, and I tried to keep as far
+away from them as possible. 
+
+As did, apparently, Rufus. Back then I did not know why, but he became
+a bit twitchy every time a clown was getting close to us. That made
+him almost a permanent fixture in the gaucho crew, even if there was
+no hoochie-koochie. 
 
 
-The second greatest show on earth arrives in New Orleans
+The second greatest show on earth goes to New Orleans
 ----------------------------------------------------------------------------
 
 So we were going back to the United States of America. What was left
@@ -499,6 +507,44 @@ driving box and started to move it.
 It was stupid, of course. But nobody was there to tell me that at that
 moment. No, it didn't sink, Gummy, you moron. Can't you see it is
 right there. And please stop crying!
+
+Rocking Manuel
+---------------------
+
+Give me a mud puddle and I can tell you how to pull a wagon out of
+it. Give me a mare and I can get a foal out of his pussy. Give me
+fourscore of bulls, and I'll tell you how to iron them in no time
+flat.
+
+But don't you give me anything over the water. Because it fucking
+rocks and moves and can fucking sink to the bottom. So, get my advice:
+grab anything that floats and don't move away from it. That's exactly
+the opposite of what I did. I went for the most sinkable thing there
+were, and I unfastened it and started to move it using the box. 
+
+The damn guy wanted no part of it. I pushed the forward lever several
+times, and it kind if shivered, but stayed theres. I heard the faint
+sound of voices and the fizzling sound of something being dropped into
+the see; sometimes a zing here and there, but nothing to worry
+about. So when Three-M eventually moved I just had to worry about
+keeping my two feet and its four wheels on deck, which was not the
+easiest thing on earth. 
+
+I moved to the left, which was starboard I think trying to keep the
+bulk of the deck cabins between us and the airship, but we were moving
+in fits and starts and I started to hear something clanking not so far
+away from me, like metal drums. And I started to get worried, but not
+enough to avoid the seasickness that was growing from my belly and
+swelling up little by little.
+
+It was not helping that I was walking backwards, keeping Three-M in
+front of me and moving towards me. It didn't help that Three M was not
+helping. It moved sideways, away from the see, and kept bumping with
+things. I kept turning its head to look at the airship. And, I swear,
+I didn't touch that knob, I didn't even know which one was the one for
+turning the head. 
+
+And he eventually saved my life. 
 
 
 Wit the hobos around the fire
