@@ -13,7 +13,7 @@ paleface newcomers arrived. Because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
 a Mexican father. That was twenty and three years ago. 
 
-Now I'm here, at the Circus f the People, amusing myself while I bid
+Now I'm here, at the Circus for the People, amusing myself while I bid
 my time to get hold of the mechanical man, which is the main reason
 I am here. Here being Freedomville, formerly called Jacksonville, as
 in Andrew Jackson, a paleface and slaver long dead and now definitely
@@ -68,6 +68,14 @@ Was not afraid, though, although they also seemed to avoid the sun and
 their caps were set just so you could not really see their face. So
 that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
+
+The non-strong non-descript guy seemed to be the one that was going to
+do the talking. After exchanging pleasantries, which is the right
+thing to do for well-educated gentlemen that we all were, they offered
+me a cigar which I rejected because I don't smoke, as you might have
+already noticed, and went down to business, not-strong in front of me
+and fists-mean-business by my side and slightly behind me. He really
+meant business that way too.
 
 A rolling teakettle with ears
 ---------------------------
