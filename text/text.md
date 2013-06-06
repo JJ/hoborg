@@ -317,6 +317,55 @@ corners, always at eye's height, those were the places to do it. As a
 matter of fact, sometimes they were occupied by other posters
 announcing past or present shows. They were promptly ditched.  
 
+We had a fair amount of ducat to invite beautiful girls to come to the
+attractions and bring the local marks in tow. And man, they were
+beautiful. So much cream colored flesh, and so much of them in plain
+sight. We run out of ducat much before we run out of money and we
+extracted so many promises... 
+
+We had had to turn down a few, specially gringas. We didn't want them
+there, but if they did show up, their pesos would be as good as the
+next one, so we weren't gonna stop selling them tickets. Besides, they
+had their special seats just for them, they had to be filled, right?
+
+So, by the time Tracy came up to us, we weren't either ready for
+conversation or in the mood for gifts. So much paper to post, besides,
+we had considered a couple of times to charley it.  
+
+Not that she was not beautiful; she was nice, in that transparent way
+the gringas had; her hair was flat and hay colored, and her hips and
+boobs were way too small, although not disagreeably shaped. She didn't
+smell good, a bit musty. Vince and me sent her on her way, but she
+stuck to us.
+
+"How long are you staying?" she was asking.
+
+"It's right there on the paper, gringa. Can't you read?" She probably
+couldn't. These palefaces were too rebellious for their own good, they
+just liked to spend their days shooting squirrels and drinking. And
+fucking their sisters, I tell you. Many of them couldn't read just
+because they couldn't. 
+
+Yes, I know, Duke, it's an all-races republic. But including them does
+not mean I have to *like* them, right? I could have liked this one,
+though, if only she'd had a nicer and bigger chest. 
+
+"You want to earn a few pesos, girlie?" I asked her. If she showed
+around maybe we could check her for the revue. After seen her naked,
+we could either do her or hire her. Not that I would have the chance
+of either, but I could at least check her out thoroughly. And besides,
+she didn't know squat, so I could play the part. If was not as if
+Vince was going to tell her. Besides, she had opened her eyes and was
+smiling broadly; we had her on the hook.
+
+Gringo up, gringo down
+------------------------------
+
+The carnival was going full throttle, but I still could spot Tracy,
+these gringas really don't know how to mix with the crowd. She was so
+white and blond and she put a white dress on top of that just so that
+she could be made out even by night and with closed eyes. 
+
 Clown act
 -------------
 
