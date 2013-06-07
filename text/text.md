@@ -169,9 +169,15 @@ And a printout of where this marvel could be found, since, to top all that, he d
 
 "A circus?" I asked. "What does it do? Bite chicken heads off?"
 
-"As far as we know, it could bite the head of something considerably bigger than a ckicken." He said, while Fist-means-business smiled in a nondescript way. "But yes, we can say it does that too". 
+"As far as we know, it could bite the head of something considerably bigger than a chicken." He said, while Fist-means-business smiled in a nondescript way. "But yes, we can say it does that too". 
 
 I got the money, I told them I took it from there, and they left and I never ever saw them again. Now that I've got what they want I'll have to look for them when I arrive at my destination. But that's not going to be today. No, today you're not gonna know about my joining the circus either. 
+
+Down and out and with ten thousand pesos in Mobile
+---------------------------------------------------------------------
+
+The circus seemed to be not too far, somewhere in West Florida. There I went. This was going to be easy as peaches. Go there, get in, grab it, get out. Except it was not. 
+
 
 I married a bearded woman
 ------------------------------------
