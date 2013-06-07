@@ -80,6 +80,14 @@ already noticed, and went down to business, not-strong in front of me
 and fists-mean-business by my side and slightly behind me. He really
 meant business that way too.
 
+No, Gummy, I didn't hit them. Why should I? I was down on my luck, and one's got to earn a living. 
+
+And a good living it might be, too. Ten thousand pesos on the spot, ten thousand more when I got them something, which they really, really wanted for no particular reason. They collected. They had a hardware store. They liked shiny, rolling things. They wanted the Man, they wanted Manuel the Mechanical Man. Which was, metaphorically speaking, I know, Duke, you like when I speak metaphorically, kicking dust in a circus. 
+
+The speaking non-descript man described the thing for me, just in case I got it wrong and got them a kicking watering can or a singing flower pot. 
+
+"You've got to got us a rolling teakettle with ears people call Manuel", he told me. 
+
 A rolling teakettle with ears
 ---------------------------
 
@@ -154,8 +162,19 @@ considered,  it sounded like a car coming at you if you didn't see it
 coming. A honking, screeching, clanking little car.
 
 And now, for all of you, a honking, screeching, clanking dancing
-mech. Tomorrow, or the day after that, I'll tell you how I became a
+mech, that's what they told me. Well, not all of that, I added a little bit on my own. Tomorrow, or the day after that, I'll tell you how I became a 
 circus roustabout.
+
+Here's a bit of money to get you started
+----------------------------------------------------
+
+And a printout of where this marvel could be found, since, to top all that, he didn't stay in a single place, but was moving all over the place with a circus. 
+
+"A circus?" I asked. "What does it do? Bite chicken heads off?"
+
+"As far as we know, it could bite the head of something considerably bigger than a ckicken." He said, while Fist-means-business smiled in a nondescript way. "But yes, we can say it does that too". 
+
+I got the money, I told them I took it from there, and they left and I never ever saw them again. Now that I've got what they want I'll have to look for them when I arrive at my destination. But that's not going to be today. No, today you're not gonna know about my joining the circus either. 
 
 I married a bearded woman
 ------------------------------------
