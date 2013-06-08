@@ -4,19 +4,19 @@ body {
 
 h1 { 
      font-size: 10em;
-     font-face: "Alef";
+     font-family: "Alef", sans-serif;
      color: black;
 }
 
 h2 { 
      font-size: 3em;
-     font-face: "Alef";
+     font-family: "Alef", sans-serif;
      color: DarkGray;
 }
 
 p {
     font-size: 2em;
-    font-face: "Telex";
+    font-family: "Telex", sans-serif;
     color: #2f4f4f ;
  }
 
