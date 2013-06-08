@@ -11,5 +11,5 @@ Manuel the Mechanical Man | 1908 | Mech | Pensacola Naval Yards | A roving robot
 Rufus the mechanical man man | 1883 | Black | Pensacola | Blacksmith and then mechanic
 Boris | | | Black | Circus manager
 Duke | | | Caucasian | Bum
-
+Raúl  | | | Hispanic | Cynical ringmaster ot the circus, he's been through all. Smokes a pipe. 
 
