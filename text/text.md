@@ -82,7 +82,13 @@ meant business that way too.
 
 No, Gummy, I didn't hit them. Why should I? I was down on my luck, and one's got to earn a living. 
 
-And a good living it might be, too. Ten thousand pesos on the spot, ten thousand more when I got them something, which they really, really wanted for no particular reason. They collected. They had a hardware store. They liked shiny, rolling things. They wanted the Man, they wanted Manuel the Mechanical Man. Which was, metaphorically speaking, I know, Duke, you like when I speak metaphorically, kicking dust in a circus. 
+And a good living it might be, too. Ten thousand pesos on the spot,
+ten thousand more when I got them something, which they really, really
+wanted for no particular reason. They collected. They had a hardware
+store. They liked shiny, rolling things. They wanted the Man, they
+wanted Manuel the Mechanical Man. Which was, metaphorically speaking,
+I know, Duke, you like when I speak metaphorically, kicking dust in a
+circus.  
 
 The speaking non-descript man described the thing for me, just in case I got it wrong and got them a kicking watering can or a singing flower pot. 
 
@@ -168,19 +174,68 @@ circus roustabout.
 Here's a bit of money to get you started
 ----------------------------------------------------
 
-And a printout of where this marvel could be found, since, to top all that, he didn't stay in a single place, but was moving all over the place with a circus. 
+And a printout of where this marvel could be found, since, to top all
+that, he didn't stay in a single place, but was moving all over the
+place with a circus.  
 
 "A circus?" I asked. "What does it do? Bite chicken heads off?"
 
-"As far as we know, it could bite the head of something considerably bigger than a chicken." He said, while Fist-means-business smiled in a nondescript way. "But yes, we can say it does that too". 
+"As far as we know, it could bite the head of something considerably
+bigger than a chicken." He said, while Fist-means-business smiled in a
+nondescript way. "But yes, we can say it does that too".  
 
-I got the money, I told them I took it from there, and they left and I never ever saw them again. Now that I've got what they want I'll have to look for them when I arrive at my destination. But that's not going to be today. No, today you're not gonna know about my joining the circus either. 
+I got the money, I told them I took it from there, and they left and I
+never ever saw them again. Now that I've got what they want I'll have
+to look for them when I arrive at my destination. But that's not going
+to be today. No, today you're not gonna know about my joining the
+circus either.  Something I didn't really thought was going to be
+necessary. 
 
-Down and out and with ten thousand pesos in Mobile
+Down and out and with ten thousand pesos in Mobile and Pascagoula.
 ---------------------------------------------------------------------
 
-The circus seemed to be not too far, somewhere in West Florida. There I went. This was going to be easy as peaches. Go there, get in, grab it, get out. Except it was not. 
+The circus seemed to be not too far, somewhere in West Florida. There
+I went. This was going to be easy as peaches. Go there, get in, grab
+it, get out. Except it was not.  
 
+With the ten thou I had when I arrived at Pascagoula, where the circus
+happened to be a few days later, I couldn't even have bought a ride
+with the circus. Which, come to think of it, whas what the two guys
+would have done to start with if it had been even possible. 
+
+Not that it was. Not that I had the ten thousand any more, a man has
+got expenses and love is not always free, as you may know. Yes, young
+men like me don't have it that difficult but I was in a hurry and that
+hoochie koochie girl looked like she could give me information, and
+boy, did she give me all she could... and I gave her a few pesos. A
+few dozens. 
+
+But I had good information. It was late winter in Pascagoula, and it
+was one of the first cities in their 1915 tour. All tents were shiny,
+all guys seemed jolly and all girls beautiful and caring. I came in
+through the gate, yes, the arch, but I didn't know that back then, and
+there was the carnival in full swing, tents forming an U with the
+circus, menagerie at the very end. It was a bit windy and kind of
+chilly, so people didn't loiter among the tents, speeding from one to
+the next to end at the skin show or one of the gambling tents if it was a
+man or a couple of friends or at the circus if it was a whole family. 
+
+I would have done the man route, but I needed to get acquainted with
+the layout and the possibilities. Stealing something is not too
+difficult, but the problem is that always you have to invest. That's
+quite american, I know, and I'm a well-behaved Floridian citizen, but
+I tell you that happens here and there and everywhere.
+
+The problem is to know how much to invest and where to do
+it. Sometimes it's just a ladder. Others you might need to get strong
+and arm yourself. At best, you might need a smile and a certain among
+of time with a good-smelling but bad-looking girl, or maybe the other
+way round. And sometimes you just need to pay the right man. 
+
+But where was the right man? Who was the mechanical man tamer or
+whatever you called him?
+
+*write*
 
 I married a bearded woman
 ------------------------------------
@@ -337,6 +392,8 @@ from time to time.
 
 Did he score? Why are you interested? Hey, stop touching yourself, you
 old pervert! I'm out of here!
+
+*write* 
 
 There's a lot of vice in Miami
 --------------------------------------
