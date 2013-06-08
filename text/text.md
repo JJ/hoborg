@@ -1,6 +1,12 @@
 ---
 layout: index
 ---
+Prologue
+-----------
+
+This novel is released under a free license. Please check [its web for
+details](http://github.com/JJ/hoborg).
+
 Meet the mechanical man
 ----------------------------------
 
@@ -233,7 +239,10 @@ of time with a good-smelling but bad-looking girl, or maybe the other
 way round. And sometimes you just need to pay the right man. 
 
 But where was the right man? Who was the mechanical man tamer or
-whatever you called him?
+whatever you called him? And how much was it worth?
+
+Because it seemed quite obvious that ladder or arm were going to take
+me nowhere. 
 
 *write*
 
@@ -353,9 +362,10 @@ are big, they are heavy, they can trample you or slug you a good one
 with the trunk. Plus you need to know how to ride them or it will end
 up somewhere else than the circus, but not where you want it. Well, a
 mechanical man is pretty much the same, less the trunk. And the
-shit. Man, do they shit... 
+shit. Man, do they shit...  The elephant bulls, Gummy, how could a
+mechanical man shit? Bolts, you say? Ha, that's rich. 
 
-This I know because that was how I started kicking sawdust. And
+Elephants shit their fucking weight plus a bonus every fucking day. This I know because that was how I started kicking sawdust. And
 laying. And wiping. And producing. And fucking breathing and shitting
 sawdust all the fucking day. That was all for the greater good, which
 I could barely see, not to mention touch, during those first two
