@@ -661,7 +661,8 @@ was weird to see some strange shapes in front of me, towards the poop
 of the boat and right between the ramp that was my destination and me.
 
 Those shapes developed into three guys, dressed in tights; one of
-them run to the poop, gun in hand, and the other two just started to
+them run to stern (abaft, I should say if I knew the first word about
+nautical terms, which I don't), gun in hand, and the other two just started to
 shoot. 
 
 No, Captain, they hadn't descended from the airship, that was well and
