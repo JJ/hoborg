@@ -209,7 +209,7 @@ cheerful treatments of strangers.
 I saw Boris go to its office at one of the ends of the carriage. I
 knew it would check out. The official at the People's Party in 
 Pascagoula had been paid dearly to request an assignment of one
-Fulgencio Ribera, 23, to the Number One Glorious People's Circus, Menagerie, and
+Fulgencio Ribera, 23, to the Number One Glorious People's Flying Circus, Menagerie, and
 Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
 Mechanical Man. Took less for him to take the bribe than to write the
 name of the job where I wanted to be transferred. Took him a bit
@@ -409,7 +409,13 @@ for them to reach our attackers and in due time we could see light
 arising from somewhere in the path, a few hundred yards ahead of us. 
 
 I would have stopped right there but didn't, afraid of being uncovered
-by the other circus hands. But I should have, because I didn't like
+by the other circus hands. 
+
+Not that I was under a cover, mind you. I just didn't want them to
+know that my purpose in life was not to live in and by the circus,
+just to get something out of it.
+
+But I should have left everything right there and then, because I didn't like
 what I saw down the road. It was not nice, you know. Not that they
 didn't deserve it, but one thing is thinking that somebody deserves
 what comes his way and another wanting him to be done in front of
@@ -660,8 +666,9 @@ where at least there would be a few inches of steel between us and the
 rest of the world. There was nobody else above board, since by now it
 was either the guys manning the gun who might be reloading now for all
 I knew or people who had no business being exposed to bullets, so It
-was weird to see some strange shapes in front of me, towards the poop
-of the boat and right between the ramp that was my destination and me.
+was weird to see some strange shapes in front of me, towards the back
+of the boat and right between the ramp that was my destination and
+myself. 
 
 Those shapes developed into three guys, dressed in tights; one of
 them run to stern (abaft, I should say if I knew the first word about
