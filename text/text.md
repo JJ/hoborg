@@ -283,11 +283,11 @@ Fulgencio Ribera, 23, to the Number One Glorious People's Flying Circus, Menager
 Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
 Mechanical Man. Took less for him to take the bribe than to write the
 name of the job where I wanted to be transferred. Took him a bit
-more to endow the paper with all kinds of stamps and copies and a huge
-paper trail all the way to Tampa. 
+more to endow the paper with all kinds of stamps and produce a good amount of copies and leave a huge
+paper trail all the way to Tampa.  
 A second bribe
 would be needed for the archivist, but that was all. Yes, capitalista
-ways in the people's republic and all that. I didn't like it, but I
+ways in the people's republic and all that. I didn't like it as a citizen, but I
 like even less the umpirialist ways of the United-not-for-long
 States. Did I say umpirialist? I meant umpirialistic. Imperialist? You
 made that word up, Duke, didn't you? OK, OK, OK, imperialist, so what
