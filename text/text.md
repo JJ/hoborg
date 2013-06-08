@@ -577,6 +577,16 @@ his pipe. I hadn't heard his coming, as I never did. This guy was the
 master of the ring and made himself heard and seen but his special
 skill was to make that happen only when and if he wanted. 
 
+"The airship was not on the table, then" I answered. "Or he would have
+lost it. " That made his smile extensible to almost three quarters of
+his mouth. And he snorted, too.
+
+"They are probably pirates from Texas. The airship model is not
+Spanish, They will fold as soon as they realize we can resist their
+attack" He said, while returning his face to the standard smirk, and
+he was on his way to the deck or wherever he was meant to be, leaving
+me alone. 
+
 The mystery of the tarp to the front of the ship was soon revealed
 along with the long tube that was below it. It was quite obviously a
 gun, and it didn't even need to be loaded; it had a big gunsight in
@@ -638,6 +648,50 @@ turning the head.
 
 And he eventually saved my life. 
 
+Biting the bait
+------------------
+
+I was dodging bullets or rather the sound of them and meanwhile
+trying to move Three-M to a ramp that lead to the belly of the ship,
+where at least there would be a few inches of steel between us and the
+rest of the world. There was nobody else abovedecks, since by now it
+was either the guys manning the gun who might be reloading now for all
+I knew or people who had no business being exposed to bullets, so It
+was weird to see some strange shapes in front of me, towards the poop
+of the boat and right between the ramp that was my destination and me.
+
+Thoseo shapes developed into three guys, dressed in tights; one of
+them run to the poop, gun in hand, and the other two just started to
+shoot. 
+
+No, Captain, they hadn't descended from the airship, that was well and
+away. We later found that they had used the airship as a bait so that
+everybody got undercover and didn't see them approaching and boarding
+the ship from a speed boat. They run and looked for valuables that
+could be easily loaded and were on their way. 
+
+Except that in this occasion  they had found me and Manuel. Either
+they considered Manuel a strangely shaped buoy or they chose not to do
+anything about him, but it was as if they just had seen me and started
+to shoot their guns against me. I couldn't do anything from the
+ground,  I didn't even dare to raise my head for fear it got a new
+hole that afforded me a change of position to the shop of horrors of
+the circus.
+
+But the whole thing didn't take long. I heard them cursing and yelling
+and the sound of falling to the water. I then raised my head and saw
+Manuel was going past where the guys had stood and was slowly rolling
+to a halt. 
+
+I really didn't find out what had happend, other that there were
+smears of blood in Manuel's claws. If he had just kept going, the two
+pirates could have dodged him or pushed back. He did something to
+throw them into the water, I just didn't know how or what. And he was
+not gonna tell.
+
+The third guy? He was given to the clown posse. I am not gonna talk
+about it.
+
 
 Wit the hobos around the fire
 --------------
@@ -650,9 +704,22 @@ just spat at the fire, raising a small flame that made José look alive
 for a brief moment. 
 
 Fulgencio had found this group in a rail yard in Tallahassee when
-descending from a train, trying to be unobtrusive. No way to do it when
-being trailed by a two hundred and fifty pound waking cash register,
+descending from a train, trying to be unobtrusive. But there was no
+way he could pull that out while 
+being trailed by a two hundred and fifty pound walking cash register,
 and he was immediately hailed by them and asked to join them by the
 fire. Liquor was passed, bread and cheese shared, and histories
 and local tips swapped. Then, more alcohol had flowed and everything
-became a bit blurry. 
+became a bit blurry as Fulgencio started to tell them his history, as
+hobos do when gathered around the fire. 
+
+Acknowledgemente
+--------------------------
+
+This book started one fine day of May, but would not have been
+possible without the help of many people around me, most of them
+unknown. So I would like to dedicate it to the people that [answered
+my question on symbols on the History
+StackExhange](http://history.stackexchange.com) and then [another
+question on circus layout](http://history.stackexchange.com). Marian,
+the librarian of the Clarke College was also incredibly helpful. 
