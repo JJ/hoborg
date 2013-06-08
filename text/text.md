@@ -657,13 +657,13 @@ Biting the bait
 I was dodging bullets or rather the sound of them and meanwhile
 trying to move Three-M to a ramp that lead to the belly of the ship,
 where at least there would be a few inches of steel between us and the
-rest of the world. There was nobody else abovedecks, since by now it
+rest of the world. There was nobody else above board, since by now it
 was either the guys manning the gun who might be reloading now for all
 I knew or people who had no business being exposed to bullets, so It
 was weird to see some strange shapes in front of me, towards the poop
 of the boat and right between the ramp that was my destination and me.
 
-Thoseo shapes developed into three guys, dressed in tights; one of
+Those shapes developed into three guys, dressed in tights; one of
 them run to the poop, gun in hand, and the other two just started to
 shoot. 
 
@@ -686,7 +686,7 @@ and the sound of falling to the water. I then raised my head and saw
 Manuel was going past where the guys had stood and was slowly rolling
 to a halt. 
 
-I really didn't find out what had happend, other that there were
+I really didn't find out what had happened, other that there were
 smears of blood in Manuel's claws. If he had just kept going, the two
 pirates could have dodged him or pushed back. He did something to
 throw them into the water, I just didn't know how or what. And he was
@@ -716,13 +716,13 @@ and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
 
-Acknowledgemente
+Acknowledgements
 --------------------------
 
 This book started one fine day of May, but would not have been
 possible without the help of many people around me, most of them
 unknown. So I would like to dedicate it to the people that [answered
 my question on symbols on the History
-StackExhange](http://history.stackexchange.com) and then [another
-question on circus layout](http://history.stackexchange.com). Marian,
+StackExchange](http://history.stackexchange.com/questions/8894/looking-for-a-symbol-for-southern-usa-communism) and then [another
+question on circus layout](http://history.stackexchange.com/questions/8942/where-can-i-find-american-circus-or-carnival-grounds-plans/8972?noredirect=1). Marian,
 the librarian of the Clarke College was also incredibly helpful. 
