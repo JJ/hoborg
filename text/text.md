@@ -203,8 +203,8 @@ it, get out. Except it was not.
 
 With the ten thou I had when I arrived at Pascagoula, where the circus
 happened to be a few days later, I couldn't even have bought a ride
-with the circus. Which, come to think of it, whas what the two guys
-would have done to start with if it had been even possible. 
+with the circus. Which, come to think of it, was what the two guys
+would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did. 
 
 Not that it was. Not that I had the ten thousand any more, a man has
 got expenses and love is not always free, as you may know. Yes, young
@@ -226,7 +226,7 @@ man or a couple of friends or at the circus if it was a whole family.
 I would have done the man route, but I needed to get acquainted with
 the layout and the possibilities. Stealing something is not too
 difficult, but the problem is that always you have to invest. That's
-quite american, I know, and I'm a well-behaved Floridian citizen, but
+quite American, I know, and I'm a well-behaved Floridian citizen, but
 I tell you that happens here and there and everywhere.
 
 The problem is to know how much to invest and where to do
@@ -242,6 +242,12 @@ Because it seemed quite obvious that ladder or arm were going to take
 me nowhere. 
 
 *write*
+
+Hey, are you interested in the mechanical man?
+--------------------------------------------------------------
+
+"I sure am" I answered the besuited man that was calling me from behind a tent corner. 
+*write* 
 
 I married a bearded woman
 ------------------------------------
