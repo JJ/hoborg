@@ -56,7 +56,7 @@ This story starts in Mobile, a rough and tumble border town of the
 United All Races People's Republic  of Florida. That's a pretty long
 name for a place that starts at Pascagoula and and goes no further
 than Brunswick, if only our people  have their way. Which they
-will, I have no doubt. Every dawning day brings new brothers to our
+will, I have no doubt as a loyal citizen of the Republic. Every dawning day brings new brothers to our
 new republic, brothers of all races, creeds and dispositions. 
 
 It was early winter and it was still sunny and mild; I was there, taking a walk in the docks, minding my own business,
@@ -154,7 +154,7 @@ hoborg and you've got it! Pass the bottle, man, don't hog it all for yourself!
 
 Arms? Gee, I forgot that. Of course it did have arms! Just two of
 them, yes. I always wondered why. Come to build a thing with arms, you
-could make it with three or four or what! But no, it had to be two and
+could make it with three or four or what have you. But no, it had to be two and
 they looked like those in mannequins, with a joint in the elbow and
 another at the shoulder and a grip at the end. No hands, just a
 grip. I didn't try to wrestle with him, no way. It was four hundred
@@ -208,7 +208,7 @@ nondescript way. "But yes, we can say it does that too".
 I got the money, I told them I took it from there, and they left and I
 never ever saw them again. Now that I've got what they want I'll have
 to look for them when I arrive at my destination. But that's not going
-to be today. No, today you're not gonna know about my joining the
+to be today. No, today I'm not gonna tell you about my joining the
 circus either.  Something I didn't really thought was going to be
 necessary. 
 
@@ -218,12 +218,14 @@ Duke of Poo tell his story
 Ladies and gentlemen, our dear Fulgencio seems to be a bit under the
 weather today or just plainly fed up with telling stories, so it's
 going to be my pleasure to delight you today with the story of my
-life before the Call. No, Gummy Eddy, you've never hear this before, I
+life before the Call. No, Gummy Eddy, you've never heard this before, I
 promise. It's all made up, I mean, this is the real deal. I haven't
 even started to drink today! Oh my, I haven't even started to drink
 today. Somebody buy me a drink, oh please. Captain Cabo? 
 
-That's better. So, the story. When I was a little boy... OK, OK, I
+That's better. So, it's my pleasure now to tell you the story. When I was a little boy... 
+
+OK, OK, please behave yourselves. I
 will cut it short. During the Civil War I was in the Glorious
 Confederate Army, so yes, what's with it? This was Florida, it was a
 confederate state, I was conscripted! I never had any slaves! I've
@@ -243,21 +245,21 @@ I was several times on the brink of being seized by the damn yankees,
 I mean the gringos, but the end of the war found me on a southbound
 train. Somehow, I made the new authorities believe it was mine and
 that I was a loyal yankee citizen. They even paid for repairs, once
-all was over.
+all was over. 
 
 That was my first train. I still have it, you can see on the lawn of
 the castle I own in the Big Rock Candy Mountain, near the Lemonade
 springs. But all that is lost to me. When Florida was no longer a
 state of the Union all was taken from me, all the train lines I had
 painstakingly gathered were, overnight, property of the people of
-Florida.  I lost fuck-all. 
+Florida.  I lost fuck-all.  It was stolen by these damn fanatics!
 
 Down and out and with ten thousand pesos in Mobile and Pascagoula.
 ---------------------------------------------------------------------
 
 In the name of the people, Duke, just stop crying like a
 sissy. Somebody buy him more drink or take him to sleep or
-both. Besides, you wanted to listen to my story, right? Here it
+both. Besides, you all wanted to listen to my story, right? Here it
 goes...
 
 The circus seemed to be not too far, somewhere in West Florida. There
@@ -267,7 +269,7 @@ it, get out. Except it was not.
 With the ten thou I had when I arrived at Pascagoula, where the circus
 happened to be a few days later, I couldn't even have bought a ride
 with the circus. Which, come to think of it, was what the two guys
-would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did. 
+would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways. 
 
 Not that it was. Not that I had the ten thousand any more, a man has
 got expenses and love is not always free, as you may know. Yes, young
@@ -301,7 +303,7 @@ way round. And sometimes you just need to pay the right man.
 But where was the right man? Who was the mechanical man tamer or
 whatever you called him? And how much was it worth?
 
-Because it seemed quite obvious that ladder or arm were going to take
+Because it seemed quite obvious that ladder or weapons were going to take
 me nowhere. 
 
 *write*
@@ -309,7 +311,49 @@ me nowhere.
 Hey, are you interested in the mechanical man?
 --------------------------------------------------------------
 
-"I sure am" I answered the besuited man that was calling me from behind a tent corner. 
+"I sure am" I answered the besuited man that was calling me from
+behind a carriage corner.   You'd be well advised if you walk off calls
+made from behind a carriage corner. Hell, you've probably called marks
+from behind carriage corners a few times anyways. Yes, you laugh, but
+look at it from the point of view of the lugen. Hey, stop laughing!
+Lugens do have a point of view! OK, OK, they probably haven't or they
+wouldn't be so incredibly dumb.
+
+So I was dumb, and I know now, but I didn't know them. The whole
+circus mission, I mean gig, got into me and it seemed kind of so out
+of the way that I just jumped to the opportunity.
+
+"You like that, metal, right? Are you sure you don't want warm, expert
+ladies that are able to do what no doll would ever do?" By that time,
+I had already had a taste of that, so I just smiled and said "Just the
+mec. Can I see it?"
+
+"You can do more than that. You can take it for a ride if you want,
+take it home and paint it pink." He had probably seen my enthusiasm
+and raised his offer. What the hell, he could have offered me the
+whole fucking circus. "How much is that worth for you?"
+
+"American dollars?" The suited man snorted. Now I could see that the
+suit had been recently cleaned, ironed and starched, but was the worse
+for wear and threadbare in places. And his hair was not greased back,
+just dirty and greasy. He was a lot louse, probably, somebody
+wandering around circus lots looking for somebody that can be easily
+conned.
+
+Enough with that. I know better now. But maybe you can learn from me,
+yes, a young man like me. Stop lauging! Stop rolling on the floor! Aw,
+go to hell.
+
+The day they took the railway from me
+---------------------------------------------------
+
+I'm alright now. Liquor and spirits soothe my soul, because I have a
+soul and I don't give a rat's ass if you  are going
+to run to the next comisaría and denounce me for anti-popular
+activities. What could they take from me? My freedom? My life? They
+can have it all and good riddance, I've always lived next to a rail
+yard and, before I'm caught, I'll die in them.
+
 *write* 
 
 I married a bearded woman
