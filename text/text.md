@@ -25,11 +25,11 @@ I am here. Here being Freedomville, formerly called Jacksonville, as
 in Andrew Jackson, a paleface and slaver long dead and now definitely
 buried. 
 
-And now being the tenth year after the revolution that produced the
-All Races People's Republic of Florida. 
+And now being the tenth year after the revolution that produced the United
+All Races People's Republic of Florida, or, if you prefer, la República Unida de Todas las Razas de Florida. 
 
 But a free man has to earn a living, too. That is why I am after Manuel,
-the mechanical man. A real marvel of the people's republic
+the mechanical man. A real marvel of the People's Republic
 ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
@@ -42,36 +42,44 @@ But I am jumping over myself. Let me tell you how it all started.
 Who wants a mechanical man?
 -------------------------------------------
 
+*revise* 
+
+So this is what you hobos do, right? Sit around the fire in this rail
+yard... Jungle? How come you call this a jungle? It's a railway
+switchyard! OK, jungle. And you tell stories, right? And you want to
+hear mine? OK, Duke, I owe you. So here it goes. 
+
 This story starts in Mobile, a rough and tumble border town of the
 United All Races People's Republic  of Florida. That's a pretty long
 name for a place that starts at Pascagoula and and goes no further
-than Brunswick, if only our people can have their way. Which they
+than Brunswick, if only our people  have their way. Which they
 will, I have no doubt. Every dawning day brings new brothers to our
 new republic, brothers of all races, creeds and dispositions. 
 
-I was there, taking a walk in the docks, minding my own business,
-which was precisely what I was looking for at that moment of the day,
+It was early winter and it was still sunny and mild; I was there, taking a walk in the docks, minding my own business,
+which was precisely what I was looking for at that early moment of the day,
 looking for a hire, somebody who needed a quick mind and a strong pair
 of arms. I was dodging the sun and keeping myself in the shade,
-because the season was warm. What was it? September? August? Can't
+because the sun made  my clothes too warm for comfort. What was it? January? December? Can't
 tell. Even less so now that all months have changed their names to
-something that does not have gods or umpirators in them. Something
-like that. That means that people no longer know the month they are
-in. Not that they cared, anyways.
+something that does not have gods or umpirators or un-popular names.
+That means that people no longer know the month they are
+in. Not that most of them had ever cared, anyways.
 
-So, it was hot and these two dandy types came up to me, dressed to the
-nines and sweating as if they were going to melt. Standing out as a
+So, it was warm and these two dandy types came up to me from the sea
+shore, maybe from a ship, dressed to the
+nines and sweating as if they were going to melt right there. Sticking out as a
 sore thumb, if you ask me, no way to walk in the docks crying "Mug
-me"; adding insult to injury they were also crying yelling "I'm a capitalist
-pig". But I was minding my own business, which is not related to those
+me"; adding insult to injury they were also  yelling "I'm a capitalist
+pig". But I was minding my own business, which was not related to those
 guys, which were nondescript besides what I have already said. They
 probably had not been mugged yet because one of the dandies had his
 demeanor bolted on, instead of having been born into it. Strong but
 nondescript too. Or nondescript for a those-fists-mean-business
 meaning of the word. 
 
-Was not afraid, though, although they also seemed to avoid the sun and
-their caps were set just so you could not really see their face. So
+Was not afraid, though, although they also seemed to avoid the sun and had
+their caps set just so you could not really see their face. So
 that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
 
@@ -83,22 +91,26 @@ already noticed, and went down to business, not-strong in front of me
 and fists-mean-business by my side and slightly behind me. He really
 meant business that way too.
 
-No, Gummy, I didn't hit them. Why should I? I was down on my luck, and one's got to earn a living. 
+No, Gummy, I didn't hit them. Why should I? I was down on my luck, and
+one's got to earn a living. 
 
 And a good living it might be, too. Ten thousand pesos on the spot,
 ten thousand more when I got them something, which they really, really
 wanted for no particular reason. They collected. They had a hardware
 store. They liked shiny, rolling things. They wanted the Man, they
-wanted Manuel the Mechanical Man. Which was, metaphorically speaking,
+wanted something called Manuel the Mechanical Man. Which was, metaphorically speaking,
 I know, Duke, you like when I speak metaphorically, kicking dust in a
-circus.  
+circus.  What was my business before that, do you want to know? Dock hand, I
+just told you, Gummy. Damn, do you want to hear the story or not?
 
-The speaking non-descript man described the thing for me, just in case I got it wrong and got them a kicking watering can or a singing flower pot. 
+I had never heard of the thing. You have? Well, I hadn't, I was not so
+well informed and educated as you all apparently are in this
+jungle. So the speaking non-descript man described the thing for me, just in case I got it wrong and got them a kicking watering can or a singing flower pot. 
 
-"You've got to got us a rolling teakettle with ears people call Manuel", he told me. 
+"This gimmick Manuel you've got to get us  is like a a rolling teakettle with ears", he told me. 
 
 A rolling teakettle with ears
----------------------------
+------------------------------------
 
 Think about a teakettle. You got it? That's it, thicker on the bottom
 and not so much on top. Yes, Count, we all know you served tea to

@@ -9,4 +9,8 @@ Rufus the mechanical man man | 1883 | Black | Pensacola | Blacksmith and then me
 Boris | | | Black | Circus manager
 Duke | | | Caucasian | Bum
 Raúl  | | | Hispanic | Cynical ringmaster ot the circus, he's been through all. Smokes a pipe. 
+Duke ||| Caucasian | Hobo with greatness delirium
+Gummy ||| Caucasian | Hobo with no teeth
+Captain ||| Hispanic | Hobo that worked in the army
+
 
