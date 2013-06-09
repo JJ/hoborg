@@ -9,4 +9,4 @@ TO DO
 - Graph the evolution of quality with time with the tests made.
 - Convert automatically to POD into Text::Hoborg.
 - Check the possibility of having the text annotated with commit comments and publish it automatically. 
-- Refactor common code in tests so that they are actually part of Text::Hoborg; mainly finding and loading the novel text. 
+- Develop the jungle characters, giving them a voice. 
