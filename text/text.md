@@ -323,7 +323,7 @@ of the way that I just jumped to the opportunity.
 "You like that, metal, right? Are you sure you don't want warm, expert
 ladies that are able to do what no doll would ever do?" By that time,
 I had already had a taste of that, so I just smiled and said "Just the
-mec. Can I see it?"
+mech. Can I see it?"
 
 "You can do more than that. You can take it for a ride if you want,
 take it home and paint it pink." He had probably seen my enthusiasm
@@ -338,7 +338,7 @@ wandering around circus lots looking for somebody that can be easily
 conned.
 
 Enough with that. I know better now. But maybe you can learn from me,
-yes, a young man like me. Stop lauging! Stop rolling on the floor! Aw,
+yes, a young man like me. Stop laughing! Stop rolling on the floor! Aw,
 go to hell.
 
 The day they took the railway from me
@@ -350,6 +350,18 @@ to run to the next comisaría and denounce me for anti-popular
 activities. What could they take from me? My freedom? My life? They
 can have it all and good riddance, I've always lived next to a rail
 yard and, before I'm caught, I'll die in them.
+
+As a point of fact, I was about to do exactly that the day they took
+my railway from me. The name of Jacksonville had just been changed to
+Freedomville and I had a ungodly amount of schedules and train plates
+and tickets to reprint, the exact amount I had to retire and pulp lest
+it went to waste. I really didn't listen to the radion when they
+talked about factories and plantations and everything becoming
+people's property; I didn't know what they meant either. People's
+property? I was the people, and that was my property, right? So
+nothing to fear although I noticed that day the employees were either
+lazy or jittery or both. When was that? Nineteen o seven? Eight? Hell,
+eight, ten years ago.
 
 *write* 
 
