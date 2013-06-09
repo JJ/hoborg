@@ -14,8 +14,8 @@ my $text = new Lingua::EN::Fathom;
 
 my $dir = -d "../text" ? "../text": "../../text";
 
-my $text_file = "$dir/text.md";
-$text->analyse_file($text_file);
+my $hoborg = new Text::Hoborg $dir;
+$text->analyse_file($hoborg->text_file);
 my $fog = $text->fog;
 my $kincaid = $text->kincaid;
 my $flesch = $text->flesch;

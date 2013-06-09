@@ -20,10 +20,9 @@ my $speller = Text::Hunspell->new(
 my $dir = -d "../text" ? "../text": "../../text";
 $speller->add_dic("$dir/words.dic");
 
-my $text_file = "$dir/text.md";
-my $text = read_file($text_file);
+my $hoborg = new Text::Hoborg $dir;
 
-my @words = split /\s+/, $text;
+my @words = split /\s+/, $hoborg->text;
 
 for my $w (@words) {
   my ($stripped_word) = ( $w =~ /([\w\'áéíóúÁÉÍÓÚñÑ]+)/ );

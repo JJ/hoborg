@@ -3,6 +3,7 @@ package Text::Hoborg;
 use warnings;
 use strict;
 use Carp;
+use File::Slurp 'read_file';
 
 use version; our $VERSION = qv('0.0.3');
 
@@ -14,7 +15,26 @@ use version; our $VERSION = qv('0.0.3');
 
 
 # Module implementation here
+sub new {
+  my $class = shift;
+  my $dir = shift || "../../../text";
+  my $text_file = "$dir/text.md";
+  my $text = read_file($text_file);
+  my $self = { _text => $text,
+	       _text_file => $text_file };
+  bless  $self, $class;
+  return $self;
+}
 
+sub text {
+  my $self = shift;
+  return $self->{'_text'};
+}
+
+sub text_file {
+  my $self = shift;
+  return $self->{'_text_file'};
+}
 
 1; # Magic true value required at end of module
 __END__
@@ -35,7 +55,22 @@ This document describes Text::Hoborg version 0.0.1
     
 =head1 DESCRIPTION
 
-Nothing to see here
+This module loads the novel so that transformation can be done on
+it. It should know where the text is placed. 
+
+=head1 INTERFACE
+
+=head2 new [$dir]
+
+Creates an object with the novel text inside
+
+=head2 text 
+
+Returns the text in original format
+
+=head2 text_file
+
+Returns the name of the text file
 
 
 
