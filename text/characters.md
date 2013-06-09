@@ -12,5 +12,6 @@ Duke of Poo ||| Caucasian | Bum with  delirium of greatness
 Gummy Eddy ||| Caucasian | Hobo with no teeth
 Captain Cabo||| Hispanic | Hobo that served in the army
 Wireless Ted ||| Black | Hobo that invented the radio.
+Hatless Daring Dale ||| Black | Revolutionary bum
 
 
