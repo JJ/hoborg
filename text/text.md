@@ -108,9 +108,12 @@ just told you, Gummy. Damn, do you want to hear the story or not?
 
 I had never heard of the thing. You have? Well, I hadn't, I was not so
 well informed and educated as you all apparently are in this
-jungle. So the speaking non-descript man described the thing for me, just in case I got it wrong and got them a kicking watering can or a singing flower pot. 
+jungle. So the speaking non-descript man described the thing for me,
+just in case I got it wrong and got them a kicking watering can or a
+singing flower pot.  
 
-"This gimmick Manuel you've got to get us  is like a a rolling teakettle with ears", he told me. 
+"This gimmick Manuel you've got to get us  is like a a rolling
+teakettle with ears", he told me.  
 
 A rolling teakettle with ears
 ------------------------------------
@@ -209,8 +212,53 @@ to be today. No, today you're not gonna know about my joining the
 circus either.  Something I didn't really thought was going to be
 necessary. 
 
+Duke of Poo tell his story
+--------------------------------
+
+Ladies and gentlemen, our dear Fulgencio seems to be a bit under the
+weather today or just plainly fed up with telling stories, so it's
+going to be my pleasure to delight you today with the story of my
+life before the Call. No, Gummy Eddy, you've never hear this before, I
+promise. It's all made up, I mean, this is the real deal. I haven't
+even started to drink today! Oh my, I haven't even started to dring
+today. Somebody buy me a drink, oh please. Captain Cabo? 
+
+That's better. So, the story. When I was a little boy... OK, OK, I
+will cut it short. During the Civil War I was in the Glorious
+Confederate Army, so yes, what's with it? This was Florida, it was a
+confederate state, I was conscripted! I never had any slaves! I've
+told you! 
+
+Thanks, Captain, we *former* soldiers have to respect and care for
+each others. I'll go ahead with it. So I when I left my ducal in
+Georgia, all smartly dressed in gray to which I added a foulard which
+really suited the rest, I went to the railway station and instead of
+being shipped somewhere else in the train I was assigned on the spot
+to a crew of railway artillery. I was back and forth, never leaving
+the iron path for as long as there was a war, so I learned the trade
+from one tip of the train to another: where to consign, who sells
+coal, how much is a load of cotton worth. 
+
+I was several times on the brink of being seized by the damn yankees,
+I mean the gringos, but the end of the war found me on a southbound
+train. Somehow, I made the new authorities believe it was mine and
+that I was a loyal yankee citizen. They even paid for repairs, once
+all was over.
+
+That was my first train. I still have it, you can see on the lawn of
+the castle I own in the Big Rock Candy Mountain, near the Lemonade
+springs. But all that is lost to me. When Florida was no longer a
+state of the Union all was taken from me, all the train lines I had
+painstakingly gathered were, overnight, property of the people of
+Florida.  I lost fuck-all. 
+
 Down and out and with ten thousand pesos in Mobile and Pascagoula.
 ---------------------------------------------------------------------
+
+In the name of the people, Duke, just stop crying like a
+sissy. Somebody buy him more drink or take him to sleep or
+both. Besides, you wanted to listen to my story, right? Here it
+goes...
 
 The circus seemed to be not too far, somewhere in West Florida. There
 I went. This was going to be easy as peaches. Go there, get in, grab
