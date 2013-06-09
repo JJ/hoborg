@@ -355,13 +355,59 @@ As a point of fact, I was about to do exactly that the day they took
 my railway from me. The name of Jacksonville had just been changed to
 Freedomville and I had a ungodly amount of schedules and train plates
 and tickets to reprint, the exact amount I had to retire and pulp lest
-it went to waste. I really didn't listen to the radion when they
+it went to waste. I really didn't listen to the wireless when they
 talked about factories and plantations and everything becoming
 people's property; I didn't know what they meant either. People's
 property? I was the people, and that was my property, right? So
 nothing to fear although I noticed that day the employees were either
 lazy or jittery or both. When was that? Nineteen o seven? Eight? Hell,
-eight, ten years ago.
+eight, ten years ago. Besides, I though, that was for Tampa for the
+show, they were not going to go so far as Baldwin, where our offices
+were conveniently located, close to the railroad junction.
+
+But they did, for the life of me, they did. It was quite early in the
+morning, what, seven or eight, I had been already there for two or
+more hours, missus and kids still sleeping with all likelihood. An
+injun entered my office without knocking, followed by Ralph, the
+general manager of the airline and then so many Guards that you could
+think they were going to stage a parade just there. But if that was
+the case, I didn't want to know what role I was going to play in
+it. Either the parade clown or part of the chain gang.
+
+Initially, they were quite civil about the whole affair. A
+bespectacled man elbowed his way to the front row and stood by the
+Injun commander, who just stood there without so much as a good
+morning. 
+
+"Mr Miles Higgins", yes, my name is Miles, I got the railroad from the
+baptismal pile, you know, "by this bylaw the People's Government of
+Florida becomes the sole proprietor of the West Florida Railroad and
+Wagon Company, formerly owned by one such Mr. Miles Higgins". I stood
+up, but the Indian gestured to make me sit down. "Comrade Higgins will
+be appropriately compensated by being allowed to work in the
+Conglomerate of State Railroads in any posts he thereby chooses,
+constrained by his stated abilities and the appraisal of them
+performed by the Republic Workers Bureau". So they were taking the
+whole thing from me and I'll be allowed to be a conductor if I was
+considered smart enough to make holes in tickets. 
+
+I tried to stand up again, but this time the commander did not even
+bother to assuage the situation. He drew his revolver and pointed in
+my general direction.
+
+"You can stay here for some time. People's Comisario García here," and
+he nodded in the direction of the bureaucrat that had just talked,
+"will take charge and you'll have to show him the ropes. No hurry,
+man, two or three days will be enough."
+
+What could I do? My wife and family left me the next day, and they
+took everything that could be loaded into a carriage. The authorities
+didn't like that and seized my home and land, too. I was left
+homeless, so when I left the office the last day and assigned a depot
+in the middle of nowhere, I took a train and called it home. And you
+are my family. 
+
+
 
 *write* 
 
