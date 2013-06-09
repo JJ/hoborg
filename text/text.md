@@ -65,7 +65,7 @@ looking for a hire, somebody who needed a quick mind and a strong pair
 of arms. I was dodging the sun and keeping myself in the shade,
 because the sun made  my clothes too warm for comfort. What was it? January? December? Can't
 tell. Even less so now that all months have changed their names to
-something that does not have gods or umpirators or un-popular names.
+something that does not have gods or umpirators or unpopular names.
 That means that people no longer know the month they are
 in. Not that most of them had ever cared, anyways.
 
@@ -220,7 +220,7 @@ weather today or just plainly fed up with telling stories, so it's
 going to be my pleasure to delight you today with the story of my
 life before the Call. No, Gummy Eddy, you've never hear this before, I
 promise. It's all made up, I mean, this is the real deal. I haven't
-even started to drink today! Oh my, I haven't even started to dring
+even started to drink today! Oh my, I haven't even started to drink
 today. Somebody buy me a drink, oh please. Captain Cabo? 
 
 That's better. So, the story. When I was a little boy... OK, OK, I
