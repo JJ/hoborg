@@ -13,3 +13,4 @@ TO DO
 - Convert automatically to POD into Text::Hoborg.
 - Check the possibility of having the text annotated with commit comments and publish it automatically. 
 - Develop the jungle characters, giving them a voice. 
+- Write a selective translator to [Ciazarn, the carny Latin](http://www.goodmagic.com/carny/ciazarn.htm)
