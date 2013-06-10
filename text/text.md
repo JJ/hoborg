@@ -487,8 +487,8 @@ from the door. "Can't go further than two hundred".
 "Show me the money." he said, gesturing with his right hand. Luckily,
 I just had a wad of notes in the front pockets of my pants, which is what you want
 to do if you don't want to have it spirited away from you. Save it to have
-conned it away from you, as I was about to.  I gave it to them and he
-made the money dissapear in a rustle of its clothes. 
+conned it away from you, as I was about to.  I gave it to him and he
+made the money disappear in a rustle of its clothes. 
 
 He told me to follow him. Nobody answered the knock from inside, so we
 entered anyways. It was dark, and 
