@@ -308,7 +308,7 @@ me nowhere. Too many people, too many fences, and I expected the mech
 to be heavy enough to not be able to lift it. I was wrong by two or
 three men, but I didn't know that back them, so I just thought about
 cows and how rustlers would have done it. Not that rustlers even had
-to do it inside a carnival, but this mecn didn't have horns either, so
+to do it inside a carnival, but this mech didn't have horns either, so
 I guess it was even, right? Stop mooing, Gummy, it's not funny and I
 was really tied in knots there. Short of hiring a small army and a
 truck, for which I was a good few thousands shorts, I just couldn't
@@ -324,7 +324,7 @@ It was given a privileged position within the menagerie tent, right at
 the end of it, where the two rows met. It got the most light, with a
 spotlight right below it that made it look like, well, like a statue,
 which it was in way, except for the moving thing. I was not awed; I
-actually liked the most the cute and fearsome siamese twins that were
+actually liked the most the cute and fearsome Siamese twins that were
 right beside him.
 
 What did it do? Well, it was in a cage and the barker spent most of
@@ -334,9 +334,9 @@ real marvel, that it had acted in front of the bohunk emperor and the
 king of Siam, and that the popists where studying if it had soul or
 not. While the barker talked, the mech rocked back and forth,
 sometimes striking the jail bars and making everybody step back with
-cries of surprise and fear. Nice show it was, really. The siamese
+cries of surprise and fear. Nice show it was, really. The Siamese
 twins were actually kind of pissed and from time to time threw snots
-or worse at him, making the rest of the sideshows laugh and mock
+or worse at him, making the bearded woman and the rest of the sideshows laugh and mock
 them. 
 
 I stayed there for three or four pitches, checking visually the bolts
@@ -466,7 +466,9 @@ needed a mechanical man then and there.
 
 He led me into a dark part of the circus, behind the carriages and we
 started to dodge chairs, rests of food and forgotten toys. We arrived
-at a carriage and he purposefully knocked on the door, looking at me
+at a carriage which didn't stand in any way from the rest; it was
+freshly painted but didn't have any mark that indicated that was it,
+the mech carriage. He purposefully knocked on the door, looking at me
 and moving his mouth in the first phase of a smile that tried to
 instill trust but would have failed if it weren't for the fact that I
 was beyond worrying about trust, I could only see beyond the door of that
@@ -474,9 +476,22 @@ carriage. And he saw that.
 
 "So, how much is this worth for you?" he asked me. 
 
-*write and revise* 
+I didn't answer straight away. But that was probably the wrong answer,
+because he knew that, come this point, I wasn't gonna get back. 
 
-Nobody answered from inside, but we entered anyways. It was dark, and
+"Hell, man, I don't know. I'll have to get me some ride or something
+to carry it away, and that's gonna cost me... So, listen, say I give
+you one hundred pesos..." He was looking away, and drawing his hand
+from the door. "Can't go further than two hundred". 
+
+"Show me the money." he said, gesturing with his right hand. Luckily,
+I just had a wad of notes in the front pockets of my pants, which is what you want
+to do if you don't want to have it spirited away from you. Save it to have
+conned it away from you, as I was about to.  I gave it to them and he
+made the money dissapear in a rustle of its clothes. 
+
+He told me to follow him. Nobody answered the knock from inside, so we
+entered anyways. It was dark, and 
 we could barely see anything from the light that entered from the
 already dark outside. 
 
@@ -500,8 +515,9 @@ teakettle, just a part.
 engine." Which looked like a stovepipe, or part of it that was lighted
 by the match that he has lighted, anyways. 
 
-"You're full of shit, man." I told him. I'm out of here.
+"You're full of shit, man." I told him. "I'm out of here."
 
+*write and revise* 
 
 I married a bearded woman
 ------------------------------------
