@@ -419,7 +419,7 @@ con you into cleaning their boots, out of your food sent from home,
 whatever. So you learn the looks of somebody who is turning a
 confidence trick on you.
 
-I learnt it there and then. He had a look of despise towards me, but
+I learned the lesson  there and then. He had a look of contempt towards me, but
 at the same time he looked desperate. As if that was in dire need of
 something. But then, who was I to say anything, I looked as if I
 needed a mechanical man then and there. 
