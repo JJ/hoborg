@@ -50,23 +50,25 @@ switchyard! OK, jungle. And you tell stories, right? And you want to
 hear mine? OK, Duke, I owe you. So here it goes. 
 
 This story starts in Mobile, a rough and tumble border town of the
-United All Races People's Republic  of Florida. That's a pretty long
+United All Races People's Republic of Florida. That's a pretty long
 name for a place that starts at Pascagoula and and goes no further
 than Brunswick, if only our people  have their way. Which they
 will, I have no doubt as a loyal citizen of the Republic. Every dawning day brings new brothers to our
 new republic, brothers of all races, creeds and dispositions. 
 
 It was early winter and it was still sunny and mild; I was there, taking a walk in the docks, minding my own business,
-which was precisely what I was looking for at that early moment of the day,
+which was precisely what I was looking for at that early moment of the day. I was
 looking for a hire, somebody who needed a quick mind and a strong pair
-of arms. I was dodging the sun and keeping myself in the shade,
+of arms, and dodging the sun and keeping myself in the shade,
 because the sun made  my clothes too warm for comfort. What was it? January? December? Can't
 tell. Even less so now that all months have changed their names to
 something that does not have gods or umpirators or unpopular names.
 That means that people no longer know the month they are
-in. Not that most of them had ever cared, anyways.
+in. Not that most of them had ever cared, anyways. Not that I have a
+grudge with that, either. It's all for the greater good of the
+Republic, ain't it?
 
-So, it was warm and these two dandy types came up to me from the sea
+So, it was mild going on warm and these two dandy types came up to me from the sea
 shore, maybe from a ship, dressed to the
 nines and sweating as if they were going to melt right there. Sticking out as a
 sore thumb, if you ask me, no way to walk in the docks crying "Mug
@@ -229,7 +231,7 @@ confederate state, I was conscripted! I never had any slaves! I've
 told you! 
 
 Thanks, Captain, we *former* soldiers have to respect and care for
-each others. I'll go ahead with it. So I when I left my ducal in
+each other. I'll go ahead with it. So I when I left my ducal in
 Georgia, all smartly dressed in gray to which I added a foulard which
 really suited the rest, I went to the railway station and instead of
 being shipped somewhere else in the train I was assigned on the spot
@@ -339,7 +341,7 @@ conned.
 
 Enough with that. I know better now. But maybe you can learn from me,
 yes, a young man like me. Stop laughing! Stop rolling on the floor! Aw,
-go to hell.
+go to hell. 
 
 The day they took the railway from me
 ---------------------------------------------------
@@ -407,9 +409,59 @@ homeless, so when I left the office the last day and assigned a depot
 in the middle of nowhere, I took a train and called it home. And you
 are my family. 
 
+Buying elephants from a circus
+----------------------------------------
 
+I have never been in the army. Did I say I was a soldier? No, Captain,
+I would have said that if I *had* been in the army, which I
+wasn't. The point is, in the army the mates, or so I've heard, try to
+con you into cleaning their boots, out of your food sent from home,
+whatever. So you learn the looks of somebody who is turning a
+confidence trick on you.
 
-*write* 
+I learnt it there and then. He had a look of despise towards me, but
+at the same time he looked desperate. As if that was in dire need of
+something. But then, who was I to say anything, I looked as if I
+needed a mechanical man then and there. 
+
+He led me into a dark part of the circus, behind the carriages and we
+started to dodge chairs, rests of food and forgotten toys. We arrived
+at a carriage and he purposefully knocked on the door, looking at me
+and moving his mouth in the first phase of a smile that tried to
+instill trust but would have failed if it weren't for the fact that I
+was beyond worrying about trust, I could only see beyond the door of that
+carriage. And he saw that.
+
+"So, how much is this worth for you?" he asked me. 
+
+*write and revise* 
+
+Nobody answered from inside, but we entered anyways. It was dark, and
+we could barely see anything from the light that entered from the
+already dark outside. 
+
+"You see? It's right here"
+
+"I can't see a damn thing, man. Can't you turn on the light?"
+
+"Afraid not, it could damage the mechanical man, my friend has said"
+
+"Damage it? How come? It performs in broad daylight"
+
+"Yes, but it's being repaired right now due to a light... surplus. You
+see? It's right here"
+
+What I could see right there was, indeed, a teakettle. Not a whole
+teakettle, just a part. 
+
+"That's a teakettle".
+
+"No, it's not. It's a head... apparatus. See, here's the... belly
+engine." Which looked like a stovepipe, or part of it that was lighted
+by the match that he has lighted, anyways. 
+
+"You're full of shit, man." I told him. I'm out of here.
+
 
 I married a bearded woman
 ------------------------------------
