@@ -15,7 +15,8 @@ like a man.
 
 And the public... filled with brothers, of my own race, of the other
 races that have been oppressed since they arrived here or since the
-paleface newcomers arrived. Because my name is Fulgencio
+paleface newcomers arrived. Even palefaces, because all races are one and the same in the People's 
+Republic, ain't that?. Because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
 a Mexican father. That was twenty and three years ago. 
 
@@ -303,9 +304,48 @@ But where was the right man? Who was the mechanical man tamer or
 whatever you called him? And how much was it worth?
 
 Because it seemed quite obvious that ladder or weapons were going to take
-me nowhere. 
+me nowhere. Too many people, too many fences, and I expected the mech
+to be heavy enough to not be able to lift it. I was wrong by two or
+three men, but I didn't know that back them, so I just thought about
+cows and how rustlers would have done it. Not that rustlers even had
+to do it inside a carnival, but this mecn didn't have horns either, so
+I guess it was even, right? Stop mooing, Gummy, it's not funny and I
+was really tied in knots there. Short of hiring a small army and a
+truck, for which I was a good few thousands shorts, I just couldn't
+see the way.
 
-*write*
+But that didn't stop me from wandering around looking for the mech,
+the watchers, the way to get to that and eventually walk away with the
+prize. I visited the menagerie, where the mechanical man was exhibited
+and actually saw it in the flesh, yes, Duke, in the metal and brass or
+whatever, point taken, for the first time.
+
+It was given a privileged position within the menagerie tent, right at
+the end of it, where the two rows met. It got the most light, with a
+spotlight right below it that made it look like, well, like a statue,
+which it was in way, except for the moving thing. I was not awed; I
+actually liked the most the cute and fearsome siamese twins that were
+right beside him.
+
+What did it do? Well, it was in a cage and the barker spent most of
+the time in front of him saying that it had been studied in the
+biggest and baddest (his very words) of the world and found to be a
+real marvel, that it had acted in front of the bohunk emperor and the
+king of Siam, and that the popists where studying if it had soul or
+not. While the barker talked, the mech rocked back and forth,
+sometimes striking the jail bars and making everybody step back with
+cries of surprise and fear. Nice show it was, really. The siamese
+twins were actually kind of pissed and from time to time threw snots
+or worse at him, making the rest of the sideshows laugh and mock
+them. 
+
+I stayed there for three or four pitches, checking visually the bolts
+on the cage, looking how far it was from the door, whether there were
+any roustabouts lounging around with nothing better to do that
+watching it, and so on. And I was paying attention to no one, so that
+explains what happened next, when I got out, intending to walk around
+the tent and waiting for the sideshow to close to see where everything
+went. 
 
 Hey, are you interested in the mechanical man?
 --------------------------------------------------------------
