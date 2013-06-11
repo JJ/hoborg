@@ -254,7 +254,7 @@ state of the Union all was taken from me, all the train lines I had
 painstakingly gathered were, overnight, property of the people of
 Florida.  I lost fuck-all.  It was stolen by these damn fanatics!
 
-Down and out and with ten thousand pesos in Mobile and Pascagoula.
+Down and out and with ten thousand pesos in Mobile and Panama City.
 ---------------------------------------------------------------------
 
 In the name of the people, Duke, just stop crying like a
@@ -266,7 +266,7 @@ The circus seemed to be not too far, somewhere in West Florida. There
 I went. This was going to be easy as peaches. Go there, get in, grab
 it, get out. Except it was not.  
 
-With the ten thou I had when I arrived at Pascagoula, where the circus
+With the ten thou I had when I arrived at Panama City, where the circus
 happened to be a few days later, I couldn't even have bought a ride
 with the circus. Which, come to think of it, was what the two guys
 would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways. 
@@ -278,7 +278,7 @@ hoochie koochie girl looked like she could give me information, and
 boy, did she give me all she could... and I gave her a few pesos. A
 few dozens. 
 
-But I had good information. It was late winter in Pascagoula, and it
+But I had good information. It was late winter in Panama City, and it
 was one of the first cities in their 1915 tour. All tents were shiny,
 all guys seemed jolly and all girls beautiful and caring. I came in
 through the gate, yes, the arch, but I didn't know that back then, and
@@ -491,11 +491,11 @@ conned it away from you, as I was about to.  I gave it to him and he
 made the money disappear in a rustle of its clothes. 
 
 He told me to follow him. Nobody answered the knock from inside, so we
-entered anyways. It was dark, and 
+entered anyways. It was dark inside, and 
 we could barely see anything from the light that entered from the
-already dark outside. 
+already dark outside. He lighted a match.
 
-"You see? It's right here"
+"You see? It's right here." He said, but I barely could see where he was pointing. We kept bumping into things. 
 
 "I can't see a damn thing, man. Can't you turn on the light?"
 
@@ -504,18 +504,74 @@ already dark outside.
 "Damage it? How come? It performs in broad daylight"
 
 "Yes, but it's being repaired right now due to a light... surplus. You
-see? It's right here"
+see? It's right here" 
 
-What I could see right there was, indeed, a teakettle. Not a whole
-teakettle, just a part. 
+What I could see there was, indeed, a teakettle. Not a whole
+teakettle, just a part. I couldn't even see if it had ears or not. 
 
 "That's a teakettle".
 
 "No, it's not. It's a head... apparatus. See, here's the... belly
-engine." Which looked like a stovepipe, or part of it that was lighted
+engine." Which looked like a stovepipe, or part of it that was visible
 by the match that he has lighted, anyways. 
 
 "You're full of shit, man." I told him. "I'm out of here."
+
+I opened the door. There was another guy loitering at the entrance. He
+dropped the cigarette and blocked the end of the stairs that descended
+from the carriage, arms loose at the sides of the body, hands into
+fists. Ready to mug me out of whatever I had left in my pockets. But I
+was not going to make it easy: I jumped from the carriage door on him
+and made him fall. I fell too, but stood up pretty quickly and started
+running. They were older than me, and anyway I didn't think they would
+make much more than shouting abuse at me for a while.
+
+I was out the circus pretty fast. Same speed I was left without a
+plan. 
+
+It's a plan
+-------------
+
+"So you're saying the circus is like an office?" I told the old clown
+who had the strange ability of laughing and crying at the same time,
+and make you do the same. 
+
+"Man, the whole country is like a fucking factory? Haven't you
+noticed?" He cried again. We were in a cargo wagon, surrounded by
+cotton bales on a train bound for Pascagoula, where I was following
+the circus, thinking that it was better to follow it and wait for the
+mech to drop from a carriage or be sold in an auction or
+something. Hoboing was a way of doing that and not make a dent on my
+budget. The clown had been a jolly companion until I asked him what
+made a tramp clown become a tramp. 
+
+"And all that because you made fun of the governor?" 
+
+"Yes, and I think I could because he was white, you see? All races and
+all my ass".
+
+"What did you say?"
+
+"Something along the lines of him being circumcised by a precise
+kick to her sister in the jaw". 
+
+"He, that is funny. I met these guys up in the hills in New Mexico, I
+mean Mississippi, that... " It was funny that I had found this
+particular guy in the train, but chance didn't play a role in it. He
+was also following the circus, which was a few wagons in front of us,
+bumming things out of them or of the people attending the carnival,
+making laughs for centavos. 
+
+"It's funny because that what clowns do. They make fun of people. It's
+not about making fun of the right people, that takes all the fun out
+of it. Like making a circus a factory."
+
+"Come again, how's that?" I needn't tell you that the cotton cargo
+wagon is the most comfortable of all. To top it, it's also quiet. Only
+problem is you can't smoke or you'll become a ball of cotton fire in
+no time. Ain't that true, Eyebrowless Eric?
+
+"Well, it's not called the People's circus for no reason" 
 
 *write and revise* 
 
