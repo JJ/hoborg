@@ -574,7 +574,11 @@ no time. Ain't that true, Eyebrowless Eric?
 "Well, it's not called the People's circus for no reason." he
 said. "It belongs to the state, as this railway does. So the very next
 day this mean person, dressed in combat clothes, came up to me and he
-said 'Teach me everything, from now on I'll be you'. I don't know what
+said.
+
+"Teach me everything, from now on I'll be you. 
+
+"That he said. I don't know what
 the rest of the clown posse said, but they're not there anymore. And
 they look mean..." But I was only half-listening by now. I had a plan.
 

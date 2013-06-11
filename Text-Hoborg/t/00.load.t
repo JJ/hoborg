@@ -26,7 +26,7 @@ my @words = split /\s+/, $hoborg->text;
 
 for my $w (@words) {
   my ($stripped_word) = ( $w =~ /([\w\'áéíóúÁÉÍÓÚñÑ]+)/ );
-  ok( $speller->check( $stripped_word), "$stripped_word OK")   if ( $stripped_word ) ;
+  ok( $speller->check( $stripped_word), "Checking $stripped_word")   if ( $stripped_word ) ;
 }
 done_testing();
 
