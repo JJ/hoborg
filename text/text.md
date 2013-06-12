@@ -1108,8 +1108,54 @@ not gonna tell.
 The third guy? He was given to the clown posse. I am not gonna talk
 about it.
 
+*write and revise*
 
-Wit the hobos around the fire
+Closed for repairs
+-----------------------
+
+After New Orleans, something had janged loose in the head of Rufus the
+mechanical man man. 
+
+There was something funky going on there. Up until yesterday it was
+working perfectly and all of a sudden the mech breaks down and has to
+be taken somewhere for repairs.
+
+"Where again is it going?" I asked Rufus. He looked to the right and
+answered. 
+
+"Well, he can only be fixed in the Estación Naval at Pensacola,
+that's the only place where..." He was shuffling his feet and looking
+as if he wanted to be somewhere else. 
+
+"Can't we have a look? I've seen you mending it from time to time,
+that way I can..." I said, hoping for a way to keep it close. 
+
+"No way. This time it's broken real good. It's the photoelectric cell
+that activates head movement so... Besides, the Torres Quevedo engine
+has to be revised and reprogrammed... and while we are at it we'll
+repaint, grease, change a thing here and there..." 
+
+I couldn't allow that to happen. It couldn't go anywhere. 
+
+"I can't do a thing, son. Seems legit, and I don't know a thing about
+those things. You can go back to help the rest of the crew, don't
+worry about that." Boris the manager told me when I grabbed hold of
+him. But I wasn't worried about *that*, not precisely. That
+was indeed the least of my worries. 
+
+"But, gee, I don't know, It kind of didn't seem to have any kind of
+problem, so..." 
+
+"What do you mean?"
+
+"Well, what I was saying is..." What was I saying? Send in the clowns
+to maim and slay him? Couldn't do that, either. 
+
+"I see. OK, let me check back and I'll see what I can do, OK?" Which
+was possibly nothing. And I couldn't do a thing, either. I went back
+to Rufus to try another angle. 
+
+With the hobos around the fire
 --------------
 
 "I'm gonna get me one of those dummies, I'm gonna do it" The first
