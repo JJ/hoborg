@@ -1113,10 +1113,9 @@ about it.
 Closed for repairs
 -----------------------
 
-After New Orleans, something had janged loose in the head of Rufus the
-mechanical man man. 
-
-There was something funky going on there. Up until yesterday it was
+After New Orleans, something had become  loose in the head of Rufus the
+mechanical man man. But I thought he was just moody until he flatly
+told me that he was taking Manuel away from the circus. There was something funky going on there. Up until yesterday it was
 working perfectly and all of a sudden the mech breaks down and has to
 be taken somewhere for repairs.
 
