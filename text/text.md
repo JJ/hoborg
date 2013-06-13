@@ -1170,7 +1170,7 @@ Gaffe building for fun and profit
 I couldn't build it myself, of course. But if you've got the money and
 the determination and the original model, nothing is impossible.
 
-So the idea was not to recreate the mech, but to create something tnat
+So the idea was not to recreate the mech, but to create something that
 looked like the mech, at least from a distance and weighed like the
 mech, so that when Rufus asked me to help him load it somewhere, I
 would give him the gaffe instead of the real thing. The second part of
@@ -1183,14 +1183,26 @@ so that he, I mean it, Manuel, stopped working altogether. That made
 easier to substitute it: I couldn't for the world make something that
 looked and *acted* like the mech. 
 
-Luckily, there were bits and parts of the mech in Rufus' workshop and
+Luckily, there were bits and parts of the mech in Rufus's workshop and
 I took them to the circus blacksmith together with a bunch of pesos to
-keep his mouth shut and instill due dilligence in him, at least for a
+keep his mouth shut and instill due diligence in him, at least for a
 while. Since everybody knew that sooner than later Manuel was going
 away I told him we were building a replica for the menagerie, but
 since Rufus was very jealous of his act we didn't want him to know
 what we were doing, right? That was a few pesos more. And then a few
-more when the diligence just dissapeared after a day.
+more when the diligence vanished after just a day.
+
+*revise and write*
+
+But it didn't take long to have something that if it was dark enough,
+and from a distance, and if you really had seen Manuel just a couple
+of times, could pass for the original. So there was no fucking way
+Rufus could be mistaken. And I had spent two days and lots of pesos
+doing this. 
+
+That day, at dinner after the show, Rufus told me that somebody from
+the naval station was coming the next day at dawn to pick them up. I
+was relieved. Dawn was good. I was damn good. 
 
 
 
