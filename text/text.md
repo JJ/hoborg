@@ -1154,6 +1154,47 @@ to maim and slay him? Couldn't do that, either.
 was possibly nothing. And I couldn't do a thing, either. I went back
 to Rufus to try another angle. 
 
+*write and revise*
+
+This could be the end of my circus days, and the first day I was there
+came back to me. That day I saw Manuel for the first time and I was
+conned out of a good amount of pesos.
+
+And then I knew how to grab hold of Manuel. So the circus day would
+truly be over. 
+
+
+Gaffe building for fun and profit
+-----------------------------------------
+
+I couldn't build it myself, of course. But if you've got the money and
+the determination and the original model, nothing is impossible.
+
+So the idea was not to recreate the mech, but to create something tnat
+looked like the mech, at least from a distance and weighed like the
+mech, so that when Rufus asked me to help him load it somewhere, I
+would give him the gaffe instead of the real thing. The second part of
+the con was, of course, to coax Rufus into having me help him take the
+thing away.
+
+Rufus himself helped me to get away with it. He wanted so much to make
+everybody think Manuel was broken, that he loosed a screw or something
+so that he, I mean it, Manuel, stopped working altogether. That made
+easier to substitute it: I couldn't for the world make something that
+looked and *acted* like the mech. 
+
+Luckily, there were bits and parts of the mech in Rufus' workshop and
+I took them to the circus blacksmith together with a bunch of pesos to
+keep his mouth shut and instill due dilligence in him, at least for a
+while. Since everybody knew that sooner than later Manuel was going
+away I told him we were building a replica for the menagerie, but
+since Rufus was very jealous of his act we didn't want him to know
+what we were doing, right? That was a few pesos more. And then a few
+more when the diligence just dissapeared after a day.
+
+
+
+
 With the hobos around the fire
 --------------
 
