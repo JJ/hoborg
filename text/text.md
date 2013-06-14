@@ -2,7 +2,7 @@ Prologue
 -----------
 
 This novel is released under a free license. Please check [its web for
-details](http://github.com/JJ/hoborg).
+details](http://github.com/JJ/hoborg). You can help by proof-reading, forking, or just talking about it. 
 
 Meet the mechanical man
 ----------------------------------
@@ -205,9 +205,14 @@ place with a circus.
 bigger than a chicken." He said, while Fist-means-business smiled in a
 nondescript way. "But yes, we can say it does that too".  
 
-I got the money, I told them I took it from there, and they left and I
-never ever saw them again. Now that I've got what they want I'll have
-to look for them when I arrive at my destination. But that's not going
+I got the money, I told them I took it from there, and they were on
+their way and I
+never ever saw them again, and I won't until I do the delivery in a
+few days. Now that I've got what they want I'll have
+to look for them when I arrive at my destination. Or rather they will
+look for me. 
+
+Whatever, that's not going
 to be today. No, today I'm not gonna tell you about my joining the
 circus either.  Something I didn't really thought was going to be
 necessary. 
@@ -219,14 +224,15 @@ Ladies and gentlemen, our dear Fulgencio seems to be a bit under the
 weather today or just plainly fed up with telling stories, so it's
 going to be my pleasure to delight you today with the story of my
 life before the Call. No, Gummy Eddy, you've never heard this before, I
-promise. It's all made up, I mean, this is the real deal. I haven't
+promise. It's all made up, I mean, this is the real deal, all I've
+told you before was made up. Besides, I haven't
 even started to drink today! Oh my, I haven't even started to drink
 today. Somebody buy me a drink, oh please. Captain Cabo? 
 
 That's better. So, it's my pleasure now to tell you the story. When I was a little boy... 
 
 OK, OK, please behave yourselves. I
-will cut it short. During the Civil War I was in the Glorious
+will cut it short. During the  War I was in the Glorious
 Confederate Army, so yes, what's with it? This was Florida, it was a
 confederate state, I was conscripted! I never had any slaves! I've
 told you! 
@@ -372,7 +378,7 @@ take it home and paint it pink." He had probably seen my enthusiasm
 and raised his offer. What the hell, he could have offered me the
 whole fucking circus. "How much is that worth for you?"
 
-"American dollars?" The suited man snorted. Now I could see that the
+"American dollars?" I replied, and the suited man snorted. Now I could see that the
 suit had been recently cleaned, ironed and starched, but was the worse
 for wear and threadbare in places. And his hair was not greased back,
 just dirty and greasy. He was a lot louse, probably, somebody
@@ -452,7 +458,7 @@ are my family.
 Buying elephants from a circus
 ----------------------------------------
 
-I have never been in the army. Did I say I was a soldier? No, Captain,
+I have never been in the army. Did I say I was a soldier? No way, Captain,
 I would have said that if I *had* been in the army, which I
 wasn't. The point is, in the army the mates, or so I've heard, try to
 con you into cleaning their boots, out of your food sent from home,
@@ -471,10 +477,11 @@ freshly painted but didn't have any mark that indicated that was it,
 the mech carriage. He purposefully knocked on the door, looking at me
 and moving his mouth in the first phase of a smile that tried to
 instill trust but would have failed if it weren't for the fact that I
-was beyond worrying about trust, I could only see beyond the door of that
+was beyond worrying about trust, My mind could only focus on what was
+inside that
 carriage. And he saw that.
 
-"So, how much is this worth for you?" he asked me. 
+"So, how many pesos, real money,  is this worth for you?" he asked me. 
 
 I didn't answer straight away. But that was probably the wrong answer,
 because he knew that, come this point, I wasn't gonna get back. 
@@ -651,7 +658,8 @@ School years
 No, that's Fulgencio Ribera, with a b. I don't know any Rivera from
 anywhere. I went to school in... What's with it? Why do you want to
 know? Did I ask you where you served, Captain? Does anybody know the
-whereabouts of Duke's castle?
+whereabouts of Duke's castle? Yes, yay, in the slopes of the Big Rock
+Candy Mountain by the Lemonade Springs. 
 
 Just go to hell. I'm off to sleep. 
 
@@ -738,10 +746,21 @@ from him. Which was all for the better, People would have suspected if
 I did. So I threw questions at him to see if they stuck, and they did
 from time to time.
 
-Did he score? Why are you interested? Hey, stop touching yourself, you
+Did he score? Why are you interested? Hey, stop touching yourself,
+Gummy you
 old pervert! I'm out of here!
 
-*write* 
+Gummy Eddie tells his story
+-----------------------------------------
+
+Nobody understands Gummy Fucking Eddie, so I will tell his story for
+him. Yes, I'll be telling you all my story in the army and why I'm a
+Captain and a Corporal at the same time, but be patient and all of you
+will be satisfied. Gummy, if you don't stop doing that right now I'm
+not going to be your puppet now or never. Really.
+
+*revise and write*
+
 
 There's a lot of vice in Miami
 --------------------------------------
@@ -750,7 +769,7 @@ There's a lot of vice in Miami
 on the road to post papers to announce the circus around town. Elegant
 people came after us to check them out "Look, we are scoring good
 hits." There was a method to posting paper, I was discovering. You
-couldn't just paste them anywhere; barns, fences some buildings,
+couldn't just paste them anywhere; barns, fences, some buildings,
 corners, always at eye's height, those were the places to do it. As a
 matter of fact, sometimes they were occupied by other posters
 announcing past or present shows. They were promptly ditched.  
@@ -782,19 +801,28 @@ stuck to us.
 couldn't. These palefaces were too rebellious for their own good, they
 just liked to spend their days shooting squirrels and drinking. And
 fucking their sisters, I tell you. Many of them couldn't read just
-because they couldn't. 
+because they hadn't enough in their heads to be able to join the lines
+to form a letter. 
 
 Yes, I know, Duke, it's an all-races republic. But including them does
 not mean I have to *like* them, right? I could have liked this one,
 though, if only she'd had a nicer and bigger chest. 
 
-"You want to earn a few pesos, girlie?" I asked her. If she showed
+"You want to earn a few pesos, girlie?" I asked her. If she came
 around maybe we could check her for the revue. After seen her naked,
 we could either do her or hire her. Not that I would have the chance
 of either, but I could at least check her out thoroughly. And besides,
 she didn't know squat, so I could play the part. If was not as if
 Vince was going to tell her. Besides, she had opened her eyes and was
-smiling broadly; we had her on the hook.
+smiling broadly; we had her on the hook. 
+
+"So, do you have a name to go with those beautiful eyes?" I asked
+yer. Vince just continued checking her out.
+
+"Tracy." She said while he blinked. Yay, we had her on the hook. Or
+the other way round. 
+
+*revise*
 
 Gringo up, gringo down
 ------------------------------
@@ -803,6 +831,42 @@ The carnival was going full throttle, but I still could spot Tracy,
 these gringas really don't know how to mix with the crowd. She was so
 white and blond and she put a white dress on top of that just so that
 she could be made out even by night and with closed eyes. 
+
+We got her to the ringmaster, and as a payment we got to see her naked
+while she was checked for the nudist colony. That was the only act she
+could do on short notice, because there's nothing much that needs to
+be done, just be naked. Pretty girls usually started at the circus
+that way before they learned something and graduated to the revues or
+jig shows if they were whites, or even real circus acts if they were
+good at it, and they got assigned from the government. 
+
+But no government job was needed to stand naked and pout, which she
+seemed to be good enough at. Not a great body, even for a
+paleface. Too whitey, cute pair of boobs, those pink nipples could win
+her a good pouch of pesos, and flat booty, but hey, she was white,
+what could you expect. And she had a bushy crotch that extended almost
+up to her belly button. Nudist colony girls had it shaved, but there
+was going to be no time today, the sideshows were about to begin. 
+
+Vince, the ringmaster and me just left her there while we talked among
+us as if we were examining a horse. She started to cover herself and
+we knew it was time to hire or kick her off, because if we let it
+linger for too long she could change her mind.
+
+Yes, I knew all that by that time. You learn fast in the circus and
+you learn a lot of trades, but the first thing you learn is people,
+what they do and what you can do to them. That includes girls.
+
+So of course she was hired for the day. Vince and me led her to the
+carriage that was shared by the nudist colony girls that came with the
+circus, another day hire was also there and she was getting explained
+how to pose and what to do and advice on how to avoid farting and
+things like that. We couldn't stay, of course, the mistress shooed us
+away. I understand that, we men could be there the whole day and do no
+work. Except maybe touching ourselves. Please, Gummy, you've already
+done it today once, can't you please stop?
+
+* write and revise *
 
 Clown act
 -------------
@@ -866,7 +930,10 @@ was whimpering and moving, in the head.
 All was quiet after that, except for the laughs of the clowns getting
 back into their car.
 
-"Let's go. Let the Guard take care of this mess".  We walked back to our horses, not speaking at all. We arrived all tired and sooty back at the circus and we went straight to our carriage; we could hear laughs coming from the clown carriages for a while still. 
+"Let's go. Let the Guard take care of this mess".  We walked back to
+our horses, not speaking at all. We arrived all tired and sooty back
+at the circus and we went straight to our carriage; we could hear
+laughs coming from the clown carriages for a while still.  
 
 Rebuilding
 -------------
@@ -881,7 +948,7 @@ a bit twitchy every time a clown was getting close to us. That made
 him almost a permanent fixture in the gaucho crew, even if there were
 no revue girls around. 
 
-He even sometimes paid attention when I talked to him, but he seemed
+He even  paid attention  sometimes when I talked to him, but he seemed
 to have some difficulty staying focused, trying always to steal the
 focus of the conversation to talk about other stuff.
 

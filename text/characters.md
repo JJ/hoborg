@@ -8,7 +8,7 @@ Manuel the Mechanical Man | 1908 | Mech | Pensacola Naval Yards | A roving robot
 Rufus the mechanical man man | 1883 | Black | Pensacola | Blacksmith and then mechanic
 Boris | | | Black | Circus manager
 Raúl  | | | Hispanic | Cynical ringmaster ot the circus, he's been through all. Smokes a pipe. 
-Duke of Poo ||| Caucasian | Bum with  delirium of greatness
+Duke of Poo |1843|Richmond| Caucasian | Bum with  delirium of greatness
 Gummy Eddy ||| Caucasian | Hobo with no teeth
 Captain Cabo||| Hispanic | Hobo that served in the army
 Wireless Ted ||| Black | Hobo that invented the radio.
