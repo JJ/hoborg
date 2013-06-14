@@ -817,7 +817,7 @@ Vince was going to tell her. Besides, she had opened her eyes and was
 smiling broadly; we had her on the hook. 
 
 "So, do you have a name to go with those beautiful eyes?" I asked
-yer. Vince just continued checking her out.
+her. Vince just continued checking her out.
 
 "Tracy." She said while he blinked. Yay, we had her on the hook. Or
 the other way round. 
@@ -867,6 +867,13 @@ work. Except maybe touching ourselves. Please, Gummy, you've already
 done it today once, can't you please stop?
 
 * write and revise *
+
+We didn't start the fire
+-----------------------------
+
+But one of the midway concession shops was afire, and we run there. 
+
+*write and revise*
 
 Clown act
 -------------
