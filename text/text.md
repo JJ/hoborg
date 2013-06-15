@@ -788,7 +788,7 @@ sight. We run out of ducat much before we run out of money and we
 extracted so many promises... 
 
 We had had to turn down a few, specially gringas. We didn't want them
-there, but if they did show up, their pesos would be as good as the
+there at the circus, but if they did show up, their pesos would be as good as the
 next one, so we weren't gonna stop selling them tickets. Besides, they
 had their special seats just for them, they had to be filled, right?
 
@@ -796,11 +796,13 @@ So, by the time Tracy came up to us, we weren't either ready for
 conversation or in the mood for gifts. So much paper to post, besides,
 we had considered a couple of times to charley it.  
 
-Not that she was not beautiful; she was nice, in that transparent way
+Who is Tracy? You're about to know her and we were about to do it, too. 
+
+We didn't feel like talking to her because honkies, even honkie girls, were always walking around bumming things and complaining about this and that. Besides, she was not that beautiful to deserve one of the ducats we kept; she was nice, in that transparent way
 the gringas had; her hair was flat and hay colored, and her hips and
 boobs were way too small, although not disagreeably shaped. She didn't
 smell good, a bit musty. Vince and me sent her on her way, but she
-stuck to us.
+clung to us on our way back to the circus. Which pissed us off even more since now she would be witness to us ditching the paper; yes, that's what charley means, weren't you listening? Am I not talking in fucking English? OK, Duke, I'll keep it easy, only I get all fired up when I recall all that. 
 
 "How long are you staying?" she was asking.
 
@@ -863,7 +865,7 @@ linger for too long she could change her mind.
 Yes, I knew all that by that time. You learn fast in the circus and
 you learn a lot of trades, but the first thing you learn is people,
 what they do and what you can do to them. That includes girls.
-But I know much more now. I know that you can't trust no man and you can't trust women any more. By doing that, she forced us to action. And by forcing us to action, she commanded the situation.
+But I know much more now. I know that you can't trust no man and you can't trust women any more. By doing that, she forced us to action. And by forcing us to action, she commanded the situation. What's with girls, I don't know, they always make them do what they want and you end up thinking it was your idea. 
 
 So of course she was hired for the day. Vince and me led her to the
 carriage that was shared by the nudist colony girls that came with the
