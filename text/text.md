@@ -59,17 +59,20 @@ than Brunswick, if only our people  have their way. Which they
 will, I have no doubt as a loyal citizen of the Republic. Every dawning day brings new brothers to our
 new republic, brothers of all races, creeds and dispositions. 
 
-It was early winter and it was still sunny and mild. The air was clear, and I could see ships docking and leaving, ships from all sisters nations of the world, Spain, Cuba, Colombia, but also not-so-friendly places who decided the buck shouldn't stop anyways, the United Kindom, the austro-hungarian empire, those bohunks... I was there, taking a walk in the docks, minding my own business,
+It was early winter and it was still sunny and mild. The air was clear, and I could see ships docking and leaving, 
+ships from all sister nations of the world, Spain, Cuba, Colombia, but also not-so-friendly places 
+who decided the buck needn't stop here and had resumed trade as soon as they could, 
+the United Kingdom, the Austrohungarian Empire, those bohunks... I was there, taking a walk in the docks, minding my own business,
 which was precisely what I was looking for at that early moment of the day. I was
-looking for a hire, somebody who needed a quick mind and a strong pair
+looking for a hire, for somebody who needed a quick mind and a strong pair
 of arms, and dodging the sun and keeping myself in the shade,
 because the sun made  my clothes too warm for comfort. What was it? January? December? Can't
 tell. Even less so now that all months have changed their names to
 something that does not have gods or umpirators or unpopular names.
 That means that people no longer know the month they are
-in. Not that most of them had ever cared, anyways. Not that I have a
+in. Not that most of them had ever cared, anyways. And not that I have a
 grudge with that, either. It's all for the greater good of the
-Republic, ain't it?
+Republic, ain't it? Keeping capitalists names out of the Republic. 
 
 So, it was mild going on warm and these two dandy types came up to me from the sea
 shore, maybe from a ship, dressed to the
