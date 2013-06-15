@@ -804,34 +804,35 @@ boobs were way too small, although not disagreeably shaped. She didn't
 smell good, a bit musty. Vince and me sent her on her way, but she
 clung to us on our way back to the circus. Which pissed us off even more since now she would be witness to us ditching the paper; yes, that's what charley means, weren't you listening? Am I not talking in fucking English? OK, Duke, I'll keep it easy, only I get all fired up when I recall all that. 
 
-"How long are you staying?" she was asking.
+"How long are you staying?" she  went, from a couple of steps behind us.
 
 "It's right there on the paper, gringa. Can't you read?" She probably
-couldn't. These palefaces were too rebellious for their own good, they
+couldn't. These palefaces were too ignorant and rebellious for their own good, they
 just liked to spend their days shooting squirrels and drinking. And
 fucking their sisters, I tell you. Many of them couldn't read just
 because they hadn't enough in their heads to be able to join the lines
-to form a letter. 
-
-Yes, I know, Duke, it's an all-races republic. But including them does
+to form a letter. Yes, I know, Duke, it's an all-races republic. But including them does
 not mean I have to *like* them, right? I could have liked this one,
-though, if only she'd had a nicer and bigger rack. 
+though, if only she'd had a nicer and bigger rack. Nothing personal, Duke, you're my man. 
+
+But she followed us even more, asking us where we were from and what we did in the circus and so no until we were so close to the circus that we had either to charley the paper or take another path and start to paper it. And we didn't feel like doing the second.
 
 "You want to earn a few pesos, girlie?" I asked her. If she came
-around maybe we could check her for the revue. After seen her naked,
-we could either do her or hire her. Not that I would have the chance
-of either, but I could at least check her out thoroughly. And besides,
+around maybe we could check her for the revue. After seeing her naked,
+we could either do her or hire her, or hire her and then do her. Not that I would have the chance to do either, but I could at least check her out thoroughly. And besides,
 she didn't know squat, so I could play the part. If was not as if
 Vince was going to tell her. Besides, she had opened her eyes and was
-smiling broadly; we had her on the hook. 
+smiling broadly; we had her on the hook. And we needed some independence". She nodded a vehement "yes", opening her eyes and smiling broadly.
 
 "So, do you have a name to go with those beautiful eyes?" I asked
-her. Vince just continued checking her out.
+her. Vince went along with me. 
 
 "Tracy." She said while he blinked. Yay, we had her on the hook. Or
 the other way round. 
 
-*revise*
+"What do you say if you come around in say, two hours " She stared blankly, as if the concept of hours was something that was difficult to grab..."OK, after a good while, when you see people coming up to the circus, and you tell the girl at the ticket counter to send for us. We are Fulgencio and Vince. Can you remember that?"
+
+She nodded again, and turned back. We could finally charley the paper, and we might even manage to score tonight. 
 
 Gringo up, gringo down
 ------------------------------
@@ -869,9 +870,9 @@ But I know much more now. I know that you can't trust no man and you can't trust
 
 So of course she was hired for the day. Vince and me led her to the
 carriage that was shared by the nudist colony girls that came with the
-circus. Another day hire, or at least some girt I hadnt' seen before, and, boy, had I seem them all in front of me and in my dreams, was also there and she was getting explained
-how to pose and what to do and adviced on how to avoid farting, conceal warts and
-things like that. We couldn't stay, of course, the mistress shooed us
+circus. Another day hire, or at least some girt I hadn't seen before, and, boy, had I seem them all in front of me and in my dreams, was also there and she was getting explained
+how to pose and what to do and advised on how to avoid farting, conceal warts and
+things like that. Just guessing that; we couldn't stay, of course, the mistress shooed us
 away. I understand that, we men could be there the whole day and do no
 work. Except maybe touching ourselves. Please, Gummy, you've already
 done it today once, can't you please stop?
