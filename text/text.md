@@ -132,7 +132,7 @@ aloud again. You all got the milk pail? Well, now put it on top of the
 teakettle. A small one. Two milk pails for you, Gummy. Lost you? Aw,
 what the hell, just go to sleep again. 
 
-Lost you all? Big, roundish, thick-on-the-bottom, metallic upside-down
+Lost you all? Big, roundish, thick-on-the-bottom, metallic, upside-down
 bucket with another on top, body and head. Which goes to account for
 the name mechanical man, but when I first saw him that what I though
 about. It was even steaming a little bit, because he's not actually
@@ -385,7 +385,7 @@ whole fucking circus. "How much is that worth for you?"
 
 "American dollars?" I replied, and the suited man snorted. Now I could see that the
 suit had been recently cleaned, ironed and starched, but was the worse
-for wear and threadbare in places. And his hair was not greased back,
+for wear and frayed in places. And his hair was not greased back,
 just dirty and greasy. He was a lot louse, probably, somebody
 wandering around circus lots looking for somebody that can be easily
 conned.
@@ -656,7 +656,7 @@ open. I'd heard about that one, and it looked like a scam. But then I
 was not buying this circus, I was here for a reason. A heavy, metalic,
 mechanical reason.
 
-I noticec Boris had stopped talking and shortly he came back from his office at the end of the
+I realized Boris had stopped talking and shortly he came back from his office at the end of the
 carriage. And he did not seem happy. 
 
 School years
@@ -764,7 +764,7 @@ Nobody understands Gummy Fucking Eddie, so I will tell his story for
 him. Yes, I'll be telling you all my story in the army and why I'm a
 Captain and a Corporal at the same time, but be patient and all of you
 will be satisfied. Gummy, if you don't stop doing that right now I'm
-not going to be your puppet now or never. Really.
+not going to act your puppet now or never. Really.
 
 *revise and write*
 
@@ -775,7 +775,7 @@ There's a lot of vice in Miami
 "We usually play to a full house here", Vincent told me while we were
 on the road to post papers to announce the circus around town. Elegant
 people came after us to check them out. "Look, we are scoring good
-hits.", Vince told me.
+hits." Vince told me.
 
 We were very lucky to be there. There were heavier and less amusing things you could do in the circus that very morning, in the stifling Miami heat. Besides, I was supposed to learn stuff. There was a method to posting paper, I was discovering. You
 couldn't just paste them anywhere; barns, fences, some buildings,
@@ -841,7 +841,7 @@ Gringo up, gringo down
 
 The carnival was going full throttle, but I still could spot Tracy,
 these gringas really don't know how to mix with the crowd. She was so
-white and blond and she put a white dress on top of that just so that
+white and blond and she had put a white dress on top of that just so that
 she could be made out even by night and with closed eyes. 
 
 We got her to the ringmaster, and as a payment we got to see her naked
@@ -850,18 +850,20 @@ could do on short notice, because there's nothing much that needs to
 be done, just be naked. Pretty girls usually started at the circus
 that way before they learned something and graduated to the revues or
 jig shows if they were whites, or even real circus acts if they were
-good at it, and they got assigned from the government. 
+good at it, and got and assignment from the government. 
 
-But no government job was needed to stand naked and pout, which she
-seemed to be good enough at. Not a great body, even for a
+But no government job was needed to lay stark naked and pout, which she
+seemed to be good enough at. She wasn't too reluctant to undress when the ringmaster told her, and she only lingered at the unbuttoning at the interesting parts. She had no bra, as we had been able to make out under her white dress, but she wore panties that had seen so many washes that they were threadbare here and there. She eventually took them off also, standing there on her moccasins. She quickly fell into a pose. 
+ 
+As I had already noticed with her clothes on, she did not have a great body, even for a
 paleface. Too whitey, cute pair of boobs, those pink nipples could win
-her a good pouch of pesos, and flat booty, but hey, she was white,
-what could you expect. And she had a bushy crotch that extended almost
+her a good pouch of pesos, and flat booty. But hey, she was white,
+what could you expect. She had a bushy crotch that extended almost
 up to her belly button. Nudist colony girls had it shaved, but there
 was going to be no time today, the sideshows were about to begin. 
 
-Vince, the ringmaster and me just left her there while we talked among
-us as if we were examining a horse. She started to cover herself and
+Vince, the ringmaster and me just left her there while we talked in whispers among
+us as if we were examining a horse, appraising hers. She started to cover herself and
 we knew it was time to hire or kick her off, because if we let it
 linger for too long she could change her mind.
 
@@ -878,6 +880,17 @@ things like that. Just guessing that; we couldn't stay, of course, the mistress 
 away. I understand that, we men could be there the whole day and do no
 work. Except maybe touching ourselves. Please, Gummy, you've already
 done it today once, can't you please stop?
+
+Somebody's daughter
+------------------
+
+That night I went to the nudist colony tent more than usual. I took advantage of every errand to escape for a few seconds and go there to see how Tracy was doing. 
+
+She was doing great, of course. The barker was barking the presence of new girls to the four winds and gents were elbowing each other to be on the first row. Tracy and the other new girl was there, in front of the rest, apparently playing a table game, or resting, or doing silly dances which didn't matter because, well, the important thing was the booby swing. The professor talked about how important that was for health and how everybody did that in Sweden or Siam or wherever, but nobody paid much attention.
+
+I was there when the show was interrupted by a racket at the tent gate. Several guys came in shouting, and I first though they were protesting for high prices or too much time waiting in the queue or whatever. But they were yelling something about daughter and honor and I think I heard the name Tracy. Tracy just stood there, and the men came up to her, grabbing her arm and covering her with a blanket. The other girls run to the back of the tent, and I was left there with the professor, who seemed to be more elsewhere than there, and a few marks who seemed to think this might be a part or the show or just liked to be in the middle of things. 
+
+* revise and write* 
 
 We didn't start the fire
 -----------------------------
