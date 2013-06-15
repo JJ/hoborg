@@ -600,28 +600,31 @@ I married a bearded woman
 ------------------------------------
 
 Not quite, although seducing one of them would be a way of marrying
-into the circus, I was not amused by that prospect. So I have to words
-for you: Fake. Papers. I went up to the circus, which had just arrived
+into the circus, I was not amused by that prospect. So I have two words
+for you: Fake. Papers. 
+With them in hand, I crossed under the circus arch, which had just arrived
 to the city of Ferry Pass. 
 
 "Let me check that." said the improbably named Boris, the circus
 manager, a big, dark brother with shoulders one mile long that could
 have stood for the strongman or the lion tamer if there was a need for
-that. I was standing in the carriage that served as an office and as a
+that. The papers with purple official-looking seals carried me into  the carriage that served as office and as 
 ticket booth, these circus guys like to keep all money matters close
-together, lest they contaminate the rest of the stuff; a man and a
-woman were idling at their desks, rustling papers and listening to the
-wireless, which was broadcasting a speech by one of the high-ups in
-our Republic. I tried to listen intently, but couldn't. He didn't seem
-angry, so he was probably cheering up the workers and farmers of our
-land. I probably had heard it anyways. I had made a beeline from the
+together, lest they contaminate the rest of the stuff. I had made a beeline from the
 circus arch, which I didn't know yet was called an arch, to the
 office. The less people that could intercept you and ask questions
 about your business, the better. Circus people aren't known for
 cheerful treatments of strangers. 
 
-I saw Boris go to its office at one of the ends of the carriage. I
-knew it would check out. The official at the People's Party in 
+Besides Boris, that had been fetched from his office, a man and a
+woman were idling at their desks, rustling papers and listening to the
+wireless, which was broadcasting a speech by one of the high-ups in
+our Republic. I tried to listen intently, but couldn't make out the words. He didn't seem
+angry, so he was probably cheering up the soldiers, workers and farmers of our
+land. I probably had heard them anyways. 
+
+I saw Boris, my not so evidently fake papers in hands, go to its office at one of the ends of the carriage. I
+knew the assignment would check out. The official at the People's Party in 
 Pascagoula had been paid dearly to request an assignment of one
 Fulgencio Ribera, 23, to the Number One Glorious People's Flying Circus, Menagerie, and
 Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
@@ -637,28 +640,27 @@ States. Did I say umpirialist? I meant umpirialistic. Imperialist? You
 made that word up, Duke, didn't you? OK, OK, OK, imperialist, so what
 gives? 
 
-What's bad about crooked officials is that they can bend two or three
-different ways. And this Boris was taking too long to wire a request
-to Tampa and get it back. The clerk and the secretary kept
+When Boris was gone and apparently using the phone in his office, I started to think that what's bad about crooked officials is that they can bend two or three
+different ways. And this Boris was having too long a conversation with Tampa  or whoever the hell he had decided to talk. It was not helping that the clerk and the secretary kept
 looking at me with that look of "You don't belong here" which I tried
 hard not to return. And this was starting to look like a situation in
-which I would have to fight my way out.
+which I would have to fight my way out, so I edged a bit closer to the door because you never know.
 
-Thus to avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
+To avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
 features. "Manuel The Mighty Mechanical Man" featured what looked like a guy
-sheathed in gold foil lifting an elephant. "The Human Radio Receiver"
-was on another poster, dressed like a sailor for no reason and with a
-hat from which several wires sprouted, from the wires, wavy lines came
+sheathed in gold foil lifting an elephant. "Ray, the Human Radio Receiver"
+was on another poster, dressed like a sailor for no good reason and with a
+hat from which several wires sprouted; from those wires, wavy lines came
 out (or in, who knows) while he seemed to be speaking, arms wide
 open. I'd heard about that one, and it looked like a scam. But then I
-was not buying this circus, I was here for a reason. A heavy, metal,
+was not buying this circus, I was here for a reason. A heavy, metalic,
 mechanical reason.
 
-And then Boris came back from his office at the end of the
+I noticec Boris had stopped talking and shortly he came back from his office at the end of the
 carriage. And he did not seem happy. 
 
 School years
-----------------
+------------------
 
 No, that's Fulgencio Ribera, with a b. I don't know any Rivera from
 anywhere. I went to school in... What's with it? Why do you want to
