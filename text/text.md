@@ -653,7 +653,7 @@ was on another poster, dressed like a sailor for no good reason and with a
 hat from which several wires sprouted; from those wires, wavy lines came
 out (or in, who knows) while he seemed to be speaking, arms wide
 open. I'd heard about that one, and it looked like a scam. But then I
-was not buying this circus, I was here for a reason. A heavy, metalic,
+was not buying this circus, I was here for a reason. A heavy, metallic,
 mechanical reason.
 
 I realized Boris had stopped talking and shortly he came back from his office at the end of the
@@ -686,8 +686,8 @@ existed, of course, which I really don't think it does, and you don't
 either, right? You have been there, Gummy? That might account for your
 lack of hair, for sure!
 
-"Hey, hey, hey. No need to make a racket out of this. " I stopped and
-started to fold them with exaggerated care while looking at them. I
+"Hey, hey, hey. No need to make a racket out of this." Boris told me and I stopped and
+started to fold the papers with exaggerated care while looking at them. I
 really didn't know what to do. I'd have to hire a band of rustlers to
 get the iron dummy out of here. Disappointment probably crept to my
 face, and Boris said
