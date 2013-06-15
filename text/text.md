@@ -772,12 +772,14 @@ There's a lot of vice in Miami
 
 "We usually play to a full house here", Vincent told me while we were
 on the road to post papers to announce the circus around town. Elegant
-people came after us to check them out "Look, we are scoring good
-hits." There was a method to posting paper, I was discovering. You
+people came after us to check them out. "Look, we are scoring good
+hits.", Vince told me.
+
+We were very lucky to be there. There were heavier and less amusing things you could do in the circus that very morning, in the stifling Miami heat. Besides, I was supposed to learn stuff. There was a method to posting paper, I was discovering. You
 couldn't just paste them anywhere; barns, fences, some buildings,
 corners, always at eye's height, those were the places to do it. As a
 matter of fact, sometimes they were occupied by other posters
-announcing past or present shows. They were promptly ditched.  
+announcing past or present shows. They were promptly ditched, and this was accompanied by war stories of when two circus met in that place or that other and two posting parties met and mayhem ensued. I soon get bored of his talk and started to think whether this could be the day and place where I could finally escape alive and with a plus one called Manuel.   
 
 We had a fair amount of ducat to invite beautiful girls to come to the
 attractions and bring the local marks in tow. And man, they were
@@ -811,7 +813,7 @@ to form a letter.
 
 Yes, I know, Duke, it's an all-races republic. But including them does
 not mean I have to *like* them, right? I could have liked this one,
-though, if only she'd had a nicer and bigger chest. 
+though, if only she'd had a nicer and bigger rack. 
 
 "You want to earn a few pesos, girlie?" I asked her. If she came
 around maybe we could check her for the revue. After seen her naked,
@@ -861,17 +863,16 @@ linger for too long she could change her mind.
 Yes, I knew all that by that time. You learn fast in the circus and
 you learn a lot of trades, but the first thing you learn is people,
 what they do and what you can do to them. That includes girls.
+But I know much more now. I know that you can't trust no man and you can't trust women any more. By doing that, she forced us to action. And by forcing us to action, she commanded the situation.
 
 So of course she was hired for the day. Vince and me led her to the
 carriage that was shared by the nudist colony girls that came with the
-circus, another day hire was also there and she was getting explained
-how to pose and what to do and advice on how to avoid farting and
+circus. Another day hire, or at least some girt I hadnt' seen before, and, boy, had I seem them all in front of me and in my dreams, was also there and she was getting explained
+how to pose and what to do and adviced on how to avoid farting, conceal warts and
 things like that. We couldn't stay, of course, the mistress shooed us
 away. I understand that, we men could be there the whole day and do no
 work. Except maybe touching ourselves. Please, Gummy, you've already
 done it today once, can't you please stop?
-
-* write and revise *
 
 We didn't start the fire
 -----------------------------
