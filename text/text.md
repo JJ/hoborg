@@ -7,16 +7,18 @@ details](http://github.com/JJ/hoborg). You can help by proof-reading, forking, o
 Meet the mechanical man
 ----------------------------------
 
-There he was, gleaming in places, rusty in others. Jumping and
+There he was, gleaming in places, rusty in others. Rolling and
 whistling and frolicking to the general merriment of the public. 
 And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
-And the public... filled with brothers, of my own race, of the other
+I didn't really liked it, but I had no other way out than be attached to it. And the public... filled with brothers, of my own race, of the other
 races that have been oppressed since they arrived here or since the
 paleface newcomers arrived. Even palefaces, because all races are one and the same in the People's 
-Republic, ain't that?. Because my name is Fulgencio
+Republic, ain't that? 
+
+But I am not a paleface, because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
 a Mexican father. That was twenty and three years ago. 
 
@@ -29,14 +31,14 @@ buried.
 And now being the tenth year after the revolution that produced the United
 All Races People's Republic of Florida, or, if you prefer, la República Unida de Todas las Razas de Florida. 
 
-But a free man has to earn a living, too. That is why I am after Manuel,
+But a free man has to earn a living, or a better living than the Republic is able to provide. That is why I am after Manuel,
 the mechanical man. A real marvel of the People's Republic
 ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
 world. I can try, even as I received only the barest education before
 the capitalist system started to exploit my juvenile skills back there
-in awful California of awful America.
+in awful California of evil America.
 
 But I am jumping over myself. Let me tell you how it all started.
 
@@ -57,7 +59,7 @@ than Brunswick, if only our people  have their way. Which they
 will, I have no doubt as a loyal citizen of the Republic. Every dawning day brings new brothers to our
 new republic, brothers of all races, creeds and dispositions. 
 
-It was early winter and it was still sunny and mild; I was there, taking a walk in the docks, minding my own business,
+It was early winter and it was still sunny and mild. The air was clear, and I could see ships docking and leaving, ships from all sisters nations of the world, Spain, Cuba, Colombia, but also not-so-friendly places who decided the buck shouldn't stop anyways, the United Kindom, the austro-hungarian empire, those bohunks... I was there, taking a walk in the docks, minding my own business,
 which was precisely what I was looking for at that early moment of the day. I was
 looking for a hire, somebody who needed a quick mind and a strong pair
 of arms, and dodging the sun and keeping myself in the shade,
