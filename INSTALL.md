@@ -15,16 +15,22 @@ to change layout so that it can be synced with the next instruction.
 the hard part was starting)  and do 
 > cpan Git::Hooks
 > cpan File::Slurp
-Then 
+That presupposses you've got perlbrew installed, if you don't, do sudo apt-get install perlbrew and then perlbrew init and the rest; perlbrew install perl 5.16.3 or whichever one you like the most. Follow instructions from [the perlbrew page](http://perbrew.pl), anyways. 
+If you don't have, or don't want to have, perlbrew do basically the same with sudo in front of it
+
+6. Now do
 > cp apps/git-hooks.pl .git/hooks
 > cd .git/hooks
 > chmod +x git-hooks.pl
 > ln -s git-hooks.pl post-commit
-which will get you automatic sync with GitHub pages
-6. Get a [http://travis-ci.org](Travis account) and activate the
+which will get you automatic sync with GitHub pages. 
+
+
+7. Get a [http://travis-ci.org](Travis account) and activate the
 service hook for your project. We are going to use this for
 spell-check
-7. Edit (text/words.dic) for the specific words in your novel that
+
+8. Edit (text/words.dic) for the specific words in your novel that
 should pass the spell check, but do not. Remember that the first line
 contains the number of words.
-8 That's it. If you find trouble along the way, just let me know. 
+9 That's it. If you find trouble along the way, just let me know by raising  [an issue](https://github.com/JJ/hoborg/issues)
