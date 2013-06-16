@@ -897,7 +897,7 @@ time the tent had so many patches at eye level (and a few at
 midget-eye level) that it was on the brink of ripping the bottom part
 off all by itself, so it had to be changed. That goes to say that
 circus people are pretty much like the next guy, only a bit dustier
-and a bit more skilled on separarating marks from their
+and a bit more skilled on separating marks from their
 hardly-or-softly-as-if-anybody-cared earned money. 
 
 I had to push Vince and some other circus guys who had heard about the
@@ -914,7 +914,7 @@ boys, what swinging. Don't sigh, men, you've all been young and
 smelled fresh pussy. 
 
 I happened to be there, pushing aside one other gay, when the show was interrupted by a racket at the tent
-gate. I couldn't see what happend there, but I could see near the
+gate. I couldn't see what was going on there, but I could see near the
 scenario that several guys came into view shouting, and I first though they were
 protesting for high prices or too much time waiting in line or
 whatever. But they were yelling something about daughter and honor and
