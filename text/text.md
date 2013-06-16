@@ -839,15 +839,15 @@ She nodded again, and turned back. When she disappeared around a corner we could
 Gringo up, gringo down
 ------------------------------
 
-As we had expected, that evenihg the carnival was going full throttle, but I still could spot Tracy,
+As we had expected, that evening the carnival was going full throttle, but I still could spot Tracy,
 these gringas really don't know how to mix with the crowd. She was so
-white and blonde and she had put a white dress on top of that just so that
+white and blond and she had put a white dress on top of that just so that
 she could be made out even by night and with closed eyes. 
 
-Trying all the time to look as if we owned the place, Vince and me got her to the ringmaster, with whom we had negotiated as a comission we got to see her naked
+Trying all the time to look as if we owned the place, Vince and me got her to the ringmaster, with whom we had negotiated as a commission we got to see her naked
 while she was checked for the nudist colony. That was the only act she
 could make her do on short notice, because there's nothing much that needs to
-be done, just be naked. Pretty girls and some ugly with big boobs usually started at the circus
+be done, just be pretty and naked. Beautiful girls and some ugly with big boobs usually started  their career at the circus
 that way before they learned something and graduated to the revues or
 jig shows if they were whites, or even real circus acts if they were
 good at it, and got and assignment from the government. 
@@ -884,11 +884,57 @@ done it today once, can't you please stop?
 Somebody's daughter
 ------------------
 
-That night I went to the nudist colony tent more than usual. I took advantage of every errand to escape for a few seconds and go there to see how Tracy was doing. 
+That night I went to the girl show tent more than usual. I took
+advantage of every errand to escape for a few seconds and go there to
+see how Tracy was doing. Not that I could actually *get* in there, you
+know. We roustabouts and circus mates weren't allowed in there, we
+couldn't see the girls we shared a table at the mess room (not that it
+was usual, but even so...) or a seat at the train completely naked and
+in fetching poses. However, nobody could prevent us from ripping a
+triangle off the tent and check it, from time to time. Before packing
+they were checked and fixed, but new ones were open until after some
+time the tent had so many patches at eye level (and a few at
+midget-eye level) that it was on the brink of ripping the bottom part
+off all by itself, so it had to be changed. That goes to say that
+circus people are pretty much like the next guy, only a bit dustier
+and a bit more skilled on separarating marks from their
+hardly-or-softly-as-if-anybody-cared earned money. 
 
-She was doing great, of course. The barker was barking the presence of new girls to the four winds and gents were elbowing each other to be on the first row. Tracy and the other new girl was there, in front of the rest, apparently playing a table game, or resting, or doing silly dances which didn't matter because, well, the important thing was the booby swing. The professor talked about how important that was for health and how everybody did that in Sweden or Siam or wherever, but nobody paid much attention.
+I had to push Vince and some other circus guys who had heard about the
+new flesh from time to time to check on her. She was doing great, of
+course. The barker was barking the presence of new girls to the four
+winds and gents were elbowing each other to be on the first row. Tracy
+and the other new girl was there, in front of the rest, apparently
+playing a table game, or resting, or doing silly dances which didn't
+matter because, well, the important thing was the booby swing. The
+professor talked about how important that was for health and how
+everybody did that in Sweden or Siam or in old Greece or wherever, but nobody paid much
+attention to the words. The important part was the swinging.  Yes,
+boys, what swinging. Don't sigh, men, you've all been young and
+smelled fresh pussy. 
 
-I was there when the show was interrupted by a racket at the tent gate. Several guys came in shouting, and I first though they were protesting for high prices or too much time waiting in the queue or whatever. But they were yelling something about daughter and honor and I think I heard the name Tracy. Tracy just stood there, and the men came up to her, grabbing her arm and covering her with a blanket. The other girls run to the back of the tent, and I was left there with the professor, who seemed to be more elsewhere than there, and a few marks who seemed to think this might be a part or the show or just liked to be in the middle of things. 
+I happened to be there, pushing aside one other gay, when the show was interrupted by a racket at the tent
+gate. I couldn't see what happend there, but I could see near the
+scenario that several guys came into view shouting, and I first though they were
+protesting for high prices or too much time waiting in line or
+whatever. But they were yelling something about daughter and honor and
+I think I heard the name Tracy and I could see they were wielding
+clubs and baseball bats and even a machete. Tracy just stood there, and the men
+came up to her, grabbing her arm and covering her with a blanket. The
+other girls run to the back of the tent, and I was left there with the
+professor, who seemed to be more elsewhere than there, and a few marks
+who seemed to think this might be a part or the show or just liked to
+be in the middle of things.  
+
+When I arrived at the main tent door I pushed aside the people
+flooding out from inside and came in, there was an standout
+situation. One of the attackers had put a hand over the shoulders of
+Tracy and another was holding another girl, one of our own. The barker
+was laying on the floor, bleeding from the head. And I didn't know
+very well what to do. First thought was run, but second though is that
+the circus always protects their own. I then shouted
+
+"Hey Rube!"
 
 * revise and write* 
 
