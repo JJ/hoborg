@@ -795,7 +795,7 @@ next one, so we weren't gonna stop selling them tickets. Besides, they
 had their special seats just for them, they had to be filled, right?
 
 So, by the time Tracy came up to us, we weren't either ready for
-conversation or in the mood for gifts. So much paper to post, besides,
+conversation or in the mood for gifts. So much paper to post... Besides,
 we had considered a couple of times to charley it.  
 
 Who is Tracy? You're about to know her and we were about to do it, too. 
@@ -817,14 +817,14 @@ to form a letter. Yes, I know, Duke, it's an all-races republic. But including t
 not mean I have to *like* them, right? I could have liked this one,
 though, if only she'd had a nicer and bigger rack. Nothing personal, Duke, you're my man. 
 
-But she followed us even more, asking us where we were from and what we did in the circus and so no until we were so close to the circus that we had either to charley the paper or take another path and start to paper it. And we didn't feel like doing the second.
+But she continued following us, asking us where we were from and what we did in the circus and so on and so forth until we were so close to the circus that we had either to charley the paper or take another path and start to paper it. We didn't feel like doing the second and we needed some independence.
 
 "You want to earn a few pesos, girlie?" I asked her. If she came
 around maybe we could check her for the revue. After seeing her naked,
 we could either do her or hire her, or hire her and then do her. Not that I would have the chance to do either, but I could at least check her out thoroughly. And besides,
 she didn't know squat, so I could play the part. If was not as if
-Vince was going to tell her. Besides, she had opened her eyes and was
-smiling broadly; we had her on the hook. And we needed some independence". She nodded a vehement "yes", opening her eyes and smiling broadly.
+Vince was going to tell her. At my question, she had opened her eyes and was
+smiling broadly; we had her on the hook. She nodded a vehement "yes", opening her eyes and smiling broadly.
 
 "So, do you have a name to go with those beautiful eyes?" I asked
 her. Vince went along with me. 
@@ -832,22 +832,22 @@ her. Vince went along with me.
 "Tracy." She said while he blinked. Yay, we had her on the hook. Or
 the other way round. 
 
-"What do you say if you come around in say, two hours " She stared blankly, as if the concept of hours was something that was difficult to grab..."OK, after a good while, when you see people coming up to the circus, and you tell the girl at the ticket counter to send for us. We are Fulgencio and Vince. Can you remember that?"
+"What do you say if you meet us at the circus in, say, two hours." She stared blankly, as if the concept of "hour" was something too difficult to grasp..."OK, to there after a good while, when you see people coming up to the circus, and you tell the girl at the ticket counter to send for us. We are Fulgencio and Vince. Can you remember that? OK, bye now." I waved her with my hand, just in case it was not clear enough. 
 
-She nodded again, and turned back. We could finally charley the paper, and we might even manage to score tonight. 
+She nodded again, and turned back. When she disappeared around a corner we could finally charley the paper, and we might even manage to score tonight. 
 
 Gringo up, gringo down
 ------------------------------
 
-The carnival was going full throttle, but I still could spot Tracy,
+As we had expected, that evenihg the carnival was going full throttle, but I still could spot Tracy,
 these gringas really don't know how to mix with the crowd. She was so
-white and blond and she had put a white dress on top of that just so that
+white and blonde and she had put a white dress on top of that just so that
 she could be made out even by night and with closed eyes. 
 
-We got her to the ringmaster, and as a payment we got to see her naked
+Trying all the time to look as if we owned the place, Vince and me got her to the ringmaster, with whom we had negotiated as a comission we got to see her naked
 while she was checked for the nudist colony. That was the only act she
-could do on short notice, because there's nothing much that needs to
-be done, just be naked. Pretty girls usually started at the circus
+could make her do on short notice, because there's nothing much that needs to
+be done, just be naked. Pretty girls and some ugly with big boobs usually started at the circus
 that way before they learned something and graduated to the revues or
 jig shows if they were whites, or even real circus acts if they were
 good at it, and got and assignment from the government. 
