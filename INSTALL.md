@@ -40,4 +40,19 @@ do
 > ln -s text/commit.pl c 
 Remember always to chmod +x commit.pl
 
-10. That's it. If you find trouble along the way, just let me know by raising  [an issue](https://github.com/JJ/hoborg/issues)
+10. That's it. If you find trouble along the way, just let me know by
+raising  [an issue](https://github.com/JJ/hoborg/issues)
+
+Troubleshooting
+---------------
+
+Remember that with the post-commit hook you'll be doing push in two
+branches at the same time. If you fall behind in a local installation,
+you have to checkout and pull in both; you can't just do a git pull
+since you'll be doing it only on the current branch. Do 
+>git pull
+>git checkout gh-pages
+>git pull
+>git checkout master
+
+And that's it.
