@@ -956,11 +956,11 @@ arrive, just pushed me aside and started to talk.
 
 "What the fuck do you want with us?" He asked in the general direction
 of the kidnappers. One of them, with overalls, a dirt-colored shirt,
-corless boots and and a baseball bat,
+cordless boots and and a baseball bat,
 a middle-aged guy going on old age with a single tooth that we could
 see, hissed and kind of said
 
-"The honor of my daughter Tracy, who you're showing here naked an'all
+"The honor of my daughter Tracy, who you're showing here naked an' all
 for all niggers and spics to see..."
 
 "Hey, hey, hey, mind your language, ol' mate. It's also there for you
@@ -986,7 +986,7 @@ he seemed to change tack and stop insulting them.
 
 "So you're all brothers and fathers, right? What if we call the Guard
 and have all that checked out and we see who's right or wrong here?"
-Asked Guy, making enphasis on the Guard. More people had arrived, but
+Asked Guy, making emphasis on the Guard. More people had arrived, but
 the circus act was in full swing, so not many of them were
 available. In fact, I think I could see a flicker of Rufus somewhere
 to my left. 
@@ -994,7 +994,13 @@ to my left.
 "You call the Guard and before they arrive this girl has a new face
 and that guy has no face. And any of us escapes alive, and everybody
 will know that you called outside people to take care of your
-business." Said the old guy. Ouch, that hurt. 
+business." Said the old guy. Ouch, that hurt. Guy the gaffer didn't
+flinch. 
+
+"Now we're talking, matey. How much is that honor thing worth to you?"
+
+"No less than twenty and five thousand" The old toothless guy
+answered, straight away. 
 
 
 
