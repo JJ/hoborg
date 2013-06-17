@@ -1003,9 +1003,13 @@ flinch.
 answered, straight away. 
 
 "Dollars? That's how much, thirty seven pesos?" The folks around Guy
-laughed. In fact, it was closer to fifteen thousahd, I
+laughed. In fact, it was closer to fifteen thousand, I
 reckon. Eighteen thousand, you say, Duke? OK, around that. But it was
 funny anyways. 
+
+"You know better than that, nigger, you know what I mean, don't you," replied the old man.
+
+"She's hardly worth half that amount. You seen her tits? Stupid question, that's what you have at home instead of radio, as civilized homes do." The old man took this in stride. It was money talking now, and that was a language they both understood very well. 
 
 
 
