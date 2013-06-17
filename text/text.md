@@ -201,7 +201,7 @@ Here's a bit of money to get you started
 ----------------------------------------------------
 
 And a printout of where this marvel could be found, since, to top all
-that, he didn't stay in a single place, but was moving all over the
+that, he didn't stay in a single place, but kept moving all over the
 place with a circus.  
 
 "A circus?" I asked. "What does it do? Bite chicken heads off?"
@@ -280,7 +280,7 @@ it, get out. Except it was not.
 With the ten thou I had when I arrived at Panama City, where the circus
 happened to be a few days later, I couldn't even have bought a ride
 with the circus. Which, come to think of it, was what the two guys
-would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways. 
+would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways.  
 
 Not that it was. Not that I had the ten thousand any more, a man has
 got expenses and love is not always free, as you may know. Yes, young
@@ -936,6 +936,72 @@ the circus always protects their own. I then shouted
 
 "Hey Rube!"
 
+It's a clem!
+--------------
+
+There were on my count three, no, four, no, half a dozen guys in front
+of the scene.  I couldn't handle them all by myself, no way. So I made
+the call for other guys to join me and try to solve the situation.
+
+Which didn't seem easily solvable without a broken limb. However, it
+might be solvable without that limb breaking being mine, if I only got
+a few more guys from the circus to help us.
+
+Guy the gaffer was the first to arrive, as he always did. That was one
+of the reason why he was allowed to boss everyone around even being
+white, octoroon he said, but we knew he was white as white wool, that
+he was. Hey, all races and all that, no problem, awright? Besides, he
+was always there. He didn't even made a fist or expect other guys to
+arrive, just pushed me aside and started to talk.
+
+"What the fuck do you want with us?" He asked in the general direction
+of the kidnappers. One of them, with overalls, a dirt-colored shirt,
+corless boots and and a baseball bat,
+a middle-aged guy going on old age with a single tooth that we could
+see, hissed and kind of said
+
+"The honor of my daughter Tracy, who you're showing here naked an'all
+for all niggers and spics to see..."
+
+"Hey, hey, hey, mind your language, ol' mate. It's also there for you
+honkies to see if you pay the price, matey!" He answered, raising his
+hands, palms front and laughing. Not the right answer, apparently,
+because all six or seven or them started to wield their weapons and
+one of them picked up the professor from the floor and put the machete
+by the side of his neck. 
+
+"You'se a funny one, you. But you'se paying for this, and you'se
+paying it dearly because the honor of a daughter has no price"
+
+"You don't want anybody else but your own family banging her, do you,
+matey?" Guy the gaffer said. The machete drew closer to the professor
+neck, the baton closer to the other girl head, and one of the arms of
+Tracy was released, just so the guy that had her, presumably his
+brother, could shake the bate more freely with the other hand.
+
+"That's what you niggers do. We white folk respect each other and God,
+we do!" Guy could be only proud of being called a nigger, since he was
+just getting out of his winter paleness. That might be the reason why
+he seemed to change tack and stop insulting them.
+
+"So you're all brothers and fathers, right? What if we call the Guard
+and have all that checked out and we see who's right or wrong here?"
+Asked Guy, making enphasis on the Guard. More people had arrived, but
+the circus act was in full swing, so not many of them were
+available. In fact, I think I could see a flicker of Rufus somewhere
+to my left. 
+
+"You call the Guard and before they arrive this girl has a new face
+and that guy has no face. And any of us escapes alive, and everybody
+will know that you called outside people to take care of your
+business." Said the old guy. Ouch, that hurt. 
+
+
+
+
+By this moment I was completely lost. Every word
+
+
 * revise and write* 
 
 We didn't start the fire
@@ -1044,7 +1110,7 @@ up to, at least, Red Bluff. So the easiest way to go from here to
 there, from the real Land of the Free to the purported Land of the
 Free, was to sail from Pensacola. 
 
-So it was Noah's Ark all over again, as the circus manager said at
+So it was Noah's Ark all over again, as the Guy the circus manager said at
 least one zillion times before, during and after boarding. Not that we
 did not know already that all that Noah stuff was a big steaming pile
 of elephant dung, but if you put lions and horses and bearded women
@@ -1100,7 +1166,7 @@ before us, because the tarp had a different color, ours were green,
 this one was tan. 
 
 I didn't have the time to stay around to watch it any more because the
-circus manager grabbed me again and had me running errands, putting
+Guy the circus manager grabbed me again and had me doing Chinese, putting
 things in cabins, covering the carriages with tarpaulins and hauling
 supplies belowdecks. Which is a nice word that somebody shouted while
 we were doing there and means in the basement of the ship. 
