@@ -1005,6 +1005,10 @@ flinch.
 "No less than twenty and five thousand" The old toothless guy
 answered, straight away. 
 
+"Dollars? That's how much, thirty seven pesos?" The folks around Guy
+laughed. In fact, it was closer to fifteen thousahd, I
+reckon. Eighteen thousand, you say, Duke? OK, around that. But it was
+funny anyways. 
 
 
 
