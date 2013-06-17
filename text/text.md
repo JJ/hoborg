@@ -10,16 +10,18 @@ details](http://github.com/JJ/hoborg). You can help by proof-reading, forking, o
 Meet the mechanical man
 ----------------------------------
 
-There he was, gleaming in places, rusty in others. Jumping and
+There he was, gleaming in places, rusty in others. Rolling and
 whistling and frolicking to the general merriment of the public. 
 And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
-And the public... filled with brothers, of my own race, of the other
+I didn't really liked it, but I had no other way out than be attached to it. And the public... filled with brothers, of my own race, of the other
 races that have been oppressed since they arrived here or since the
 paleface newcomers arrived. Even palefaces, because all races are one and the same in the People's 
-Republic, ain't that?. Because my name is Fulgencio
+Republic, ain't that? 
+
+But I am not a paleface, because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
 a Mexican father. That was twenty and three years ago. 
 
@@ -32,14 +34,14 @@ buried.
 And now being the tenth year after the revolution that produced the United
 All Races People's Republic of Florida, or, if you prefer, la República Unida de Todas las Razas de Florida. 
 
-But a free man has to earn a living, too. That is why I am after Manuel,
+But a free man has to earn a living, or a better living than the Republic is able to provide. That is why I am after Manuel,
 the mechanical man. A real marvel of the People's Republic
 ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
 world. I can try, even as I received only the barest education before
 the capitalist system started to exploit my juvenile skills back there
-in awful California of awful America.
+in awful California of evil America.
 
 But I am jumping over myself. Let me tell you how it all started.
 
@@ -60,17 +62,20 @@ than Brunswick, if only our people  have their way. Which they
 will, I have no doubt as a loyal citizen of the Republic. Every dawning day brings new brothers to our
 new republic, brothers of all races, creeds and dispositions. 
 
-It was early winter and it was still sunny and mild; I was there, taking a walk in the docks, minding my own business,
+It was early winter and it was still sunny and mild. The air was clear, and I could see ships docking and leaving, 
+ships from all sister nations of the world, Spain, Cuba, Colombia, but also not-so-friendly places 
+who decided the buck needn't stop here and had resumed trade as soon as they could, 
+the United Kingdom, the Austrohungarian Empire, those bohunks... I was there, taking a walk in the docks, minding my own business,
 which was precisely what I was looking for at that early moment of the day. I was
-looking for a hire, somebody who needed a quick mind and a strong pair
+looking for a hire, for somebody who needed a quick mind and a strong pair
 of arms, and dodging the sun and keeping myself in the shade,
 because the sun made  my clothes too warm for comfort. What was it? January? December? Can't
 tell. Even less so now that all months have changed their names to
 something that does not have gods or umpirators or unpopular names.
 That means that people no longer know the month they are
-in. Not that most of them had ever cared, anyways. Not that I have a
+in. Not that most of them had ever cared, anyways. And not that I have a
 grudge with that, either. It's all for the greater good of the
-Republic, ain't it?
+Republic, ain't it? Keeping capitalists names out of the Republic. 
 
 So, it was mild going on warm and these two dandy types came up to me from the sea
 shore, maybe from a ship, dressed to the
@@ -130,7 +135,7 @@ aloud again. You all got the milk pail? Well, now put it on top of the
 teakettle. A small one. Two milk pails for you, Gummy. Lost you? Aw,
 what the hell, just go to sleep again. 
 
-Lost you all? Big, roundish, thick-on-the-bottom, metallic upside-down
+Lost you all? Big, roundish, thick-on-the-bottom, metallic, upside-down
 bucket with another on top, body and head. Which goes to account for
 the name mechanical man, but when I first saw him that what I though
 about. It was even steaming a little bit, because he's not actually
@@ -199,7 +204,7 @@ Here's a bit of money to get you started
 ----------------------------------------------------
 
 And a printout of where this marvel could be found, since, to top all
-that, he didn't stay in a single place, but was moving all over the
+that, he didn't stay in a single place, but kept moving all over the
 place with a circus.  
 
 "A circus?" I asked. "What does it do? Bite chicken heads off?"
@@ -278,7 +283,7 @@ it, get out. Except it was not.
 With the ten thou I had when I arrived at Panama City, where the circus
 happened to be a few days later, I couldn't even have bought a ride
 with the circus. Which, come to think of it, was what the two guys
-would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways. 
+would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways.  
 
 Not that it was. Not that I had the ten thousand any more, a man has
 got expenses and love is not always free, as you may know. Yes, young
@@ -383,7 +388,7 @@ whole fucking circus. "How much is that worth for you?"
 
 "American dollars?" I replied, and the suited man snorted. Now I could see that the
 suit had been recently cleaned, ironed and starched, but was the worse
-for wear and threadbare in places. And his hair was not greased back,
+for wear and frayed in places. And his hair was not greased back,
 just dirty and greasy. He was a lot louse, probably, somebody
 wandering around circus lots looking for somebody that can be easily
 conned.
@@ -598,28 +603,31 @@ I married a bearded woman
 ------------------------------------
 
 Not quite, although seducing one of them would be a way of marrying
-into the circus, I was not amused by that prospect. So I have to words
-for you: Fake. Papers. I went up to the circus, which had just arrived
+into the circus, I was not amused by that prospect. So I have two words
+for you: Fake. Papers. 
+With them in hand, I crossed under the circus arch, which had just arrived
 to the city of Ferry Pass. 
 
 "Let me check that." said the improbably named Boris, the circus
 manager, a big, dark brother with shoulders one mile long that could
 have stood for the strongman or the lion tamer if there was a need for
-that. I was standing in the carriage that served as an office and as a
+that. The papers with purple official-looking seals carried me into  the carriage that served as office and as 
 ticket booth, these circus guys like to keep all money matters close
-together, lest they contaminate the rest of the stuff; a man and a
-woman were idling at their desks, rustling papers and listening to the
-wireless, which was broadcasting a speech by one of the high-ups in
-our Republic. I tried to listen intently, but couldn't. He didn't seem
-angry, so he was probably cheering up the workers and farmers of our
-land. I probably had heard it anyways. I had made a beeline from the
+together, lest they contaminate the rest of the stuff. I had made a beeline from the
 circus arch, which I didn't know yet was called an arch, to the
 office. The less people that could intercept you and ask questions
 about your business, the better. Circus people aren't known for
 cheerful treatments of strangers. 
 
-I saw Boris go to its office at one of the ends of the carriage. I
-knew it would check out. The official at the People's Party in 
+Besides Boris, that had been fetched from his office, a man and a
+woman were idling at their desks, rustling papers and listening to the
+wireless, which was broadcasting a speech by one of the high-ups in
+our Republic. I tried to listen intently, but couldn't make out the words. He didn't seem
+angry, so he was probably cheering up the soldiers, workers and farmers of our
+land. I probably had heard them anyways. 
+
+I saw Boris, my not so evidently fake papers in hands, go to its office at one of the ends of the carriage. I
+knew the assignment would check out. The official at the People's Party in 
 Pascagoula had been paid dearly to request an assignment of one
 Fulgencio Ribera, 23, to the Number One Glorious People's Flying Circus, Menagerie, and
 Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
@@ -635,28 +643,27 @@ States. Did I say umpirialist? I meant umpirialistic. Imperialist? You
 made that word up, Duke, didn't you? OK, OK, OK, imperialist, so what
 gives? 
 
-What's bad about crooked officials is that they can bend two or three
-different ways. And this Boris was taking too long to wire a request
-to Tampa and get it back. The clerk and the secretary kept
+When Boris was gone and apparently using the phone in his office, I started to think that what's bad about crooked officials is that they can bend two or three
+different ways. And this Boris was having too long a conversation with Tampa  or whoever the hell he had decided to talk. It was not helping that the clerk and the secretary kept
 looking at me with that look of "You don't belong here" which I tried
 hard not to return. And this was starting to look like a situation in
-which I would have to fight my way out.
+which I would have to fight my way out, so I edged a bit closer to the door because you never know.
 
-Thus to avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
+To avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
 features. "Manuel The Mighty Mechanical Man" featured what looked like a guy
-sheathed in gold foil lifting an elephant. "The Human Radio Receiver"
-was on another poster, dressed like a sailor for no reason and with a
-hat from which several wires sprouted, from the wires, wavy lines came
+sheathed in gold foil lifting an elephant. "Ray, the Human Radio Receiver"
+was on another poster, dressed like a sailor for no good reason and with a
+hat from which several wires sprouted; from those wires, wavy lines came
 out (or in, who knows) while he seemed to be speaking, arms wide
 open. I'd heard about that one, and it looked like a scam. But then I
-was not buying this circus, I was here for a reason. A heavy, metal,
+was not buying this circus, I was here for a reason. A heavy, metallic,
 mechanical reason.
 
-And then Boris came back from his office at the end of the
+I realized Boris had stopped talking and shortly he came back from his office at the end of the
 carriage. And he did not seem happy. 
 
 School years
-----------------
+------------------
 
 No, that's Fulgencio Ribera, with a b. I don't know any Rivera from
 anywhere. I went to school in... What's with it? Why do you want to
@@ -682,8 +689,8 @@ existed, of course, which I really don't think it does, and you don't
 either, right? You have been there, Gummy? That might account for your
 lack of hair, for sure!
 
-"Hey, hey, hey. No need to make a racket out of this. " I stopped and
-started to fold them with exaggerated care while looking at them. I
+"Hey, hey, hey. No need to make a racket out of this." Boris told me and I stopped and
+started to fold the papers with exaggerated care while looking at them. I
 really didn't know what to do. I'd have to hire a band of rustlers to
 get the iron dummy out of here. Disappointment probably crept to my
 face, and Boris said
@@ -760,7 +767,7 @@ Nobody understands Gummy Fucking Eddie, so I will tell his story for
 him. Yes, I'll be telling you all my story in the army and why I'm a
 Captain and a Corporal at the same time, but be patient and all of you
 will be satisfied. Gummy, if you don't stop doing that right now I'm
-not going to be your puppet now or never. Really.
+not going to act your puppet now or never. Really.
 
 *revise and write*
 
@@ -770,12 +777,14 @@ There's a lot of vice in Miami
 
 "We usually play to a full house here", Vincent told me while we were
 on the road to post papers to announce the circus around town. Elegant
-people came after us to check them out "Look, we are scoring good
-hits." There was a method to posting paper, I was discovering. You
+people came after us to check them out. "Look, we are scoring good
+hits." Vince told me.
+
+We were very lucky to be there. There were heavier and less amusing things you could do in the circus that very morning, in the stifling Miami heat. Besides, I was supposed to learn stuff. There was a method to posting paper, I was discovering. You
 couldn't just paste them anywhere; barns, fences, some buildings,
 corners, always at eye's height, those were the places to do it. As a
 matter of fact, sometimes they were occupied by other posters
-announcing past or present shows. They were promptly ditched.  
+announcing past or present shows. They were promptly ditched, and this was accompanied by war stories of when two circus met in that place or that other and two posting parties met and mayhem ensued. I soon get bored of his talk and started to think whether this could be the day and place where I could finally escape alive and with a plus one called Manuel.   
 
 We had a fair amount of ducat to invite beautiful girls to come to the
 attractions and bring the local marks in tow. And man, they were
@@ -784,92 +793,233 @@ sight. We run out of ducat much before we run out of money and we
 extracted so many promises... 
 
 We had had to turn down a few, specially gringas. We didn't want them
-there, but if they did show up, their pesos would be as good as the
+there at the circus, but if they did show up, their pesos would be as good as the
 next one, so we weren't gonna stop selling them tickets. Besides, they
 had their special seats just for them, they had to be filled, right?
 
 So, by the time Tracy came up to us, we weren't either ready for
-conversation or in the mood for gifts. So much paper to post, besides,
+conversation or in the mood for gifts. So much paper to post... Besides,
 we had considered a couple of times to charley it.  
 
-Not that she was not beautiful; she was nice, in that transparent way
+Who is Tracy? You're about to know her and we were about to do it, too. 
+
+We didn't feel like talking to her because honkies, even honkie girls, were always walking around bumming things and complaining about this and that. Besides, she was not that beautiful to deserve one of the ducats we kept; she was nice, in that transparent way
 the gringas had; her hair was flat and hay colored, and her hips and
 boobs were way too small, although not disagreeably shaped. She didn't
 smell good, a bit musty. Vince and me sent her on her way, but she
-stuck to us.
+clung to us on our way back to the circus. Which pissed us off even more since now she would be witness to us ditching the paper; yes, that's what charley means, weren't you listening? Am I not talking in fucking English? OK, Duke, I'll keep it easy, only I get all fired up when I recall all that. 
 
-"How long are you staying?" she was asking.
+"How long are you staying?" she  went, from a couple of steps behind us.
 
 "It's right there on the paper, gringa. Can't you read?" She probably
-couldn't. These palefaces were too rebellious for their own good, they
+couldn't. These palefaces were too ignorant and rebellious for their own good, they
 just liked to spend their days shooting squirrels and drinking. And
 fucking their sisters, I tell you. Many of them couldn't read just
 because they hadn't enough in their heads to be able to join the lines
-to form a letter. 
-
-Yes, I know, Duke, it's an all-races republic. But including them does
+to form a letter. Yes, I know, Duke, it's an all-races republic. But including them does
 not mean I have to *like* them, right? I could have liked this one,
-though, if only she'd had a nicer and bigger chest. 
+though, if only she'd had a nicer and bigger rack. Nothing personal, Duke, you're my man. 
+
+But she continued following us, asking us where we were from and what we did in the circus and so on and so forth until we were so close to the circus that we had either to charley the paper or take another path and start to paper it. We didn't feel like doing the second and we needed some independence.
 
 "You want to earn a few pesos, girlie?" I asked her. If she came
-around maybe we could check her for the revue. After seen her naked,
-we could either do her or hire her. Not that I would have the chance
-of either, but I could at least check her out thoroughly. And besides,
+around maybe we could check her for the revue. After seeing her naked,
+we could either do her or hire her, or hire her and then do her. Not that I would have the chance to do either, but I could at least check her out thoroughly. And besides,
 she didn't know squat, so I could play the part. If was not as if
-Vince was going to tell her. Besides, she had opened her eyes and was
-smiling broadly; we had her on the hook. 
+Vince was going to tell her. At my question, she had opened her eyes and was
+smiling broadly; we had her on the hook. She nodded a vehement "yes", opening her eyes and smiling broadly.
 
 "So, do you have a name to go with those beautiful eyes?" I asked
-her. Vince just continued checking her out.
+her. Vince went along with me. 
 
 "Tracy." She said while he blinked. Yay, we had her on the hook. Or
 the other way round. 
 
-*revise*
+"What do you say if you meet us at the circus in, say, two hours." She stared blankly, as if the concept of "hour" was something too difficult to grasp..."OK, to there after a good while, when you see people coming up to the circus, and you tell the girl at the ticket counter to send for us. We are Fulgencio and Vince. Can you remember that? OK, bye now." I waved her with my hand, just in case it was not clear enough. 
+
+She nodded again, and turned back. When she disappeared around a corner we could finally charley the paper, and we might even manage to score tonight. 
 
 Gringo up, gringo down
 ------------------------------
 
-The carnival was going full throttle, but I still could spot Tracy,
+As we had expected, that evening the carnival was going full throttle, but I still could spot Tracy,
 these gringas really don't know how to mix with the crowd. She was so
-white and blond and she put a white dress on top of that just so that
+white and blond and she had put a white dress on top of that just so that
 she could be made out even by night and with closed eyes. 
 
-We got her to the ringmaster, and as a payment we got to see her naked
+Trying all the time to look as if we owned the place, Vince and me got her to the ringmaster, with whom we had negotiated as a commission we got to see her naked
 while she was checked for the nudist colony. That was the only act she
-could do on short notice, because there's nothing much that needs to
-be done, just be naked. Pretty girls usually started at the circus
+could make her do on short notice, because there's nothing much that needs to
+be done, just be pretty and naked. Beautiful girls and some ugly with big boobs usually started  their career at the circus
 that way before they learned something and graduated to the revues or
 jig shows if they were whites, or even real circus acts if they were
-good at it, and they got assigned from the government. 
+good at it, and got and assignment from the government. 
 
-But no government job was needed to stand naked and pout, which she
-seemed to be good enough at. Not a great body, even for a
+But no government job was needed to lay stark naked and pout, which she
+seemed to be good enough at. She wasn't too reluctant to undress when the ringmaster told her, and she only lingered at the unbuttoning at the interesting parts. She had no bra, as we had been able to make out under her white dress, but she wore panties that had seen so many washes that they were threadbare here and there. She eventually took them off also, standing there on her moccasins. She quickly fell into a pose. 
+ 
+As I had already noticed with her clothes on, she did not have a great body, even for a
 paleface. Too whitey, cute pair of boobs, those pink nipples could win
-her a good pouch of pesos, and flat booty, but hey, she was white,
-what could you expect. And she had a bushy crotch that extended almost
+her a good pouch of pesos, and flat booty. But hey, she was white,
+what could you expect. She had a bushy crotch that extended almost
 up to her belly button. Nudist colony girls had it shaved, but there
 was going to be no time today, the sideshows were about to begin. 
 
-Vince, the ringmaster and me just left her there while we talked among
-us as if we were examining a horse. She started to cover herself and
+Vince, the ringmaster and me just left her there while we talked in whispers among
+us as if we were examining a horse, appraising hers. She started to cover herself and
 we knew it was time to hire or kick her off, because if we let it
 linger for too long she could change her mind.
 
 Yes, I knew all that by that time. You learn fast in the circus and
 you learn a lot of trades, but the first thing you learn is people,
 what they do and what you can do to them. That includes girls.
+But I know much more now. I know that you can't trust no man and you can't trust women any more. By doing that, she forced us to action. And by forcing us to action, she commanded the situation. What's with girls, I don't know, they always make them do what they want and you end up thinking it was your idea. 
 
 So of course she was hired for the day. Vince and me led her to the
 carriage that was shared by the nudist colony girls that came with the
-circus, another day hire was also there and she was getting explained
-how to pose and what to do and advice on how to avoid farting and
-things like that. We couldn't stay, of course, the mistress shooed us
+circus. Another day hire, or at least some girt I hadn't seen before, and, boy, had I seem them all in front of me and in my dreams, was also there and she was getting explained
+how to pose and what to do and advised on how to avoid farting, conceal warts and
+things like that. Just guessing that; we couldn't stay, of course, the mistress shooed us
 away. I understand that, we men could be there the whole day and do no
 work. Except maybe touching ourselves. Please, Gummy, you've already
 done it today once, can't you please stop?
 
-* write and revise *
+Somebody's daughter
+------------------
+
+That night I went to the girl show tent more than usual. I took
+advantage of every errand to escape for a few seconds and go there to
+see how Tracy was doing. Not that I could actually *get* in there, you
+know. We roustabouts and circus mates weren't allowed in there, we
+couldn't see the girls we shared a table at the mess room (not that it
+was usual, but even so...) or a seat at the train completely naked and
+in fetching poses. However, nobody could prevent us from ripping a
+triangle off the tent and check it, from time to time. Before packing
+they were checked and fixed, but new ones were open until after some
+time the tent had so many patches at eye level (and a few at
+midget-eye level) that it was on the brink of ripping the bottom part
+off all by itself, so it had to be changed. That goes to say that
+circus people are pretty much like the next guy, only a bit dustier
+and a bit more skilled on separating marks from their
+hardly-or-softly-as-if-anybody-cared earned money. 
+
+I had to push Vince and some other circus guys who had heard about the
+new flesh from time to time to check on her. She was doing great, of
+course. The barker was barking the presence of new girls to the four
+winds and gents were elbowing each other to be on the first row. Tracy
+and the other new girl was there, in front of the rest, apparently
+playing a table game, or resting, or doing silly dances which didn't
+matter because, well, the important thing was the booby swing. The
+professor talked about how important that was for health and how
+everybody did that in Sweden or Siam or in old Greece or wherever, but nobody paid much
+attention to the words. The important part was the swinging.  Yes,
+boys, what swinging. Don't sigh, men, you've all been young and
+smelled fresh pussy. 
+
+I happened to be there, pushing aside one other gay, when the show was interrupted by a racket at the tent
+gate. I couldn't see what was going on there, but I could see near the
+scenario that several guys came into view shouting, and I first though they were
+protesting for high prices or too much time waiting in line or
+whatever. But they were yelling something about daughter and honor and
+I think I heard the name Tracy and I could see they were wielding
+clubs and baseball bats and even a machete. Tracy just stood there, and the men
+came up to her, grabbing her arm and covering her with a blanket. The
+other girls run to the back of the tent, and I was left there with the
+professor, who seemed to be more elsewhere than there, and a few marks
+who seemed to think this might be a part or the show or just liked to
+be in the middle of things.  
+
+When I arrived at the main tent door I pushed aside the people
+flooding out from inside and came in, there was an standout
+situation. One of the attackers had put a hand over the shoulders of
+Tracy and another was holding another girl, one of our own. The barker
+was laying on the floor, bleeding from the head. And I didn't know
+very well what to do. First thought was run, but second though is that
+the circus always protects their own. I then shouted
+
+"Hey Rube!"
+
+It's a clem!
+--------------
+
+There were on my count three, no, four, no, half a dozen guys in front
+of the scene.  I couldn't handle them all by myself, no way. So I made
+the call for other guys to join me and try to solve the situation.
+
+Which didn't seem easily solvable without a broken limb. However, it
+might be solvable without that limb breaking being mine, if I only got
+a few more guys from the circus to help us.
+
+Guy the gaffer was the first to arrive, as he always did. That was one
+of the reason why he was allowed to boss everyone around even being
+white, octoroon he said, but we knew he was white as white wool, that
+he was. Hey, all races and all that, no problem, awright? Besides, he
+was always there. He didn't even made a fist or expect other guys to
+arrive, just pushed me aside and started to talk.
+
+"What the fuck do you want with us?" He asked in the general direction
+of the kidnappers. One of them, with overalls, a dirt-colored shirt,
+cordless boots and and a baseball bat,
+a middle-aged guy going on old age with a single tooth that we could
+see, hissed and kind of said
+
+"The honor of my daughter Tracy, who you're showing here naked an' all
+for all niggers and spics to see..."
+
+"Hey, hey, hey, mind your language, ol' mate. It's also there for you
+honkies to see if you pay the price, matey!" He answered, raising his
+hands, palms front and laughing. Not the right answer, apparently,
+because all six or seven or them started to wield their weapons and
+one of them picked up the professor from the floor and put the machete
+by the side of his neck. 
+
+"You'se a funny one, you. But you'se paying for this, and you'se
+paying it dearly because the honor of a daughter has no price"
+
+"You don't want anybody else but your own family banging her, do you,
+matey?" Guy the gaffer said. The machete drew closer to the professor
+neck, the baton closer to the other girl head, and one of the arms of
+Tracy was released, just so the guy that had her, presumably his
+brother, could shake the bate more freely with the other hand.
+
+"That's what you niggers do. We white folk respect each other and God,
+we do!" Guy could be only proud of being called a nigger, since he was
+just getting out of his winter paleness. That might be the reason why
+he seemed to change tack and stop insulting them.
+
+"So you're all brothers and fathers, right? What if we call the Guard
+and have all that checked out and we see who's right or wrong here?"
+Asked Guy, making emphasis on the Guard. More people had arrived, but
+the circus act was in full swing, so not many of them were
+available. In fact, I think I could see a flicker of Rufus somewhere
+to my left. 
+
+"You call the Guard and before they arrive this girl has a new face
+and that guy has no face. And any of us escapes alive, and everybody
+will know that you called outside people to take care of your
+business." Said the old guy. Ouch, that hurt. Guy the gaffer didn't
+flinch. 
+
+"Now we're talking, matey. How much is that honor thing worth to you?"
+
+"No less than twenty and five thousand" The old toothless guy
+answered, straight away. 
+
+"Dollars? That's how much, thirty seven pesos?" The folks around Guy
+laughed. In fact, it was closer to fifteen thousand, I
+reckon. Eighteen thousand, you say, Duke? OK, around that. But it was
+funny anyways. 
+
+"You know better than that, nigger, you know what I mean, don't you," replied the old man.
+
+"She's hardly worth half that amount. You seen her tits? Stupid question, that's what you have at home instead of radio, as civilized homes do." The old man took this in stride. It was money talking now, and that was a language they both understood very well. 
+
+
+
+By this moment I was completely lost. Every word
+
+
+* revise and write* 
 
 We didn't start the fire
 -----------------------------
@@ -977,7 +1127,7 @@ up to, at least, Red Bluff. So the easiest way to go from here to
 there, from the real Land of the Free to the purported Land of the
 Free, was to sail from Pensacola. 
 
-So it was Noah's Ark all over again, as the circus manager said at
+So it was Noah's Ark all over again, as the Guy the circus manager said at
 least one zillion times before, during and after boarding. Not that we
 did not know already that all that Noah stuff was a big steaming pile
 of elephant dung, but if you put lions and horses and bearded women
@@ -1033,7 +1183,7 @@ before us, because the tarp had a different color, ours were green,
 this one was tan. 
 
 I didn't have the time to stay around to watch it any more because the
-circus manager grabbed me again and had me running errands, putting
+Guy the circus manager grabbed me again and had me doing Chinese, putting
 things in cabins, covering the carriages with tarpaulins and hauling
 supplies belowdecks. Which is a nice word that somebody shouted while
 we were doing there and means in the basement of the ship. 
