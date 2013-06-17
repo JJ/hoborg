@@ -201,7 +201,7 @@ Here's a bit of money to get you started
 ----------------------------------------------------
 
 And a printout of where this marvel could be found, since, to top all
-that, he didn't stay in a single place, but was moving all over the
+that, he didn't stay in a single place, but kept moving all over the
 place with a circus.  
 
 "A circus?" I asked. "What does it do? Bite chicken heads off?"
@@ -280,7 +280,7 @@ it, get out. Except it was not.
 With the ten thou I had when I arrived at Panama City, where the circus
 happened to be a few days later, I couldn't even have bought a ride
 with the circus. Which, come to think of it, was what the two guys
-would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways. 
+would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways.  
 
 Not that it was. Not that I had the ten thousand any more, a man has
 got expenses and love is not always free, as you may know. Yes, young
@@ -839,15 +839,15 @@ She nodded again, and turned back. When she disappeared around a corner we could
 Gringo up, gringo down
 ------------------------------
 
-As we had expected, that evenihg the carnival was going full throttle, but I still could spot Tracy,
+As we had expected, that evening the carnival was going full throttle, but I still could spot Tracy,
 these gringas really don't know how to mix with the crowd. She was so
-white and blonde and she had put a white dress on top of that just so that
+white and blond and she had put a white dress on top of that just so that
 she could be made out even by night and with closed eyes. 
 
-Trying all the time to look as if we owned the place, Vince and me got her to the ringmaster, with whom we had negotiated as a comission we got to see her naked
+Trying all the time to look as if we owned the place, Vince and me got her to the ringmaster, with whom we had negotiated as a commission we got to see her naked
 while she was checked for the nudist colony. That was the only act she
 could make her do on short notice, because there's nothing much that needs to
-be done, just be naked. Pretty girls and some ugly with big boobs usually started at the circus
+be done, just be pretty and naked. Beautiful girls and some ugly with big boobs usually started  their career at the circus
 that way before they learned something and graduated to the revues or
 jig shows if they were whites, or even real circus acts if they were
 good at it, and got and assignment from the government. 
@@ -884,11 +884,137 @@ done it today once, can't you please stop?
 Somebody's daughter
 ------------------
 
-That night I went to the nudist colony tent more than usual. I took advantage of every errand to escape for a few seconds and go there to see how Tracy was doing. 
+That night I went to the girl show tent more than usual. I took
+advantage of every errand to escape for a few seconds and go there to
+see how Tracy was doing. Not that I could actually *get* in there, you
+know. We roustabouts and circus mates weren't allowed in there, we
+couldn't see the girls we shared a table at the mess room (not that it
+was usual, but even so...) or a seat at the train completely naked and
+in fetching poses. However, nobody could prevent us from ripping a
+triangle off the tent and check it, from time to time. Before packing
+they were checked and fixed, but new ones were open until after some
+time the tent had so many patches at eye level (and a few at
+midget-eye level) that it was on the brink of ripping the bottom part
+off all by itself, so it had to be changed. That goes to say that
+circus people are pretty much like the next guy, only a bit dustier
+and a bit more skilled on separating marks from their
+hardly-or-softly-as-if-anybody-cared earned money. 
 
-She was doing great, of course. The barker was barking the presence of new girls to the four winds and gents were elbowing each other to be on the first row. Tracy and the other new girl was there, in front of the rest, apparently playing a table game, or resting, or doing silly dances which didn't matter because, well, the important thing was the booby swing. The professor talked about how important that was for health and how everybody did that in Sweden or Siam or wherever, but nobody paid much attention.
+I had to push Vince and some other circus guys who had heard about the
+new flesh from time to time to check on her. She was doing great, of
+course. The barker was barking the presence of new girls to the four
+winds and gents were elbowing each other to be on the first row. Tracy
+and the other new girl was there, in front of the rest, apparently
+playing a table game, or resting, or doing silly dances which didn't
+matter because, well, the important thing was the booby swing. The
+professor talked about how important that was for health and how
+everybody did that in Sweden or Siam or in old Greece or wherever, but nobody paid much
+attention to the words. The important part was the swinging.  Yes,
+boys, what swinging. Don't sigh, men, you've all been young and
+smelled fresh pussy. 
 
-I was there when the show was interrupted by a racket at the tent gate. Several guys came in shouting, and I first though they were protesting for high prices or too much time waiting in the queue or whatever. But they were yelling something about daughter and honor and I think I heard the name Tracy. Tracy just stood there, and the men came up to her, grabbing her arm and covering her with a blanket. The other girls run to the back of the tent, and I was left there with the professor, who seemed to be more elsewhere than there, and a few marks who seemed to think this might be a part or the show or just liked to be in the middle of things. 
+I happened to be there, pushing aside one other gay, when the show was interrupted by a racket at the tent
+gate. I couldn't see what was going on there, but I could see near the
+scenario that several guys came into view shouting, and I first though they were
+protesting for high prices or too much time waiting in line or
+whatever. But they were yelling something about daughter and honor and
+I think I heard the name Tracy and I could see they were wielding
+clubs and baseball bats and even a machete. Tracy just stood there, and the men
+came up to her, grabbing her arm and covering her with a blanket. The
+other girls run to the back of the tent, and I was left there with the
+professor, who seemed to be more elsewhere than there, and a few marks
+who seemed to think this might be a part or the show or just liked to
+be in the middle of things.  
+
+When I arrived at the main tent door I pushed aside the people
+flooding out from inside and came in, there was an standout
+situation. One of the attackers had put a hand over the shoulders of
+Tracy and another was holding another girl, one of our own. The barker
+was laying on the floor, bleeding from the head. And I didn't know
+very well what to do. First thought was run, but second though is that
+the circus always protects their own. I then shouted
+
+"Hey Rube!"
+
+It's a clem!
+--------------
+
+There were on my count three, no, four, no, half a dozen guys in front
+of the scene.  I couldn't handle them all by myself, no way. So I made
+the call for other guys to join me and try to solve the situation.
+
+Which didn't seem easily solvable without a broken limb. However, it
+might be solvable without that limb breaking being mine, if I only got
+a few more guys from the circus to help us.
+
+Guy the gaffer was the first to arrive, as he always did. That was one
+of the reason why he was allowed to boss everyone around even being
+white, octoroon he said, but we knew he was white as white wool, that
+he was. Hey, all races and all that, no problem, awright? Besides, he
+was always there. He didn't even made a fist or expect other guys to
+arrive, just pushed me aside and started to talk.
+
+"What the fuck do you want with us?" He asked in the general direction
+of the kidnappers. One of them, with overalls, a dirt-colored shirt,
+cordless boots and and a baseball bat,
+a middle-aged guy going on old age with a single tooth that we could
+see, hissed and kind of said
+
+"The honor of my daughter Tracy, who you're showing here naked an' all
+for all niggers and spics to see..."
+
+"Hey, hey, hey, mind your language, ol' mate. It's also there for you
+honkies to see if you pay the price, matey!" He answered, raising his
+hands, palms front and laughing. Not the right answer, apparently,
+because all six or seven or them started to wield their weapons and
+one of them picked up the professor from the floor and put the machete
+by the side of his neck. 
+
+"You'se a funny one, you. But you'se paying for this, and you'se
+paying it dearly because the honor of a daughter has no price"
+
+"You don't want anybody else but your own family banging her, do you,
+matey?" Guy the gaffer said. The machete drew closer to the professor
+neck, the baton closer to the other girl head, and one of the arms of
+Tracy was released, just so the guy that had her, presumably his
+brother, could shake the bate more freely with the other hand.
+
+"That's what you niggers do. We white folk respect each other and God,
+we do!" Guy could be only proud of being called a nigger, since he was
+just getting out of his winter paleness. That might be the reason why
+he seemed to change tack and stop insulting them.
+
+"So you're all brothers and fathers, right? What if we call the Guard
+and have all that checked out and we see who's right or wrong here?"
+Asked Guy, making emphasis on the Guard. More people had arrived, but
+the circus act was in full swing, so not many of them were
+available. In fact, I think I could see a flicker of Rufus somewhere
+to my left. 
+
+"You call the Guard and before they arrive this girl has a new face
+and that guy has no face. And any of us escapes alive, and everybody
+will know that you called outside people to take care of your
+business." Said the old guy. Ouch, that hurt. Guy the gaffer didn't
+flinch. 
+
+"Now we're talking, matey. How much is that honor thing worth to you?"
+
+"No less than twenty and five thousand" The old toothless guy
+answered, straight away. 
+
+"Dollars? That's how much, thirty seven pesos?" The folks around Guy
+laughed. In fact, it was closer to fifteen thousand, I
+reckon. Eighteen thousand, you say, Duke? OK, around that. But it was
+funny anyways. 
+
+"You know better than that, nigger, you know what I mean, don't you," replied the old man.
+
+"She's hardly worth half that amount. You seen her tits? Stupid question, that's what you have at home instead of radio, as civilized homes do." The old man took this in stride. It was money talking now, and that was a language they both understood very well. 
+
+
+
+By this moment I was completely lost. Every word
+
 
 * revise and write* 
 
@@ -998,7 +1124,7 @@ up to, at least, Red Bluff. So the easiest way to go from here to
 there, from the real Land of the Free to the purported Land of the
 Free, was to sail from Pensacola. 
 
-So it was Noah's Ark all over again, as the circus manager said at
+So it was Noah's Ark all over again, as the Guy the circus manager said at
 least one zillion times before, during and after boarding. Not that we
 did not know already that all that Noah stuff was a big steaming pile
 of elephant dung, but if you put lions and horses and bearded women
@@ -1054,7 +1180,7 @@ before us, because the tarp had a different color, ours were green,
 this one was tan. 
 
 I didn't have the time to stay around to watch it any more because the
-circus manager grabbed me again and had me running errands, putting
+Guy the circus manager grabbed me again and had me doing Chinese, putting
 things in cabins, covering the carriages with tarpaulins and hauling
 supplies belowdecks. Which is a nice word that somebody shouted while
 we were doing there and means in the basement of the ship. 

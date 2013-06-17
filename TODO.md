@@ -21,6 +21,7 @@ Web and presentation
 - Write a script to convert it to ePub just the way I like it.
 - Convert automatically to POD into Text::Hoborg.
 - Write a converter to a presentation with impress.js. 
+- Write a clickable interface to issues, so that you can go from text to issue directly (to suggest corrections, for instance) See: http://developer.github.com/v3/#cross-origin-resource-sharing
 
 The setup
 ---------
