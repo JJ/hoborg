@@ -757,7 +757,8 @@ Did he score? Why are you interested? Hey, stop touching yourself,
 Gummy you
 old pervert! I'm out of here!
 
-Gummy Eddie tells his story
+Gummy Eddie tells his story. Actually, no, Captain Corporal tells
+Gummy Eddie's story
 -----------------------------------------
 
 Nobody understands Gummy Fucking Eddie, so I will tell his story for
