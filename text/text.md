@@ -775,15 +775,15 @@ don't throw a tantrum, I'll start again.
 It was 1905 or 1906, and Gummy was a jobless musician in Chicago. Then
 everybody and his mother started talking about war this, war that,
 Cuba, defending American interests, and all of a sudden I was in a
-train all dressed in khakhi with an old winchester and a bag in my
+train all dressed in khaki with an old winchester and a bag in my
 hands, bound for Florida. OK, not me, Gummy, but I'm translating him,
-so'll I is gonna be Gummy from now on. You get it? Yes, you too,
+so I is gonna be Gummy from now on. You get it? Yes, you too,
 Gummy, I'm so very happy you understand this.
 
-In Tampa there was a big camp flled to the hilts with black people
+In Tampa there was a big camp filled to the hilts with black people
 like me. Most people going to Cuba seemed to be black, at least from
 the sergeants down. Not that we saw anybody with heavier brass than
-that. It was sargent this, corporal that, sometimes a sergeant mayor,
+that. It was sergeant this, corporal that, sometimes a sergeant mayor,
 and that was that. They barked their orders, clean this, drill that,
 but mostly it was wait on our butts and roam around. Roaming stopped
 fast enough, because as soon as we set step outside the camp whiteys
