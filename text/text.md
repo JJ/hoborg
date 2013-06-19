@@ -222,7 +222,7 @@ to be today. No, today I'm not gonna tell you about my joining the
 circus either.  Something I didn't really thought was going to be
 necessary. 
 
-Duke of Poo tell his story
+Duke of Poo tells his story
 --------------------------------
 
 Ladies and gentlemen, our dear Fulgencio seems to be a bit under the
@@ -739,9 +739,13 @@ indeed. How do I know about that? People talk, you know.
 As a matter of fact, somebody told me that in the table where we
 gauchos sat. There was Jay, who had actually fought in the patriotic
 war and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
-that helped with anything that was needed, and Gina, who rode horses. 
+that helped with anything that was needed, and Gina, who rode horses.
+Why do you want to know how Bill and Vince were? Just your average
+Bill and Vince, Bill a black Seminole and Vince a black, strong guy from Virginia
+or somesuch. He kept talking about his pa being a guerrilla fighter
+during the civil war. Couldn't stop, somehow.
 
-And sometimes, Rufus the mechanical man man, the one that took care of
+But back to the story: sometimes, Rufus the mechanical man man, the one that took care of
 the mech, Rufus three-M himself, joined us. He couldn't have been born
 into the circus, no mechanical men in the previous generation, no
 way. So, despite have been for years in circus life he was still
@@ -757,8 +761,7 @@ Did he score? Why are you interested? Hey, stop touching yourself,
 Gummy you
 old pervert! I'm out of here!
 
-Gummy Eddie tells his story. Actually, no, Captain Corporal tells
-Gummy Eddie's story
+Gummy Eddie tells his story. Actually, no, Captain Corporal tells Gummy Eddie's story
 -----------------------------------------
 
 Nobody understands Gummy Fucking Eddie, so I will tell his story for
@@ -817,10 +820,14 @@ than to do it slowly, painfully and stinking to high heaven.
 
 I lost most of my teeth there due to scurvy. But I lost whatever I had
 left when I was ferried back to Florida and was just left
-there. "Discharged", I was told. That meant I was weaned off any GI
-supply and left on my own, not a penny on me. I don't blame them,
+there. "Honorabli discharged", I was told, which I gather means
+"unloaded", and that is what I was, they took the load off them and I was weaned off any GI
+supply and left on my own, not a penny on me. Couldn't even keep the
+rifle to shoot for food, just the clothes and the boots. 
+
+I don't blame them,
 anyways. They had quite enough on their own, being chased away by the
-rebels, I mean the Glorious Revolutionary Army, hell, the government
+rebels and all, I mean the Glorious Revolutionary Army, hell, the government
 snitch must one and for all stand up and fess up, I'm fed up with
 having to put with all this revolutionary crap. We're between hobos,
 right? We don't have to keep blabbing this way... no, that's not
@@ -830,7 +837,7 @@ Gummy, that's just me. Why do you want to know, Hatless?
 There's a lot of vice in Miami
 --------------------------------------
 
-"We usually play to a full house here", Vincent told me while we were
+"We usually play to a full house here", Vince told me while we were
 on the road to post papers to announce the circus around town. Elegant
 people came after us to check them out. "Look, we are scoring good
 hits." Vince told me.
