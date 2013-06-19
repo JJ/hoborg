@@ -1,6 +1,7 @@
 ---
 layout: index
 ---
+
 Hoborg characters
 ===========
 
@@ -9,6 +10,8 @@ Name | Date of Birth | City of Birth | Race | Other data
 Frank Rivers aka Fulgencio Rivera aka Fulgencio Ribera | 1892 | Hispanic | Bernalillo, NM | Main character, goes after the mechanical man
 Manuel the Mechanical Man | 1908 | Mech | Pensacola Naval Yards | A roving robot
 Rufus the Mechanical Man man | 1883 | Black | Pensacola | Blacksmith and then mechanic
+Vince || Virginia | black | Fulgencio's buddy in the circus, circus roustabout and all-hands man.
+Bill || Florida | black seminole | Circus roustabout
 Boris | | | Black | Circus manager
 Raúl  | | | Hispanic | Cynical ringmaster ot the circus, he's been through all. Smokes a pipe. 
 Guy the gaffer ||| Caucasian | Circus manager 
