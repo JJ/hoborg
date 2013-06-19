@@ -820,7 +820,7 @@ than to do it slowly, painfully and stinking to high heaven.
 
 I lost most of my teeth there due to scurvy. But I lost whatever I had
 left when I was ferried back to Florida and was just left
-there. "Honorabli discharged", I was told, which I gather means
+there. "Honorably discharged", I was told, which I gather means
 "unloaded", and that is what I was, they took the load off them and I was weaned off any GI
 supply and left on my own, not a penny on me. Couldn't even keep the
 rifle to shoot for food, just the clothes and the boots. 
