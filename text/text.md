@@ -1,6 +1,7 @@
 ---
 layout: index
 ---
+
 Prologue
 -----------
 
@@ -225,7 +226,7 @@ to be today. No, today I'm not gonna tell you about my joining the
 circus either.  Something I didn't really thought was going to be
 necessary. 
 
-Duke of Poo tell his story
+Duke of Poo tells his story
 --------------------------------
 
 Ladies and gentlemen, our dear Fulgencio seems to be a bit under the
@@ -742,9 +743,13 @@ indeed. How do I know about that? People talk, you know.
 As a matter of fact, somebody told me that in the table where we
 gauchos sat. There was Jay, who had actually fought in the patriotic
 war and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
-that helped with anything that was needed, and Gina, who rode horses. 
+that helped with anything that was needed, and Gina, who rode horses.
+Why do you want to know how Bill and Vince were? Just your average
+Bill and Vince, Bill a black Seminole and Vince a black, strong guy from Virginia
+or somesuch. He kept talking about his pa being a guerrilla fighter
+during the civil war. Couldn't stop, somehow.
 
-And sometimes, Rufus the mechanical man man, the one that took care of
+But back to the story: sometimes, Rufus the mechanical man man, the one that took care of
 the mech, Rufus three-M himself, joined us. He couldn't have been born
 into the circus, no mechanical men in the previous generation, no
 way. So, despite have been for years in circus life he was still
@@ -760,7 +765,7 @@ Did he score? Why are you interested? Hey, stop touching yourself,
 Gummy you
 old pervert! I'm out of here!
 
-Gummy Eddie tells his story
+Gummy Eddie tells his story. Actually, no, Captain Corporal tells Gummy Eddie's story
 -----------------------------------------
 
 Nobody understands Gummy Fucking Eddie, so I will tell his story for
@@ -769,13 +774,74 @@ Captain and a Corporal at the same time, but be patient and all of you
 will be satisfied. Gummy, if you don't stop doing that right now I'm
 not going to act your puppet now or never. Really.
 
-*revise and write*
+So he was fighting for freedom in Cuba. He came back like this. OK,
+don't throw a tantrum, I'll start again. 
+
+It was 1905 or 1906, and Gummy was a jobless musician in Chicago. Then
+everybody and his mother started talking about war this, war that,
+Cuba, defending American interests, and all of a sudden I was in a
+train all dressed in khaki with an old winchester and a bag in my
+hands, bound for Florida. OK, not me, Gummy, but I'm translating him,
+so I is gonna be Gummy from now on. You get it? Yes, you too,
+Gummy, I'm so very happy you understand this.
+
+In Tampa there was a big camp filled to the hilts with black people
+like me. Most people going to Cuba seemed to be black, at least from
+the sergeants down. Not that we saw anybody with heavier brass than
+that. It was sergeant this, corporal that, sometimes a sergeant mayor,
+and that was that. They barked their orders, clean this, drill that,
+but mostly it was wait on our butts and roam around. Roaming stopped
+fast enough, because as soon as we set step outside the camp whiteys
+screamed abuse at us and we couldn't do much, no bars, no candy shops,
+no nothing, everything was closed in front of our nose stubs. So we
+stayed at the camp, one worry more for sergeants and corporals and
+whatnots and one less for us.
+
+But the problem with going to war is that you end up doing it. And on
+a boat, to top it. We spent like a day puking our guts off so we saw
+fishes in the sea literally get so fat they sunk to the bottom with
+all the half-digested stuff we were throwing up and at them. It didn't
+help that we were so packed in the boat that people just fell of the
+brim from time to time, and some were so wasted they just stayed there
+for the fishes to feast upon. Somebody surely missed them, but not us,
+we were too busy keeping our guts together and worrying about what was
+going to come next.
+
+And that was hell, plain and simple. And I was lucky. The 17th Colored
+Infantry didn't run into battle, we rather run from battle. After a
+few skirmishes in, hell, in somewhere too hot for human beings, we
+established a rearguard supply base in Guantánamo, One Ton of Ammo we
+called, some smartass came with that because that was what they kept
+telling us, we would be receiving one ton of this, one ton of that,
+but the only thing we got was malaria and scurvy.
+
+Yes, scurvy. The supply base didn't even have fresh supplies for
+itself and whatever fresh we had was reserved for our sick brothers,
+but at the end everybody was sick; we couldn't even move out of the
+base because as soon as we did we heard the crack of the
+sharpshooters. Many people did anyways, it was better to die quickly
+than to do it slowly, painfully and stinking to high heaven.
+
+I lost most of my teeth there due to scurvy. But I lost whatever I had
+left when I was ferried back to Florida and was just left
+there. "Honorabli discharged", I was told, which I gather means
+"unloaded", and that is what I was, they took the load off them and I was weaned off any GI
+supply and left on my own, not a penny on me. Couldn't even keep the
+rifle to shoot for food, just the clothes and the boots. 
+
+I don't blame them,
+anyways. They had quite enough on their own, being chased away by the
+rebels and all, I mean the Glorious Revolutionary Army, hell, the government
+snitch must one and for all stand up and fess up, I'm fed up with
+having to put with all this revolutionary crap. We're between hobos,
+right? We don't have to keep blabbing this way... no, that's not
+Gummy, that's just me. Why do you want to know, Hatless?
 
 
 There's a lot of vice in Miami
 --------------------------------------
 
-"We usually play to a full house here", Vincent told me while we were
+"We usually play to a full house here", Vince told me while we were
 on the road to post papers to announce the circus around town. Elegant
 people came after us to check them out. "Look, we are scoring good
 hits." Vince told me.
