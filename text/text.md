@@ -992,14 +992,20 @@ who seemed to think this might be a part or the show or just liked to
 be in the middle of things.  
 
 When I arrived at the main tent door I pushed aside the people
-flooding out from inside and came in, there was an standout
+flooding out from inside and came in, there was a standoff
 situation. One of the attackers had put a hand over the shoulders of
 Tracy and another was holding another girl, one of our own. The barker
 was laying on the floor, bleeding from the head. And I didn't know
 very well what to do. First thought was run, but second though is that
-the circus always protects their own. I then shouted
+the circus always protects their own. I then shouted: "Hey Rube!"
 
-"Hey Rube!"
+No, Rube was not the circus strongman, although come to think of it,
+it might have been some time in the past. He was... have no idea. If
+you shout "Hey Rube!" you're saying there's a fight and everybody
+bodily available should come to help fellow circus folk. 
+
+Of course we outnumbered them. But this was a lossum game, we might
+lose even if we won. 
 
 It's a clem!
 --------------
