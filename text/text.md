@@ -1008,7 +1008,7 @@ it might have been some time in the past. He was... have no idea. If
 you shout "Hey Rube!" you're saying there's a fight and everybody
 bodily available should come to help fellow circus folk. 
 
-Of course we outnumbered them. But this was a lossum game, we might
+Of course we outnumbered them. But this was a losum game, we might
 lose even if we won. 
 
 It's a clem!
@@ -1018,9 +1018,9 @@ There were on my count three, no, four, no, half a dozen guys in front
 of the scene.  I couldn't handle them all by myself, no way. So I made
 the call for other guys to join me and try to solve the situation.
 
-Which didn't seem easily solvable without a broken limb. However, it
+Which didn't seem easily solvable without a broken limb. Or head. However, it
 might be solvable without that limb breaking being mine, if I only got
-a few more guys from the circus to help us.
+a few more guys from the circus to lend a hand.
 
 Guy the gaffer was the first to arrive, as he always did. That was one
 of the reason why he was allowed to boss everyone around even being
@@ -1033,7 +1033,7 @@ arrive, just pushed me aside and started to talk.
 of the kidnappers. One of them, with overalls, a dirt-colored shirt,
 cordless boots and and a baseball bat,
 a middle-aged guy going on old age with a single tooth that we could
-see, hissed and kind of said
+see, hissed and kind of said: 
 
 "The honor of my daughter Tracy, who you're showing here naked an' all
 for all niggers and spics to see..."
@@ -1086,12 +1086,37 @@ funny anyways.
 
 "She's hardly worth half that amount. You seen her tits? Stupid question, that's what you have at home instead of radio, as civilized homes do." The old man took this in stride. It was money talking now, and that was a language they both understood very well. 
 
+So it became an auction, except for the witticisms and the bludgeon
+shaking from time to time. Guy was really having a great time, but I
+was completely lost. Every word seemed to get them 
+angrier and, besides, nobody else seemed to be coming to help. I was
+about to run to the carriages to fetch anybody when I saw the canvas
+of the tent be ripped open to the right hand side of the honkies. 
 
+Manuel the mechanical man came in faster than I thought he could
+through the rip, shaking his grips like a mill and buzzing like a
+pissed off old drone. It pushed the honke that was closer to the
+opening, making him drop the machete. The other guys released the
+girls, and came to him, starting to batter them with their clubs. They
+made one or two dents, but all of a sudden one of them, the *father*,  realized their prey
+had fled and their power to bargain themselves out of the situation
+had dropped to nil.  
 
-By this moment I was completely lost. Every word
+So they used instead the opening left to escape. But he stopped a
+moment before going out to waggle his finger at us and yell.
 
+"You'll end up blacker than you are now, you machine-loving mother
+raping niggers, when we set you on fire. If you don't give us our
+daughter or our money back" 
 
-* revise and write* 
+He shouldn't have done that, because that gave Manuel time enough to
+turn around, not an easy thing, I must say, and grab one of the braces
+of his overalls, ripping them off, which gave us a sight of his
+white-as-pissed-snow hairy butt. He kept his boots on, and he used
+them for running. 
+
+We didn't bother running after them. I actually run towards Tracy, who
+wore an expression difficult to describe. 
 
 We didn't start the fire
 -----------------------------
