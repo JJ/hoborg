@@ -30,7 +30,7 @@ If you don't have, or don't want to have, perlbrew do basically the same with su
 which will get you automatic sync with GitHub pages. 
 
 
-7. Get a [http://travis-ci.org](Travis account) and activate the
+7. Get a [Travis account](http://travis-ci.org)  and activate the
 service hook for your project. We are going to use this for
 spell-check
 
