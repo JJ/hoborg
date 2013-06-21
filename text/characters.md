@@ -20,5 +20,5 @@ Gummy Eddy ||| Caucasian | Hobo with no teeth
 Captain Cabo||| Hispanic | Hobo that served in the army
 Wireless Ted ||| Black | Hobo that invented the radio.
 Hatless Daring Dale ||| Black | Revolutionary bum
-Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
+Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White| Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
 
