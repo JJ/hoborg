@@ -1095,7 +1095,7 @@ of the tent be ripped open to the right hand side of the honkies.
 
 Manuel the mechanical man came in faster than I thought he could
 through the rip, shaking his grips like a mill and buzzing like a
-pissed off old drone. It pushed the honke that was closer to the
+pissed off old drone. It pushed the honkey that was closer to the
 opening, making him drop the machete. The other guys released the
 girls, and came to him, starting to batter them with their clubs. They
 made one or two dents, but all of a sudden one of them, the *father*,  realized their prey
@@ -1117,6 +1117,23 @@ them for running.
 
 We didn't bother running after them. I actually run towards Tracy, who
 wore an expression difficult to describe. 
+
+It's a badger game
+------------------
+
+Somebody told me that Rufus had been hurt by the honkies, and I went
+to the office where Guy was tending to him. He had been outside the
+tent, driving Manuel from there, when one of the guys that was
+escaping hit him in the head. Guy was stitching him, while he said:
+
+"It's a badger game. And we shouldn't have fallen for that. It's us
+who badger them, not the other way round." A badger game, something I
+know now, is when you sell a mark the key to your *girlfriend*
+carriage and, when he opens the door and finds her there (or not), you
+threaten him to give you more money or else. 
+
+The door opened violently and the blackface clown came in. He didn't
+seem happy. He never did, but his unhappiness had gone up one notch. 
 
 We didn't start the fire
 -----------------------------
