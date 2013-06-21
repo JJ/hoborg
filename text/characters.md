@@ -16,9 +16,9 @@ Boris | | | Black | Circus manager
 Raúl  | | | Hispanic | Cynical ringmaster ot the circus, he's been through all. Smokes a pipe. 
 Guy the gaffer ||| Caucasian | Circus manager 
 Duke of Poo |1843|Richmond| Caucasian | Bum with  delirium of greatness
-Gummy Eddy ||| Caucasian | Hobo with no teeth
+Gummy Eddy | 1881 || Caucasian | Hobo with no teeth
 Captain Cabo||| Hispanic | Hobo that served in the army
 Wireless Ted ||| Black | Hobo that invented the radio.
 Hatless Daring Dale ||| Black | Revolutionary bum
-Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White| Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
+Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
 
