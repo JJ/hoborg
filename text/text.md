@@ -1128,8 +1128,23 @@ know now, is when you sell a mark the key to your *girlfriend*
 carriage and, when he opens the door and finds her there (or not), you
 threaten him to give you more money or else. 
 
-The door opened violently and the blackface clown came in. He didn't
-seem happy. He never did, but his unhappiness had gone up one notch. 
+The door opened violently and the Ted "Cracker" Armistead, the
+blackface clown came in. He didn't seem happy. He never did, because
+he was an old grumpy whitey, that, when not in character, looked as if
+he was permanently sucking a lemon. When in character, he was the
+clown that always wanted the other to do something, eventually being
+duped by them, which didn't make him seem happy eityer. And, in real
+life, he was the enforcer of the party line on the circus, the one
+that wanted everything to be done by the book, and, as a reward, got
+very much the same he obtained in his act. However, some people in the
+circus seemed to just vanish when he was in the same room. And Rufus
+was one of them. 
+
+His
+unhappiness had gone up one notch, his mouth an inverted V with
+spittle that was started to give his black mask a ragged appearance,
+like monster teeth. Rufus started to shiver when he appeared in the
+door that had been cracked open. 
 
 We didn't start the fire
 -----------------------------
