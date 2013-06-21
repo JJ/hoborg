@@ -1133,7 +1133,7 @@ blackface clown came in. He didn't seem happy. He never did, because
 he was an old grumpy whitey, that, when not in character, looked as if
 he was permanently sucking a lemon. When in character, he was the
 clown that always wanted the other to do something, eventually being
-duped by them, which didn't make him seem happy eityer. And, in real
+duped by them, which didn't make him seem happy either. And, in real
 life, he was the enforcer of the party line on the circus, the one
 that wanted everything to be done by the book, and, as a reward, got
 very much the same he obtained in his act. However, some people in the
@@ -1145,6 +1145,12 @@ unhappiness had gone up one notch, his mouth an inverted V with
 spittle that was started to give his black mask a ragged appearance,
 like monster teeth. Rufus started to shiver when he appeared in the
 door that had been cracked open. 
+
+"Why? We were about to get them" he asked looking at Rufus.
+
+Rufus smiled a sad smile. "I know. And I know what would have
+happened. That's why I came in. Or rather Manuel did." He seemed a bit
+defying, but only managed to look that for a brief second. 
 
 We didn't start the fire
 -----------------------------
