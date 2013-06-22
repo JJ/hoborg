@@ -1,10 +1,14 @@
+---
+layout: index
+---
+
 Installation instructions
 ==============
 
 If you want to have all this for your own novel, follow these instructions
 
 1. Clone or fork [this repo](http://github.com/JJ/hoborg).
-2. The text of the novel is supposed to be in (text/text.md). Put your own text there.
+2. The text of the novel is supposed to be in (text/text). Put your own text there.
 3. Create a Twitter account and activate it in Settings -> Service
 hooks to send all commits there
 4. Go to Options and use the Automatic Page generator to activate your
@@ -26,7 +30,7 @@ If you don't have, or don't want to have, perlbrew do basically the same with su
 which will get you automatic sync with GitHub pages. 
 
 
-7. Get a [http://travis-ci.org](Travis account) and activate the
+7. Get a [Travis account](http://travis-ci.org)  and activate the
 service hook for your project. We are going to use this for
 spell-check
 
