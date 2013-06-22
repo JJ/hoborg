@@ -2,6 +2,10 @@
 layout: index
 ---
 
+---
+layout: index
+---
+
 Installation instructions
 ==============
 
