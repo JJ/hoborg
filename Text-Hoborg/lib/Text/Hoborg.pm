@@ -5,14 +5,9 @@ use strict;
 use Carp;
 use File::Slurp 'read_file';
 
-use version; our $VERSION = qv('0.0.3');
+use version; our $VERSION = qv('0.0.4');
 
-# Other recommended modules (uncomment to use):
-#  use IO::Prompt;
-#  use Perl6::Export;
-#  use Perl6::Slurp;
-#  use Perl6::Say;
-
+our @appendices = qw(characters.md); #auxiliary and additional files
 
 # Module implementation here
 sub new {
@@ -21,7 +16,14 @@ sub new {
   my $text_file = "$dir/text.md";
   my $text = read_file($text_file);
   my $self = { _text => $text,
-	       _text_file => $text_file };
+	       _text_file => $text_file,
+	       _appendices => {} 
+  };
+  for my $a (@appendices ) {
+      $text_file = "$dir/$a";
+      $text = read_file($text_file);
+      $self->{'_appendices'}{$a} = $text;
+  }
   bless  $self, $class;
   return $self;
 }
@@ -36,7 +38,13 @@ sub text_file {
   return $self->{'_text_file'};
 }
 
-1; # Magic true value required at end of module
+sub appendices {
+    return $self->{'_appendices'};
+}
+
+
+"All over, all out, all over and out"; # Magic circus phrase
+
 __END__
 
 =head1 NAME

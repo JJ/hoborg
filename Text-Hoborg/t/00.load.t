@@ -26,7 +26,16 @@ my @words = split /\s+/, $hoborg->text;
 
 for my $w (@words) {
   my ($stripped_word) = ( $w =~ /([\w\'áéíóúÁÉÍÓÚñÑ]+)/ );
-  ok( $speller->check( $stripped_word), "Checking $stripped_word")   if ( $stripped_word ) ;
+  ok( $speller->check( $stripped_word), "Checking $stripped_word in text")   if ( $stripped_word ) ;
 }
+
+for my $a (keys %{$hoborg->appendices()}) {
+  @words = split /\s+/, $hoborg->appendices()->{$a};
+  for my $w (@words) {
+    ($stripped_word) = ( $w =~ /([\w\'áéíóúÁÉÍÓÚñÑ]+)/ );
+    ok( $speller->check( $stripped_word), "Checking $stripped_word in $a") if ( $stripped_word ) ;
+  }
+}
+
 done_testing();
 
