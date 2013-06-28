@@ -22,10 +22,12 @@ And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
-I didn't really liked it, but I had no other way out than be attached to it. And the public... filled with brothers, of my own race, of the other
-races that have been oppressed since they arrived here or since the
-paleface newcomers arrived. Even palefaces, because all races are one and the same in the People's 
-Republic, ain't that? 
+I didn't really liked it, or even the idea of it, but I had no other
+way out than be attached to it. On the other hand, the
+public... filled with brothers, of my own race, of the other races
+that had been oppressed since they arrived to this land or since the
+paleface newcomers arrived. Even palefaces, because all races are one
+and the same in the People's Republic, ain't that?
 
 But I am not a paleface, because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
@@ -47,9 +49,14 @@ this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
 world. I can try, even as I received only the barest education before
 the capitalist system started to exploit my juvenile skills back there
-in awful California of evil America.
+in awful California of evil America. But I have words to describe the
+urgency with which I have to grab hold of it, since tonight is the
+night it's going to be removed from here to places unknown and likely
+more dangerous than here. 
 
-But I am jumping over myself. Let me tell you how it all started.
+But OK, OK, don't protest, I see that I am jumping over myself. Let me
+tell you how it all started. 
+
 
 Who wants a mechanical man?
 -------------------------------------------
