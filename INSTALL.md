@@ -29,30 +29,42 @@ If you don't have, or don't want to have, perlbrew do basically the same with su
 > ln -s git-hooks.pl post-commit
 which will get you automatic sync with GitHub pages. 
 
-
 7. Get a [Travis account](http://travis-ci.org)  and activate the
 service hook for your project. We are going to use this for
-spell-check
+spell-check.
 
-8. Edit (text/words.dic) for the specific words in your novel that
+8. If you want to spell-check also in your own computer (hey, you can
+be in a plane and offline) you'll have to install also the Hunspell
+spell checker. You can do it following the instructions in [the Travis
+conf file](.travis.yml) (hey, if it's good enough for Travis, it must
+be good enough for you), that is:
+> sudo apt-get install libhunspell-1.3-0 hunspell-en-us libhunspell-dev
+And then the modules mentioned in [the module
+Makefile.PL](Makefile.PL), that is
+> cpan Text::Hunspell
+> cpan Lingua::EN::Fathom
+with the obvious *sudo* in front if you don't use perlbrew.
+
+9. Edit (text/words.dic) for the specific words in your novel that
 should pass the spell check, but do not. Remember that the first line
 contains the number of words.
 
-9. There's a shortcut that processed the dictionary and does commit
+10. There's a shortcut that processed the dictionary and does commit
 and push for you, it's at text/commit.pl. You can use it cirectly or
 do
 > ln -s text/commit.pl c 
 Remember always to chmod +x commit.pl
 
-10. That's it. If you find trouble along the way, just let me know by
+11. That's it, 10 points of it all. If you find trouble along the way, just let me know by
 raising  [an issue](https://github.com/JJ/hoborg/issues)
 
 Troubleshooting
 ---------------
 
-Remember that with the post-commit hook you'll be doing push in two
+Remember that with the post-commit hook you have installed you'll be
+doing push in two 
 branches at the same time. If you fall behind in a local installation,
-you have to checkout and pull in both; you can't just do a git pull
+you will have to checkout and pull in both; you can't just do a git pull
 since you'll be doing it only on the current branch. Do 
 > git pull
 > git checkout gh-pages
