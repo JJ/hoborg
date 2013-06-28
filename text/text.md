@@ -6,10 +6,15 @@ Prologue
 -----------
 
 This novel is released under a free license. Please check [its web for
-details](http://github.com/JJ/hoborg). You can help by proof-reading, forking, or just talking about it. 
+details](http://github.com/JJ/hoborg). You can help by proof-reading,
+forking (that is, creating your very own copy and changing it to your
+liking), or just talking about it.  You can follow its evolution [in
+Twitter @hoborg_novel](http://twitter.com/hoborg_novel). 
 
 Meet the mechanical man
 ----------------------------------
+
+*revise and probably eliminate*
 
 There he was, gleaming in places, rusty in others. Rolling and
 whistling and frolicking to the general merriment of the public. 
@@ -52,20 +57,28 @@ Who wants a mechanical man?
 *revise* 
 
 So this is what you hobos do, right? Sit around the fire in this rail
-yard... Jungle? How come you call this a jungle? It's a railway
-switchyard! OK, jungle. And you tell stories, right? And you want to
-hear mine? OK, Duke, I owe you. So here it goes. 
+yard... Jungle? How come you call this a jungle? It's a railroad
+switchyard! OK, jungle. And you tell tall tales, right? And you want to
+hear mine? OK, Duke, I owe you. So here it goes. What do you mean,
+Gummy? It's the plain truth. I tell you exactly like it happened. Yes,
+sir, I'm sure, what are you, a fuckin' people's judge? 
 
-This story starts in Mobile, a rough and tumble border town of the
+Alright, then. The story of how I became in the posession of Manuel
+the Man-Made Man starts in Mobile, a rough and tumble border town of the
 United All Races People's Republic of Florida. That's a pretty long
 name for a place that starts at Pascagoula and and goes no further
 than Brunswick, if only our people  have their way. Which they
-will, I have no doubt as a loyal citizen of the Republic. Every dawning day brings new brothers to our
+will, I have no doubt as a loyal citizen of the Republic. Every
+dawning day brings new brothers to our
 new republic, brothers of all races, creeds and dispositions. 
 
-It was early winter and it was still sunny and mild. The air was clear, and I could see ships docking and leaving, 
-ships from all sister nations of the world, Spain, Cuba, Colombia, but also not-so-friendly places 
-who decided the buck needn't stop here and had resumed trade as soon as they could, 
+It was early winter, but it was still sunny and mild. I was walking
+in docks, as I was wont to do, the air was clear and I could see ships
+docking and leaving,  
+ships from all our sister nations of the world, Spain, Cuba, Colombia,
+Puerto Rico, but also from not-so-friendly places 
+who decided the buck needn't stop here and had resumed trade as the
+smoke from the Freedom War settled down and become the smoke of the Planazo, 
 the United Kingdom, the Austrohungarian Empire, those bohunks... I was there, taking a walk in the docks, minding my own business,
 which was precisely what I was looking for at that early moment of the day. I was
 looking for a hire, for somebody who needed a quick mind and a strong pair
@@ -722,13 +735,16 @@ mechanical man is pretty much the same, less the trunk. And the
 shit. Man, do they shit...  The elephant bulls, Gummy, how could a
 mechanical man shit? Bolts, you say? Ha, that's rich. 
 
-Elephants shit their fucking weight plus a bonus every fucking day. This I know because that was how I started kicking sawdust. And
+Elephants shit their fucking weight and that of two pregnant sows for
+good measure every fucking day. This I know because that was the gig I
+was given when I started kicking sawdust. Which I did in spades. And 
 laying. And wiping. And producing. And fucking breathing and shitting
-sawdust all the fucking day. That was all for the greater good, which
+sawdust all the fucking day, in the company of beasts and sometimes of
+comrades. That was all for the greater good of obtaining my prize, which
 I could barely see, not to mention touch, during those first two
 weeks. 
 
-"Gaucho" was one the words I learned early and heard often during
+"Gaucho" was one of the words I learned early and heard often during
 those days, sometimes from closed lips, sometimes accompanied by a
 sideways spit. That's how they call the people that is not born into
 the circus, people sent from the circus commission specially, which
