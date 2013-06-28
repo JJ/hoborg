@@ -1,6 +1,7 @@
 ---
 layout: index
 ---
+
 TO DO
 ====
 
@@ -29,5 +30,6 @@ Web and presentation
 The setup
 ---------
 
+- Install Text::Hunspell on the laptop.
 - Check the possibility of having the text annotated with commit comments and publish it automatically.  
 - Install in laptop and create an easy installer.
