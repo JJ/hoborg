@@ -66,7 +66,7 @@ hear mine? OK, Duke, I owe you. So here it goes. What do you mean,
 Gummy? It's the plain truth. I tell you exactly like it happened. Yes,
 sir, I'm sure, what are you, a fuckin' people's judge? 
 
-Alright, then. The story of how I became in the posession of Manuel
+Alright, then. The story of how I became in the possession of Manuel
 the Man-Made Man starts in Mobile, a rough and tumble border town of the
 United All Races People's Republic of Florida. That's a pretty long
 name for a place that starts at Pascagoula and and goes no further

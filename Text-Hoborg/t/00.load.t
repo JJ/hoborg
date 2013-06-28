@@ -1,4 +1,4 @@
-use lib qw( ../lib );
+use lib qw( ../lib ); # -*- cperl -*- 
 
 use Test::More;
 use File::Slurp 'read_file';

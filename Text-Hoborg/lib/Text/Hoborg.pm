@@ -39,6 +39,7 @@ sub text_file {
 }
 
 sub appendices {
+    my $self = shift;
     return $self->{'_appendices'};
 }
 
