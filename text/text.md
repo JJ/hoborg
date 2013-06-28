@@ -86,7 +86,17 @@ ships from all our sister nations of the world, Spain, Cuba, Colombia,
 Puerto Rico, but also from not-so-friendly places 
 who decided the buck needn't stop here and had resumed trade as the
 smoke from the Freedom War settled down and become the smoke of the Planazo, 
-the United Kingdom, the Austrohungarian Empire, those bohunks... I was there, taking a walk in the docks, minding my own business,
+the United Kingdom, the Austrohungarian Empire, those bohunks... The
+air swarmed also with the airships about to dock or leave from the
+airship port, the Spanish clover-fronted ones, the elegant Cubans,
+even the odd bulky and slumbering American, you could just spend the
+whole day looking at them, slowly realizing they were no longer in the
+placer you had seen them, in the middle of a cloud, or seeing them
+appearing nose first. Yes, Gummy, they do look like that sometimes. If
+that's what you're thinking about. Which you, evidently, are.
+
+
+I was there, taking a walk in the docks, minding my own business,
 which was precisely what I was looking for at that early moment of the day. I was
 looking for a hire, for somebody who needed a quick mind and a strong pair
 of arms, and dodging the sun and keeping myself in the shade,
