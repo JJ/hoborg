@@ -7,6 +7,13 @@ forking (that is, creating your very own copy and changing it to your
 liking), or just talking about it.  You can follow its evolution [in
 Twitter @hoborg_novel](http://twitter.com/hoborg_novel). 
 
+Table of contents
+----------------------
+
+* For your peruse and joy, here's the table of contents (actually, this line will go)
+{:toc}
+
+
 Meet the mechanical man
 ----------------------------------
 
@@ -43,8 +50,8 @@ the mechanical man. A real marvel of the People's Republic
 ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
-world. I can try, even as I received only the barest education before
-the capitalist system started to exploit my juvenile skills back there
+world. I can try, even as I received only the barest of educations before
+the evil capitalist system started to exploit my juvenile skills back there
 in awful California of evil America. But I have words to describe the
 urgency with which I have to grab hold of it, since tonight is the
 night it's going to be removed from here to places unknown and likely
@@ -87,22 +94,25 @@ air swarmed also with the airships about to dock or leave from the
 airship port, the Spanish clover-fronted ones, the elegant Cubans,
 even the odd bulky and slumbering American, you could just spend the
 whole day looking at them, slowly realizing they were no longer in the
-placer you had seen them, in the middle of a cloud, or seeing them
+place you had seen them, in the middle of a cloud, or watching them
 appearing nose first. Yes, Gummy, they do look like that sometimes. If
-that's what you're thinking about. Which you, evidently, are.
-
+that's what you're thinking about. Which you, no doubt, are.
 
 I was there, taking a walk in the docks, minding my own business,
-which was precisely what I was looking for at that early moment of the day. I was
-looking for a hire, for somebody who needed a quick mind and a strong pair
-of arms, and dodging the sun and keeping myself in the shade,
-because the sun made  my clothes too warm for comfort. What was it? January? December? Can't
-tell. Even less so now that all months have changed their names to
-something that does not have gods or umpirators or unpopular names.
-That means that people no longer know the month they are
-in. Not that most of them had ever cared, anyways. And not that I have a
+which was precisely what I was looking for at that early moment of the
+day. I needed a hire, a fix for somebody who needed a quick mind and a strong pair
+of arms, and I kept dodging the sun and keeping myself in the shade,
+because the sun made  my clothes too warm for comfort. What was it?
+Big Winter? Winter's younger brother? Can't
+tell, Rvfo Cuse or Rakko,  less so now that all months have changed their names to
+something that does not have gods or umpirators or unpopular
+names. But it's always little this or big that or whatever berry,
+so... It's Otowosk-rakko now, right? Otowoskuce, you say, Gummy? Can't
+be Ehole, no way, not so cold... Well, people no longer know the month they are
+in. Not that most of us had ever cared, anyways. And not that I have a
 grudge with that, either. It's all for the greater good of the
-Republic, ain't it? Keeping capitalists names out of the Republic. 
+Republic, ain't it? Keeping capitalists names out of the Republic and
+putting the names the great spirit of the people gave them. Whatever.
 
 So, it was mild going on warm and these two dandy types came up to me from the sea
 shore, maybe from a ship, dressed to the
