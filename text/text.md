@@ -1,6 +1,9 @@
 ---
 layout: index
 ---
+Hoborg: A novel. Book One
+================
+
 Prologue
 -----------
 
@@ -54,8 +57,8 @@ ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
 world. I can try, even as I received only the barest of educations before
-the evil capitalist system started to exploit my juvenile skills back therei
-n awful California of evil America. But I have words to describe the
+the evil capitalist system started to exploit my juvenile skills back there
+in awful California of evil America. But I have no words to describe the
 urgency with which I have to grab hold of it, since tonight is the
 night it's going to be removed from here to places unknown and likely
 more dangerous than here. 
@@ -130,32 +133,38 @@ demeanor bolted on, instead of having been born into it. Strong but
 nondescript too. Or nondescript for a those-fists-mean-business
 meaning of the word. 
 
+I kind of put myself in a position where I could have many
+options. Walked away from the wall, squinted to see what they were up
+to, hands in a fist and out of the pockets. 
 Was not afraid, though, although they also seemed to avoid the sun and had
 their caps set just so you could not really see their face. So
 that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
 
 The non-strong non-descript guy seemed to be the one that was going to
-do the talking. After exchanging pleasantries, which is the right
+do the talking, which he started to do as soon as he could talk to me
+without shouting. After touching their caps managing not to reveal
+even a bit more of their faces and exchanging pleasantries, which was the right
 thing to do for well-educated gentlemen that we all were, they offered
 me a cigar which I rejected because I don't smoke, as you might have
 already noticed, and went down to business, not-strong in front of me
 and fists-mean-business by my side and slightly behind me. He really
 meant business that way too.
 
-No, Gummy, I didn't hit them. Why should I? I was down on my luck, and
-one's got to earn a living. 
+No, Gummy, I didn't hit them. Why should I? I was down on my luck, if
+two nondescript persons make an offer, you listen to them. One's got to earn a living. 
 
 And a good living it might be, too. Ten thousand pesos on the spot,
 ten thousand more when I got them something, which they really, really
 wanted for no particular reason. They collected. They had a hardware
-store. They liked shiny, rolling things. They wanted the Man, they
-wanted something called Manuel the Mechanical Man. Which was, metaphorically speaking,
+store. They liked shiny, rolling things. Those were a few of the
+reasons they offered for  wanting the Man, 
+something called Manuel the Mechanical Man. Which was, metaphorically speaking,
 I know, Duke, you like when I speak metaphorically, kicking dust in a
 circus.  What was my business before that, do you want to know? Dock hand, I
-just told you, Gummy. Damn, do you want to hear the story or not?
+just told you, Gummy. Damn, do you want to hear the story or not? 
 
-I had never heard of the thing. You have? Well, I hadn't, I was not so
+Before that sunny day in the Mobile docks, I had never heard of the thing. You did? Well, I hadn't, I was not so
 well informed and educated as you all apparently are in this
 jungle. So the speaking non-descript man described the thing for me,
 just in case I got it wrong and got them a kicking watering can or a
