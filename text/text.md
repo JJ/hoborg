@@ -54,8 +54,8 @@ ingenuity. Just look at him. All by himself, he has hushed everyone in
 this dusty, hot, humid and forsaken place. How can I describe it? I
 lack words, because there is nothing like it in the whole wide
 world. I can try, even as I received only the barest of educations before
-the evil capitalist system started to exploit my juvenile skills back there
-in awful California of evil America. But I have words to describe the
+the evil capitalist system started to exploit my juvenile skills back therei
+n awful California of evil America. But I have words to describe the
 urgency with which I have to grab hold of it, since tonight is the
 night it's going to be removed from here to places unknown and likely
 more dangerous than here. 
@@ -103,7 +103,7 @@ that's what you're thinking about. Which you, no doubt, are.
 
 I was there, taking a walk in the docks, minding my own business,
 which was precisely what I was looking for at that early moment of the
-day. I needed a hire, a fix for somebody who needed a quick mind and a strong pair
+day. I needed a hire, to do a fix for somebody who needed a quick mind and a strong pair
 of arms, and I kept dodging the sun and keeping myself in the shade,
 because the sun made  my clothes too warm for comfort. What was it?
 Big Winter? Winter's younger brother? Can't
@@ -117,12 +117,13 @@ grudge with that, either. It's all for the greater good of the
 Republic, ain't it? Keeping capitalists names out of the Republic and
 putting the names the great spirit of the people gave them. Whatever.
 
-So, it was mild going on warm and these two dandy types came up to me from the sea
-shore, maybe from a ship, dressed to the
+So, sunny it was, OK? And these two dandy types came up to me from the sea
+shore, maybe from a ship, maybe from an airship which was a bit
+farther up the docks, dressed to the
 nines and sweating as if they were going to melt right there. Sticking out as a
-sore thumb, if you ask me, no way to walk in the docks crying "Mug
-me"; adding insult to injury they were also  yelling "I'm a capitalist
-pig". But I was minding my own business, which was not related to those
+sore thumb, if you ask me, no way to walk in this place crying "Mug
+me". Adding insult to injury they were also  yelling "I'm a capitalist
+pig". But I was minding my own business, which was for the time being not related to those
 guys, which were nondescript besides what I have already said. They
 probably had not been mugged yet because one of the dandies had his
 demeanor bolted on, instead of having been born into it. Strong but
