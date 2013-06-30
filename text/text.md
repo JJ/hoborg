@@ -900,11 +900,18 @@ on the road to post papers to announce the circus around town. Elegant
 people came after us to check them out. "Look, we are scoring good
 hits." Vince told me.
 
-We were very lucky to be there. There were heavier and less amusing things you could do in the circus that very morning, in the stifling Miami heat. Besides, I was supposed to learn stuff. There was a method to posting paper, I was discovering. You
-couldn't just paste them anywhere; barns, fences, some buildings,
-corners, always at eye's height, those were the places to do it. As a
-matter of fact, sometimes they were occupied by other posters
-announcing past or present shows. They were promptly ditched, and this was accompanied by war stories of when two circus met in that place or that other and two posting parties met and mayhem ensued. I soon get bored of his talk and started to think whether this could be the day and place where I could finally escape alive and with a plus one called Manuel.   
+We were very lucky to be there. There were heavier and less amusing
+things you could do in the circus that very morning, in the stifling
+Miami heat. Besides, I was supposed to learn stuff. There was a method
+to posting paper, I was discovering. You couldn't just paste them
+anywhere; barns, fences, some buildings, corners, always at eye's
+height, those were the places to do it. As a matter of fact, sometimes
+they were occupied by other posters announcing past or present
+shows. They were promptly ditched, and this was accompanied by war
+stories of when two circus met in that place or that other and two
+posting parties met and mayhem ensued. I soon get bored of his talk
+and started to think whether this could be the day and place where I
+could finally escape alive and with a plus one called Manuel.
 
 We had a fair amount of ducat to invite beautiful girls to come to the
 attractions and bring the local marks in tow. And man, they were
@@ -923,11 +930,18 @@ we had considered a couple of times to charley it.
 
 Who is Tracy? You're about to know her and we were about to do it, too. 
 
-We didn't feel like talking to her because honkies, even honkie girls, were always walking around bumming things and complaining about this and that. Besides, she was not that beautiful to deserve one of the ducats we kept; she was nice, in that transparent way
-the gringas had; her hair was flat and hay colored, and her hips and
-boobs were way too small, although not disagreeably shaped. She didn't
-smell good, a bit musty. Vince and me sent her on her way, but she
-clung to us on our way back to the circus. Which pissed us off even more since now she would be witness to us ditching the paper; yes, that's what charley means, weren't you listening? Am I not talking in fucking English? OK, Duke, I'll keep it easy, only I get all fired up when I recall all that. 
+We didn't feel like talking to her because honkies, even honkie girls,
+were always walking around bumming things and complaining about this
+and that. Besides, she was not that beautiful to deserve one of the
+ducats we kept; she was nice, in that transparent way the gringas had;
+her hair was flat and hay colored, and her hips and boobs were way too
+small, although not disagreeably shaped. She didn't smell good, a bit
+musty. Vince and me sent her on her way, but she clung to us on our
+way back to the circus. Which pissed us off even more since now she
+would be witness to us ditching the paper; yes, that's what charley
+means, weren't you listening? Am I not talking in fucking English? OK,
+Duke, I'll keep it easy, only I get all fired up when I recall all
+that.
 
 "How long are you staying?" she  went, from a couple of steps behind us.
 
@@ -940,7 +954,11 @@ to form a letter. Yes, I know, Duke, it's an all-races republic. But including t
 not mean I have to *like* them, right? I could have liked this one,
 though, if only she'd had a nicer and bigger rack. Nothing personal, Duke, you're my man. 
 
-But she continued following us, asking us where we were from and what we did in the circus and so on and so forth until we were so close to the circus that we had either to charley the paper or take another path and start to paper it. We didn't feel like doing the second and we needed some independence.
+But she continued in our footsteps, asking us where we were from and
+what we did in the circus and so on and so forth until we were so
+close to the circus that we had either to charley the paper or take
+another path and start to paper it. We didn't feel like doing the
+second and we needed some independence. 
 
 "You want to earn a few pesos, girlie?" I asked her. If she came
 around maybe we could check her for the revue. After seeing her naked,
@@ -955,7 +973,13 @@ her. Vince went along with me.
 "Tracy." She said while he blinked. Yay, we had her on the hook. Or
 the other way round. 
 
-"What do you say if you meet us at the circus in, say, two hours." She stared blankly, as if the concept of "hour" was something too difficult to grasp..."OK, to there after a good while, when you see people coming up to the circus, and you tell the girl at the ticket counter to send for us. We are Fulgencio and Vince. Can you remember that? OK, bye now." I waved her with my hand, just in case it was not clear enough. 
+"What do you say if you meet us at the circus in, say, two hours." She
+stared blankly, as if the concept of "hour" was something too
+difficult to grasp..."OK, to there after a good while, when you see
+people coming up to the circus, and you tell the girl at the ticket
+counter to send for us. We are Fulgencio and Vince. Can you remember
+that? OK, bye now." I waved her with my hand, just in case it was not
+clear enough.  
 
 She nodded again, and turned back. When she disappeared around a corner we could finally charley the paper, and we might even manage to score tonight. 
 
@@ -1138,7 +1162,10 @@ funny anyways.
 
 "You know better than that, nigger, you know what I mean, don't you," replied the old man.
 
-"She's hardly worth half that amount. You seen her tits? Stupid question, that's what you have at home instead of radio, as civilized homes do." The old man took this in stride. It was money talking now, and that was a language they both understood very well. 
+"She's hardly worth half that amount. You seen her tits? Stupid
+question, that's what you have at home instead of radio, as civilized
+homes do." The old man took this in stride. It was money talking now,
+and that was a language they both understood very well.  
 
 So it became an auction, except for the witticisms and the bludgeon
 shaking from time to time. Guy was really having a great time, but I
@@ -1200,16 +1227,45 @@ circus seemed to just vanish when he was in the same room. And Rufus
 was one of them. 
 
 His
-unhappiness had gone up one notch, his mouth an inverted V with
+unhappiness had gone up one notch, his mouth an inverted V foaming with
 spittle that was started to give his black mask a ragged appearance,
 like monster teeth. Rufus started to shiver when he appeared in the
-door that had been cracked open. 
+cracked-open door.
 
-"Why? We were about to get them" he asked looking at Rufus.
+"Why? We were about to get them" he shot, straight away, looking at Rufus.
 
 Rufus smiled a sad smile. "I know. And I know what would have
 happened. That's why I came in. Or rather Manuel did." He seemed a bit
-defying, but only managed to look that for a brief second. 
+defying, but only managed to flash it for a brief second. 
+
+The inverted V in Ted's face became a cruel line. 
+
+"That's funny. Ever so funny." But nobody was laughing. "So you think
+you can do our act, don't you?" Rufus did an aborted shrug. "You want
+to be one of us, right? You think you're funny enough?" Rufus started
+shivering again, and I tried to disappear just by force of will. "Or
+maybe your apparatus is?" Guy tried to appease him.
+
+"Hey, Ted, he solved the situation, didn't he? All our guys are now
+safe, only hurt was him"
+
+"He solved it, did he? All crackers escaped, and cracked him, instead
+of us cracking them" I almost smiled hearing Ted "Cracker" talk about
+crackers. Guy started to say something about the Guards, but Ted
+continued. "Since your doohickey is so good at acting, what if we put
+it in the clown posse? Wouldn't that be just great?"
+
+Rufus just opened his mouth, not daring to say anything. 
+
+"Tomorrow I want to see you both in front of my carriage. We'll start
+right away to rehearse. Guy, they're out of the menagerie." Guy threw
+his hands up, as if to say "Whatever". Rufus showed a face of pain,
+but Guy had finished stitching. 
+
+I said nothing, but was already thinking about possibilities and I
+didn't like them a bit. I felt my cheeks burn and I first though I had
+flushed, but then I realize there was light and heat coming from the
+open door. Something was afire out there.
 
 We didn't start the fire
 -----------------------------
