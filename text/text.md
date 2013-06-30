@@ -133,40 +133,45 @@ demeanor bolted on, instead of having been born into it. Strong but
 nondescript too. Or nondescript for a those-fists-mean-business
 meaning of the word. 
 
-I kind of put myself in a position where I could have many
+I kind of put myself in a position where, if bad came to worse, I could have many
 options. Walked away from the wall, squinted to see what they were up
-to, hands in a fist and out of the pockets. 
-Was not afraid, though, although they also seemed to avoid the sun and had
+to, put my hands in a fist and out of the pockets. 
+Was not afraid, though, although they also seemed to avoid the glare and had
 their caps set just so you could not really see their face. So
 that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
 
-The non-strong non-descript guy seemed to be the one that was going to
-do the talking, which he started to do as soon as he could talk to me
+As they approached, the non-strong non-descript guy seemed to be the one that was going to
+do the talking, which he started to do as soon as he could do it
 without shouting. After touching their caps managing not to reveal
 even a bit more of their faces and exchanging pleasantries, which was the right
 thing to do for well-educated gentlemen that we all were, they offered
 me a cigar which I rejected because I don't smoke, as you might have
 already noticed, and went down to business, not-strong in front of me
 and fists-mean-business by my side and slightly behind me. He really
-meant business that way too.
+meant business that way too. Still not afraid, because I still had options. 
 
 No, Gummy, I didn't hit them. Why should I? I was down on my luck, if
-two nondescript persons make an offer, you listen to them. One's got to earn a living. 
+two nondescript persons make an offer, or one does while the other has
+an slightly threatening posture, you listen to them. One's got to earn
+a living.  
 
 And a good living it might be, too. Ten thousand pesos on the spot,
 ten thousand more when I got them something, which they really, really
-wanted for no particular reason. They collected. They had a hardware
+wanted for no particular reason. They were collectors. They had a hardware
 store. They liked shiny, rolling things. Those were a few of the
 reasons they offered for  wanting the Man, 
-something called Manuel the Mechanical Man. Which was, metaphorically speaking,
+something they called Manuel the Mechanical Man. Which was, metaphorically speaking,
 I know, Duke, you like when I speak metaphorically, kicking dust in a
-circus.  What was my business before that, do you want to know? Dock hand, I
-just told you, Gummy. Damn, do you want to hear the story or not? 
+circus.  
 
-Before that sunny day in the Mobile docks, I had never heard of the thing. You did? Well, I hadn't, I was not so
+Before that sunny day in the Mobile docks, I had never heard of the
+thing.  What was my business before that day, do you want to know? Dock hand, I
+just told you, Gummy. Damn, do you want to hear the story or not? 
+You had heard about that Manuel that is now stashed in the moored
+wagon? Well, I hadn't, I was not so 
 well informed and educated as you all apparently are in this
-jungle. So the speaking non-descript man described the thing for me,
+jungle. So the speaking non-descript man described it for me,
 just in case I got it wrong and got them a kicking watering can or a
 singing flower pot.  
 
@@ -1168,7 +1173,8 @@ white-as-pissed-snow hairy butt. He kept his boots on, and he used
 them for running. 
 
 We didn't bother running after them. I actually run towards Tracy, who
-wore an expression difficult to describe. 
+wore an expression difficult to describe. No, it was absolutely not
+nondescript. Rather the other way round. 
 
 It's a badger game
 ------------------
@@ -1598,17 +1604,31 @@ easier to substitute it: I couldn't for the world make something that
 looked and *acted* like the mech. 
 
 Luckily, there were bits and parts of the mech in Rufus's workshop and
-I took them to the circus blacksmith together with a bunch of pesos to
+I took them to the circus blacksmith together with a wad of pesos to
 keep his mouth shut and instill due diligence in him, at least for a
-while. Since everybody knew that sooner than later Manuel was going
-away I told him we were building a replica for the menagerie, but
+while. Since everybody knew that sooner than  Manuel was going
+away soon I told him we were building a replica for the menagerie, but
 since Rufus was very jealous of his act we didn't want him to know
 what we were doing, right? That was a few pesos more. And then a few
 more when the diligence vanished after just a day.
 
+And the questions increased in the same proportion. Who was going to
+be in charge of the gaffe? Did I want just one or several to sell?
+Could the thing be traced back to him? I had to answer yes to that
+one, there were nobody else in the circus with the tools to do it, and
+that answer had to have more pesos attached. 
+
+But he eventually could not get himself to finish it. A day in which
+his sweat could not entirely be justified by the heat in his workshop,
+he gave me a burlap bag stuffed with clanking things and sent me on my
+way. 
+
+I was then at a loss. And Rufus could leave any time now. And then I
+remembered Tracy.
+
 *revise and write*
 
-But it didn't take long to have something that if it was dark enough,
+But it didn't take long to have something that if seen in the dark,
 and from a distance, and if you really had seen Manuel just a couple
 of times, could pass for the original. So there was no fucking way
 Rufus could be mistaken. And I had spent two days and lots of pesos
