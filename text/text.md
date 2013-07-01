@@ -248,8 +248,12 @@ how it does that? Am I a fucking mechanician? So, all things
 considered,  it sounded like a car coming at you if you didn't see it
 coming. A honking, screeching, clanking little car.
 
-And now, for all of you, a honking, screeching, clanking dancing
-mech, that's what they told me. Well, not all of that, I added a little bit on my own. Tomorrow, or the day after that, I'll tell you how I became a 
+And now, for all of you, a honking, screeching, clanking and dancing
+mech. 
+
+So that's what the two average guys  told me. Well, not all of that, I
+added a little bit on my own. Tomorrow, or the day after that, I'll
+tell you how I became a  
 circus roustabout.
 
 Here's a bit of money to get you started
@@ -257,25 +261,25 @@ Here's a bit of money to get you started
 
 And a printout of where this marvel could be found, since, to top all
 that, he didn't stay in a single place, but kept moving all over the
-place with a circus.  
+map. Along with a circus.
 
 "A circus?" I asked. "What does it do? Bite chicken heads off?"
 
 "As far as we know, it could bite the head of something considerably
-bigger than a chicken." He said, while Fist-means-business smiled in a
-nondescript way. "But yes, we can say it does that too".  
+bigger than a chicken." Talking-guy said, while Fists-means-business
+smiled in a nondescript way. "But yes, we are pretty sure it can do
+that too."
 
-I got the money, I told them I took it from there, and they were on
-their way and I
-never ever saw them again, and I won't until I do the delivery in a
-few days. Now that I've got what they want I'll have
-to look for them when I arrive at my destination. Or rather they will
-look for me. 
+I got the money, No receipt, Duke, man, what are you talking about? We
+shook hands, I told them I would take it from there, and they were on
+their way and I never ever saw them again, and I won't until I do the
+delivery in a few days. Now that I've got what they want I'll have to
+look for them when I arrive at my destination. Or rather they will
+look for me.
 
-Whatever, that's not going
-to be today. No, today I'm not gonna tell you about my joining the
-circus either.  Something I didn't really thought was going to be
-necessary. 
+Whatever, that's not going to be today. No, today I'm not gonna tell
+you about my joining the circus either.  Which, by the way, at that
+moment I didn't really think it was going to be necessary.
 
 Duke of Poo tells his story
 --------------------------------
@@ -324,32 +328,38 @@ Down and out and with ten thousand pesos in Mobile and Panama City.
 ---------------------------------------------------------------------
 
 In the name of the people, Duke, just stop crying like a
-sissy. Somebody buy him more drink or take him to sleep or
-both. Besides, you all wanted to listen to my story, right? Here it
+sissy. Somebody buy him more to drink or take him to sleep or
+both. Besides, you all wanted hear to my story, right? Here it
 goes...
 
-The circus seemed to be not too far, somewhere in West Florida. There
+The circus with the mech seemed to be not too far, somewhere in West Florida. There
 I went. This was going to be easy as peaches. Go there, get in, grab
 it, get out. Except it was not.  
 
 With the ten thou I had when I arrived at Panama City, where the circus
-happened to be a few days later, I couldn't even have bought a ride
+happened to be a few days later, it wasn't even enough to have bought a ride
 with the circus. Which, come to think of it, was what the two guys
-would have done to start with if it had been even possible.  They wouldn't have needed anyone to do it for them. Or maybe they did, so I had to check anyways.  
+would have done to start with if it had been even possible.  They
+wouldn't have needed anyone to do it for them. Or maybe they did, so I
+had to check anyways.   
 
-Not that it was. Not that I had the ten thousand any more, a man has
+Not that it was really possible to spend the full amount. I didn't have the ten thousand any more, a man has
 got expenses and love is not always free, as you may know. Yes, young
 men like me don't have it that difficult but I was in a hurry and that
-hoochie koochie girl looked like she could give me information, and
-boy, did she give me all she could... and I gave her a few pesos. A
+hoochie koochie girl looked like she could give me some information, and
+boy, did she give me all she could... so I gave her a few pesos. A
 few dozens. 
 
-But I had good information. It was late winter in Panama City, and it
+* revise and write * 
+
+But the information I received from the guys was correct. It was late
+winter in Panama City, and it 
 was one of the first cities in their 1915 tour. All tents were shiny,
 all guys seemed jolly and all girls beautiful and caring. I came in
-through the gate, yes, the arch, but I didn't know that back then, and
-there was the carnival in full swing, tents forming an U with the
-circus, menagerie at the very end. It was a bit windy and kind of
+through the gate, yes, the arch, but I didn't know to call it that way
+that back then, and
+I found the carnival in full swing, tents forming an U with the
+circus and menagerie at the very end. It was still a bit windy and kind of
 chilly, so people didn't loiter among the tents, speeding from one to
 the next to end at the skin show or one of the gambling tents if it was a
 man or a couple of friends or at the circus if it was a whole family. 
