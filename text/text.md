@@ -618,10 +618,10 @@ It's a plan
 who had the strange ability of laughing and crying at the same time,
 and make you do the same. 
 
-"Man, the whole country is like a fucking factory? Haven't you
+"Man, the whole country is like a fucking factory! Haven't you
 noticed?" He cried again. We were in a cargo wagon, surrounded by
-cotton bales on a train bound for Pascagoula, where I was following
-the circus, thinking that it was better to follow it and wait for the
+cotton bales on a train bound for Pascagoula, where I was going following
+the circus, on the thought that it was a good idea to follow it and wait for the
 mech to drop from a carriage or be sold in an auction or
 something. Hoboing was a way of doing that and not make a dent on my
 budget. The clown had been a jolly companion until I asked him what
@@ -635,7 +635,7 @@ all my ass".
 "What did you say?"
 
 "Something along the lines of him being circumcised by a precise
-kick to her sister in the jaw". 
+kick to her sister in the jaw." 
 
 "He, that is funny. I met these guys up in the hills in New Mexico, I
 mean Mississippi, that... " It was funny that I had found this
@@ -648,23 +648,23 @@ making laughs for centavos.
 not about making fun of the right people, that takes all the fun out
 of it. Like making a circus a factory."
 
-"Come again, how's that?" I needn't tell you that the cotton cargo
+"Come again, how's that office thing?" I needn't tell you that the cotton cargo
 wagon is the most comfortable of all. To top it, it's also quiet. Only
 problem is you can't smoke or you'll become a ball of cotton fire in
 no time. Ain't that true, Eyebrowless Eric?
 
 "Well, it's not called the People's circus for no reason." he
 said. "It belongs to the state, as this railway does. So the very next
-day this mean person, dressed in combat clothes, came up to me and he
+day that had happened this mean person, dressed in combat clothes, came up to me and he
 said.
 
 "Teach me everything, from now on I'll be you. 
 
 "That he said. I don't know what
-the rest of the clown posse said, but they're not there anymore. And
-they look mean..." But I was only half-listening by now. I had a plan.
+the rest of the clown posse said, but I think they're not there anymore. And
+they the new ones look mean..." But I was only half-listening by now. I had a plan.
 
-*revise* 
+"Funny thing is, that new clown was also white," he continued saying.
 
 I married a bearded woman
 ------------------------------------
@@ -1284,8 +1284,69 @@ open door. Something was afire out there.
 
 We didn't start the fire
 -----------------------------
+I was out of the door a fraction of a second after Ted.   One of the
+midway concession shops was afire, and we run there.   There were
+horses and confusion and what looked like a bonfire, right next to
+the concession.
 
-But one of the midway concession shops was afire, and we run there. 
+A jointee run up to Ted, shouting.
+
+"The Klan! It's the Klan!" Ted slapped him in the face.
+
+"There's no such think in the people's republic! Just shut up and
+fetch the ringmaster!" I could see that the bonfire was actually a
+cross on fire. And that the riders that were running had pointed white
+hats and white robes. 
+
+Ted started to run obliquely to the fire. The jointee went past me,
+looking for the ringmaster, which was still at the office carriage,
+tending for Rufus. And I could either try to stop the fire, or go in
+pursuit. And then I heard cries from the jig show tent.
+
+Actually, there were cries everywhere. I was late already and most
+customers had left, but the few dyed-in-the wool marks were still
+pouring out of the shows and gambling tents. And some of them were
+crying their heads out. But that cry was kind of different.
+
+Yes, I know cries. I worked the cows, and know when a cow is calling
+its calf, when she wants a hump, when she's broken a leg. A woman
+crying is no different. So she was crying surprise. And she was
+probably Tracy. So I run in that direction.
+
+And what I found there was a group of circus girls beating senseless
+one of the honkies that had tried to scam us before. He had still
+white rags around him, so he was part of the raiding party. Which,
+come to think of it, was probably just a distraction to get again at
+the same person: Tracy.
+
+Tracy was telling them to please stop. The guy was pretty beat up,
+trying to stand up, but he was being kicked in the general area of his
+bollocks and was not going to be able to stand straight for a good
+amount of time. But for the time being it was quite clear that he was
+not going anywhere, either with Tracy or without her.
+
+"OK, OK, ladies, let me take it from here." I picked up the guy who
+spat a tooth out as he stood. He started to curse me and the girls and
+tried to look obliquely at Tracy, but I slapped him good. 
+
+The truth is that I didn't know what to do with him. I was taking him
+to the ringmaster when Vince came up to me with a saddled show horse. 
+
+"We're after the Klan guys."
+
+"But..." I tried to say.
+
+"No buts. Mount and come with us"
+
+"And what about this one?" 
+
+"Tie him up somewhere, we'll take care of him afterwards." That's what
+I did. When I came back, he'd fleed, obviously. He was the luckiest
+one of the whole group. 
+
+We gallopped together in the direction of Miami, where the Klanners
+had went. What we were going to do once we caught up with them I had
+no idea, but I was pretty sure the rest of the posse did.
 
 *write and revise*
 
