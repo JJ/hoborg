@@ -579,35 +579,37 @@ already dark outside. He lighted a match.
 
 "I can't see a damn thing, man. Can't you turn on the light?"
 
-"Afraid not, it could damage the mechanical man, my friend has said"
+"Afraid not, it could damage the mechanical man, my friend has said," he answered, coyly. 
 
-"Damage it? How come? It performs in broad daylight"
+"Damage it? How come? It performs in broad daylight," I told him.
 
-"Yes, but it's being repaired right now due to a light... surplus. You
-see? It's right here" 
+"Yes, but it's now being kept off the light to be repaired right now due to a light... surplus. You
+see? It's right here." 
 
 What I could see there was, indeed, a teakettle. Not a whole
 teakettle, just a part. I couldn't even see if it had ears or not. 
 
-"That's a teakettle".
+"That's a teakettle."
 
 "No, it's not. It's a head... apparatus. See, here's the... belly
-engine." Which looked like a stovepipe, or part of it that was visible
+engine." Which looked like a stovepipe, or a part of it that was visible
 by the match that he has lighted, anyways. 
 
 "You're full of shit, man." I told him. "I'm out of here."
 
-I opened the door. There was another guy loitering at the entrance. He
+I turned to leave. Giving him the back, I opened the door. There was another guy loitering at the entrance. He
 dropped the cigarette and blocked the end of the stairs that descended
 from the carriage, arms loose at the sides of the body, hands into
 fists. Ready to mug me out of whatever I had left in my pockets. But I
 was not going to make it easy: I jumped from the carriage door on him
 and made him fall. I fell too, but stood up pretty quickly and started
-running. They were older than me, and anyway I didn't think they would
-make much more than shouting abuse at me for a while.
+running. The two scammers were older than me, and anyway I didn't think they would
+make much more than shouting abuse at me for a while. 
 
-I was out the circus pretty fast. Same speed I was left without a
+So I was out of that circus pretty fast. Same speed I was left without a
 plan. 
+
+* revise * 
 
 It's a plan
 -------------
