@@ -14,7 +14,7 @@ Guy the gaffer |- |- | Caucasian | Circus manager
 Duke of Poo | 1843 |Richmond| Caucasian | Bum with  delirium of greatness
 Gummy Eddy | 1881 |-| Caucasian | Hobo with no teeth
 Captain Cabo |- |- | Hispanic | Hobo that served in the army
-Wireless Ted |- |- | Black | Hobo that invented the radio.
+Wireless Jim |- |- | Black | Hobo that invented the radio.
 Hatless Daring Dale |- |- | Black | Revolutionary bum
 Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
-
+Eyebrowless Eric | - | - | Asian | Hobo mentioned once  
