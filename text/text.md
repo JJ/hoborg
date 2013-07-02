@@ -1341,10 +1341,10 @@ to the ringmaster when Vince came up to me with a saddled show horse.
 "And what about this one?" 
 
 "Tie him up somewhere, we'll take care of him afterwards." That's what
-I did. When I came back, he'd fleed, obviously. He was the luckiest
+I did. When I came back, he'd taken away, obviously. He was the luckiest
 one of the whole group. 
 
-We gallopped together in the direction of Miami, where the Klanners
+We galloped together in the direction of Miami, where the Klanners
 had went. What we were going to do once we caught up with them I had
 no idea, but I was pretty sure the rest of the posse did.
 
