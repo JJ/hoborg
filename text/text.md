@@ -10,11 +10,6 @@ forking (that is, creating your very own copy and changing it to your
 liking), or just talking about it.  You can follow its evolution [in
 Twitter @hoborg_novel](http://twitter.com/hoborg_novel). 
 
-Table of contents
-----------------------
-
-* For your peruse and joy, here's the table of contents (actually, this line will go)
-{:toc}
 
 
 Meet the mechanical man
@@ -1700,9 +1695,13 @@ to maim and slay him? Couldn't do that, either.
 was possibly nothing. And I couldn't do a thing, either. I went back
 to Rufus to try another angle. 
 
+"You'll need help for the transport." I told him.
+
 *write and revise*
 
-This could be the end of my circus days, and the first day I was there
+This could be the end of my circus days, which I expected to arrive
+anyways sooner or later, but not like this. But the first day I was
+there 
 came back to me. That day I saw Manuel for the first time and I was
 conned out of a good amount of pesos.
 
@@ -1749,7 +1748,7 @@ his sweat could not entirely be justified by the heat in his workshop,
 he gave me a burlap bag stuffed with clanking things and sent me on my
 way. 
 
-I was then at a loss. And Rufus could leave any time now. And then I
+I was then at a loss. Rufus could leave any time now. And then I
 remembered Tracy.
 
 *revise and write*
@@ -1786,6 +1785,12 @@ fire. Liquor was passed, bread and cheese shared, and histories
 and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
+
+Table of contents
+----------------------
+
+* For your peruse and joy, here's the table of contents (actually, this line will go)
+{:toc}
 
 Acknowledgements
 --------------------------
