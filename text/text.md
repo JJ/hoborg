@@ -1764,6 +1764,34 @@ the naval station was coming the next day at dawn to pick them up. I
 was relieved. Dawn was good. I was damn good. 
 
 
+Dawning on her
+--------------------
+
+"I just wanted to have a nice and wet farewell from you" Tracy told
+Rufus. Tracy owed me, and she was good at this, she had been born for
+this. Honkies were not good for much else, Gummy, are you smiling?
+Can't tell, without all the teeth.
+
+Anyway, the face of Rufus told me that he'd fell bait, hook and switch
+for it.  But, at the same time, he was looking back to the carriage
+where Manuel was stored, it was just a couple of hours away to dawn
+and the other honkies were coming to get him away. Come to think of
+it, it was queer how many honkies were there in the Navy. And they
+had no uniforms. 
+
+But I didn't care. "Rufus, should I help you with Manuel? Let me drive
+it" He didn't even look back to me since his mouth was anchored to
+Tracy's by a long line of tongue. It was what I needed to make the
+first switch. 
+
+That part was easy. Most people were sleeping or doing nasty things in
+their beds, so they didn't care when I drove Manuel to the tigers cage
+and hid it there. I put the gaffe in place of Manuel and covered it
+with a canvas.
+
+The difficult part was going to be drive the gaffe to the truck. But I
+still had Tracy.
+
 
 
 With the hobos around the fire
