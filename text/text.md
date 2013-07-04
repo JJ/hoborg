@@ -1681,7 +1681,7 @@ circus was due to mount again in carriages and go back to the
 esplanade. 
 
 The press said afterwards that we had been inciting the masses to
-rebelion, but that was not true. The only papers they posted was
+rebellion, but that was not true. The only papers they posted was
 circus paper, nothing that told the emaciated, overworked and
 exploited brothers of the still United States of America that workers'
 paradise was just a hundred miles away, in the Republic of Florida. So
