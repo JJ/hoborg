@@ -1458,7 +1458,7 @@ No way, man, absolutely no way you could put the thirty-odd carriages
 in airships, you would have needed so many of them. Yes, you love
 airships, Commodore, that's a fact.
 
-It was my first chance to actually drive the mech. Aw, man, we are
+This was my first chance to actually drive the mech. Aw, man, we are
 calling it a hoborg, but just from a couple of nights ago! Just let me
 call it the way I've always done. You want to hear the story? As I was
 saying, you already know it has to be driven. On its own, he is barely
@@ -1636,8 +1636,8 @@ hole that afforded me a change of position to the shop of horrors of
 the circus.
 
 But the whole thing didn't take long. I heard them cursing and yelling
-and the sound of falling to the water. I then raised my head and saw
-Manuel was going past where the guys had stood and was slowly rolling
+and then the sound of falling to the water. I then raised my head and saw
+Manuel was rolling past where the guys had stood and was slowly coming
 to a halt. 
 
 I really didn't find out what had happened, other that there were
@@ -1650,6 +1650,60 @@ The third guy? He was given to the clown posse. I am not gonna talk
 about it.
 
 *write and revise*
+
+Parade of the monsters in New Orleans
+---------------------------------------------------
+
+My main concern in Nueva Orleans was to keep an eye on Manuel, just in
+case these capitalist pigs wanted to lay their hands on it and keep
+for them. So I mostly missed what I am about to tell you. But is as
+true as it gets, since I knew it from a first hand account. Where was
+I? You know, here and there, doing stuff, busying myself. 
+
+The parade started right there on the docks, we gathered all the
+visible stuff to go march through the French quarter, place of vice
+now and ever, but that rhymes with circus, right? The carriages and
+gaffers went on their way to set up the act in a big esplanade, while
+the rest ordered their ranks in the docks.
+
+Already the people were gathering around us, some palefaces but mostly
+brothers. It was in the middle of the morning of a working day, but
+there were many able young men who, apparently, had skipped work or
+simply didn't have one to go to. So many idle men spell trouble, and
+trouble was what happened.
+
+But that was later. The parade was great and dramatic and epic and
+millions of people watched it from the sides of the streets and the
+balconies and perched on top of street lights. It proceeded down Royal
+street and then went right on Canal street to go left again on Loyola
+Avenue. People cheered all the way to the train station, where the
+circus was due to mount again in carriages and go back to the
+esplanade. 
+
+The press said afterwards that we had been inciting the masses to
+rebelion, but that was not true. The only papers they posted was
+circus paper, nothing that told the emaciated, overworked and
+exploited brothers of the still United States of America that workers'
+paradise was just a hundred miles away, in the Republic of Florida. So
+if they somehow got wind of it and rioted, it was not our fault.
+
+It was nobody's fault either that a couple of our own clowns ended up
+in jail, but that was somehow how it all started. Why the clowns were
+sent to jail is not clear, since as I said they had not been on the
+parade, I said that, right? They might have been drunk and on the
+wrong side of a police officer, or just too black for the Irish police
+officer that apparently arrested them.
+
+So it was not our fault either that Ted, as white as it gets but all
+dressed up and with the makeup on went there in the circus clown car
+followed by the marching band and the elephants and a few acrobats and
+eventually a few thousand locals to demand early release of his
+mates. 
+
+When they arrived at the police station, it was very unlikely that
+jokes would be the only thing to be cracked.
+
+*write and revise* 
 
 Closed for repairs
 -----------------------
