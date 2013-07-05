@@ -1,6 +1,3 @@
----
-layout: index
----
 Hoborg: A novel. Book One
 ================
 
