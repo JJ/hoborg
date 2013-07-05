@@ -18,5 +18,4 @@ Wireless Jim |- |- | Black | Hobo that invented the radio.
 Hatless Daring Dale |- |- | Black | Revolutionary bum
 Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
 Eyebrowless Eric | - | - | Asian | Hobo mentioned once 
-Tracy Wison | 1888 | Miami, Florida | White | Possum girl that joins the circus
- 
+Tracy Wilson | 1888 | Miami, Florida | White |  Possum girl that joins the circus
