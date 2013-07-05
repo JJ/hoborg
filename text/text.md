@@ -1736,7 +1736,7 @@ parading, with the band in a truck bed playing fast and loud. Rufus
 came from my right to retrieve the mech from the clowns, who were with
 their car in front of the convoy.
 
-* revise and write *
+*revise and write*
 
 Closed for repairs
 -----------------------
@@ -1747,7 +1747,7 @@ told me that he was taking Manuel away from the circus. There was something funk
 working perfectly and all of a sudden the mech breaks down and has to
 be taken somewhere for repairs.
 
-"Where again is it going?" I asked Rufus. He looked to the right and
+"Where again is it going?" I asked Rufus. He looked to his right and
 answered. 
 
 "Well, he can only be fixed in the Estación Naval at Pensacola,
@@ -1764,7 +1764,7 @@ repaint, grease, change a thing here and there..."
 
 I couldn't allow that to happen. It couldn't go anywhere. 
 
-"I can't do a thing, son. Seems legit, and I don't know a thing about
+"I can't do a damn thing, son. Seems legit, and I don't know squat about
 those things. You can go back to help the rest of the crew, don't
 worry about that." Boris the manager told me when I grabbed hold of
 him. But I wasn't worried about *that*, not precisely. That
