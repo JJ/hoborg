@@ -68,8 +68,8 @@ So this is what you hobos do, right? Sit around the fire in this rail
 yard... Jungle? How come you call this a jungle? It's a railroad
 switchyard! OK, jungle. And you tell tall tales, right? And you want to
 hear mine? OK, Duke, I owe you. So here it goes. What do you mean,
-Gummy? It's the plain truth. I tell you exactly like it happened. Yes,
-sir, I'm sure, what are you, a fuckin' people's judge? 
+Gummy? It's the plain truth. I will tell it to you exactly like it happened. Yes,
+sir, I'm sure, what are you, a fuckin' people's court? 
 
 Alright, then. The story of how I became in the possession of Manuel
 the Man-Made Man starts in Mobile, a rough and tumble border town of the
@@ -246,7 +246,7 @@ coming. A honking, screeching, clanking little car.
 And now, for all of you, a honking, screeching, clanking and dancing
 mech. 
 
-So that's what the two average guys  told me. Well, not all of that, I
+Well, after the dancing, that's what the two average guys  told me. Well, not all of that, I
 added a little bit on my own. Tomorrow, or the day after that, I'll
 tell you how I became a  
 circus roustabout.
@@ -258,15 +258,18 @@ And a printout of where this marvel could be found, since, to top all
 that, he didn't stay in a single place, but kept moving all over the
 map. Along with a circus.
 
-"A circus?" I asked. "What does it do? Bite chicken heads off?"
+"A circus?" I asked. "What's his act? Bite chicken heads off?." I asked them. 
 
 "As far as we know, it could bite the head of something considerably
 bigger than a chicken." Talking-guy said, while Fists-means-business
 smiled in a nondescript way. "But yes, we are pretty sure it can do
 that too."
 
-I got the money, No receipt, Duke, man, what are you talking about? We
-shook hands, I told them I would take it from there, and they were on
+I got the money. No receipt, Duke, man, what are you talking about? We
+shook hands and looked each other deep in their eyes. Can't remember
+the color, they were rather nondescript. White around and darker stuff in the
+middle, all I can remember. 
+I told them I would take it from there, and they were on
 their way and I never ever saw them again, and I won't until I do the
 delivery in a few days. Now that I've got what they want I'll have to
 look for them when I arrive at my destination. Or rather they will
@@ -937,13 +940,17 @@ we had considered a couple of times to charley it.
 
 Who is Tracy? You're about to know her and we were about to do it, too. 
 
-We didn't feel like talking to her because honkies, even honkie girls,
-were always walking around bumming things and complaining about this
+For starters, Vince and me didn't feel like talking to her because honkies, even honkie girls,
+were always walking around bumming things and whining about this
 and that. Besides, she was not that beautiful to deserve one of the
 ducats we kept; she was nice, in that transparent way the gringas had;
 her hair was flat and hay colored, and her hips and boobs were way too
 small, although not disagreeably shaped. She didn't smell good, a bit
-musty. Vince and me sent her on her way, but she clung to us on our
+musty. And her face had bumps and scar marks where it shouldn't have
+had any; her white skin had purple and blue bruises in places. Nothing
+unusual for white people, anyways.
+
+Vince sent her on her way, and we went on ours, but she clung to us on our
 way back to the circus. Which pissed us off even more since now she
 would be witness to us ditching the paper; yes, that's what charley
 means, weren't you listening? Am I not talking in fucking English? OK,
@@ -1654,7 +1661,7 @@ about it.
 Parade of the monsters in New Orleans
 ---------------------------------------------------
 
-My main concern in Nueva Orleans was to keep an eye on Manuel, just in
+My main concern in New Orleans was to keep an eye on Manuel, just in
 case these capitalist pigs wanted to lay their hands on it and keep
 for them. So I mostly missed what I am about to tell you. But is as
 true as it gets, since I knew it from a first hand account. Where was
@@ -1681,7 +1688,7 @@ circus was due to mount again in carriages and go back to the
 esplanade. 
 
 The press said afterwards that we had been inciting the masses to
-rebellion, but that was not true. The only papers they posted was
+rebellion, but that was not true. The only papers they posted were
 circus paper, nothing that told the emaciated, overworked and
 exploited brothers of the still United States of America that workers'
 paradise was just a hundred miles away, in the Republic of Florida. So
@@ -1703,7 +1710,33 @@ mates.
 When they arrived at the police station, it was very unlikely that
 jokes would be the only thing to be cracked.
 
-*write and revise* 
+Knock, knock, knocks who?
+-----------------------------------
+
+The metropolitan police locked and bolted all doors of the police station and started to
+crack windows to prepare for the siege. 
+
+But It didn't take long. The clowns, to the blaring music of the
+marching band and much dancing from locals and circus people alike,
+unloaded the mech which Ted had comandeered; the clowns went around
+the mecn singing "Police home is coming down, coming down" while the
+coppers where kept at bay by distractions and the ocassional shot to
+make them hunker down. Which they did, mostly, until a slightly bent
+Manuel crashed into the main door, prying it wide open; elephants
+eliminated one of the main floor windows by tearing them up. And
+everybody was in. And everybody was out. Clowns and not a small amount
+of brothers who had been detained for no good reason.
+
+That night's act would have been quite a success if we hadn't got wind
+that the national guard had been called and was likely to crash our
+party. So we had to leave too soon.
+
+I was setting up stuff at the circus site and I saw them coming, still
+parading, with the band in a truck bed playing fast and loud. Rufus
+came from my right to retrieve the mech from the clowns, who were with
+their car in front of the convoy.
+
+* revise and write *
 
 Closed for repairs
 -----------------------
@@ -1805,9 +1838,17 @@ way.
 I was then at a loss. Rufus could leave any time now. And then I
 remembered Tracy.
 
-*revise and write*
+I needed Tracy to keep him busy and focused on something other than
+the gaffe. I talked to her, she owed me, and, honkie and all, she
+paid her dues so she not-so-reluctanctly agreed to keep Rufus
+distracted when needed. Which might be any time now.
 
-But it didn't take long to have something that if seen in the dark,
+I took everything to a city car mechanic and gave him the sack and the
+money. And a ducat to watch the show so that he could see the mech in
+action and have an idea of how to rig what I gave him together. 
+
+I didn't have much confidence in the guy, but actually it didn't take
+him long to have something that if seen in the dark, 
 and from a distance, and if you really had seen Manuel just a couple
 of times, could pass for the original. So there was no fucking way
 Rufus could be mistaken. And I had spent two days and lots of pesos
@@ -1822,7 +1863,7 @@ Dawning on her
 --------------------
 
 "I just wanted to have a nice and wet farewell from you" Tracy told
-Rufus. Tracy owed me, and she was good at this, she had been born for
+Rufus. Tracy  was good at this, she had been born for
 this. Honkies were not good for much else, Gummy, are you smiling?
 Can't tell, without all the teeth.
 
@@ -1833,8 +1874,8 @@ and the other honkies were coming to get him away. Come to think of
 it, it was queer how many honkies were there in the Navy. And they
 had no uniforms. 
 
-But I didn't care. "Rufus, should I help you with Manuel? Let me drive
-it" He didn't even look back to me since his mouth was anchored to
+But I didn't care. "Rufus, should I help you with Manuel? I can drive
+it to the truck." He didn't even look back to me since his mouth was anchored to
 Tracy's by a long line of tongue. It was what I needed to make the
 first switch. 
 
@@ -1843,8 +1884,8 @@ their beds, so they didn't care when I drove Manuel to the tigers cage
 and hid it there. I put the gaffe in place of Manuel and covered it
 with a canvas.
 
-The difficult part was going to be drive the gaffe to the truck. But I
-still had Tracy.
+The difficult part was going to be to drive the gaffe into the truck bed. But I
+still had Tracy. 
 
 
 
