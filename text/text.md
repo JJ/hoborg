@@ -1722,8 +1722,8 @@ crack windows to prepare for the siege.
 But It didn't take long. The clowns, to the blaring music of the
 marching band and much dancing from locals and circus people alike,
 unloaded the mech which Ted had comandeered; the clowns went around
-the mecn singing "Police home is coming down, coming down" while the
-coppers where kept at bay by distractions and the ocassional shot to
+the mech singing "Police home is coming down, coming down" while the
+coppers where kept at bay by distractions and the occasional shot to
 make them hunker down. Which they did, mostly, until a slightly bent
 Manuel crashed into the main door, prying it wide open; elephants
 eliminated one of the main floor windows by tearing them up. And
