@@ -77,7 +77,7 @@ Alright, then. The story of how I became in the possession of Manuel
 the Man-Made Man starts in Mobile, which is only fitting, given the
 circus obsession with phrases with words that all start the
 same. Mobile, yes, time ago it was in Alabama, but now is  a
-rough and tumble harbour town close to the border of the 
+rough and tumble harbor town close to the border of the 
 United All Races People's Republic of Florida. That's a pretty long
 name for a place that starts at Pascagoula in the 
 West and and goes no further
@@ -147,38 +147,45 @@ that you could not describe it later. That is why they were
 nondescript. Hey, said that already. You weren't listening?
 
 As they approached, the non-strong non-descript guy seemed to be the one that was going to
-do the talking, which he started to do as soon as he could do it
+do the talking, which he started to do as soon as he possibly could 
 without shouting. After touching their caps managing not to reveal
-even a bit more of their faces and exchanging pleasantries, which was the right
+even a tiny bit more of their faces and exchanging pleasantries, which was the right
 thing to do for well-educated gentlemen that we all were, they offered
 me a cigar which I rejected because I don't smoke, as you might have
 already noticed, and went down to business, not-strong in front of me
 and fists-mean-business by my side and slightly behind me. He really
-meant business that way too. Still not afraid, because I still had options. 
+meant business that way too. Still not afraid, because I still had
+options. One of them, by the way, was to listen to them and eventually
+do business. 
 
-No, Gummy, I didn't hit them. Why should I? I was down on my luck, if
+No, Gummy, I didn't hit them. Why should I? I was down on my luck. If
 two nondescript persons make an offer, or one does while the other has
 an slightly threatening posture, you listen to them. One's got to earn
-a living.  
+a living, and I was just thinking about doing the same the Republic
+did with those imperialistic airships. No harm done if no harm is
+done, right? Well, you know now that some harm would be *eventually*
+done. But I didn't know back then. 
 
-And a good living it might be, too. Ten thousand pesos on the spot,
+Besides, their words and general demeanor told me that a good living it might be, too. Ten thousand pesos on the spot,
 ten thousand more when I got them something, which they really, really
 wanted for no particular reason. They were collectors. They had a hardware
 store. They liked shiny, rolling things. Those were a few of the
-reasons they offered for  wanting the Man, 
-something they called Manuel the Mechanical Man. Which was, metaphorically speaking,
+reasons they offered for  wanting the mech, which they called Manuel
+the Mechanical Man. Which they told me was, metaphorically speaking, 
 I know, Duke, you like when I speak metaphorically, kicking dust in a
 circus.  
 
 Before that sunny day in the Mobile docks, I had never heard of the
 thing.  What was my business before that day, do you want to know? Dock hand, I
-just told you, Gummy. Damn, do you want to hear the story or not? 
+just told you, Dale. Damn, do you want to hear the story or not? 
 You had heard about that Manuel that is now stashed in the moored
-wagon? Well, I hadn't, I was not so 
+wagon before I showed up here with it? Well, I hadn't, I was not so 
 well informed and educated as you all apparently are in this
-jungle. So the speaking non-descript man described it for me,
-just in case I got it wrong and got them a kicking watering can or a
-singing flower pot.  
+jungle. 
+
+Which is why the speaking non-descript man described it for me,
+just in case I got it wrong and got them a kicking watering can or the
+tin man from the Wizard of Oz.  
 
 "This gimmick Manuel you've got to get us  is like a a rolling
 teakettle with ears", he told me.  
