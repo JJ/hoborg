@@ -288,7 +288,7 @@ circus roustabout.
 Here's a bit of money to get you started
 ----------------------------------------------------
 
-*revise and rewrite* 
+* revise and rewrite * 
 
 They told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
 that, he didn't stay in a single place, but kept moving all over the
