@@ -55,7 +55,7 @@ urgency with which I have to grab hold of it, since tonight is the
 night it's going to be removed from here to places unknown and likely
 more dangerous than here. 
 
-But OK, OK, don't protest, I see that I am jumping over myself. Let me
+But OK, OK, don't complain, I see that I am jumping over myself. Let me
 tell you how it all started. 
 
 
@@ -1071,13 +1071,13 @@ matter because, well, the important thing was the booby swing. The
 professor talked about how important that was for health and how
 everybody did that in Sweden or Siam or in old Greece or wherever, but nobody paid much
 attention to the words. The important part was the swinging.  Yes,
-boys, what swinging. Don't sigh, men, you've all been young and
-smelled fresh pussy. 
+boys, what a swinging. Don't sigh, men, you've all been young and
+smelled fresh pussy. Not anymore? Well, tough luck!
 
-I happened to be there, pushing aside one other gay, when the show was interrupted by a racket at the tent
+I happened to be there, pushing aside one other guy, when the show was interrupted by a racket at the tent
 gate. I couldn't see what was going on there, but I could see near the
 scenario that several guys came into view shouting, and I first though they were
-protesting for high prices or too much time waiting in line or
+protesting about high prices or too much time waiting in line or
 whatever. But they were yelling something about daughter and honor and
 I think I heard the name Tracy and I could see they were wielding
 clubs and baseball bats and even a machete. Tracy just stood there, and the men
@@ -1716,27 +1716,61 @@ Knock, knock, knocks who?
 The metropolitan police locked and bolted all doors of the police station and started to
 crack windows to prepare for the siege. 
 
-But It didn't take long. The clowns, to the blaring music of the
+But the action didn't take long to start. The clowns, to the blaring music of the
 marching band and much dancing from locals and circus people alike,
-unloaded the mech which Ted had comandeered; the clowns went around
+unloaded the mech which Ted had comandeered. Then the clowns went around
 the mech singing "Police home is coming down, coming down" while the
 coppers where kept at bay by distractions and the occasional shot to
-make them hunker down. Which they did, mostly, until a slightly bent
+make them hunker down. Which they did, mostly, until a slightly bent forward
 Manuel crashed into the main door, prying it wide open; elephants
-eliminated one of the main floor windows by tearing them up. And
-everybody was in. And everybody was out. Clowns and not a small amount
+eliminated one of the main floor windows by tearing them up, they were
+angry after taking  useless pot shot from the coppers. After that,
+everybody came in. And everybody came out. Clowns and not a small amount
 of brothers who had been detained for no good reason.
 
 That night's act would have been quite a success if we hadn't got wind
 that the national guard had been called and was likely to crash our
 party. So we had to leave too soon.
 
-I was setting up stuff at the circus site and I saw them coming, still
+But I didn't know any of that I was putting up a tent pole at the circus site and I saw them coming, still
 parading, with the band in a truck bed playing fast and loud. Rufus
-came from my right to retrieve the mech from the clowns, who were with
-their car in front of the convoy.
+came running from my right to retrieve the mech from the clowns, who were with
+their car in front of the convoy. Manuel was in a truck bed, still but
+with its claws up, and somebody had given him a ball cap that sat
+precariously on top of his head.  Rufus climbed up and started to
+untie it, making the cap to finally fall down and the mech itself to
+swing dangerously.
 
-*revise and write*
+The clown car stopped and Ted came out of it. His blackface mask was
+starting to melt due to the New Orleans heat and it was becoming a
+pink and gray mess. He came to the truck where Rufus was struggling to
+get Manuel loose.
+
+"Leave that alone." Ted said, not very loud, but so clearly that I
+could hear it among the din of the parade and the rest of the
+circus. Rufus shivered, but kept going at the straps.
+
+"Stop the truck!." He yelled this time. The truck shuddered to a
+stop, and Rufus fell back on his bottom. 
+
+"Come down from there. You'll get it back in time for the show. For
+now, let it bask in the glory of the people. He's a hero." Ted said,
+extending his arms in a way that managed to be threatening.
+
+"But..." Rufus said, while trying to stand up.
+
+"Boy, get it running again!" Ted said to the truck driver. Rufus was
+trying to stand up and fell down again.
+
+"But... It's dented!" Rufus managed to say.
+
+"Yes. Don't repair it. They are combat wounds, and must be worn with
+pride!" Ted said while walking back to the clown car. 
+
+Rufus crept down from the truck and walked crestfallen back to his
+wagon. The rest of the parade proceeded loudly and I continued doing
+my job and wondering if this was a chance or a trap. I would discover
+soon enough.
 
 Closed for repairs
 -----------------------
