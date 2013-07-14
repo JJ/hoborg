@@ -11,7 +11,7 @@ Bill "Red" Rickard |- | Florida | black Seminole | Circus roustabout
 Boris "Just Boris" Bacigalupo | - |- | Black | Circus manager
 Raúl "Puff" Ramírez | 1867 | Bayamo, Cuba | Hispanic | Cynical ringmaster of the circus, he's been through all. Smokes a pipe. 
 Guy the gaffer |- |- | Caucasian | Circus manager 
-Duke of Poo | 1843 |Richmond| Caucasian | Bum with  delirium of greatness
+Reuben "Duke of Poo" Poole | 1843 |Richmond, Virginia| Caucasian | Bum with  delirium of greatness, former railroad owner
 Gummy Eddy | 1881 |-| Caucasian | Hobo with no teeth
 Captain Cabo |- |- | Hispanic | Hobo that served in the army
 Wireless Jim |- |- | Black | Hobo that invented the radio.
