@@ -196,7 +196,13 @@ teakettle with ears", he told me.
 A rolling teakettle with ears
 ------------------------------------
 
-Think about a teakettle. You got it? That's it, thicker on the bottom
+* revise and write *
+
+Think about the Tin Woodsman. You got it? Well, this Manuel was
+almost, but not quite, completely different from that. And not made of
+tin, either. 
+
+Think now about a teakettle. You got it? That's it, thicker on the bottom
 and not so much on top. Yes, Count, we all know you served tea to
 royalty in your castle in Central Europe. Alright, south by southwest
 Europe. Whatever. You picture that, right? That would be a milk pail
@@ -269,29 +275,36 @@ coming. A honking, screeching, clanking little car.
 And now, for all of you, a honking, screeching, clanking and dancing
 mech. 
 
-Well, after the dancing, that's what the two average guys  told me. Well, not all of that, I
-added a little bit on my own. Tomorrow, or the day after that, I'll
+Well, enough with the dancing. We're going to spend the fuel, and I
+don't have that much to go. Yes, it runs on petrol, like any other
+machine. And electricity. And spit. And  that's what the two average guys  told me. Well, not all of that, I
+added a little bit on my own, and you can see the rest. Including the
+back.
+ 
+And enough with the talking. Tomorrow, or the day after that, I'll
 tell you how I became a  
 circus roustabout.
 
 Here's a bit of money to get you started
 ----------------------------------------------------
 
-And a printout of where this marvel could be found, since, to top all
+*revise and rewrite* 
+
+They told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
 that, he didn't stay in a single place, but kept moving all over the
 map. Along with a circus.
 
-"A circus?" I asked. "What's his act? Bite chicken heads off?." I asked them. 
+"A circus?" I asked. "What's his act? Bite chicken heads off?" I asked them. 
 
 "As far as we know, it could bite the head of something considerably
 bigger than a chicken." Talking-guy said, while Fists-means-business
 smiled in a nondescript way. "But yes, we are pretty sure it can do
 that too."
 
-I got the money. No receipt, Duke, man, what are you talking about? We
-shook hands and looked each other deep in their eyes. Can't remember
+I got the money. No receipt, Duke, man, what are you talking about? We just
+shook hands and looked each other deep in our eyes. Can't remember
 the color, they were rather nondescript. White around and darker stuff in the
-middle, all I can remember. 
+middle, all I can remember. After that
 I told them I would take it from there, and they were on
 their way and I never ever saw them again, and I won't until I do the
 delivery in a few days. Now that I've got what they want I'll have to
@@ -299,31 +312,34 @@ look for them when I arrive at my destination. Or rather they will
 look for me.
 
 Whatever, that's not going to be today. No, today I'm not gonna tell
-you about my joining the circus either.  Which, by the way, at that
+you about my joining the circus either.  Which, by the way, at that precise
 moment I didn't really think it was going to be necessary.
 
 Duke of Poo tells his story
 --------------------------------
 
-Ladies and gentlemen, our dear Fulgencio seems to be a bit under the
+Ladies and gentlemen, or just gentlemen, nobody of the fair sex today
+in our little company,  our dear Fulgencio seems to be a bit under the
 weather today or just plainly fed up with telling stories, so it's
-going to be my pleasure to delight you today with the story of my
+going to be my pleasure to delight you  with the story of my
 life before the Call. No, Gummy Eddy, you've never heard this before, I
-promise. It's all made up, I mean, this is the real deal, all I've
+promise. I just made it up anew, I mean, this is the real deal, all I've
 told you before was made up. Besides, I haven't
 even started to drink today! Oh my, I haven't even started to drink
-today. Somebody buy me a drink, oh please. Captain Cabo? 
+today! Somebody buy me a drink, oh please. Captain Cabo? 
 
 That's better. So, it's my pleasure now to tell you the story. When I was a little boy... 
 
-OK, OK, please behave yourselves. I
+Gentlemen, gentlemen please behave yourselves. I
 will cut it short. During the  War I was in the Glorious
-Confederate Army, so yes, what's with it? This was Florida, it was a
-confederate state, I was conscripted! I never had any slaves! I've
+Confederate Army,  what's with it? That was Macon, Georgia, it was
+part of a
+confederate state, I was conscripted! I never had any slaves! We
+nobility abhor slavery! I've
 told you! 
 
 Thanks, Captain, we *former* soldiers have to respect and care for
-each other. I'll go ahead with it. So I when I left my ducal in
+each other. I'll go ahead with it. So I when I left my ducal home in
 Georgia, all smartly dressed in gray to which I added a foulard which
 really suited the rest, I went to the railway station and instead of
 being shipped somewhere else in the train I was assigned on the spot
