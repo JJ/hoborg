@@ -193,7 +193,7 @@ teakettle with ears", he told me.
 A rolling teakettle with ears
 ------------------------------------
 
-* revise and write *
+*revise and write*
 
 Think about the Tin Woodsman. You got it? Well, this Manuel was
 almost, but not quite, completely different from that. And not made of
@@ -285,7 +285,7 @@ circus roustabout.
 Here's a bit of money to get you started
 ----------------------------------------------------
 
-* revise and rewrite * 
+*revise and rewrite* 
 
 They told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
 that, he didn't stay in a single place, but kept moving all over the
@@ -384,7 +384,7 @@ hoochie koochie girl looked like she could give me some information, and
 boy, did she give me all she could... so I gave her a few pesos. A
 few dozens. 
 
-* revise and write * 
+*revise and write* 
 
 But the information I received from the guys was correct. It was late
 winter in Panama City, and it 
@@ -640,7 +640,7 @@ make much more than shouting abuse at me for a while.
 So I was out of that circus pretty fast. Same speed I was left without a
 plan. 
 
-* revise * 
+*revise* 
 
 It's a plan
 -------------
