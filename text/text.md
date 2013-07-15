@@ -1812,10 +1812,20 @@ Closed for repairs
 -----------------------
 
 After New Orleans, something had become  loose in the head of Rufus the
-mechanical man man. But I thought he was just moody until he flatly
-told me that he was taking Manuel away from the circus. There was something funky going on there. Up until yesterday it was
+mechanical man man, mirroring whatever had happend when Manuel had
+rammed is way into the New Orleans police station. But I thought he was just moody until he flatly
+told me that he was taking Manuel away from the circus. 
+
+There was something funky going on there. Funkier that whatever I was
+up to, at least. Yes, I am not a people's guard, but funky is funky,
+OK? 
+Up until yesterday it was
 working perfectly and all of a sudden the mech breaks down and has to
-be taken somewhere for repairs.
+be taken somewhere for repairs. It had been dented and had chipped in
+some places, but it wasn't that bad. Well, it was also a bit rustier
+than before it had sailed; the hot funk of New Orleans and the sea are
+no good for him, I tell you. But nothing a bit of paint and a hammer
+here and there could not mend. 
 
 "Where again is it going?" I asked Rufus. He looked to his right and
 answered. 
@@ -1830,12 +1840,17 @@ that way I can..." I said, hoping for a way to keep it close.
 "No way. This time it's broken real good. It's the photoelectric cell
 that activates head movement so... Besides, the Torres Quevedo engine
 has to be revised and reprogrammed... and while we are at it we'll
-repaint, grease, change a thing here and there..." 
+repaint, grease, change a thing here and there..." Maybe he didn't say
+that, but it sounded like that. 
 
-I couldn't allow that to happen. It couldn't go anywhere. 
+I couldn't allow that to happen. It couldn't go anywhere. And I looked
+for a way of keeping him in so that I could get it out. 
 
-"I can't do a damn thing, son. Seems legit, and I don't know squat about
-those things. You can go back to help the rest of the crew, don't
+"I can't do a damn thing, son. He's given me a wad of papers that seem
+legit as far as I can tell a. Besides, neither me nor anybody else in
+the circus know squat about
+those things, so it's got to be taken elsewhere to have it fixed real
+good. So enough with that, if you're our of that job until he returns you can go back to help the rest of the crew, don't
 worry about that." Boris the manager told me when I grabbed hold of
 him. But I wasn't worried about *that*, not precisely. That
 was indeed the least of my worries. 
@@ -1845,12 +1860,23 @@ problem, so..."
 
 "What do you mean?"
 
-"Well, what I was saying is..." What was I saying? Send in the clowns
+"Well, what I was saying is..." What  I was  saying was what? That I
+intended to take it away myself? That if I didn't manage that, just
+out of spite I
+was going to snitch on Rufus to the clowns  who were going
 to maim and slay him? Couldn't do that, either. 
 
-"I see. OK, let me check back and I'll see what I can do, OK?" Which
-was possibly nothing. And I couldn't do a thing, either. I went back
-to Rufus to try another angle. 
+"I see. OK, let me check back with the ministry and I'll see what I
+can do, whether I can get some other act or something, OK?" 
+Out of a robot and in a dancing poodles act, I was seeing myself doing
+that. Yes, they are cute, Captain. Get yourself a dozen and make them
+dance a cutesy polka. 
+
+So I was going to get nothing out of that. So I went back
+to Rufus to try another angle. He was tweaking at things inside
+Manuel, who was slightly bent and with a hatch in the back wide
+open. He closed it tight when he heard me opening the door to his
+workshop. 
 
 "You'll need help for the transport." I told him.
 
@@ -1863,7 +1889,7 @@ came back to me. That day I saw Manuel for the first time and I was
 conned out of a good amount of pesos.
 
 And then I knew how to grab hold of Manuel. So the circus day would
-truly be over. 
+truly be over, but it would be over my way and a good way, too. 
 
 
 Gaffe building for fun and profit
