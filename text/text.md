@@ -1812,7 +1812,7 @@ Closed for repairs
 -----------------------
 
 After New Orleans, something had become  loose in the head of Rufus the
-mechanical man man, mirroring whatever had happend when Manuel had
+mechanical man man, mirroring whatever had happened inside Manuel when he had
 rammed is way into the New Orleans police station. But I thought he was just moody until he flatly
 told me that he was taking Manuel away from the circus. 
 
