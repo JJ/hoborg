@@ -2012,7 +2012,7 @@ again and she stopped looking anything like lovely.
 
 "How much do you reckon I still owe you?" she said, crooking her mouth
 and joining her eyebrows until they formed a thick bush in the middle
-or her forehead. In fact, whe had a single eyebrow, so frowning made
+or her forehead. In fact, she had a single eyebrow, so frowning made
 her look as if she had a moustache. Which, come to think of it, she
 also had. Man, do cracker women have hair in all the wrong places... 
 
