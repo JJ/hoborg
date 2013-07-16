@@ -1940,8 +1940,11 @@ paid her dues so she not-so-reluctanctly agreed to keep Rufus
 distracted when needed. Which might be any time now.
 
 I took everything to a city car mechanic and gave him the sack and the
-money. And a ducat to watch the show so that he could see the mech in
-action and have an idea of how to rig what I gave him together. 
+money. And a dozen of ducat to watch the show so that he could see the mech in
+action and have an idea of how to rig what I gave him together to make
+it look like that. And to have him keep his mouth shut, no question
+asked, no sideways looks when I was bullshitting him about what I
+wanted the stuff for. 
 
 I didn't have much confidence in the guy, but actually it didn't take
 him long to have something that if seen in the dark, 
@@ -1952,36 +1955,97 @@ doing this.
 
 That day, at dinner after the show, Rufus told me that somebody from
 the naval station was coming the next day at dawn to pick them up. I
-was relieved. Dawn was good. I was damn good. 
+had actually seen him talking to a couple of look-alike guys with
+moustaches that looke exactly like what you saw in your mind when you
+thought about a bohunk, and nothing like what you see when you think
+"sailor". Yes, they had that. No, not that. Well, a bit. But, you
+know, we are the rainbow republic, bohunks and whiteys and everything
+it between, so what the hell.
+
+Besides, I
+was relieved. Dawn was good. I was damn good.  Yes, a damn good
+dawn. Why are you laughing?
 
 
 Dawning on her
 --------------------
+*revise and write*
 
-"I just wanted to have a nice and wet farewell from you" Tracy told
-Rufus. Tracy  was good at this, she had been born for
+"I just wanted to have a nice and wet farewell from you." Tracy told
+Rufus with a voice and hip motion that would have had the Pope of Rome
+convert to a life of sins right there and then. Tracy  was good at this, she had been born for
 this. Honkies were not good for much else, Gummy, are you smiling?
 Can't tell, without all the teeth.
 
-Anyway, the face of Rufus told me that he'd fell bait, hook and switch
-for it.  But, at the same time, he was looking back to the carriage
+Anyway, the face of Rufus and his dropped jaw told me that he'd fell bait, hook and switch
+for it.  But, at the same time, he was stealing looks back to the carriage
 where Manuel was stored, it was just a couple of hours away to dawn
 and the other honkies were coming to get him away. Come to think of
-it, it was queer how many honkies were there in the Navy. And they
-had no uniforms. 
+it again, it was queer how many honkies were there in the Navy, two of them. And they
+had worn nothing that looked like an uniform when I had seen them before.
 
 But I didn't care. "Rufus, should I help you with Manuel? I can drive
-it to the truck." He didn't even look back to me since his mouth was anchored to
-Tracy's by a long line of tongue. It was what I needed to make the
+it to the truck, while you, er, do other stuff" He didn't even look back to me since his mouth was anchored to
+Tracy's by a long line of tongue and concomitant fluids. That was what I needed to make the
 first switch. 
 
 That part was easy. Most people were sleeping or doing nasty things in
-their beds, so they didn't care when I drove Manuel to the tigers cage
+their beds, so they were beyond care when I drove Manuel to the tigers cage
 and hid it there. I put the gaffe in place of Manuel and covered it
 with a canvas.
 
 The difficult part was going to be to drive the gaffe into the truck bed. But I
 still had Tracy. 
+
+Gripping gaffes
+--------------------
+
+"Not only I have to hump that drooling geek, but I also have to help
+you to haul stuff." Said Tracy.
+
+"You owe me." I told her. She opened her mouth to say something. Then
+she closed. She looked lovely when she did that. Then she opened it
+again and she stopped looking anything like lovely.
+
+"How much do you reckon I still owe you?" she said, crooking her mouth
+and joining her eyebrows until they formed a thick bush in the middle
+or her forehead. In fact, whe had a single eyebrow, so frowning made
+her look as if she had a moustache. Which, come to think of it, she
+also had. Man, do cracker women have hair in all the wrong places... 
+
+So well, she helped me to carry the gaffe to the truck bed; a truck
+that didn't look either like a Navy truck, but who knows actually what
+Navy trucks look like. I had seen the sailors coming off it, maybe to
+have a quickie with the girls as the sailors are wont to, yes, Gummy,
+as any man does, well, whatever, they were not there and we managed
+with a bit of work and a few ropes to load it up the truck and stow it
+there. 
+
+We were finishing when the light was starting to shine in the horizon
+and the circus was, lazily, coming out of their wagons and rummaging
+through the grounds to start their daily chores. I could hear the
+elephants baying and the horses neigh but yawns were even louder. I
+could also smell animal smells and tobacco smells and could hear and
+smell at the same time the sound of fat on frying pans. A new day
+kicking sand in the circus, a day less for me. 
+
+Tracy vanished with a yawn and left me loitering around the truck. The
+sailors came back after a while, buttoning their pants, laughing and
+giving each other palm strikes in the back. Happy and sleepy, just the
+way I wanted them, and in pretty much the same shape Rufus showed up a
+while after that.
+
+But the sun was already over the horizon and that's a situation in
+which gaffes shine just the way they are: humbugs, hoaxes and plainly
+not the thing they're supposed to be. So I had to make them not look
+under the burlap. 
+
+Easier said than done. No, Captain, I couldn't hit them, they were
+three and I was one. No, Duke, I couldn't bribe them, my pesos had run
+out and I only had the money I had managed to oach when handing the
+popper. 
+
+*revise and write* 
 
 
 
