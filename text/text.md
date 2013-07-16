@@ -1959,7 +1959,7 @@ doing this.
 That day, at dinner after the show, Rufus told me that somebody from
 the naval station was coming the next day at dawn to pick them up. I
 had actually seen him talking to a couple of look-alike guys with
-moustaches that looke exactly like what you saw in your mind when you
+moustaches that look exactly like what you saw in your mind when you
 thought about a bohunk, and nothing like what you see when you think
 "sailor". Yes, they had that. No, not that. Well, a bit. But, you
 know, we are the rainbow republic, bohunks and whiteys and everything
@@ -2046,7 +2046,10 @@ under the burlap.
 Easier said than done. No, Captain, I couldn't hit them, they were
 three and I was one. No, Duke, I couldn't bribe them, my pesos had run
 out and I only had the money I had managed to oach when handing the
-popper. 
+popper.  
+
+In fact, the very moment Rufus looked at the covered lump in the truck
+the only thing I could think about was to start and cry.
 
 *revise and write* 
 
