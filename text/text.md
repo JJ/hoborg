@@ -680,8 +680,12 @@ the circus, on the thought that it was a good idea to follow it and wait for the
 mech to drop from a carriage or be sold in an auction or
 something. Hoboing was a way of doing that and not make a dent on my
 budget. The clown had been a silent companion for hours, but he became
-jolly the moment I offered him some dring. Making chitchat,  I asked him what
-made a tramp clown become a tramp. 
+jolly the moment I offered him some drink. Making chitchat,  he told
+me that he was what is called a tramp clown, one of the three types of
+clowns that are out there. You don't know what are the other two,
+don't you, guys? Ask the Duke, he'll know for sure. No? Well, tough
+luck. So I asked him what
+made a tramp clown become just a tramp and we continued from there.
 
 "Man, the whole country is like a fucking factory! Haven't you
 noticed?" He cried again. 
