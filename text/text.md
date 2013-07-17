@@ -250,12 +250,14 @@ Yes, let's make it dance for a while, let me just get my driving box.
 Eyes. Did I say anything about the whole fucking *face*? No proper
 face to speak of, really, but as soon as there's something on top of
 the body, not that it's a proper body either, but you get my
-drift... so if that's a *head* the grilled gap on the bottom, that
+drift... so if that upside down bucket is a *head*, the grilled gap on the bottom, that
 would be a mouth, right? On top of that a strut could be the nose, and
 two holes covered with glass the eyes. Some dummy painted two lines on
-top of that that could go for eyebrows, and then two holes on the side
-of the head with two half-moons behind them. It could move left and
-right, that's it. It made a screeching noise, like a door closing. A
+top of that that could go for eyebrows, and then there were two holes on the side
+of the head with two half-moons behind them. The head could move left and
+right, that's it, couldn't nod at all. If it wanted to look down it
+had to bend all over. And when it moved it made a screeching noise,
+like a door closing. A 
 teensy door closing. 
 
 When it walked, or rather rolled, there was smoke coming out of its
@@ -555,7 +557,7 @@ he nodded in the direction of the bureaucrat that had just talked,
 "will take charge and you'll have to show him the ropes. No hurry,
 man, two or three days will be enough."
 
-What could I do? My wife and family left me the next day, and they
+What could I do? My wife and family left me the very next day, and they
 took everything that could be loaded into a carriage. The authorities
 didn't like that and seized my home and land, too. I was left
 homeless, so when I left the office the last day and assigned a depot
@@ -565,7 +567,7 @@ are my family.
 Buying elephants from a circus
 ----------------------------------------
 
-I have never been in the army. Did I say I was a soldier? No way, Captain,
+I have never been in the army. Did you hear me saying I was a soldier? No way, Captain,
 I would have said that if I *had* been in the army, which I
 wasn't. The point is, in the army the mates, or so I've heard, try to
 con you into cleaning their boots, out of your food sent from home,
@@ -595,53 +597,75 @@ because he knew that, come this point, I wasn't gonna get back.
 
 "Hell, man, I don't know. I'll have to get me some ride or something
 to carry it away, and that's gonna cost me... So, listen, say I give
-you one hundred pesos..." He was looking away, and drawing his hand
-from the door. "Can't go further than two hundred". 
+you one hundred pesos..." He was looking away, and drawing his hand away
+from the door. I was losing him, and it. "Can't go tops of two hundred". 
 
-"Show me the money." he said, gesturing with his right hand. Luckily,
-I just had a wad of notes in the front pockets of my pants, which is what you want
-to do if you don't want to have it spirited away from you. Save it to have
-conned it away from you, as I was about to.  I gave it to him and he
+"Show me the money." He said, rubbing thumb and index of his right
+hand at the same time. Luckily,
+I had cached a wad of notes in the front pockets of my pants, which is what you want
+to do if you don't want to have it spirited away from you when you
+visit full of quick fingers and long arms like a carnival. That is,
+you want to secure it so that it's easy to get it
+conned  away from you, as it was about to.  I gave it to him and he
 made the money disappear in a rustle of its clothes. 
 
-He told me to follow him. Nobody answered the knock from inside, so we
-entered anyways. It was dark inside, and 
-we could barely see anything from the light that entered from the
-already dark outside. He lighted a match.
+He told me to follow him inside the carriage. Nobody had answered the
+knock from inside, which I should have interpreted as the knocks being
+a warning call or a check, but I didn't. He opened the door slow and
+carefully and we got in. It was dim inside and it smelled sweaty and
+rusty; I could barely see anything from the light that entered from
+the already dark evening. He lighted a match and waved the other hand
+in the direction farther away from me. 
 
-"You see? It's right here." He said, but I barely could see where he was pointing. We kept bumping into things. 
+"You see? It's right here." He said, but I barely could see where he
+was pointing; I moved in that direction and kept bumping into
+things that made a racket that apparently nobody cared about, which
+I should have interpreted as another warning sign, but being still wet
+behind my ears of circus ways and humbugs, wasn't. 
 
-"I can't see a damn thing, man. Can't you turn on the light?"
+"I can't see a damn thing, man. Can't you turn on the light?" I
+yelled, but not louder than the noise we had already made. 
 
-"Afraid not, it could damage the mechanical man, my friend has said," he answered, coyly. 
+"Afraid not, it could damage the mechanical man, my friend has said,"
+he answered, coyly.  
+ 
+"Damage it? How come? It does its act  in broad daylight," I told him.
 
-"Damage it? How come? It performs in broad daylight," I told him.
-
-"Yes, but it's now being kept off the light to be repaired right now due to a light... surplus. You
-see? It's right here." 
+"Yes, but it's now being kept off anything bright to be repaired
+fixed, it's larry  due to a light... surplus. You
+see? It's right here."  I didn't even know who Larry was. Back then. 
 
 What I could see there was, indeed, a teakettle. Not a whole
-teakettle, just a part. I couldn't even see if it had ears or not. 
+teakettle, just a part. I couldn't even see if it had ears or not. It
+was big, though. 
 
-"That's a teakettle."
+"That's a fucking teakettle, that's what it is." I launged myself at
+him, but he experly ducked and was talking as he did. 
 
 "No, it's not. It's a head... apparatus. See, here's the... belly
 engine." Which looked like a stovepipe, or a part of it that was visible
 by the match that he has lighted, anyways. 
 
-"You're full of shit, man." I told him. "I'm out of here."
+"You're full of shit, man." I told him. "Give my money back and I'm
+out of here." 
 
-I turned to leave. Giving him the back, I opened the door. There was another guy loitering at the entrance. He
-dropped the cigarette and blocked the end of the stairs that descended
+I turned to leave and wait for him outside, by the light where I could
+see if he was giving me my money back or a couple of newspaper
+clips. Giving him the back, I opened the door and immediately  spotted another guy
+loitering by the door. He 
+spat a cigarette from his mouth and blocked the end of the stairs that descended
 from the carriage, arms loose at the sides of the body, hands into
 fists. Ready to mug me out of whatever I had left in my pockets. But I
 was not going to make it easy: I jumped from the carriage door on him
 and made him fall. I fell too, but stood up pretty quickly and started
 running. The two scammers were older than me, and anyway I didn't think they would
-make much more than shouting abuse at me for a while. 
+make much more than shouting abuse at me for a while. Which they did,
+along with a friend of two, for quite a long more than a while, at
+least until I was out of the circus grounds. 
 
 So I was out of that circus pretty fast. Same speed I was left without a
-plan. 
+plan and two hundres pesos short. Yes, Gummy, there's a lesson to be
+learned and you often learn them the hard way. But learn I did. 
 
 *revise* 
 
