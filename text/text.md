@@ -636,8 +636,8 @@ What I could see there was, indeed, a teakettle. Not a whole
 teakettle, just a part. I couldn't even see if it had ears or not. It
 was big, though. 
 
-"That's a fucking teakettle, that's what it is." I launged myself at
-him, but he experly ducked and was talking as he did. 
+"That's a fucking teakettle, that's what it is." I launched myself at
+him, but he expertly ducked and was talking as he did. 
 
 "No, it's not. It's a head... apparatus. See, here's the... belly
 engine." Which looked like a stovepipe, or a part of it that was visible
@@ -661,7 +661,7 @@ along with a friend of two, for quite a long more than a while, at
 least until I was out of the circus grounds. 
 
 So I was out of that circus pretty fast. Same speed I was left without a
-plan and two hundres pesos short. Yes, Gummy, there's a lesson to be
+plan and two hundred pesos short. Yes, Gummy, there's always a lesson to be
 learned and you often learn them the hard way. But learn I did. 
 
 *revise* 
@@ -669,18 +669,19 @@ learned and you often learn them the hard way. But learn I did.
 It's a plan
 -------------
 
-"So you're saying the circus is like an office?" I told the old clown
+"So you're saying the circus is like an office?" I asked the old clown
 who had the strange ability of laughing and crying at the same time,
-and make you do the same. 
-
-"Man, the whole country is like a fucking factory! Haven't you
-noticed?" He cried again. We were in a cargo wagon, surrounded by
+and make you do the same. We were in a cargo wagon, surrounded by
 cotton bales on a train bound for Pascagoula, where I was going following
 the circus, on the thought that it was a good idea to follow it and wait for the
 mech to drop from a carriage or be sold in an auction or
 something. Hoboing was a way of doing that and not make a dent on my
-budget. The clown had been a jolly companion until I asked him what
+budget. The clown had been a silent companion for hours, but he became
+jolly the moment I offered him some dring. Making chitchat,  I asked him what
 made a tramp clown become a tramp. 
+
+"Man, the whole country is like a fucking factory! Haven't you
+noticed?" He cried again. 
 
 "And all that because you made fun of the governor?" 
 
