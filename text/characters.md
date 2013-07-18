@@ -17,5 +17,6 @@ Captain Cabo |- |- | Hispanic | Hobo that served in the army
 Wireless Jim |- |- | Black | Hobo that invented the radio.
 Hatless Daring Dale |- |- | Black | Revolutionary bum
 Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
+"Clippo" | - | - | - | Auguste clown. 
 Eyebrowless Eric | - | - | Asian | Hobo mentioned once 
 Tracy Wilson | 1888 | Miami, Florida | White |  Possum girl that joins the circus.
