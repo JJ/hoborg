@@ -2079,7 +2079,42 @@ the only thing I could think about was to start and cry.
 
 *revise and write* 
 
+Crocodile tears
+-------------------
 
+I cried like I've seen the clowns doing in their act. Close your eyes
+just so, open your mouth, and wail a trembling a for as long as you
+don't care to breath. That might be a long time, indeed, just enough
+to be noticed by Rufus, who came up to me and put an awkward hand in
+my back.
+
+"What's up, man?" Glancing sideways I could see the bohunks were
+growing restive and showing it by standing by the truck and casting
+their own glances back and forth.
+
+"You're leaving... and Manuel... and the circus..." I repeated this
+over and over between sobs that were also interrupted by some
+non-words I put in for good measure.
+
+"Well, yes, but I, you know, I will... well, I mean it's got to be
+fixed, so it shouldn't take long... " He paused here and I took the
+cue to continue sobbing all over again; damn tears, they resisted to
+get out. "Well, it could take, but when, er, we come back I'll let
+you, er, drive" As if.  Meanwhile, the not-quite-revolutionary sailors
+had started the truck and were stepping on the pedal making noises for
+good measure. I stopped crying and hugged the guy.
+
+"Gee, thanks, Rufus. All I need now." I pushed him lightly on the
+shoulder. "Goodbye." 
+
+He didn't even look at the lump the truck was carrying. I had some
+time until they noticed. At least, until they stopped to take a pee,
+which might take long, as long as they've had all their piping well
+cleaned before leaving.  
+
+I went back to the cage, where I was received by a few hungry tigers
+doing the rounds and roaring and moaning. I was going to need some
+good time to get the real Manuel back from there. 
 
 With the hobos around the fire
 --------------
