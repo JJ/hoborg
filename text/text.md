@@ -1296,8 +1296,8 @@ know now, is when you sell a mark the key to your *girlfriend*
 carriage and, when he opens the door and finds her there (or not), you
 threaten him to give you more money or else. 
 
-The door opened violently and the Ted "Cracker" Armistead, the
-blackface clown came in. He didn't seem happy. He never did, because
+The door opened violently and  Ted "Cracker" Armistead, the
+blackface clown, the big boss of the clown posse, came in. He didn't seem happy. He never did, because
 he was an old grumpy whitey, that, when not in character, looked as if
 he was permanently sucking a lemon. When in character, he was the
 clown that always wanted the other to do something, eventually being
@@ -1445,22 +1445,22 @@ not. The yellow light coming out of it and above it danced, as if
 something was burning. And the smell. 
 
 One of the horses the Klansmen were using came in our direction and it
-very nearly made us fall from the horses; that along with the smoke
-and smell frightened our horses and we could not start them back
+very nearly made us fall from our ride; that along with the smoke
+and smell frightened them and we could not make them walk back
 again. So we tied them to some bush stalks and took from there by feet, half
 running. 
 
 Not that we could do much when we arrived at a small clearing at the
 highway, from where the laughs and smells and smoke seemed to be
-coming from. The four Klansmen, robes on fire, were lying down, one of
-them still trying to stand up,
+coming from. The four Klansmen, robes on fire, were lying down, writhing. One of
+them was still trying to stand up,
 yelling, The clown posse was going around them, using their squirt
 guns to douse them with something that kindled the fire, while they
 were laughing. And  doing the routine.
 
 "Oh my oh my oh my, my guests are on fire" said Clippo, the Auguste.
 
-"They are just keeping warm, my boy.", answered Guido, the
+"They are just keeping warm, my boy.", answered Ted, the
 Blackface. The other six were dancing around them, keeping a distance
 and amusing themselves. Another one had gone to fetch the Klansmen's
 horses.
@@ -1809,12 +1809,15 @@ precariously on top of his head.  Rufus climbed up and started to
 untie it, making the cap to finally fall down and the mech itself to
 swing dangerously.
 
-The clown car stopped and Ted came out of it. His blackface mask was
+The clown car stopped and Ted "Cracker" Armistead, the chief of the
+clown posse, came out of it. tiptoeing on his apparently too small
+dancing shoes. His blackface mask was 
 starting to melt due to the New Orleans heat and it was becoming a
-pink and gray mess. He came to the truck where Rufus was struggling to
+pink and gray mess leaking goo on his white gown. He came to the truck
+where Rufus was struggling to 
 get Manuel loose.
 
-"Leave that alone." Ted said, not very loud, but so clearly that I
+"Leave that alone." Cracker said, not very loud, but so clearly that I
 could hear it among the din of the parade and the rest of the
 circus. Rufus shivered, but kept going at the straps.
 
@@ -2023,7 +2026,11 @@ first switch.
 
 That part was easy. Most people were sleeping or doing nasty things in
 their beds, so they were beyond care when I drove Manuel to the tigers cage
-and hid it there. I put the gaffe in place of Manuel and covered it
+and hid it there. This might seem more difficult than it actually
+was. Tigers sleep very soundly, not having a care in the world, and
+the only thing you have to care about when entering their cage is not
+to step on them. This they don't like. *revise and write*
+ I put the gaffe in place of Manuel and covered it
 with a canvas.
 
 The difficult part was going to be to drive the gaffe into the truck bed. But I
