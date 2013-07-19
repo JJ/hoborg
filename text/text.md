@@ -1355,35 +1355,46 @@ the concession.
 
 A jointee run up to Ted, shouting.
 
-"The Klan! It's the Klan!" Ted slapped him in the face.
+"The Klan! It's the Klan!" Ted slapped him in the face. To calm him
+down, or just for the hell of it. Maybe that was the reason he went
+into clowning. They slap a lot.
 
 "There's no such think in the people's republic! Just shut up and
 fetch the ringmaster!" I could see that the bonfire was actually a
 cross on fire. And that the riders that were running had pointed white
 hats and white robes. 
 
-Ted started to run obliquely to the fire. The jointee went past me,
+Ted started to run catercorner  to the fire. The jointee went past me,
 looking for the ringmaster, which was still at the office carriage,
-tending for Rufus. And I could either try to stop the fire, or go in
-pursuit. And then I heard cries from the jig show tent.
+tending to Rufus. And I could either try to stop the fire, or go in
+pursuit. And then I heard cries coming from the jig show tent.
 
-Actually, there were cries everywhere. I was late already and most
+Actually,  cries and shouts were coming from all directions; It was late already and most
 customers had left, but the few dyed-in-the wool marks were still
-pouring out of the shows and gambling tents. And some of them were
-crying their heads out. But that cry was kind of different.
+pouring out of the skin shows and gambling tents. And some of them were
+crying their heads out. I noticed
+those particular ones for some reason;  that cry was kind of different.
 
 Yes, I know cries. I worked the cows, and know when a cow is calling
-its calf, when she wants a hump, when she's broken a leg. A woman
-crying is no different. So she was crying surprise. And she was
-probably Tracy. So I run in that direction.
+its calf, when she wants a hump, when she's broken a leg or when she's
+just mooing her happiness. A woman
+crying is no different, and I heard that whoever was shouting from the
+jing show was crying surprise. And she was
+probably Tracy. So I made the choice and run in that direction. 
 
-And what I found there was a group of circus girls beating senseless
-one of the honkies that had tried to scam us before. He had still
-white rags around him, so he was part of the raiding party. Which,
+When did I work the cows? No, I never did that. Did I just say that?
+No way, I was raised and lived in California and there are no cows to
+speak of there. Just oranges. 
+
+So, as I said, run up to the jug show and what I found there was a group of circus girls beating senseless
+one of the honkies that had tried to scam us before. He was still
+dressed in 
+white rags, so he was part of the raiding party. Which,
 come to think of it, was probably just a distraction to get again at
 the same person: Tracy.
 
-Tracy was telling them to please stop. The guy was pretty beat up,
+Tracy was telling them to please stop. The guy was in a pretty bad
+shape, lying on the floor and
 trying to stand up, but he was being kicked in the general area of his
 bollocks and was not going to be able to stand straight for a good
 amount of time. But for the time being it was quite clear that he was
@@ -1391,24 +1402,24 @@ not going anywhere, either with Tracy or without her.
 
 "OK, OK, ladies, let me take it from here." I picked up the guy who
 spat a tooth out as he stood. He started to curse me and the girls and
-tried to look obliquely at Tracy, but I slapped him good. 
+tried to look sideways at Tracy, but I slapped him good. 
 
-The truth is that I didn't know what to do with him. I was taking him
+But once I've done that and pushed him outside, the truth was that I didn't know what to do with him. I was taking him
 to the ringmaster when Vince came up to me with a saddled show horse. 
 
-"We're after the Klan guys."
+"We're after the Klan guys." He said, and handled me the ride. 
 
 "But..." I tried to say.
 
-"No buts. Mount and come with us"
+"No buts. Mount and come with us. We need all hands."
 
 "And what about this one?" 
 
 "Tie him up somewhere, we'll take care of him afterwards." That's what
-I did. When I came back, he'd taken away, obviously. He was the luckiest
+I did. When I came back, he'd flown away, obviously. He was the luckiest
 one of the whole group. 
 
-We galloped together in the direction of Miami, where the Klanners
+We galloped together in the direction of Miami, where the Klansmen
 had went. What we were going to do once we caught up with them I had
 no idea, but I was pretty sure the rest of the posse did.
 
@@ -1417,14 +1428,17 @@ no idea, but I was pretty sure the rest of the posse did.
 Clown act
 -------------
 
-I saw the clown car go past us, pursuing the attackers in their
-horses. Wigs and feet came out of its windows and they were honking
-and laughing and shooting all at the same time. It didn't take long
-for them to reach our attackers and in due time we could see light
+A few hundred yards down the path  the clown car sped past us,
+apparently also in pursuit of the attackers in their
+horses. Wigs and big shoes were coming out of its windows and they were honking
+and laughing and shooting all at the same time. It was not going to take long
+for them to reach our attackers and in due time we could see light 
 arising from somewhere in the path, a few hundred yards ahead of us. 
 
 I would have stopped right there but didn't, afraid of being uncovered
-by the other circus hands. 
+by the other circus hands. Well, you know, I mean uncovered as not
+being part of the circus brotherhood. Nobody could have a hint of what
+I intended to do, I hadn't tell no one. 
 
 Not that I was under a cover, mind you. I just didn't want them to
 know that my purpose in life was not to live in and by the circus,
@@ -1490,13 +1504,23 @@ I had to breath the same air as the clowns, and I tried to keep as far
 away from them as possible. 
 
 As did, apparently, Rufus. Back then I did not know why, but he became
-a bit twitchy every time a clown was getting close to us. That made
+a bit twitchy every time a clown was getting close to us. And if that
+was Cracker, the boss, he was invaded by twitches so bad that he was
+incapacitated. That made 
 him almost a permanent fixture in the gaucho crew, even if there were
 no revue girls around. 
 
 He even  paid attention  sometimes when I talked to him, but he seemed
 to have some difficulty staying focused, trying always to steal the
-focus of the conversation to talk about other stuff.
+focus of the conversation to talk about other stuff. Which was just a
+well, since from time to time he gave me tidbits I could later one use
+to grab hold of Manuel. 
+
+And then there was Tracy. Couple of days after the *incident*, when we
+were moving somewhere else, she was found under a carriage. So she was
+adopted.
+
+*write and revise*
 
 The second greatest show on earth goes to New Orleans
 ----------------------------------------------------------------------------
