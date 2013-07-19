@@ -1543,7 +1543,8 @@ happen? Well, couple of days after what I just told you. We had loaded
 the carriages into the flatcars of the train that was taking us to
 Fort Lauderdale. That was late Tasahcé, it was becoming hot and we had
 to stop to water after a few miles and one hour, we were barely past
-Aventura. And those trains are shit, people's technology and all that,
+Aventura, that's a little town up the East Florida Coast, never mind
+the name... And those trains are shit, people's technology and all that,
 but man, are they older by the day... Yes, Duke, that wouldn't have
 happened if you'd been in charge, but people's got priorities...
 
