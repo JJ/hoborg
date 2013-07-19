@@ -1532,11 +1532,42 @@ she was gaucho, she was not trusted, and for the rest of the circus
 she was like the fly that buzzes around you and your food, you just
 wave and wait until it finds a bigger shit to hang around. But hell,
 she was pretty and she didn't seem to have any place to go, why the
-hell would she hang around a circus, for hell's sake.
+hell would she hang around a circus otherwise, for hell's sake. If
+somebody bothered to  think about her, which they probably didn't,
+they would think she'd had her day in the sun but but now she'd
+probably be somebody else's problem.
+
+And that somebody else happened to be me for no other reason that
+Vince was nowhere to be found when she was discovered. When did that
+happen? Well, couple of days after what I just told you. We had loaded
+the carriages into the flatcars of the train that was taking us to
+Fort Lauderdale. That was late Tasahcé, it was becoming hot and we had
+to stop to water after a few miles and one hour, we were barely past
+Aventura. And those trains are shit, people's technology and all that,
+but man, are they older by the day... Yes, Duke, that wouldn't have
+happened if you'd been in charge, but people's got priorities...
+
+So we stopped there at the watering depot and everybody was down their
+carriages to stretch their legs, clowns started shooting at a tree
+trunk just for the hell of it, and from between a flatbed and a
+carriage, so black with soot she seemed almost beautiful, there came
+our friend Tracy. 
+
+A few moments later there she was in front of me, after going down the
+command line from manager to ringmaster to whoever wanted to be in
+charge of her. Which, by default, happened to be me.
+
+I was pissed at the beginning. She was a piece of work, and she was
+white on top of that. But she knew how to earn a living if we only
+gave her a chance. 
 
 Plus she was pretty. Bad hair, but pretty. Yes, I already said that. 
 
 So she was adopted.
+
+¿Manuel? He was somewhere else in the train. Should be, at
+least. And Rufus with him. I couldn't care less about it in that
+moment. 
 
 *write and revise*
 
