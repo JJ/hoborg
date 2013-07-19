@@ -1382,7 +1382,7 @@ Yes, I know cries. I worked the cows, and know when a cow is calling
 its calf, when she wants a hump, when she's broken a leg or when she's
 just mooing her happiness. A woman
 crying is no different, and I heard that whoever was shouting from the
-jing show was crying surprise. And she was
+jig show was crying surprise. And she was
 probably Tracy. So I made the choice and run in that direction. 
 
 When did I work the cows? No, I never did that. Did I just say that?
@@ -1520,8 +1520,23 @@ well, since from time to time he gave me tidbits I could later one use
 to grab hold of Manuel. 
 
 And then there was Tracy. Couple of days after the *incident*, when we
-were moving somewhere else, she was found under a carriage. So she was
-adopted.
+were moving somewhere else, she was found under a carriage, a true
+possum belly queen. 
+
+The morning after her real or putative family all went to wherever
+those guys go where they die, she hanged around the circus and the
+show tent looking hangdog. I gave her some food, hell, she was not
+guilty of what had happened, at least not completely, and she was an
+oppressed minority all by herself in that family that used her. But
+she was gaucho, she was not trusted, and for the rest of the circus
+she was like the fly that buzzes around you and your food, you just
+wave and wait until it finds a bigger shit to hang around. But hell,
+she was pretty and she didn't seem to have any place to go, why the
+hell would she hang around a circus, for hell's sake.
+
+Plus she was pretty. Bad hair, but pretty. Yes, I already said that. 
+
+So she was adopted.
 
 *write and revise*
 
