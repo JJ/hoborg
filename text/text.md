@@ -296,7 +296,7 @@ They told me, and gave me the ten thou. And a neat and very official looking pri
 that, he didn't stay in a single place, but kept moving all over the
 map. Along with a circus.
 
-"A circus?" I asked. "What's his act? Bite chicken heads off?" I asked them. 
+"A circus?" I asked. "What's its act? Bite chicken heads off?" I asked them. 
 
 "As far as we know, it could bite the head of something considerably
 bigger than a chicken." Talking-guy said, while Fists-means-business
@@ -375,21 +375,26 @@ The circus with the mech seemed to be not too far, somewhere in West Florida. Th
 I went. This was going to be easy as peaches. Go there, get in, grab
 it, get out. Except it was not.  
 
-With the ten thou I had when I arrived at Panama City, where the circus
-happened to be a few days later, it wasn't even enough to have bought a ride
+The ten thou I had when I arrived at Panama City, where the circus
+happened to be a few days later, weren't even enough to have bought a
+ride or a privilege
 with the circus. Which, come to think of it, was what the two guys
 would have done to start with if it had been even possible.  They
 wouldn't have needed anyone to do it for them. Or maybe they did, so I
-had to check anyways.   
+had to check anyways.  For some reason I later discovered, concession
+prices had shot to high heaven, even for the concesions on the left
+hand side of the ground, which for some reason had the lowest prices. 
 
-Not that it was really possible to spend the full amount. I didn't have the ten thousand any more, a man has
+Besides, at the moment it was no longer  possible to spend the full amount. I didn't
+have the ten thousand any more, a man has 
 got expenses and love is not always free, as you may know. Yes, young
 men like me don't have it that difficult but I was in a hurry and that
 hoochie koochie girl looked like she could give me some information, and
 boy, did she give me all she could... so I gave her a few pesos. A
-few dozens. 
-
-*revise and write* 
+few dozens. I got the gist of all that from here, but to tell the
+truth I got most of it from the other guys on the line for the price
+of sharing a cigarrete, which I carried in quantity even if I don't
+smoke. 
 
 But the information I received from the guys was correct. It was late
 winter in Panama City, and it 
@@ -789,14 +794,16 @@ open. I'd heard about that one, and it looked like a scam. But then I
 was not buying this circus, I was here for a reason. A heavy, metallic,
 mechanical reason.
 
-I realized Boris had stopped talking and shortly he came back from his office at the end of the
+I realized Boris had stopped talking; shortly he came back from his office at the end of the
 carriage. And he did not seem happy. 
 
 School years
 ------------------
 
-No, that's Fulgencio Ribera, with a b. I don't know any Rivera from
-anywhere. I went to school in... What's with it? Why do you want to
+No, that's Fulgencio Ribera, with a b. I don't know any Rivera with a
+vee from
+anywhere. Where did I spend my school years? I went to school
+in... What's with it, Wireless? Why do you want to
 know? Did I ask you where you served, Captain? Does anybody know the
 whereabouts of Duke's castle? Yes, yay, in the slopes of the Big Rock
 Candy Mountain by the Lemonade Springs. 
@@ -806,7 +813,7 @@ Just go to hell. I'm off to sleep.
 You don't look like a circus person
 ---------------------------------------------
 
-"Sorry, boy. This does not check out." He said, handing the papers
+"Sorry, boy. This does not check out." The circus manager said, handing the papers
 back to me. The clerks nodded and continued their rustling and radio
 listening. From another poster, Mento the Mystical Miner, eyes wide
 open, was looking at me trying to find out what I was thinking.
@@ -1182,11 +1189,11 @@ Which didn't seem easily solvable without a broken limb. Or head. However, it
 might be solvable without that limb breaking being mine, if I only got
 a few more guys from the circus to lend a hand.
 
-Guy the gaffer was the first to arrive, as he always did. That was one
+Guy "Indian Giver", the layout man, was the first to arrive, as he always did. That was one
 of the reason why he was allowed to boss everyone around even being
 white, octoroon he said, but we knew he was white as white wool, that
 he was. Hey, all races and all that, no problem, awright? Besides, he
-was always there. He didn't even made a fist or expect other guys to
+was always there. He didn't even made a fist or expected other guys to
 arrive, just pushed me aside and started to talk.
 
 "What the fuck do you want with us?" He asked in the general direction
@@ -1209,7 +1216,7 @@ by the side of his neck.
 paying it dearly because the honor of a daughter has no price"
 
 "You don't want anybody else but your own family banging her, do you,
-matey?" Guy the gaffer said. The machete drew closer to the professor
+matey?" Guy the Indian Giver said. The machete drew closer to the professor
 neck, the baton closer to the other girl head, and one of the arms of
 Tracy was released, just so the guy that had her, presumably his
 brother, could shake the bate more freely with the other hand.
@@ -1229,7 +1236,7 @@ to my left.
 "You call the Guard and before they arrive this girl has a new face
 and that guy has no face. And any of us escapes alive, and everybody
 will know that you called outside people to take care of your
-business." Said the old guy. Ouch, that hurt. Guy the gaffer didn't
+business." Said the old guy. Ouch, that hurt. Guy the Indian Giver didn't
 flinch. 
 
 "Now we're talking, matey. How much is that honor thing worth to you?"
@@ -1587,7 +1594,7 @@ up to, at least, Red Bluff. So the easiest way to go from here to
 there, from the real Land of the Free to the purported Land of the
 Free, was to sail from Pensacola. 
 
-So it was Noah's Ark all over again, as the Guy the circus manager said at
+So it was Noah's Ark all over again, as  Boris the circus manager said at
 least one zillion times before, during and after boarding. Not that we
 did not know already that all that Noah stuff was a big steaming pile
 of elephant dung, but if you put lions and horses and bearded women
@@ -1643,7 +1650,7 @@ before us, because the tarp had a different color, ours were green,
 this one was tan. 
 
 I didn't have the time to stay around to watch it any more because the
-Guy the circus manager grabbed me again and had me doing Chinese, putting
+Boris the circus manager grabbed me again and had me doing Chinese, putting
 things in cabins, covering the carriages with tarpaulins and hauling
 supplies belowdecks. Which is a nice word that somebody shouted while
 we were doing there and means in the basement of the ship. 
