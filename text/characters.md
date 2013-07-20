@@ -5,7 +5,7 @@ At the circus
 ----------------
 
 Name | Date of Birth | Place of Birth | Race | Circus job | Other data
---- |--- |--- |--- | ---
+--- |--- |--- |--- | ---| ---
 Frank Rivers aka Fulgencio Rivera aka Fulgencio Ribera | 1892 | Hispanic |  Said to be in a non-specific place in California, but actually Bernalillo, NM | Roustabout | Main character, goes after the Mechanical Man, does not smoke. 
 Manuel the Mechanical Man | 1908 | Mech | Pensacola Naval Yards | Mechanical Marvel | A roving robot
 Rufus "the Mechanical Man man" Reed | 1883 | Black | Pensacola | Mechanical marvel fixer-upper | Blacksmith and then mechanic
