@@ -1705,14 +1705,14 @@ deck hand before. It didn't take long to have it shot; something came
 out of it sprouting flames and unrolling a cable while the guy manning
 the gunsight was moving a stick and turning knobs from time to time. 
 
-"Looks like we are going to hunt us a big fat evil capitalista whale"
+"Looks like we are going to hunt us a big fat evil capitalista whale."
 Raúl said, the crooked smile never leaving its face while the harpoon
 wiggled towards the airship, which seemed to be getting farther and
 farther up. Small geysers raised above the otherwise quiet surface of
 the water, and we all seemed like the public of a lion taming act
 without a jail, just looking on as if the air was protection enough to
 what could happen. I knew it was not. And I knew I had to protect what
-could be my property, so I run to the mech, which was just a few feet
+could be my property, so while everybody was looking up I run to the mech, which was just a few feet
 behind the harpoon gun, unfastened it from the deck, retrieved the
 driving box and started to move it.
 
@@ -1723,10 +1723,12 @@ right there. And please stop crying!
 Rocking Manuel
 ---------------------
 
+*revise and write*
+
 Give me a mud puddle and I can tell you how to pull a wagon out of
-it. Give me a mare and I can get a foal out of his pussy. Give me
+it. Give me a mare and I can get a foal out of her pussy. Give me
 fourscore of bulls, and I'll tell you how to iron them in no time
-flat.
+flat. How do I know that? You know, people talk. 
 
 But don't you give me anything over the water. Because it fucking
 rocks and moves and can fucking sink to the bottom. So, get my advice:
@@ -1735,63 +1737,72 @@ the opposite of what I did. I went for the most sinkable thing there
 were, and I unfastened it and started to move it using the box. 
 
 The damn guy wanted no part of it. I pushed the forward lever several
-times, and it kind if shivered, but stayed theres. I heard the faint
+times, and it kind of shivered, but stayed there. I heard the faint
 sound of voices and the fizzling sound of something being dropped into
-the see; sometimes a zing here and there, but nothing to worry
-about. So when Three-M eventually moved I just had to worry about
+the sea; sometimes a zing here and there, but nothing to worry
+about since it didn't look as if it was getting closer. So when
+Three-M eventually decided to move I just had to worry about
 keeping my two feet and its four wheels on deck, which was not the
 easiest thing on earth. 
 
-I moved to the left, which was starboard I think trying to keep the
+I moved to the left, which was starboard I think, trying to keep the
 bulk of the deck cabins between us and the airship, but we were moving
-in fits and starts and I started to hear something clanking not so far
-away from me, like metal drums. And I started to get worried, but not
+in fits and starts and I started to hear some muffled thuds not so far
+away from me, like metal drums covered in blankets. And I started to get worried, but not
 enough to avoid the seasickness that was growing from my belly and
 swelling up little by little.
 
 It was not helping that I was walking backwards, keeping Three-M in
-front of me and moving towards me. It didn't help that Three M was not
-helping. It moved sideways, away from the see, and kept bumping with
-things. I kept turning its head to look at the airship. And, I swear,
-I didn't touch that knob, I didn't even know which one was the one for
-turning the head. 
+front of me and moving towards me. It didn't help either that Three M was not
+helping. It moved sideways, trying to keep itself away from the sea, and kept bumping with
+things, hatch locks and rivets and loose tools, at the same time it kept
+turning its head to try and look at the airship. And, I swear,
+I didn't touch the head-turning knob, I didn't even know which one was
+used for that, forward and turning and backwards was all I knew back then. 
 
-And he eventually saved my life. 
+So, unhelpful and all, cursing through my teeth as I was, he
+eventually saved my life. 
 
 Biting the bait
 ------------------
 
-I was dodging bullets or rather the sound of them and meanwhile
-trying to move Three-M to a ramp that lead to the belly of the ship,
+The sound of bullets hitting on us was getting too close for confort
+and soon I was more intent on dodging bullets or rather the sound of them than
+trying to move Three-M, although I was trying to bring him to a ramp
+that led to the belly of the ship, 
 where at least there would be a few inches of steel between us and the
-rest of the world. There was nobody else above board, since by now it
-was either the guys manning the gun who might be reloading now for all
-I knew or people who had no business being exposed to bullets, so It
-was weird to see some strange shapes in front of me, towards the back
+rest of the world, where all people who still had their wits about
+should be now, except maybe the guys manning the gun. But Manuel
+turned slightly his head to kind of look behind me and blink, buzzing
+at the same time. I turned my head to see
+what the hell was that about and I saw some strange shapes in the
+direction we were heading, towards the back
 of the boat and right between the ramp that was my destination and
-myself. 
+where I was standing now. I then turned completely, oblivious of the
+mech and paralyzed like the rabbit caught in front of a light.  
 
-Those shapes developed into three guys, dressed in tights; one of
+Those shapes revealed themselves into three guys, dressed in tights; one of
 them run to stern (abaft, I should say if I knew the first word about
 nautical terms, which I don't), gun in hand, and the other two just started to
 shoot. 
 
 No, Captain, they hadn't descended from the airship, that was well and
-away. We later found that they had used the airship as a bait so that
+away and it had stopped shooting or I wasn't hearing anything. We later gathered that they had used the airship as a bait so that
 everybody got undercover and didn't see them approaching and boarding
-the ship from a speed boat. They run and looked for valuables that
-could be easily loaded and were on their way. 
+the ship from a speed boat. Its intention then was run and look for valuables that
+could be easily loaded and get on their way. 
 
 Except that in this occasion  they had found me and Manuel. Either
 they considered Manuel a strangely shaped buoy or they chose not to do
-anything about him, but it was as if they just had seen me and started
-to shoot their guns against me. I couldn't do anything from the
-ground,  I didn't even dare to raise my head for fear it got a new
-hole that afforded me a change of position to the shop of horrors of
+anything about him, but no sooner had they spotted me they started
+to shoot their guns against me. But at the same time, Manuel had
+decided to move forward and pushed me aside, making me fall face first
+on the ground, from where I couldn't do anything,  I didn't even dare to raise my head for fear it got a new
+hole that afforded me a change of jobs to the shop of horrors of
 the circus.
 
 But the whole thing didn't take long. I heard them cursing and yelling
-and then the sound of falling to the water. I then raised my head and saw
+and then the sound of an object falling to the water. I then raised my head and saw
 Manuel was rolling past where the guys had stood and was slowly coming
 to a halt. 
 
@@ -1811,7 +1822,7 @@ Parade of the monsters in New Orleans
 
 My main concern in New Orleans was to keep an eye on Manuel, just in
 case these capitalist pigs wanted to lay their hands on it and keep
-for them. So I mostly missed what I am about to tell you. But is as
+for them. That is why I stayed at the circus all the time and I mostly missed what I am about to tell you. But is as
 true as it gets, since I knew it from a first hand account. Where was
 I? You know, here and there, doing stuff, busying myself. 
 
@@ -1836,21 +1847,23 @@ circus was due to mount again in carriages and go back to the
 esplanade. 
 
 The press said afterwards that we had been inciting the masses to
-rebellion, but that was not true. The only papers they posted were
+rebellion, but that was not true, well, not completely. The only papers they posted were
 circus paper, nothing that told the emaciated, overworked and
 exploited brothers of the still United States of America that workers'
 paradise was just a hundred miles away, in the Republic of Florida. So
-if they somehow got wind of it and rioted, it was not our fault.
+if they somehow got wind of it and rioted, it was not our fault. Maybe
+they heard the paper posters talking, or maybe they were just on the
+brink of rebellion, all the United States are, ain't they?
 
 It was nobody's fault either that a couple of our own clowns ended up
 in jail, but that was somehow how it all started. Why the clowns were
 sent to jail is not clear, since as I said they had not been on the
 parade, I said that, right? They might have been drunk and on the
-wrong side of a police officer, or just too black for the Irish police
-officer that apparently arrested them.
+wrong side of a police officer, or just too black for the Irish copper
+that apparently arrested them.
 
 So it was not our fault either that Ted, as white as it gets but all
-dressed up and with the makeup on went there in the circus clown car
+dressed up and with the blackface makeup on went there in the circus clown car
 followed by the marching band and the elephants and a few acrobats and
 eventually a few thousand locals to demand early release of his
 mates. 
@@ -1862,7 +1875,7 @@ Knock, knock, knocks who?
 -----------------------------------
 
 The metropolitan police locked and bolted all doors of the police station and started to
-crack windows to prepare for the siege. 
+crack windows and put stuff behind them to prepare for the siege. 
 
 But the action didn't take long to start. The clowns, to the blaring music of the
 marching band and much dancing from locals and circus people alike,
@@ -1875,6 +1888,16 @@ eliminated one of the main floor windows by tearing them up, they were
 angry after taking  useless pot shot from the coppers. After that,
 everybody came in. And everybody came out. Clowns and not a small amount
 of brothers who had been detained for no good reason.
+
+Yes, I said I was keeping an eye of Manuel, but to keep it from the
+capitalist pigs. I couldn't do anything about the circus people. Even
+if I had known. Yes, sometimes I'm a louse eyekeeper, but what the
+hell, I can't keep it company for ever! Well, I do know. Where is it,
+by the way? Wireless took it for ride? Aw, c'mon, Wireless, bring it
+back! You're going to break it!
+
+Who's that mech?
+--------------------------
 
 That night's act would have been quite a success if we hadn't got wind
 that the national guard had been called and was likely to crash our
@@ -1901,7 +1924,7 @@ get Manuel loose.
 could hear it among the din of the parade and the rest of the
 circus. Rufus shivered, but kept going at the straps.
 
-"Stop the truck!." He yelled this time. The truck shuddered to a
+"Stop the truck!" He yelled this time. The truck shuddered to a
 stop, and Rufus fell back on his bottom. 
 
 "Come down from there. You'll get it back in time for the show. For
