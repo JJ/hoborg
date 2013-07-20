@@ -1766,7 +1766,7 @@ eventually saved my life.
 Biting the bait
 ------------------
 
-The sound of bullets hitting on us was getting too close for confort
+The sound of bullets hitting on us was getting too close for comfort
 and soon I was more intent on dodging bullets or rather the sound of them than
 trying to move Three-M, although I was trying to bring him to a ramp
 that led to the belly of the ship, 
@@ -1946,12 +1946,70 @@ wagon. The rest of the parade proceeded loudly and I continued doing
 my job and wondering if this was a chance or a trap. I would discover
 soon enough.
 
-Closed for repairs
------------------------
+
+By the people, for the people
+------------------------------------------
 
 After New Orleans, something had become  loose in the head of Rufus the
 mechanical man man, mirroring whatever had happened inside Manuel when he had
-rammed is way into the New Orleans police station. But I thought he was just moody until he flatly
+rammed is way into the New Orleans police station. Besides, now the
+clowns were taking the mech away from time to time and every time it
+happened he became increasingly nervous and jittery. The circus
+assembly was approaching so he decided to take the matter there to see
+if it could be settled.
+
+You probably have been in an assembly, right? Did you, Captain? Yep,
+you probably had them in the army all the time, didn't you? Not any
+more? Why, they're such fun. The assemblies at the circus were a
+hoot. They were held in the circus tent, and sometimes they were used
+to present new acts and let us vote on them, have people ask for
+change of shifts, present their grievances with their bosses... yes,
+and sometimes for self-criticism that led to circus exile and
+sometimes to other things I didn't really wanted or cared to inquire
+about. Nasty things, probably, but that is what awaits the enemies of
+the people.
+
+We were in Freedomville, and assemblies were held right after the
+show, that show I mentioned at the beginning of my story, don't you
+remember? Hell, I don't even know why I bother to amuse you with my
+story, I could as well be talking about cucumbers and pink ponies and you
+would remember exactly the same... 
+
+Don't know why do I care, but once I've started, it's better to end,
+right, Duke. Hey, wake up! If we did an assembly here I'd get you
+blacklisted from the fire and taken to sleep in the flatbed car!
+
+OK, the assembly. Circus of the People's assembly, everybody sitting
+in the bleachers, a few matters brought to the circus manager and the
+ringmasters, Bobby, one of the Siamese twins owed money to the other
+one, Bob, who
+said he had returned it to him, putting it directly in the pocket his
+side of the body, but Bobby was saying he didn't find it there, so he
+might have stolen it from him or just plainly used some sleight of his
+hand, while Bob said that he wasn't handling the hand at that
+particular moment, so it was probably himself who has stashed it
+somewhere and forget it, and they went like that for a while until
+Boris told them to shut the fuck up or they would be exhibited as the
+Siamese twins which also shared a mouth and he was personally going to
+sew them together. They would share all the money and that was that. 
+
+A few stuff like that was settled in a similar way; the elephant tamer
+wanted to become the smart dogs caretaker, and the professor that was
+presenting the jig show wanted to switch with the one that presented
+Frank Fuertote, the strongman, and there were a few laughs here and
+there because we all knew which side of the road the professor was on
+and that was precisely the reason why he was doing the jig show. 
+
+And then Rufus was called to talk about his problems with the
+clowns. And silence descended on the bleachers. Even the smart dogs
+that were frolicking here and there hushed and sat down on their butt.
+
+*revise and write*
+
+Closed for repairs
+-----------------------
+
+But I thought he was just moody until he flatly
 told me that he was taking Manuel away from the circus. 
 
 There was something funky going on there. Funkier that whatever I was
