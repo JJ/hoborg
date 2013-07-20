@@ -382,7 +382,7 @@ with the circus. Which, come to think of it, was what the two guys
 would have done to start with if it had been even possible.  They
 wouldn't have needed anyone to do it for them. Or maybe they did, so I
 had to check anyways.  For some reason I later discovered, concession
-prices had shot to high heaven, even for the concesions on the left
+prices had shot to high heaven, even for the concessions on the left
 hand side of the ground, which for some reason had the lowest prices. 
 
 Besides, at the moment it was no longer  possible to spend the full amount. I didn't
@@ -449,22 +449,24 @@ right beside him.
 
 What did it do? Well, it was in a cage and the barker spent most of
 the time in front of him saying that it had been studied in the
-biggest and baddest (his very words) of the world and found to be a
+biggest and baddest, his very words, of the world and found to be a
 real marvel, that it had acted in front of the bohunk emperor and the
 king of Siam, and that the popists where studying if it had soul or
 not. While the barker talked, the mech rocked back and forth,
 sometimes striking the jail bars and making everybody step back with
-cries of surprise and fear. Nice show it was, really. The Siamese
-twins were actually kind of pissed and from time to time threw snots
+cries of surprise and fear and joy. Nice show it was, really. The Siamese
+twins looked actually kind of pissed off and from time to time threw
+gobs of snot
 or worse at him, making the bearded woman and the rest of the sideshows laugh and mock
 them. 
 
 I stayed there for three or four pitches, checking visually the bolts
 on the cage, looking how far it was from the door, whether there were
-any roustabouts lounging around with nothing better to do that
-watching it, and so on. And I was paying attention to no one, so that
+any roustabouts lounging around with nothing better to do than
+watching it, and so on. But if there were, I didn't pay enough
+attention to them, so that
 explains what happened next, when I got out, intending to walk around
-the tent and waiting for the sideshow to close to see where everything
+the tent and loiter there waiting for the sideshow to close and see where everything
 went. 
 
 Hey, are you interested in the mechanical man?
@@ -658,7 +660,7 @@ I turned to leave and wait for him outside, by the light where I could
 see if he was giving me my money back or a couple of newspaper
 clips. Giving him the back, I opened the door and immediately  spotted another guy
 loitering by the door. He 
-spat a cigarette from his mouth and blocked the end of the stairs that descended
+spat a cigarrette from his mouth and blocked the end of the stairs that descended
 from the carriage, arms loose at the sides of the body, hands into
 fists. Ready to mug me out of whatever I had left in my pockets. But I
 was not going to make it easy: I jumped from the carriage door on him
