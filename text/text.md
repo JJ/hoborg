@@ -390,7 +390,7 @@ hoochie koochie girl looked like she could give me some information, and
 boy, did she give me all she could... so I gave her a few pesos. A
 few dozens. I got the gist of all that from here, but to tell the
 truth I got most of it from the other guys on the line for the price
-of sharing a cigarrete, which I carried in quantity even if I don't
+of sharing a cigarrette, which I carried in quantity even if I don't
 smoke. 
 
 But the information I received from the guys was correct. It was late
