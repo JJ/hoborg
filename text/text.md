@@ -390,7 +390,7 @@ hoochie koochie girl looked like she could give me some information, and
 boy, did she give me all she could... so I gave her a few pesos. A
 few dozens. I got the gist of all that from here, but to tell the
 truth I got most of it from the other guys on the line for the price
-of sharing a cigarrette, which I carried in quantity even if I don't
+of sharing a cigarette, which I carried in quantity even if I don't
 smoke. 
 
 But the information I received from the guys was correct. It was late
@@ -657,7 +657,7 @@ I turned to leave and wait for him outside, by the light where I could
 see if he was giving me my money back or a couple of newspaper
 clips. Giving him the back, I opened the door and immediately  spotted another guy
 loitering by the door. He 
-spat a cigarrette from his mouth and blocked the end of the stairs that descended
+spat a cigarette from his mouth and blocked the end of the stairs that descended
 from the carriage, arms loose at the sides of the body, hands into
 fists. Ready to mug me out of whatever I had left in my pockets. But I
 was not going to make it easy: I jumped from the carriage door on him
