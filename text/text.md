@@ -125,8 +125,8 @@ shore, maybe from a ship, maybe from one of the airships that had landed a bit
 farther up the docks, dressed to the
 nines and sweating as if they were going to melt right there and then. Sticking out as a
 sore thumb, if you ask me, no way to walk in this place crying "Mug
-me". Adding insult to injury they were also  yelling "I'm a capitalist
-pig". But I was minding my own business, which was for the time being not related to those
+me." Adding insult to injury they were also  yelling "I'm a capitalist
+pig." But I was minding my own business, which was for the time being not related to those
 guys, but could be. 
 
 No, they had a pretty normal face and hair; they were nondescript
@@ -186,7 +186,7 @@ just in case I got it wrong and got them a kicking watering can or the
 tin man from the Wizard of Oz.  
 
 "This gimmick Manuel you've got to get us  is like a a rolling
-teakettle with ears", he told me.  
+teakettle with ears," he told me.  
 
 A rolling teakettle with ears
 ------------------------------------
@@ -260,7 +260,7 @@ When it walked, or rather rolled, there was smoke coming out of its
 neck. Some dummy put it initially in the ass, but it made the eyes of
 whoever was driving it sting, so somebody else rigged it to have the
 exhaust as hight as possible. Not in the head, it wouldn't look
-healthy, people would be all "Your dummy is *burning*!".
+healthy, people would be all "Your dummy is *burning*!."
 
 Anyway, the noise. It could honk, did I tell ya? Yes, he can do stuff
 all of its own when he wants. When there's something in front, I don't
@@ -539,15 +539,15 @@ bespectacled man elbowed his way to the front row and stood by the
 Injun commander, who just stood there without so much as a good
 morning. 
 
-"Mr Miles Higgins", yes, my name is Miles, I got the railroad from the
+"Mr Miles Higgins," yes, my name is Miles, I got the railroad from the
 baptismal pile, you know, "by this bylaw the People's Government of
 Florida becomes the sole proprietor of the West Florida Railroad and
-Wagon Company, formerly owned by one such Mr. Miles Higgins". I stood
+Wagon Company, formerly owned by one such Mr. Miles Higgins." I stood
 up, but the Indian gestured to make me sit down. "Comrade Higgins will
 be appropriately compensated by being allowed to work in the
 Conglomerate of State Railroads in any posts he thereby chooses,
 constrained by his stated abilities and the appraisal of them
-performed by the Republic Workers Bureau". So they were taking the
+performed by the Republic Workers Bureau." So they were taking the
 whole thing from me and I'll be allowed to be a conductor if I was
 considered smart enough to make holes in tickets. 
 
@@ -601,7 +601,7 @@ because he knew that, come this point, I wasn't gonna get back.
 "Hell, man, I don't know. I'll have to get me some ride or something
 to carry it away, and that's gonna cost me... So, listen, say I give
 you one hundred pesos..." He was looking away, and drawing his hand away
-from the door. I was losing him, and it. "Can't go tops of two hundred". 
+from the door. I was losing him, and it. "Can't go tops of two hundred." 
 
 "Show me the money." He said, rubbing thumb and index of his right
 hand at the same time. Luckily,
@@ -696,7 +696,7 @@ noticed?" He cried again.
 "And all that because you made fun of the governor?" 
 
 "Yes, and I think I could because he was white, you see? All races and
-all my ass".
+all my ass."
 
 "What did you say?"
 
@@ -816,7 +816,7 @@ back to me. The clerks nodded and continued their rustling and radio
 listening. From another poster, Mento the Mystical Miner, eyes wide
 open, was looking at me trying to find out what I was thinking.
 
-Which was "What a fucking waste of money". I picked up the paper and
+Which was "What a fucking waste of money." I picked up the paper and
 started to rip them out, meanwhile thinking that the paleface clerk
 that had taken my money in Pascagoula was going to suffer three
 different kids of hell when I laid my hands on him. If hell actually
@@ -961,8 +961,8 @@ than to do it slowly, painfully and stinking to high heaven.
 
 I lost most of my teeth there due to scurvy. But I lost whatever I had
 left when I was ferried back to Florida and was just left
-there. "Honorably discharged", I was told, which I gather means
-"unloaded", and that is what I was, they took the load off them and I was weaned off any GI
+there. "Honorably discharged," I was told, which I gather means
+"unloaded," and that is what I was, they took the load off them and I was weaned off any GI
 supply and left on my own, not a penny on me. Couldn't even keep the
 rifle to shoot for food, just the clothes and the boots. 
 
@@ -978,7 +978,7 @@ Gummy, that's just me. Why do you want to know, Hatless?
 There's a lot of vice in Miami
 --------------------------------------
 
-"We usually play to a full house here", Vince told me while we were
+"We usually play to a full house here," Vince told me while we were
 on the road to post papers to announce the circus around town. Elegant
 people came after us to check them out. "Look, we are scoring good
 hits." Vince told me.
@@ -1052,7 +1052,7 @@ around maybe we could check her for the revue. After seeing her naked,
 we could either do her or hire her, or hire her and then do her. Not that I would have the chance to do either, but I could at least check her out thoroughly. And besides,
 she didn't know squat, so I could play the part. If was not as if
 Vince was going to tell her. At my question, she had opened her eyes and was
-smiling broadly; we had her on the hook. She nodded a vehement "yes", opening her eyes and smiling broadly.
+smiling broadly; we had her on the hook. She nodded a vehement "yes," opening her eyes and smiling broadly.
 
 "So, do you have a name to go with those beautiful eyes?" I asked
 her. Vince went along with me. 
@@ -1346,7 +1346,7 @@ Rufus just opened his mouth, not daring to say anything.
 
 "Tomorrow I want to see you both in front of my carriage. We'll start
 right away to rehearse. Guy, they're out of the menagerie." Guy threw
-his hands up, as if to say "Whatever". Rufus showed a face of pain,
+his hands up, as if to say "Whatever." Rufus showed a face of pain,
 but Guy had finished stitching. 
 
 I said nothing, but was already thinking about possibilities and I
@@ -1479,26 +1479,26 @@ were laughing. And  doing the routine.
 
 "Oh my oh my oh my, my guests are on fire" said Clippo, the Auguste.
 
-"They are just keeping warm, my boy.", answered Ted, the
-Blackface. The other six were dancing around them, keeping a distance
+"They are just keeping warm, my boy," answered Ted, the
+Blackface clown. The other six were dancing around them, keeping a distance
 and amusing themselves. Another one had gone to fetch the Klansmen's
 horses.
 
 "Oh my, they seem a tad too warm, ain't they." Said Clippo.
 
-"Here, help them with a blanket." Answered Guido, giving him a 
+"Here, help them with a blanket." Answered Ted, giving him a 
 handkerchief. Clippo made all a show of throwing the handkerchief on
 what seemed now just a pile of ashes of a man.
 
 This went on for a while, and the rest of us that had arrived later on
-horseback couldn't do anything but look. Eventually Guido produced a
-gun with a barrel as long as his leg and shot one of them, who still
+horseback couldn't do anything but look. Eventually Ted produced a
+gun with a barrel as long as his leg and shot one of them, the one who still
 was whimpering and moving, in the head.
 
-All was quiet after that, except for the laughs of the clowns getting
-back into their car.
+All was quiet after that, except for the fire crackling and the laughs of the clowns getting
+back into their car and driving back to the circus.
 
-"Let's go. Let the Guard take care of this mess".  We walked back to
+"Let's go. Let the Guard take care of this mess."  We walked back to
 our horses, not speaking at all. We arrived all tired and sooty back
 at the circus and we went straight to our carriage; we could hear
 laughs coming from the clown carriages for a while still.  
@@ -1670,7 +1670,7 @@ took a breath and thought about going back to my cabin to properly
 finish the dream I was dreaming when I heard a second explosion and
 started to see what looked like the whole roustabout crew running to
 both ends of the ship. Some of them were pointing up and above, a bit
-to the left, "fore and port", somebody was yelling.
+to the left, "fore and port," somebody was yelling.
 
 It was difficult to make out, but a few hundred of feet in that
 direction was an airship. It was mostly painted in blue, sky blue but
@@ -2225,7 +2225,7 @@ the naval station was coming the next day at dawn to pick them up. I
 had actually seen him talking to a couple of look-alike guys with
 moustaches that look exactly like what you saw in your mind when you
 thought about a bohunk, and nothing like what you see when you think
-"sailor". Yes, they had that. No, not that. Well, a bit. But, you
+"sailor." Yes, they had that. No, not that. Well, a bit. But, you
 know, we are the rainbow republic, bohunks and whiteys and everything
 it between, so what the hell.
 
