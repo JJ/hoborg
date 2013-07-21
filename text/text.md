@@ -278,7 +278,1731 @@ mech.
 
 Well, enough with the dancing. We're going to spend the fuel, and I
 don't have that much to go. Yes, it runs on petrol, like any other
-machine. And electricity. And spit. 
+machine. And electricity. And spit. And  that's what the two average guys  told me. Well, not all of that, I
+added a little bit on my own, and you can see the rest. Including the
+back.
+ 
+And enough with the talking. Tomorrow, or the day after that, I'll
+tell you how I became a  
+circus roustabout.
+
+Here's a bit of money to get you started
+----------------------------------------------------
+
+*revise and rewrite* 
+
+They told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
+that, he didn't stay in a single place, but kept moving all over the
+map. Along with a circus.
+
+"A circus?" I asked. "What's its act? Bite chicken heads off?" I asked them. 
+
+"As far as we know, it could bite the head of something considerably
+bigger than a chicken." Talking-guy said, while Fists-means-business
+smiled in a nondescript way. "But yes, we are pretty sure it can do
+that too."
+
+I got the money. No receipt, Duke, man, what are you talking about? We just
+shook hands and looked each other deep in our eyes. Can't remember
+the color, they were rather nondescript. White around and darker stuff in the
+middle, all I can remember. After that
+I told them I would take it from there, and they were on
+their way and I never ever saw them again, and I won't until I do the
+delivery in a few days. Now that I've got what they want I'll have to
+look for them when I arrive at my destination. Or rather they will
+look for me.
+
+Whatever, that's not going to be today. No, today I'm not gonna tell
+you about my joining the circus either.  Which, by the way, at that precise
+moment I didn't really think it was going to be necessary.
+
+Duke of Poo tells his story
+--------------------------------
+
+Ladies and gentlemen, or just gentlemen, nobody of the fair sex today
+in our little company,  our dear Fulgencio seems to be a bit under the
+weather today or just plainly fed up with telling stories, so it's
+going to be my pleasure to delight you  with the story of my
+life before the Call. No, Gummy Eddy, you've never heard this before, I
+promise. I just made it up anew, I mean, this is the real deal, all I've
+told you before was made up. Besides, I haven't
+even started to drink today! Oh my, I haven't even started to drink
+today! Somebody buy me a drink, oh please. Captain Cabo? 
+
+That's better. So, it's my pleasure now to tell you the story. When I was a little boy... 
+
+Gentlemen, gentlemen please behave yourselves. I
+will cut it short. During the  War I was in the Glorious
+Confederate Army,  what's with it? That was Macon, Georgia, it was
+part of a
+confederate state, I was conscripted! I never had any slaves! We
+nobility abhor slavery! I've
+told you! 
+
+Thanks, Captain, we *former* soldiers have to respect and care for
+each other. I'll go ahead with it. So I when I left my ducal home in
+Georgia, all smartly dressed in gray to which I added a foulard which
+really suited the rest, I went to the railway station and instead of
+being shipped somewhere else in the train I was assigned on the spot
+to a crew of railway artillery. I was back and forth, never leaving
+the iron path for as long as there was a war, so I learned the trade
+from one tip of the train to another: where to consign, who sells
+coal, how much is a load of cotton worth. 
+
+I was several times on the brink of being seized by the damn yankees,
+I mean the gringos, but the end of the war found me on a southbound
+train. Somehow, I made the new authorities believe it was mine and
+that I was a loyal yankee citizen. They even paid for repairs, once
+all was over. 
+
+That was my first train. I still have it, you can see on the lawn of
+the castle I own in the Big Rock Candy Mountain, near the Lemonade
+springs. But all that is lost to me. When Florida was no longer a
+state of the Union all was taken from me, all the train lines I had
+painstakingly gathered were, overnight, property of the people of
+Florida.  I lost fuck-all.  It was stolen by these damn fanatics!
+
+Down and out and with ten thousand pesos in Mobile and Panama City.
+---------------------------------------------------------------------
+
+In the name of the people, Duke, just stop crying like a
+sissy. Somebody buy him more to drink or take him to sleep or
+both. Besides, you all wanted hear to my story, right? Here it
+goes...
+
+The circus with the mech seemed to be not too far, somewhere in West Florida. There
+I went. This was going to be easy as peaches. Go there, get in, grab
+it, get out. Except it was not.  
+
+The ten thou I had when I arrived at Panama City, where the circus
+happened to be a few days later, weren't even enough to have bought a
+ride or a privilege
+with the circus. Which, come to think of it, was what the two guys
+would have done to start with if it had been even possible.  They
+wouldn't have needed anyone to do it for them. Or maybe they did, so I
+had to check anyways.  For some reason I later discovered, concession
+prices had shot to high heaven, even for the concessions on the left
+hand side of the ground, which for some reason had the lowest prices. 
+
+Besides, at the moment it was no longer  possible to spend the full amount. I didn't
+have the ten thousand any more, a man has 
+got expenses and love is not always free, as you may know. Yes, young
+men like me don't have it that difficult but I was in a hurry and that
+hoochie koochie girl looked like she could give me some information, and
+boy, did she give me all she could... so I gave her a few pesos. A
+few dozens. I got the gist of all that from here, but to tell the
+truth I got most of it from the other guys on the line for the price
+of sharing a cigarette, which I carried in quantity even if I don't
+smoke. 
+
+But the information I received from the guys was correct. It was late
+winter in Panama City, and it 
+was one of the first cities in their 1915 tour. All tents were shiny,
+all guys seemed jolly and all girls beautiful and caring. I came in
+through the gate, yes, the arch, but I didn't know to call it that way
+that back then, and
+I found the carnival in full swing, tents forming an U with the
+circus and menagerie at the very end. It was still a bit windy and kind of
+chilly, so people didn't loiter among the tents, speeding from one to
+the next to end at the skin show or one of the gambling tents if it was a
+man or a couple of friends or at the circus if it was a whole family. 
+
+I would have done the man route, but I needed to get acquainted with
+the layout and the possibilities. Stealing something is not too
+difficult, but the problem is that always you have to invest. That's
+quite American, I know, and I'm a well-behaved Floridian citizen, but
+I tell you that happens here and there and everywhere.
+
+The problem is to know how much to invest and where to do
+it. Sometimes it's just a ladder. Others you might need to get strong
+and arm yourself. At best, you might need a smile and a certain among
+of time with a good-smelling but bad-looking girl, or maybe the other
+way round. And sometimes you just need to pay the right man. 
+
+But where was the right man? Who was the mechanical man tamer or
+whatever you called him? And how much was it worth?
+
+Because it seemed quite obvious that ladder or weapons were going to take
+me nowhere. Too many people, too many fences, and I expected the mech
+to be heavy enough to not be able to lift it. I was wrong by two or
+three men, but I didn't know that back them, so I just thought about
+cows and how rustlers would have done it. Not that rustlers even had
+to do it inside a carnival, but this mech didn't have horns either, so
+I guess it was even, right? Stop mooing, Gummy, it's not funny and I
+was really tied in knots there. Short of hiring a small army and a
+truck, for which I was a good few thousands shorts, I just couldn't
+see the way.
+
+But that didn't stop me from wandering around looking for the mech,
+the watchers, the way to get to that and eventually walk away with the
+prize. I visited the menagerie, where the mechanical man was exhibited
+and actually saw it in the flesh, yes, Duke, in the metal and brass or
+whatever, point taken, for the first time.
+
+It was given a privileged position within the menagerie tent, right at
+the end of it, where the two rows met. It got the most light, with a
+spotlight right below it that made it look like, well, like a statue,
+which it was in way, except for the moving thing. I was not awed; I
+actually liked the most the cute and fearsome Siamese twins that were
+right beside him.
+
+What did it do? Well, it was in a cage and the barker spent most of
+the time in front of him saying that it had been studied in the
+biggest and baddest, his very words, of the world and found to be a
+real marvel, that it had acted in front of the bohunk emperor and the
+king of Siam, and that the popists where studying if it had soul or
+not. While the barker talked, the mech rocked back and forth,
+sometimes striking the jail bars and making everybody step back with
+cries of surprise and fear and joy. Nice show it was, really. The Siamese
+twins looked actually kind of pissed off and from time to time threw
+gobs of snot
+or worse at him, making the bearded woman and the rest of the sideshows laugh and mock
+them. 
+
+I stayed there for three or four pitches, checking visually the bolts
+on the cage, looking how far it was from the door, whether there were
+any roustabouts lounging around with nothing better to do than
+watching it, and so on. But if there were, I didn't pay enough
+attention to them, so that
+explains what happened next, when I got out, intending to walk around
+the tent and loiter there waiting for the sideshow to close and see where everything
+went. 
+
+Hey, are you interested in the mechanical man?
+--------------------------------------------------------------
+
+"I sure am" I answered the besuited man that was calling me from
+behind a carriage corner.   You'd be well advised if you walk off calls
+made from behind a carriage corner. Hell, you've probably called marks
+from behind carriage corners a few times anyways. Yes, you laugh, but
+look at it from the point of view of the lugen. Hey, stop laughing!
+Lugens do have a point of view! OK, OK, they probably haven't or they
+wouldn't be so incredibly dumb.
+
+So I was dumb, and I know now, but I didn't know them. The whole
+circus mission, I mean gig, got into me and it seemed kind of so out
+of the way that I just jumped to the opportunity.
+
+"You like that, metal, right? Are you sure you don't want warm, expert
+ladies that are able to do what no doll would ever do?" By that time,
+I had already had a taste of that, so I just smiled and said "Just the
+mech. Can I see it?"
+
+"You can do more than that. You can take it for a ride if you want,
+take it home and paint it pink." He had probably seen my enthusiasm
+and raised his offer. What the hell, he could have offered me the
+whole fucking circus. "How much is that worth for you?"
+
+"American dollars?" I replied, and the suited man snorted. Now I could see that the
+suit had been recently cleaned, ironed and starched, but was the worse
+for wear and frayed in places. And his hair was not greased back,
+just dirty and greasy. He was a lot louse, probably, somebody
+wandering around circus lots looking for somebody that can be easily
+conned.
+
+Enough with that. I know better now. But maybe you can learn from me,
+yes, a young man like me. Stop laughing! Stop rolling on the floor! Aw,
+go to hell. 
+
+The day they took the railway from me
+---------------------------------------------------
+
+I'm alright now. Liquor and spirits soothe my soul, because I have a
+soul and I don't give a rat's ass if you  are going
+to run to the next comisaría and denounce me for anti-popular
+activities. What could they take from me? My freedom? My life? They
+can have it all and good riddance, I've always lived next to a rail
+yard and, before I'm caught, I'll die in them.
+
+As a point of fact, I was about to do exactly that the day they took
+my railway from me. The name of Jacksonville had just been changed to
+Freedomville and I had a ungodly amount of schedules and train plates
+and tickets to reprint, the exact amount I had to retire and pulp lest
+it went to waste. I really didn't listen to the wireless when they
+talked about factories and plantations and everything becoming
+people's property; I didn't know what they meant either. People's
+property? I was the people, and that was my property, right? So
+nothing to fear although I noticed that day the employees were either
+lazy or jittery or both. When was that? Nineteen o seven? Eight? Hell,
+eight, ten years ago. Besides, I though, that was for Tampa for the
+show, they were not going to go so far as Baldwin, where our offices
+were conveniently located, close to the railroad junction.
+
+But they did, for the life of me, they did. It was quite early in the
+morning, what, seven or eight, I had been already there for two or
+more hours, missus and kids still sleeping with all likelihood. An
+injun entered my office without knocking, followed by Ralph, the
+general manager of the airline and then so many Guards that you could
+think they were going to stage a parade just there. But if that was
+the case, I didn't want to know what role I was going to play in
+it. Either the parade clown or part of the chain gang.
+
+Initially, they were quite civil about the whole affair. A
+bespectacled man elbowed his way to the front row and stood by the
+Injun commander, who just stood there without so much as a good
+morning. 
+
+"Mr Miles Higgins", yes, my name is Miles, I got the railroad from the
+baptismal pile, you know, "by this bylaw the People's Government of
+Florida becomes the sole proprietor of the West Florida Railroad and
+Wagon Company, formerly owned by one such Mr. Miles Higgins". I stood
+up, but the Indian gestured to make me sit down. "Comrade Higgins will
+be appropriately compensated by being allowed to work in the
+Conglomerate of State Railroads in any posts he thereby chooses,
+constrained by his stated abilities and the appraisal of them
+performed by the Republic Workers Bureau". So they were taking the
+whole thing from me and I'll be allowed to be a conductor if I was
+considered smart enough to make holes in tickets. 
+
+I tried to stand up again, but this time the commander did not even
+bother to assuage the situation. He drew his revolver and pointed in
+my general direction.
+
+"You can stay here for some time. People's Comisario García here," and
+he nodded in the direction of the bureaucrat that had just talked,
+"will take charge and you'll have to show him the ropes. No hurry,
+man, two or three days will be enough."
+
+What could I do? My wife and family left me the very next day, and they
+took everything that could be loaded into a carriage. The authorities
+didn't like that and seized my home and land, too. I was left
+homeless, so when I left the office the last day and assigned a depot
+in the middle of nowhere, I took a train and called it home. And you
+are my family. 
+
+Buying elephants from a circus
+----------------------------------------
+
+I have never been in the army. Did you hear me saying I was a soldier? No way, Captain,
+I would have said that if I *had* been in the army, which I
+wasn't. The point is, in the army the mates, or so I've heard, try to
+con you into cleaning their boots, out of your food sent from home,
+whatever. So you learn the looks of somebody who is turning a
+confidence trick on you.
+
+I learned the lesson  there and then. He had a look of contempt towards me, but
+at the same time he looked desperate. As if that was in dire need of
+something. But then, who was I to say anything, I looked as if I
+needed a mechanical man then and there. 
+
+He led me into a dark part of the circus, behind the carriages and we
+started to dodge chairs, rests of food and forgotten toys. We arrived
+at a carriage which didn't stand in any way from the rest; it was
+freshly painted but didn't have any mark that indicated that was it,
+the mech carriage. He purposefully knocked on the door, looking at me
+and moving his mouth in the first phase of a smile that tried to
+instill trust but would have failed if it weren't for the fact that I
+was beyond worrying about trust, My mind could only focus on what was
+inside that
+carriage. And he saw that.
+
+"So, how many pesos, real money,  is this worth for you?" he asked me. 
+
+I didn't answer straight away. But that was probably the wrong answer,
+because he knew that, come this point, I wasn't gonna get back. 
+
+"Hell, man, I don't know. I'll have to get me some ride or something
+to carry it away, and that's gonna cost me... So, listen, say I give
+you one hundred pesos..." He was looking away, and drawing his hand away
+from the door. I was losing him, and it. "Can't go tops of two hundred". 
+
+"Show me the money." He said, rubbing thumb and index of his right
+hand at the same time. Luckily,
+I had cached a wad of notes in the front pockets of my pants, which is what you want
+to do if you don't want to have it spirited away from you when you
+visit full of quick fingers and long arms like a carnival. That is,
+you want to secure it so that it's easy to get it
+conned  away from you, as it was about to.  I gave it to him and he
+made the money disappear in a rustle of its clothes. 
+
+He told me to follow him inside the carriage. Nobody had answered the
+knock from inside, which I should have interpreted as the knocks being
+a warning call or a check, but I didn't. He opened the door slow and
+carefully and we got in. It was dim inside and it smelled sweaty and
+rusty; I could barely see anything from the light that entered from
+the already dark evening. He lighted a match and waved the other hand
+in the direction farther away from me. 
+
+"You see? It's right here." He said, but I barely could see where he
+was pointing; I moved in that direction and kept bumping into
+things that made a racket that apparently nobody cared about, which
+I should have interpreted as another warning sign, but being still wet
+behind my ears of circus ways and humbugs, wasn't. 
+
+"I can't see a damn thing, man. Can't you turn on the light?" I
+yelled, but not louder than the noise we had already made. 
+
+"Afraid not, it could damage the mechanical man, my friend has said,"
+he answered, coyly.  
+ 
+"Damage it? How come? It does its act  in broad daylight," I told him.
+
+"Yes, but it's now being kept off anything bright to be repaired
+fixed, it's larry  due to a light... surplus. You
+see? It's right here."  I didn't even know who Larry was. Back then. 
+
+What I could see there was, indeed, a teakettle. Not a whole
+teakettle, just a part. I couldn't even see if it had ears or not. It
+was big, though. 
+
+"That's a fucking teakettle, that's what it is." I launched myself at
+him, but he expertly ducked and was talking as he did. 
+
+"No, it's not. It's a head... apparatus. See, here's the... belly
+engine." Which looked like a stovepipe, or a part of it that was visible
+by the match that he has lighted, anyways. 
+
+"You're full of shit, man." I told him. "Give my money back and I'm
+out of here." 
+
+I turned to leave and wait for him outside, by the light where I could
+see if he was giving me my money back or a couple of newspaper
+clips. Giving him the back, I opened the door and immediately  spotted another guy
+loitering by the door. He 
+spat a cigarette from his mouth and blocked the end of the stairs that descended
+from the carriage, arms loose at the sides of the body, hands into
+fists. Ready to mug me out of whatever I had left in my pockets. But I
+was not going to make it easy: I jumped from the carriage door on him
+and made him fall. I fell too, but stood up pretty quickly and started
+running. The two scammers were older than me, and anyway I didn't think they would
+make much more than shouting abuse at me for a while. Which they did,
+along with a friend of two, for quite a long more than a while, at
+least until I was out of the circus grounds. 
+
+So I was out of that circus pretty fast. Same speed I was left without a
+plan and two hundred pesos short. Yes, Gummy, there's always a lesson to be
+learned and you often learn them the hard way. But learn I did. 
+
+*revise* 
+
+It's a plan
+-------------
+
+"So you're saying the circus is like an office?" I asked the old clown
+who had the strange ability of laughing and crying at the same time,
+and make you do the same. We were in a cargo wagon, surrounded by
+cotton bales on a train bound for Pascagoula, where I was going following
+the circus, on the thought that it was a good idea to follow it and wait for the
+mech to drop from a carriage or be sold in an auction or
+something. Hoboing was a way of doing that and not make a dent on my
+budget. The clown had been a silent companion for hours, but he became
+jolly the moment I offered him some drink. Making chitchat,  he told
+me that he was what is called a tramp clown, one of the three types of
+clowns that are out there. You don't know what are the other two,
+don't you, guys? Ask the Duke, he'll know for sure. No? Well, tough
+luck. So I asked him what
+made a tramp clown become just a tramp and we continued from there.
+
+"Man, the whole country is like a fucking factory! Haven't you
+noticed?" He cried again. 
+
+"And all that because you made fun of the governor?" 
+
+"Yes, and I think I could because he was white, you see? All races and
+all my ass".
+
+"What did you say?"
+
+"Something along the lines of him being circumcised by a precise
+kick to her sister in the jaw." 
+
+"He, that is funny. I met these guys up in the hills in New Mexico, I
+mean Mississippi, that... " It was funny that I had found this
+particular guy in the train, but chance didn't play a role in it. He
+was also following the circus, which was a few wagons in front of us,
+bumming things out of them or of the people attending the carnival,
+making laughs for centavos. 
+
+"It's funny because that what clowns do. They make fun of people. It's
+not about making fun of the right people, that takes all the fun out
+of it. Like making a circus a factory."
+
+"Come again, how's that office thing?" I needn't tell you that the cotton cargo
+wagon is the most comfortable of all. To top it, it's also quiet. Only
+problem is you can't smoke or you'll become a ball of cotton fire in
+no time. Ain't that true, Eyebrowless Eric?
+
+"Well, it's not called the People's circus for no reason." he
+said. "It belongs to the state, as this railway does. So the very next
+day that had happened this mean person, dressed in combat clothes, came up to me and he
+said.
+
+"Teach me everything, from now on I'll be you. 
+
+"That he said. I don't know what
+the rest of the clown posse said, but I think they're not there anymore. And
+they the new ones look mean..." But I was only half-listening by now. I had a plan.
+
+"Funny thing is, that new clown was also white," he continued saying.
+
+I married a bearded woman
+------------------------------------
+
+Not quite, although seducing one of them would be a way of marrying
+into the circus, I was not amused by that prospect. So I have two words
+for you: Fake. Papers. 
+With them in hand, I crossed under the circus arch, which had just arrived
+to the city of Ferry Pass. 
+
+"Let me check that." said the improbably named Boris, the circus
+manager, a big, dark brother with shoulders one mile long that could
+have stood for the strongman or the lion tamer if there was a need for
+that. The papers with purple official-looking seals carried me into  the carriage that served as office and as 
+ticket booth, these circus guys like to keep all money matters close
+together, lest they contaminate the rest of the stuff. I had made a beeline from the
+circus arch, which I didn't know yet was called an arch, to the
+office. The less people that could intercept you and ask questions
+about your business, the better. Circus people aren't known for
+cheerful treatments of strangers. 
+
+Besides Boris, that had been fetched from his office, a man and a
+woman were idling at their desks, rustling papers and listening to the
+wireless, which was broadcasting a speech by one of the high-ups in
+our Republic. I tried to listen intently, but couldn't make out the words. He didn't seem
+angry, so he was probably cheering up the soldiers, workers and farmers of our
+land. I probably had heard them anyways. 
+
+I saw Boris, my not so evidently fake papers in hands, go to its office at one of the ends of the carriage. I
+knew the assignment would check out. The official at the People's Party in 
+Pascagoula had been paid dearly to request an assignment of one
+Fulgencio Ribera, 23, to the Number One Glorious People's Flying Circus, Menagerie, and
+Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
+Mechanical Man. Took less for him to take the bribe than to write the
+name of the job where I wanted to be transferred. Took him a bit
+more to endow the paper with all kinds of stamps and produce a good amount of copies and leave a huge
+paper trail all the way to Tampa.  
+A second bribe
+would be needed for the archivist, but that was all. Yes, capitalista
+ways in the people's republic and all that. I didn't like it as a citizen, but I
+like even less the umpirialist ways of the United-not-for-long
+States. Did I say umpirialist? I meant umpirialistic. Imperialist? You
+made that word up, Duke, didn't you? OK, OK, OK, imperialist, so what
+gives? 
+
+When Boris was gone and apparently using the phone in his office, I started to think that what's bad about crooked officials is that they can bend two or three
+different ways. And this Boris was having too long a conversation with Tampa  or whoever the hell he had decided to talk. It was not helping that the clerk and the secretary kept
+looking at me with that look of "You don't belong here" which I tried
+hard not to return. And this was starting to look like a situation in
+which I would have to fight my way out, so I edged a bit closer to the door because you never know.
+
+To avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
+features. "Manuel The Mighty Mechanical Man" featured what looked like a guy
+sheathed in gold foil lifting an elephant. "Ray, the Human Radio Receiver"
+was on another poster, dressed like a sailor for no good reason and with a
+hat from which several wires sprouted; from those wires, wavy lines came
+out (or in, who knows) while he seemed to be speaking, arms wide
+open. I'd heard about that one, and it looked like a scam. But then I
+was not buying this circus, I was here for a reason. A heavy, metallic,
+mechanical reason.
+
+I realized Boris had stopped talking; shortly he came back from his office at the end of the
+carriage. And he did not seem happy. 
+
+School years
+------------------
+
+No, that's Fulgencio Ribera, with a b. I don't know any Rivera with a
+vee from
+anywhere. Where did I spend my school years? I went to school
+in... What's with it, Wireless? Why do you want to
+know? Did I ask you where you served, Captain? Does anybody know the
+whereabouts of Duke's castle? Yes, yay, in the slopes of the Big Rock
+Candy Mountain by the Lemonade Springs. 
+
+Just go to hell. I'm off to sleep. 
+
+You don't look like a circus person
+---------------------------------------------
+
+"Sorry, boy. This does not check out." The circus manager said, handing the papers
+back to me. The clerks nodded and continued their rustling and radio
+listening. From another poster, Mento the Mystical Miner, eyes wide
+open, was looking at me trying to find out what I was thinking.
+
+Which was "What a fucking waste of money". I picked up the paper and
+started to rip them out, meanwhile thinking that the paleface clerk
+that had taken my money in Pascagoula was going to suffer three
+different kids of hell when I laid my hands on him. If hell actually
+existed, of course, which I really don't think it does, and you don't
+either, right? You have been there, Gummy? That might account for your
+lack of hair, for sure!
+
+"Hey, hey, hey. No need to make a racket out of this." Boris told me and I stopped and
+started to fold the papers with exaggerated care while looking at them. I
+really didn't know what to do. I'd have to hire a band of rustlers to
+get the iron dummy out of here. Disappointment probably crept to my
+face, and Boris said
+
+"These things happens. Wires go down, Circus Commission clerks gets
+asleep, forgets to file the folder where he should. Tell you what: we
+need strong and young hands like you around here, the Party knows we
+do. So just stick around, I'll pay you by the day, and will check back
+in a few days to see what happens. Does that sound fair to you?"
+
+I just smiled and revisited my non-conformant thoughts on the paleface
+clerk. This republic is the republic of all races and peoples of
+America and the whole wide world, and palefaces, sorry, white people
+have also been oppressed. All of you have, even the Duke. Isn't that
+true, Duke? 
+
+So that's how and why I entered the circus. Until my cover was blown
+or I was off with my prize, whatever happened first. 
+
+Circus hand. And foot
+----------------------------
+
+Do you think it would be easy to steal an elephant from a circus? They
+are big, they are heavy, they can trample you or slug you a good one
+with the trunk. Plus you need to know how to ride them or it will end
+up somewhere else than the circus, but not where you want it. Well, a
+mechanical man is pretty much the same, less the trunk. And the
+shit. Man, do they shit...  The elephant bulls, Gummy, how could a
+mechanical man shit? Bolts, you say? Ha, that's rich. 
+
+Elephants shit their fucking weight and that of two pregnant sows for
+good measure every fucking day. This I know because that was the gig I
+was given when I started kicking sawdust. Which I did in spades. And 
+laying. And wiping. And producing. And fucking breathing and shitting
+sawdust all the fucking day, in the company of beasts and sometimes of
+comrades. That was all for the greater good of obtaining my prize, which
+I could barely see, not to mention touch, during those first two
+weeks. 
+
+"Gaucho" was one of the words I learned early and heard often during
+those days, sometimes from closed lips, sometimes accompanied by a
+sideways spit. That's how they call the people that is not born into
+the circus, people sent from the circus commission specially, which
+they call *red* gauchos. That's why I did not have other way out that
+stick with them when sticking needed to be done. 
+
+That was usually at lunchtime or when any food was served. As was done
+in the army, we went to the mess tent, lined for food and went to a
+table to eat. What? No, I haven't been in the army, in no army,
+indeed. How do I know about that? People talk, you know. 
+
+As a matter of fact, somebody told me that in the table where we
+gauchos sat. There was Jay, who had actually fought in the patriotic
+war and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
+that helped with anything that was needed, and Gina, who rode horses.
+Why do you want to know how Bill and Vince were? Just your average
+Bill and Vince, Bill a black Seminole and Vince a black, strong guy from Virginia
+or somesuch. He kept talking about his pa being a guerrilla fighter
+during the civil war. Couldn't stop, somehow.
+
+But back to the story: sometimes, Rufus the mechanical man man, the one that took care of
+the mech, Rufus three-M himself, joined us. He couldn't have been born
+into the circus, no mechanical men in the previous generation, no
+way. So, despite have been for years in circus life he was still
+considered a gaucho. He didn't do it himself, so he joined us
+reluctantly and when there was pussy to be smelled. 
+
+That didn't allow him to focus too much on the information I wanted
+from him. Which was all for the better, People would have suspected if
+I did. So I threw questions at him to see if they stuck, and they did
+from time to time.
+
+Did he score? Why are you interested? Hey, stop touching yourself,
+Gummy you
+old pervert! I'm out of here!
+
+Gummy Eddie tells his story. Actually, no, Captain Corporal tells Gummy Eddie's story
+-----------------------------------------
+
+Nobody understands Gummy Fucking Eddie, so I will tell his story for
+him. Yes, I'll be telling you all my story in the army and why I'm a
+Captain and a Corporal at the same time, but be patient and all of you
+will be satisfied. Gummy, if you don't stop doing that right now I'm
+not going to act your puppet now or never. Really.
+
+So he was fighting for freedom in Cuba. He came back like this. OK,
+don't throw a tantrum, I'll start again. 
+
+It was 1905 or 1906, and Gummy was a jobless musician in Chicago. Then
+everybody and his mother started talking about war this, war that,
+Cuba, defending American interests, and all of a sudden I was in a
+train all dressed in khaki with an old winchester and a bag in my
+hands, bound for Florida. OK, not me, Gummy, but I'm translating him,
+so I is gonna be Gummy from now on. You get it? Yes, you too,
+Gummy, I'm so very happy you understand this.
+
+In Tampa there was a big camp filled to the hilts with black people
+like me. Most people going to Cuba seemed to be black, at least from
+the sergeants down. Not that we saw anybody with heavier brass than
+that. It was sergeant this, corporal that, sometimes a sergeant mayor,
+and that was that. They barked their orders, clean this, drill that,
+but mostly it was wait on our butts and roam around. Roaming stopped
+fast enough, because as soon as we set step outside the camp whiteys
+screamed abuse at us and we couldn't do much, no bars, no candy shops,
+no nothing, everything was closed in front of our nose stubs. So we
+stayed at the camp, one worry more for sergeants and corporals and
+whatnots and one less for us.
+
+But the problem with going to war is that you end up doing it. And on
+a boat, to top it. We spent like a day puking our guts off so we saw
+fishes in the sea literally get so fat they sunk to the bottom with
+all the half-digested stuff we were throwing up and at them. It didn't
+help that we were so packed in the boat that people just fell of the
+brim from time to time, and some were so wasted they just stayed there
+for the fishes to feast upon. Somebody surely missed them, but not us,
+we were too busy keeping our guts together and worrying about what was
+going to come next.
+
+And that was hell, plain and simple. And I was lucky. The 17th Colored
+Infantry didn't run into battle, we rather run from battle. After a
+few skirmishes in, hell, in somewhere too hot for human beings, we
+established a rearguard supply base in Guantánamo, One Ton of Ammo we
+called, some smartass came with that because that was what they kept
+telling us, we would be receiving one ton of this, one ton of that,
+but the only thing we got was malaria and scurvy.
+
+Yes, scurvy. The supply base didn't even have fresh supplies for
+itself and whatever fresh we had was reserved for our sick brothers,
+but at the end everybody was sick; we couldn't even move out of the
+base because as soon as we did we heard the crack of the
+sharpshooters. Many people did anyways, it was better to die quickly
+than to do it slowly, painfully and stinking to high heaven.
+
+I lost most of my teeth there due to scurvy. But I lost whatever I had
+left when I was ferried back to Florida and was just left
+there. "Honorably discharged", I was told, which I gather means
+"unloaded", and that is what I was, they took the load off them and I was weaned off any GI
+supply and left on my own, not a penny on me. Couldn't even keep the
+rifle to shoot for food, just the clothes and the boots. 
+
+I don't blame them,
+anyways. They had quite enough on their own, being chased away by the
+rebels and all, I mean the Glorious Revolutionary Army, hell, the government
+snitch must one and for all stand up and fess up, I'm fed up with
+having to put with all this revolutionary crap. We're between hobos,
+right? We don't have to keep blabbing this way... no, that's not
+Gummy, that's just me. Why do you want to know, Hatless?
+
+
+There's a lot of vice in Miami
+--------------------------------------
+
+"We usually play to a full house here", Vince told me while we were
+on the road to post papers to announce the circus around town. Elegant
+people came after us to check them out. "Look, we are scoring good
+hits." Vince told me.
+
+We were very lucky to be there. There were heavier and less amusing
+things you could do in the circus that very morning, in the stifling
+Miami heat. Besides, I was supposed to learn stuff. There was a method
+to posting paper, I was discovering. You couldn't just paste them
+anywhere; barns, fences, some buildings, corners, always at eye's
+height, those were the places to do it. As a matter of fact, sometimes
+they were occupied by other posters announcing past or present
+shows. They were promptly ditched, and this was accompanied by war
+stories of when two circus met in that place or that other and two
+posting parties met and mayhem ensued. I soon get bored of his talk
+and started to think whether this could be the day and place where I
+could finally escape alive and with a plus one called Manuel.
+
+We had a fair amount of ducat to invite beautiful girls to come to the
+attractions and bring the local marks in tow. And man, they were
+beautiful. So much cream colored flesh, and so much of them in plain
+sight. We run out of ducat much before we run out of money and we
+extracted so many promises... 
+
+We had had to turn down a few, specially gringas. We didn't want them
+there at the circus, but if they did show up, their pesos would be as good as the
+next one, so we weren't gonna stop selling them tickets. Besides, they
+had their special seats just for them, they had to be filled, right?
+
+So, by the time Tracy came up to us, we weren't either ready for
+conversation or in the mood for gifts. So much paper to post... Besides,
+we had considered a couple of times to charley it.  
+
+Who is Tracy? You're about to know her and we were about to do it, too. 
+
+For starters, Vince and me didn't feel like talking to her because honkies, even honkie girls,
+were always walking around bumming things and whining about this
+and that. Besides, she was not that beautiful to deserve one of the
+ducats we kept; she was nice, in that transparent way the gringas had;
+her hair was flat and hay colored, and her hips and boobs were way too
+small, although not disagreeably shaped. She didn't smell good, a bit
+musty. And her face had bumps and scar marks where it shouldn't have
+had any; her white skin had purple and blue bruises in places. Nothing
+unusual for white people, anyways.
+
+Vince sent her on her way, and we went on ours, but she clung to us on our
+way back to the circus. Which pissed us off even more since now she
+would be witness to us ditching the paper; yes, that's what charley
+means, weren't you listening? Am I not talking in fucking English? OK,
+Duke, I'll keep it easy, only I get all fired up when I recall all
+that.
+
+"How long are you staying?" she  went, from a couple of steps behind us.
+
+"It's right there on the paper, gringa. Can't you read?" She probably
+couldn't. These palefaces were too ignorant and rebellious for their own good, they
+just liked to spend their days shooting squirrels and drinking. And
+fucking their sisters, I tell you. Many of them couldn't read just
+because they hadn't enough in their heads to be able to join the lines
+to form a letter. Yes, I know, Duke, it's an all-races republic. But including them does
+not mean I have to *like* them, right? I could have liked this one,
+though, if only she'd had a nicer and bigger rack. Nothing personal, Duke, you're my man. 
+
+But she continued in our footsteps, asking us where we were from and
+what we did in the circus and so on and so forth until we were so
+close to the circus that we had either to charley the paper or take
+another path and start to paper it. We didn't feel like doing the
+second and we needed some independence. 
+
+"You want to earn a few pesos, girlie?" I asked her. If she came
+around maybe we could check her for the revue. After seeing her naked,
+we could either do her or hire her, or hire her and then do her. Not that I would have the chance to do either, but I could at least check her out thoroughly. And besides,
+she didn't know squat, so I could play the part. If was not as if
+Vince was going to tell her. At my question, she had opened her eyes and was
+smiling broadly; we had her on the hook. She nodded a vehement "yes", opening her eyes and smiling broadly.
+
+"So, do you have a name to go with those beautiful eyes?" I asked
+her. Vince went along with me. 
+
+"Tracy." She said while he blinked. Yay, we had her on the hook. Or
+the other way round. 
+
+"What do you say if you meet us at the circus in, say, two hours." She
+stared blankly, as if the concept of "hour" was something too
+difficult to grasp..."OK, to there after a good while, when you see
+people coming up to the circus, and you tell the girl at the ticket
+counter to send for us. We are Fulgencio and Vince. Can you remember
+that? OK, bye now." I waved her with my hand, just in case it was not
+clear enough.  
+
+She nodded again, and turned back. When she disappeared around a corner we could finally charley the paper, and we might even manage to score tonight. 
+
+Gringo up, gringo down
+------------------------------
+
+As we had expected, that evening the carnival was going full throttle, but I still could spot Tracy,
+these gringas really don't know how to mix with the crowd. She was so
+white and blond and she had put a white dress on top of that just so that
+she could be made out even by night and with closed eyes. 
+
+Trying all the time to look as if we owned the place, Vince and me got her to the ringmaster, with whom we had negotiated as a commission we got to see her naked
+while she was checked for the nudist colony. That was the only act she
+could make her do on short notice, because there's nothing much that needs to
+be done, just be pretty and naked. Beautiful girls and some ugly with big boobs usually started  their career at the circus
+that way before they learned something and graduated to the revues or
+jig shows if they were whites, or even real circus acts if they were
+good at it, and got and assignment from the government. 
+
+But no government job was needed to lay stark naked and pout, which she
+seemed to be good enough at. She wasn't too reluctant to undress when the ringmaster told her, and she only lingered at the unbuttoning at the interesting parts. She had no bra, as we had been able to make out under her white dress, but she wore panties that had seen so many washes that they were threadbare here and there. She eventually took them off also, standing there on her moccasins. She quickly fell into a pose. 
+ 
+As I had already noticed with her clothes on, she did not have a great body, even for a
+paleface. Too whitey, cute pair of boobs, those pink nipples could win
+her a good pouch of pesos, and flat booty. But hey, she was white,
+what could you expect. She had a bushy crotch that extended almost
+up to her belly button. Nudist colony girls had it shaved, but there
+was going to be no time today, the sideshows were about to begin. 
+
+Vince, the ringmaster and me just left her there while we talked in whispers among
+us as if we were examining a horse, appraising hers. She started to cover herself and
+we knew it was time to hire or kick her off, because if we let it
+linger for too long she could change her mind.
+
+Yes, I knew all that by that time. You learn fast in the circus and
+you learn a lot of trades, but the first thing you learn is people,
+what they do and what you can do to them. That includes girls.
+But I know much more now. I know that you can't trust no man and you can't trust women any more. By doing that, she forced us to action. And by forcing us to action, she commanded the situation. What's with girls, I don't know, they always make them do what they want and you end up thinking it was your idea. 
+
+So of course she was hired for the day. Vince and me led her to the
+carriage that was shared by the nudist colony girls that came with the
+circus. Another day hire, or at least some girt I hadn't seen before, and, boy, had I seem them all in front of me and in my dreams, was also there and she was getting explained
+how to pose and what to do and advised on how to avoid farting, conceal warts and
+things like that. Just guessing that; we couldn't stay, of course, the mistress shooed us
+away. I understand that, we men could be there the whole day and do no
+work. Except maybe touching ourselves. Please, Gummy, you've already
+done it today once, can't you please stop?
+
+Somebody's daughter
+------------------
+
+That night I went to the girl show tent more than usual. I took
+advantage of every errand to escape for a few seconds and go there to
+see how Tracy was doing. Not that I could actually *get* in there, you
+know. We roustabouts and circus mates weren't allowed in there, we
+couldn't see the girls we shared a table at the mess room (not that it
+was usual, but even so...) or a seat at the train completely naked and
+in fetching poses. However, nobody could prevent us from ripping a
+triangle off the tent and check it, from time to time. Before packing
+they were checked and fixed, but new ones were open until after some
+time the tent had so many patches at eye level (and a few at
+midget-eye level) that it was on the brink of ripping the bottom part
+off all by itself, so it had to be changed. That goes to say that
+circus people are pretty much like the next guy, only a bit dustier
+and a bit more skilled on separating marks from their
+hardly-or-softly-as-if-anybody-cared earned money. 
+
+I had to push Vince and some other circus guys who had heard about the
+new flesh from time to time to check on her. She was doing great, of
+course. The barker was barking the presence of new girls to the four
+winds and gents were elbowing each other to be on the first row. Tracy
+and the other new girl was there, in front of the rest, apparently
+playing a table game, or resting, or doing silly dances which didn't
+matter because, well, the important thing was the booby swing. The
+professor talked about how important that was for health and how
+everybody did that in Sweden or Siam or in old Greece or wherever, but nobody paid much
+attention to the words. The important part was the swinging.  Yes,
+boys, what a swinging. Don't sigh, men, you've all been young and
+smelled fresh pussy. Not anymore? Well, tough luck!
+
+I happened to be there, pushing aside one other guy, when the show was interrupted by a racket at the tent
+gate. I couldn't see what was going on there, but I could see near the
+scenario that several guys came into view shouting, and I first though they were
+protesting about high prices or too much time waiting in line or
+whatever. But they were yelling something about daughter and honor and
+I think I heard the name Tracy and I could see they were wielding
+clubs and baseball bats and even a machete. Tracy just stood there, and the men
+came up to her, grabbing her arm and covering her with a blanket. The
+other girls run to the back of the tent, and I was left there with the
+professor, who seemed to be more elsewhere than there, and a few marks
+who seemed to think this might be a part or the show or just liked to
+be in the middle of things.  
+
+When I arrived at the main tent door I pushed aside the people
+flooding out from inside and came in, there was a standoff
+situation. One of the attackers had put a hand over the shoulders of
+Tracy and another was holding another girl, one of our own. The barker
+was laying on the floor, bleeding from the head. And I didn't know
+very well what to do. First thought was run, but second though is that
+the circus always protects their own. I then shouted: "Hey Rube!"
+
+No, Rube was not the circus strongman, although come to think of it,
+it might have been some time in the past. He was... have no idea. If
+you shout "Hey Rube!" you're saying there's a fight and everybody
+bodily available should come to help fellow circus folk. 
+
+Of course we outnumbered them. But this was a losum game, we might
+lose even if we won. 
+
+It's a clem!
+--------------
+
+There were on my count three, no, four, no, half a dozen guys in front
+of the scene.  I couldn't handle them all by myself, no way. So I made
+the call for other guys to join me and try to solve the situation.
+
+Which didn't seem easily solvable without a broken limb. Or head. However, it
+might be solvable without that limb breaking being mine, if I only got
+a few more guys from the circus to lend a hand.
+
+Guy "Indian Giver", the layout man, was the first to arrive, as he always did. That was one
+of the reason why he was allowed to boss everyone around even being
+white, octoroon he said, but we knew he was white as white wool, that
+he was. Hey, all races and all that, no problem, awright? Besides, he
+was always there. He didn't even made a fist or expected other guys to
+arrive, just pushed me aside and started to talk.
+
+"What the fuck do you want with us?" He asked in the general direction
+of the kidnappers. One of them, with overalls, a dirt-colored shirt,
+cordless boots and and a baseball bat,
+a middle-aged guy going on old age with a single tooth that we could
+see, hissed and kind of said: 
+
+"The honor of my daughter Tracy, who you're showing here naked an' all
+for all niggers and spics to see..."
+
+"Hey, hey, hey, mind your language, ol' mate. It's also there for you
+honkies to see if you pay the price, matey!" He answered, raising his
+hands, palms front and laughing. Not the right answer, apparently,
+because all six or seven or them started to wield their weapons and
+one of them picked up the professor from the floor and put the machete
+by the side of his neck. 
+
+"You'se a funny one, you. But you'se paying for this, and you'se
+paying it dearly because the honor of a daughter has no price"
+
+"You don't want anybody else but your own family banging her, do you,
+matey?" Guy the Indian Giver said. The machete drew closer to the professor
+neck, the baton closer to the other girl head, and one of the arms of
+Tracy was released, just so the guy that had her, presumably his
+brother, could shake the bate more freely with the other hand.
+
+"That's what you niggers do. We white folk respect each other and God,
+we do!" Guy could be only proud of being called a nigger, since he was
+just getting out of his winter paleness. That might be the reason why
+he seemed to change tack and stop insulting them.
+
+"So you're all brothers and fathers, right? What if we call the Guard
+and have all that checked out and we see who's right or wrong here?"
+Asked Guy, making emphasis on the Guard. More people had arrived, but
+the circus act was in full swing, so not many of them were
+available. In fact, I think I could see a flicker of Rufus somewhere
+to my left. 
+
+"You call the Guard and before they arrive this girl has a new face
+and that guy has no face. And any of us escapes alive, and everybody
+will know that you called outside people to take care of your
+business." Said the old guy. Ouch, that hurt. Guy the Indian Giver didn't
+flinch. 
+
+"Now we're talking, matey. How much is that honor thing worth to you?"
+
+"No less than twenty and five thousand" The old toothless guy
+answered, straight away. 
+
+"Dollars? That's how much, thirty seven pesos?" The folks around Guy
+laughed. In fact, it was closer to fifteen thousand, I
+reckon. Eighteen thousand, you say, Duke? OK, around that. But it was
+funny anyways. 
+
+"You know better than that, nigger, you know what I mean, don't you," replied the old man.
+
+"She's hardly worth half that amount. You seen her tits? Stupid
+question, that's what you have at home instead of radio, as civilized
+homes do." The old man took this in stride. It was money talking now,
+and that was a language they both understood very well.  
+
+So it became an auction, except for the witticisms and the bludgeon
+shaking from time to time. Guy was really having a great time, but I
+was completely lost. Every word seemed to get them 
+angrier and, besides, nobody else seemed to be coming to help. I was
+about to run to the carriages to fetch anybody when I saw the canvas
+of the tent be ripped open to the right hand side of the honkies. 
+
+Manuel the mechanical man came in faster than I thought he could
+through the rip, shaking his grips like a mill and buzzing like a
+pissed off old drone. It pushed the honkey that was closer to the
+opening, making him drop the machete. The other guys released the
+girls, and came to him, starting to batter them with their clubs. They
+made one or two dents, but all of a sudden one of them, the *father*,  realized their prey
+had fled and their power to bargain themselves out of the situation
+had dropped to nil.  
+
+So they used instead the opening left to escape. But he stopped a
+moment before going out to waggle his finger at us and yell.
+
+"You'll end up blacker than you are now, you machine-loving mother
+raping niggers, when we set you on fire. If you don't give us our
+daughter or our money back" 
+
+He shouldn't have done that, because that gave Manuel time enough to
+turn around, not an easy thing, I must say, and grab one of the braces
+of his overalls, ripping them off, which gave us a sight of his
+white-as-pissed-snow hairy butt. He kept his boots on, and he used
+them for running. 
+
+We didn't bother running after them. I actually run towards Tracy, who
+wore an expression difficult to describe. No, it was absolutely not
+nondescript. Rather the other way round. 
+
+It's a badger game
+------------------
+
+Somebody told me that Rufus had been hurt by the honkies, and I went
+to the office where Guy was tending to him. He had been outside the
+tent, driving Manuel from there, when one of the guys that was
+escaping hit him in the head. Guy was stitching him, while he said:
+
+"It's a badger game. And we shouldn't have fallen for that. It's us
+who badger them, not the other way round." A badger game, something I
+know now, is when you sell a mark the key to your *girlfriend*
+carriage and, when he opens the door and finds her there (or not), you
+threaten him to give you more money or else. 
+
+The door opened violently and  Ted "Cracker" Armistead, the
+blackface clown, the big boss of the clown posse, came in. He didn't seem happy. He never did, because
+he was an old grumpy whitey, that, when not in character, looked as if
+he was permanently sucking a lemon. When in character, he was the
+clown that always wanted the other to do something, eventually being
+duped by them, which didn't make him seem happy either. And, in real
+life, he was the enforcer of the party line on the circus, the one
+that wanted everything to be done by the book, and, as a reward, got
+very much the same he obtained in his act. However, some people in the
+circus seemed to just vanish when he was in the same room. And Rufus
+was one of them. 
+
+His
+unhappiness had gone up one notch, his mouth an inverted V foaming with
+spittle that was started to give his black mask a ragged appearance,
+like monster teeth. Rufus started to shiver when he appeared in the
+cracked-open door.
+
+"Why? We were about to get them" he shot, straight away, looking at Rufus.
+
+Rufus smiled a sad smile. "I know. And I know what would have
+happened. That's why I came in. Or rather Manuel did." He seemed a bit
+defying, but only managed to flash it for a brief second. 
+
+The inverted V in Ted's face became a cruel line. 
+
+"That's funny. Ever so funny." But nobody was laughing. "So you think
+you can do our act, don't you?" Rufus did an aborted shrug. "You want
+to be one of us, right? You think you're funny enough?" Rufus started
+shivering again, and I tried to disappear just by force of will. "Or
+maybe your apparatus is?" Guy tried to appease him.
+
+"Hey, Ted, he solved the situation, didn't he? All our guys are now
+safe, only hurt was him"
+
+"He solved it, did he? All crackers escaped, and cracked him, instead
+of us cracking them" I almost smiled hearing Ted "Cracker" talk about
+crackers. Guy started to say something about the Guards, but Ted
+continued. "Since your doohickey is so good at acting, what if we put
+it in the clown posse? Wouldn't that be just great?"
+
+Rufus just opened his mouth, not daring to say anything. 
+
+"Tomorrow I want to see you both in front of my carriage. We'll start
+right away to rehearse. Guy, they're out of the menagerie." Guy threw
+his hands up, as if to say "Whatever". Rufus showed a face of pain,
+but Guy had finished stitching. 
+
+I said nothing, but was already thinking about possibilities and I
+didn't like them a bit. I felt my cheeks burn and I first though I had
+flushed, but then I realize there was light and heat coming from the
+open door. Something was afire out there.
+
+We didn't start the fire
+-----------------------------
+I was out of the door a fraction of a second after Ted.   One of the
+midway concession shops was afire, and we run there.   There were
+horses and confusion and what looked like a bonfire, right next to
+the concession.
+
+A jointee run up to Ted, shouting.
+
+"The Klan! It's the Klan!" Ted slapped him in the face. To calm him
+down, or just for the hell of it. Maybe that was the reason he went
+into clowning. They slap a lot.
+
+"There's no such think in the people's republic! Just shut up and
+fetch the ringmaster!" I could see that the bonfire was actually a
+cross on fire. And that the riders that were running had pointed white
+hats and white robes. 
+
+Ted started to run catercorner  to the fire. The jointee went past me,
+looking for the ringmaster, which was still at the office carriage,
+tending to Rufus. And I could either try to stop the fire, or go in
+pursuit. And then I heard cries coming from the jig show tent.
+
+Actually,  cries and shouts were coming from all directions; It was late already and most
+customers had left, but the few dyed-in-the wool marks were still
+pouring out of the skin shows and gambling tents. And some of them were
+crying their heads out. I noticed
+those particular ones for some reason;  that cry was kind of different.
+
+Yes, I know cries. I worked the cows, and know when a cow is calling
+its calf, when she wants a hump, when she's broken a leg or when she's
+just mooing her happiness. A woman
+crying is no different, and I heard that whoever was shouting from the
+jig show was crying surprise. And she was
+probably Tracy. So I made the choice and run in that direction. 
+
+When did I work the cows? No, I never did that. Did I just say that?
+No way, I was raised and lived in California and there are no cows to
+speak of there. Just oranges. 
+
+So, as I said, run up to the jug show and what I found there was a group of circus girls beating senseless
+one of the honkies that had tried to scam us before. He was still
+dressed in 
+white rags, so he was part of the raiding party. Which,
+come to think of it, was probably just a distraction to get again at
+the same person: Tracy.
+
+Tracy was telling them to please stop. The guy was in a pretty bad
+shape, lying on the floor and
+trying to stand up, but he was being kicked in the general area of his
+bollocks and was not going to be able to stand straight for a good
+amount of time. But for the time being it was quite clear that he was
+not going anywhere, either with Tracy or without her.
+
+"OK, OK, ladies, let me take it from here." I picked up the guy who
+spat a tooth out as he stood. He started to curse me and the girls and
+tried to look sideways at Tracy, but I slapped him good. 
+
+But once I've done that and pushed him outside, the truth was that I didn't know what to do with him. I was taking him
+to the ringmaster when Vince came up to me with a saddled show horse. 
+
+"We're after the Klan guys." He said, and handled me the ride. 
+
+"But..." I tried to say.
+
+"No buts. Mount and come with us. We need all hands."
+
+"And what about this one?" 
+
+"Tie him up somewhere, we'll take care of him afterwards." That's what
+I did. When I came back, he'd flown away, obviously. He was the luckiest
+one of the whole group. 
+
+We galloped together in the direction of Miami, where the Klansmen
+had went. What we were going to do once we caught up with them I had
+no idea, but I was pretty sure the rest of the posse did.
+
+*write and revise*
+
+Clown act
+-------------
+
+A few hundred yards down the path  the clown car sped past us,
+apparently also in pursuit of the attackers in their
+horses. Wigs and big shoes were coming out of its windows and they were honking
+and laughing and shooting all at the same time. It was not going to take long
+for them to reach our attackers and in due time we could see light 
+arising from somewhere in the path, a few hundred yards ahead of us. 
+
+I would have stopped right there but didn't, afraid of being uncovered
+by the other circus hands. Well, you know, I mean uncovered as not
+being part of the circus brotherhood. Nobody could have a hint of what
+I intended to do, I hadn't tell no one. 
+
+Not that I was under a cover, mind you. I just didn't want them to
+know that my purpose in life was not to live in and by the circus,
+just to get something out of it.
+
+But I should have left everything right there and then, because I didn't like
+what I saw down the road. It was not nice, you know. Not that they
+didn't deserve it, but one thing is thinking that somebody deserves
+what comes his way and another wanting him to be done in front of
+you. 
+
+It didn't take long for us to arrive there, but the whole time we
+listened to laughs and explosions and shoots. And yells, some happy yells, some
+not. The yellow light coming out of it and above it danced, as if
+something was burning. And the smell. 
+
+One of the horses the Klansmen were using came in our direction and it
+very nearly made us fall from our ride; that along with the smoke
+and smell frightened them and we could not make them walk back
+again. So we tied them to some bush stalks and took from there by feet, half
+running. 
+
+Not that we could do much when we arrived at a small clearing at the
+highway, from where the laughs and smells and smoke seemed to be
+coming from. The four Klansmen, robes on fire, were lying down, writhing. One of
+them was still trying to stand up,
+yelling, The clown posse was going around them, using their squirt
+guns to douse them with something that kindled the fire, while they
+were laughing. And  doing the routine.
+
+"Oh my oh my oh my, my guests are on fire" said Clippo, the Auguste.
+
+"They are just keeping warm, my boy.", answered Ted, the
+Blackface. The other six were dancing around them, keeping a distance
+and amusing themselves. Another one had gone to fetch the Klansmen's
+horses.
+
+"Oh my, they seem a tad too warm, ain't they." Said Clippo.
+
+"Here, help them with a blanket." Answered Guido, giving him a 
+handkerchief. Clippo made all a show of throwing the handkerchief on
+what seemed now just a pile of ashes of a man.
+
+This went on for a while, and the rest of us that had arrived later on
+horseback couldn't do anything but look. Eventually Guido produced a
+gun with a barrel as long as his leg and shot one of them, who still
+was whimpering and moving, in the head.
+
+All was quiet after that, except for the laughs of the clowns getting
+back into their car.
+
+"Let's go. Let the Guard take care of this mess".  We walked back to
+our horses, not speaking at all. We arrived all tired and sooty back
+at the circus and we went straight to our carriage; we could hear
+laughs coming from the clown carriages for a while still.  
+
+Rebuilding
+-------------
+
+Fortunately, nobody was badly damaged by the fire at the circus. And
+you have to fight fire with fire, so no big deal here. But didn't mean
+I had to breath the same air as the clowns, and I tried to keep as far
+away from them as possible. 
+
+As did, apparently, Rufus. Back then I did not know why, but he became
+a bit twitchy every time a clown was getting close to us. And if that
+was Cracker, the boss, he was invaded by twitches so bad that he was
+incapacitated. That made 
+him almost a permanent fixture in the gaucho crew, even if there were
+no revue girls around. 
+
+He even  paid attention  sometimes when I talked to him, but he seemed
+to have some difficulty staying focused, trying always to steal the
+focus of the conversation to talk about other stuff. Which was just a
+well, since from time to time he gave me tidbits I could later one use
+to grab hold of Manuel. 
+
+And then there was Tracy. Couple of days after the *incident*, when we
+were moving somewhere else, she was found under a carriage, a true
+possum belly queen. 
+
+The morning after her real or putative family all went to wherever
+those guys go where they die, she hanged around the circus and the
+show tent looking hangdog. I gave her some food, hell, she was not
+guilty of what had happened, at least not completely, and she was an
+oppressed minority all by herself in that family that used her. But
+she was gaucho, she was not trusted, and for the rest of the circus
+she was like the fly that buzzes around you and your food, you just
+wave and wait until it finds a bigger shit to hang around. But hell,
+she was pretty and she didn't seem to have any place to go, why the
+hell would she hang around a circus otherwise, for hell's sake. If
+somebody bothered to  think about her, which they probably didn't,
+they would think she'd had her day in the sun but but now she'd
+probably be somebody else's problem.
+
+And that somebody else happened to be me for no other reason that
+Vince was nowhere to be found when she was discovered. When did that
+happen? Well, couple of days after what I just told you. We had loaded
+the carriages into the flatcars of the train that was taking us to
+Fort Lauderdale. That was late Tasahcé, it was becoming hot and we had
+to stop to water after a few miles and one hour, we were barely past
+Aventura, that's a little town up the East Florida Coast, never mind
+the name... And those trains are shit, people's technology and all that,
+but man, are they older by the day... Yes, Duke, that wouldn't have
+happened if you'd been in charge, but people's got priorities...
+
+So we stopped there at the watering depot and everybody was down their
+carriages to stretch their legs, clowns started shooting at a tree
+trunk just for the hell of it, and from between a flatbed and a
+carriage, so black with soot she seemed almost beautiful, there came
+our friend Tracy. 
+
+A few moments later there she was in front of me, after going down the
+command line from manager to ringmaster to whoever wanted to be in
+charge of her. Which, by default, happened to be me.
+
+I was pissed at the beginning. She was a piece of work, and she was
+white on top of that. But she knew how to earn a living if we only
+gave her a chance. 
+
+Plus she was pretty. Bad hair, but pretty. Yes, I already said that. 
+
+So she was adopted.
+
+¿Manuel? He was somewhere else in the train. Should be, at
+least. And Rufus with him. I couldn't care less about it in that
+moment. 
+
+*write and revise*
+
+The second greatest show on earth goes to New Orleans
+----------------------------------------------------------------------------
+
+So we were going back to the United States of America. What was left
+of them, 
+anyways. They still seemed all too happy to shoot the odd border
+patrol or even taking an useless pop at an airship, but was mostly
+happy to get rid of second-rate citizens, or so it seemed. 
+
+That was apparently not enough to restore the broken railway links
+between the Republic and the US. Beyond Mobile, the railroad was blown
+up to, at least, Red Bluff. So the easiest way to go from here to
+there, from the real Land of the Free to the purported Land of the
+Free, was to sail from Pensacola. 
+
+So it was Noah's Ark all over again, as  Boris the circus manager said at
+least one zillion times before, during and after boarding. Not that we
+did not know already that all that Noah stuff was a big steaming pile
+of elephant dung, but if you put lions and horses and bearded women
+and whatnots inside a steamer they're gonna get mighty nervous, I tell
+ya. So no way Noah would have made it for forty days. Unless he got him a
+circus manager like we did. Friend of saying platitudes, but a good organizer
+all the same.  
+
+Yes, I would have preferred an airship. The circus comisario was on its
+way to New Orleans already. But, pray tell, how the fuck do you expect
+to put an elephant in an airship? You did it once? Really? Why didn't
+you stick a couple of wings and a rocket up its butt and made it fly?
+No way, man, absolutely no way you could put the thirty-odd carriages
+in airships, you would have needed so many of them. Yes, you love
+airships, Commodore, that's a fact.
+
+This was my first chance to actually drive the mech. Aw, man, we are
+calling it a hoborg, but just from a couple of nights ago! Just let me
+call it the way I've always done. You want to hear the story? As I was
+saying, you already know it has to be driven. On its own, he is barely
+able to repeatedly bump into a wall or wander aimlessly like a chicken
+whose head has just been bitten by a geek. Or a frog, yes,
+Frog-Eatin'.  Grease was the one usually driving the mech, but he was
+too busy disengaging carriages from the tractor, securing them on the
+deck and trying at the same time to put the poor beasts at ease. The
+space occupied by the mech was needed for something so I got to drive
+it for the first time. 
+
+No, it does not even come close to driving a horse and I ain't never
+piloted a car. It's a metal box with a wheel and several levers and
+knobs. I was told to never get farther than a dozen feet from from it,
+this wheel for turning, this lever forward, this knob to make it
+faster. Grease gave it to me, and I swear it turned its teakettle head
+to look at me. Yes, it does that. It's not only levers and knobs and
+whatnots. I still don't know what half the driving box does, but I do
+know that the fucking mech has a mind of its own. No soul, Blackie, no
+soul, man. No man's got a soul, nobody. It's humbug the American
+capitalistas have been feeding you. So how come a fucking mechanical
+contraption have a soul if not even you have it!  But, boy, does it
+have a mind. A cat's mind, if you ask me.
+
+So after checking me out he mostly did what it was told, turn right,
+turn left, up the plank, to the prow. To tell you the truth, it kind
+*wanted* to get to the very end of the prow; every time I veered away
+to let it rest near the castle it kind of tugged to the right, as if
+wanting to be there, looking at the sea. Ever seen the sea? Yes,
+Count, you watched it for hours on end from your own boat. It's mighty
+beautiful. No wonder even a mech would want to stand where he could watch it. Or maybe it
+was just a bit cranky. Who knows. He could not have gone there,
+anyways, because the space was taken by a bulk covered with a
+tarp. Nothing related with the circus, it should have been there
+before us, because the tarp had a different color, ours were green,
+this one was tan. 
+
+I didn't have the time to stay around to watch it any more because the
+Boris the circus manager grabbed me again and had me doing Chinese, putting
+things in cabins, covering the carriages with tarpaulins and hauling
+supplies belowdecks. Which is a nice word that somebody shouted while
+we were doing there and means in the basement of the ship. 
+
+I got myself a cabin with Shorty and one of the windjammers. Which I
+only discovered after I woke up to the sound of explosions
+somewhere. Some mighty thunderstorm might be happening, but that was
+unlikely since the boat did not seem to be swinging too
+much. Something completely different might be going on, and I got
+dressed and went up to the deck to check it out.
+
+Attack on the high seas
+------------------------------
+
+When I arrived at the main deck, everything seemed to be quiet for a
+few seconds. The sea was calm and deep blue, the sky only sported a
+few wispy clouds, and the ship was rocked just a bit back and forth. I
+took a breath and thought about going back to my cabin to properly
+finish the dream I was dreaming when I heard a second explosion and
+started to see what looked like the whole roustabout crew running to
+both ends of the ship. Some of them were pointing up and above, a bit
+to the left, "fore and port", somebody was yelling.
+
+It was difficult to make out, but a few hundred of feet in that
+direction was an airship. It was mostly painted in blue, sky blue but
+its cabin had some struts coming out of it that were pointing directly
+at us and apparently popping some rounds. 
+
+"Some mark that has not been happy with our act, apparently." Raúl the
+ringmaster was by my side, smiling with part of his mouth and smoking
+his pipe. I hadn't heard his coming, as I never did. This guy was the
+master of the ring and made himself heard and seen but his special
+skill was to make that happen only when and if he wanted. 
+
+"The airship was not on the table, then" I answered. "Or he would have
+lost it. " That made his smile extensible to almost three quarters of
+his mouth. And he snorted, too.
+
+"They are probably pirates from Texas. The airship model is not
+Spanish, They will fold as soon as they realize we can resist their
+attack" He said, while returning his face to the standard smirk, and
+he was on his way to the deck or wherever he was meant to be, leaving
+me alone. 
+
+The mystery of the tarp to the front of the ship was soon revealed
+along with the long tube that was below it. It was quite obviously a
+gun, and it didn't even need to be loaded; it had a big gunsight in
+front of a seat which was quickly occupied by what I thought to be a
+deck hand before. It didn't take long to have it shot; something came
+out of it sprouting flames and unrolling a cable while the guy manning
+the gunsight was moving a stick and turning knobs from time to time. 
+
+"Looks like we are going to hunt us a big fat evil capitalista whale."
+Raúl said, the crooked smile never leaving its face while the harpoon
+wiggled towards the airship, which seemed to be getting farther and
+farther up. Small geysers raised above the otherwise quiet surface of
+the water, and we all seemed like the public of a lion taming act
+without a jail, just looking on as if the air was protection enough to
+what could happen. I knew it was not. And I knew I had to protect what
+could be my property, so while everybody was looking up I run to the mech, which was just a few feet
+behind the harpoon gun, unfastened it from the deck, retrieved the
+driving box and started to move it.
+
+It was stupid, of course. But nobody was there to tell me that at that
+moment. No, it didn't sink, Gummy, you moron. Can't you see it is
+right there. And please stop crying!
+
+Rocking Manuel
+---------------------
+
+*revise and write*
+
+Give me a mud puddle and I can tell you how to pull a wagon out of
+it. Give me a mare and I can get a foal out of her pussy. Give me
+fourscore of bulls, and I'll tell you how to iron them in no time
+flat. How do I know that? You know, people talk. 
+
+But don't you give me anything over the water. Because it fucking
+rocks and moves and can fucking sink to the bottom. So, get my advice:
+grab anything that floats and don't move away from it. That's exactly
+the opposite of what I did. I went for the most sinkable thing there
+were, and I unfastened it and started to move it using the box. 
+
+The damn guy wanted no part of it. I pushed the forward lever several
+times, and it kind of shivered, but stayed there. I heard the faint
+sound of voices and the fizzling sound of something being dropped into
+the sea; sometimes a zing here and there, but nothing to worry
+about since it didn't look as if it was getting closer. So when
+Three-M eventually decided to move I just had to worry about
+keeping my two feet and its four wheels on deck, which was not the
+easiest thing on earth. 
+
+I moved to the left, which was starboard I think, trying to keep the
+bulk of the deck cabins between us and the airship, but we were moving
+in fits and starts and I started to hear some muffled thuds not so far
+away from me, like metal drums covered in blankets. And I started to get worried, but not
+enough to avoid the seasickness that was growing from my belly and
+swelling up little by little.
+
+It was not helping that I was walking backwards, keeping Three-M in
+front of me and moving towards me. It didn't help either that Three M was not
+helping. It moved sideways, trying to keep itself away from the sea, and kept bumping with
+things, hatch locks and rivets and loose tools, at the same time it kept
+turning its head to try and look at the airship. And, I swear,
+I didn't touch the head-turning knob, I didn't even know which one was
+used for that, forward and turning and backwards was all I knew back then. 
+
+So, unhelpful and all, cursing through my teeth as I was, he
+eventually saved my life. 
+
+Biting the bait
+------------------
+
+The sound of bullets hitting on us was getting too close for comfort
+and soon I was more intent on dodging bullets or rather the sound of them than
+trying to move Three-M, although I was trying to bring him to a ramp
+that led to the belly of the ship, 
+where at least there would be a few inches of steel between us and the
+rest of the world, where all people who still had their wits about
+should be now, except maybe the guys manning the gun. But Manuel
+turned slightly his head to kind of look behind me and blink, buzzing
+at the same time. I turned my head to see
+what the hell was that about and I saw some strange shapes in the
+direction we were heading, towards the back
+of the boat and right between the ramp that was my destination and
+where I was standing now. I then turned completely, oblivious of the
+mech and paralyzed like the rabbit caught in front of a light.  
+
+Those shapes revealed themselves into three guys, dressed in tights; one of
+them run to stern (abaft, I should say if I knew the first word about
+nautical terms, which I don't), gun in hand, and the other two just started to
+shoot. 
+
+No, Captain, they hadn't descended from the airship, that was well and
+away and it had stopped shooting or I wasn't hearing anything. We later gathered that they had used the airship as a bait so that
+everybody got undercover and didn't see them approaching and boarding
+the ship from a speed boat. Its intention then was run and look for valuables that
+could be easily loaded and get on their way. 
+
+Except that in this occasion  they had found me and Manuel. Either
+they considered Manuel a strangely shaped buoy or they chose not to do
+anything about him, but no sooner had they spotted me they started
+to shoot their guns against me. But at the same time, Manuel had
+decided to move forward and pushed me aside, making me fall face first
+on the ground, from where I couldn't do anything,  I didn't even dare to raise my head for fear it got a new
+hole that afforded me a change of jobs to the shop of horrors of
+the circus.
+
+But the whole thing didn't take long. I heard them cursing and yelling
+and then the sound of an object falling to the water. I then raised my head and saw
+Manuel was rolling past where the guys had stood and was slowly coming
+to a halt. 
+
+I really didn't find out what had happened, other that there were
+smears of blood in Manuel's claws. If he had just kept going, the two
+pirates could have dodged him or pushed back. He did something to
+throw them into the water, I just didn't know how or what. And he was
+not gonna tell.
+
+The third guy? He was given to the clown posse. I am not gonna talk
+about it.
+
+*write and revise*
+
+Parade of the monsters in New Orleans
+---------------------------------------------------
+
+My main concern in New Orleans was to keep an eye on Manuel, just in
+case these capitalist pigs wanted to lay their hands on it and keep
+for them. That is why I stayed at the circus all the time and I mostly missed what I am about to tell you. But is as
+true as it gets, since I knew it from a first hand account. Where was
+I? You know, here and there, doing stuff, busying myself. 
+
+The parade started right there on the docks, we gathered all the
+visible stuff to go march through the French quarter, place of vice
+now and ever, but that rhymes with circus, right? The carriages and
+gaffers went on their way to set up the act in a big esplanade, while
+the rest ordered their ranks in the docks.
+
+Already the people were gathering around us, some palefaces but mostly
+brothers. It was in the middle of the morning of a working day, but
+there were many able young men who, apparently, had skipped work or
+simply didn't have one to go to. So many idle men spell trouble, and
+trouble was what happened.
+
+But that was later. The parade was great and dramatic and epic and
+millions of people watched it from the sides of the streets and the
+balconies and perched on top of street lights. It proceeded down Royal
+street and then went right on Canal street to go left again on Loyola
+Avenue. People cheered all the way to the train station, where the
+circus was due to mount again in carriages and go back to the
+esplanade. 
+
+The press said afterwards that we had been inciting the masses to
+rebellion, but that was not true, well, not completely. The only papers they posted were
+circus paper, nothing that told the emaciated, overworked and
+exploited brothers of the still United States of America that workers'
+paradise was just a hundred miles away, in the Republic of Florida. So
+if they somehow got wind of it and rioted, it was not our fault. Maybe
+they heard the paper posters talking, or maybe they were just on the
+brink of rebellion, all the United States are, ain't they?
+
+It was nobody's fault either that a couple of our own clowns ended up
+in jail, but that was somehow how it all started. Why the clowns were
+sent to jail is not clear, since as I said they had not been on the
+parade, I said that, right? They might have been drunk and on the
+wrong side of a police officer, or just too black for the Irish copper
+that apparently arrested them.
+
+So it was not our fault either that Ted, as white as it gets but all
+dressed up and with the blackface makeup on went there in the circus clown car
+followed by the marching band and the elephants and a few acrobats and
+eventually a few thousand locals to demand early release of his
+mates. 
+
+When they arrived at the police station, it was very unlikely that
+jokes would be the only thing to be cracked.
+
+Knock, knock, knocks who?
+-----------------------------------
+
+The metropolitan police locked and bolted all doors of the police station and started to
+crack windows and put stuff behind them to prepare for the siege. 
+
+But the action didn't take long to start. The clowns, to the blaring music of the
+marching band and much dancing from locals and circus people alike,
+unloaded the mech which Ted had comandeered. Then the clowns went around
+the mech singing "Police home is coming down, coming down" while the
+coppers where kept at bay by distractions and the occasional shot to
+make them hunker down. Which they did, mostly, until a slightly bent forward
+Manuel crashed into the main door, prying it wide open; elephants
+eliminated one of the main floor windows by tearing them up, they were
+angry after taking  useless pot shot from the coppers. After that,
+everybody came in. And everybody came out. Clowns and not a small amount
+of brothers who had been detained for no good reason.
+
+Yes, I said I was keeping an eye of Manuel, but to keep it from the
+capitalist pigs. I couldn't do anything about the circus people. Even
+if I had known. Yes, sometimes I'm a louse eyekeeper, but what the
+hell, I can't keep it company for ever! Well, I do know. Where is it,
+by the way? Wireless took it for ride? Aw, c'mon, Wireless, bring it
+back! You're going to break it!
+
+Who's that mech?
+--------------------------
+
+That night's act would have been quite a success if we hadn't got wind
+that the national guard had been called and was likely to crash our
+party. So we had to leave too soon.
+
+But I didn't know any of that I was putting up a tent pole at the circus site and I saw them coming, still
+parading, with the band in a truck bed playing fast and loud. Rufus
+came running from my right to retrieve the mech from the clowns, who were with
+their car in front of the convoy. Manuel was in a truck bed, still but
+with its claws up, and somebody had given him a ball cap that sat
+precariously on top of his head.  Rufus climbed up and started to
+untie it, making the cap to finally fall down and the mech itself to
+swing dangerously.
+
+The clown car stopped and Ted "Cracker" Armistead, the chief of the
+clown posse, came out of it. tiptoeing on his apparently too small
+dancing shoes. His blackface mask was 
+starting to melt due to the New Orleans heat and it was becoming a
+pink and gray mess leaking goo on his white gown. He came to the truck
+where Rufus was struggling to 
+get Manuel loose.
+
+"Leave that alone." Cracker said, not very loud, but so clearly that I
+could hear it among the din of the parade and the rest of the
+circus. Rufus shivered, but kept going at the straps.
+
+"Stop the truck!" He yelled this time. The truck shuddered to a
+stop, and Rufus fell back on his bottom. 
+
+"Come down from there. You'll get it back in time for the show. For
+now, let it bask in the glory of the people. He's a hero." Ted said,
+extending his arms in a way that managed to be threatening.
+
+"But..." Rufus said, while trying to stand up.
+
+"Boy, get it running again!" Ted said to the truck driver. Rufus was
+trying to stand up and fell down again.
+
+"But... It's dented!" Rufus managed to say.
+
+"Yes. Don't repair it. They are combat wounds, and must be worn with
+pride!" Ted said while walking back to the clown car. 
+
+Rufus crept down from the truck and walked crestfallen back to his
+wagon. The rest of the parade proceeded loudly and I continued doing
+my job and wondering if this was a chance or a trap. I would discover
+soon enough.
+
+
+By the people, for the people
+------------------------------------------
+
+After New Orleans, something had become  loose in the head of Rufus the
+mechanical man man, mirroring whatever had happened inside Manuel when he had
+rammed is way into the New Orleans police station. Besides, now the
+clowns were taking the mech away from time to time and every time it
+happened he became increasingly nervous and jittery. The circus
+assembly was approaching so he decided to take the matter there to see
+if it could be settled.
+
+You probably have been in an assembly, right? Did you, Captain? Yep,
+you probably had them in the army all the time, didn't you? Not any
+more? Why, they're such fun. The assemblies at the circus were a
+hoot. They were held in the circus tent, and sometimes they were used
+to present new acts and let us vote on them, have people ask for
+change of shifts, present their grievances with their bosses... yes,
+and sometimes for self-criticism that led to circus exile and
+sometimes to other things I didn't really wanted or cared to inquire
+about. Nasty things, probably, but that is what awaits the enemies of
+the people.
+
+We were in Freedomville, and assemblies were held right after the
+show, that show I mentioned at the beginning of my story, don't you
+remember? Hell, I don't even know why I bother to amuse you with my
+story, I could as well be talking about cucumbers and pink ponies and you
+would remember exactly the same... 
+
+Don't know why do I care, but once I've started, it's better to end,
+right, Duke. Hey, wake up! If we did an assembly here I'd get you
+blacklisted from the fire and taken to sleep in the flatbed car!
+
+OK, the assembly. Circus of the People's assembly, everybody sitting
+in the bleachers, a few matters brought to the circus manager and the
+ringmasters, Bobby, one of the Siamese twins owed money to the other
+one, Bob, who
+said he had returned it to him, putting it directly in the pocket his
+side of the body, but Bobby was saying he didn't find it there, so he
+might have stolen it from him or just plainly used some sleight of his
+hand, while Bob said that he wasn't handling the hand at that
+particular moment, so it was probably himself who has stashed it
+somewhere and forget it, and they went like that for a while until
+Boris told them to shut the fuck up or they would be exhibited as the
+Siamese twins which also shared a mouth and he was personally going to
+sew them together. They would share all the money and that was that. 
+
+A few stuff like that was settled in a similar way; the elephant tamer
+wanted to become the smart dogs caretaker, and the professor that was
+presenting the jig show wanted to switch with the one that presented
+Frank Fuertote, the strongman, and there were a few laughs here and
+there because we all knew which side of the road the professor was on
+and that was precisely the reason why he was doing the jig show. 
+
+And then Rufus was called to talk about his problems with the
+clowns. And silence descended on the bleachers. Even the gamblers
+stopped gambling, and the smart dogs
+that were frolicking here and there hushed and sat down on their butt.
 
 *revise and write*
 
@@ -346,14 +2070,13 @@ contorted, trying to escape. Manuel brought him to confront Ted.
 be in charge? We'll let you have it alright, but only after and when
 we want. Is that right, Boris? He said, addressing the circus manager.
 
-"I couldn't care less, and I had a great time here, so whoever attends
+"I couldn't care less and I had a great time here, so whoever attends
 will too." Manuel dropped Rufus, who fell to the floor. "All out and
 over, all out, all over." That was the sign that everything had
 finished. People shuffled out of the ring, the clowns circled it with
 Manuel in tow, and Rufus was just there, a rag of a man. I came down
 to him and helped him to stand up, brushing his clothes. His eyes were
 all rage, but his mouth was clapped shut. 
-
 
 Closed for repairs
 -----------------------
