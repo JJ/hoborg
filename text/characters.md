@@ -15,7 +15,7 @@ Boris "Just Boris" Bacigalupo | - |- | Black | Circus manager | -
 Raúl "Puff" Ramírez | 1867 | Bayamo, Cuba | Hispanic | Ringmaster | Cynical ringmaster of the circus, he's been through all and seen it all. Smokes a pipe. 
 Guy "Indian Giver" Hillcrest |- |- | Caucasian | Layout man| He says he's octoroon. Good with negotiations
 Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White | Blackface clown, boss of the clown posse | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
-"Clippo" | - | - | - | Auguste clown | Appears with Cracker
+"Clippo" | - | - | - | Auguste clown | Cracker's sidekick, usual butt of his jokes
 Tracy Wilson | 1888 | Miami, Florida | White |  Poser at the jig show | Possum girl that joins the circus.
 
 At the hobo jungle

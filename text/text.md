@@ -295,7 +295,7 @@ laugh at every movement.
 He opened his mouth to talk several times until he managed
 to produce a sound.
 
-"Manue the mech was assigned to me by the People's High Commission of Science
+"Manuel the mech was assigned to me by the People's High Commission of Science
 and Technology. I was specially trained to command it and make repairs
 that don't require special machinery. I am the only person qualified
 to do that in this circus"
