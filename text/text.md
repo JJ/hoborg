@@ -1895,7 +1895,7 @@ brink of rebellion, all the United States are, ain't they? Yes, I see
 you all nodding, you know it's true, people were just asserting their
 rights and that was that.
 
-It was nobody's fault either but the repressive Lousiana cops that a couple of our own clowns ended up
+It was nobody's fault either but the repressive Louisiana cops that a couple of our own clowns ended up
 in jail, but that was somehow how it all started. Why the clowns were
 sent to jail is not clear, since as I said they had not been on the
 parade, I said that, right? They might have been drunk and on the
@@ -1931,7 +1931,7 @@ of brothers who had been detained for no good reason.
 
 Yes, I said I was keeping an eye of Manuel, but to keep it from the
 capitalist pigs. I couldn't do anything about the circus people. Even
-if I had known. Yes, sometimes I'm a louse eyekeeper, but what the
+if I had known. Yes, sometimes I'm a lousy eyekeeper, but what the
 hell, I can't keep it company for ever! Well, I do know. Where is it,
 by the way? Wireless took it for ride? Aw, c'mon, Wireless, bring it
 back! You're going to break it!
