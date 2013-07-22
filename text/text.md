@@ -1827,13 +1827,13 @@ been announced. However, we were surprised to see mainly black
 fellows, but also the occasional whitey
 coming up the plank and helping us unload our shit to the docks. No
 shortage of workers was available, indeed, and we had everything ready
-at the harbour in less time that it usually took to unload a train. 
+at the harbor in less time that it usually took to unload a train. 
 
 It was all for the sake of workers' union and stuff, so we were
 expected to join the demonstration that was going to take place as
 soon as the parade was ready. A demonstration with elephants, the
 world hadn't seen the like of it before that. It was going to be
-awesome, but I wan't going to participate in it, since just the cages
+awesome, but I wasn't going to participate in it, since just the cages
 and floats and artists were participating in it, we roustabouts went
 straight to the circus grounds to take care of laying out the circus
 grounds, set up the big top and all the rest of the business we
@@ -1845,7 +1845,7 @@ now and ever, but that rhymes with circus, right? Yes, in Latin, ha ha
 you're fun, Duke. And smart. 
 
 
-As soon it left Jacson square, the people were gathering around the parade, some palefaces but mostly
+As soon it left Jackson square, the people were gathering around the parade, some palefaces but mostly
 brothers. The longlegs gave out ducats pretty freely, the circus
 direction wanted to be a bit party for America's workers, a gift from
 the All Races Republic of Florida to the workers of America. Not all
@@ -1861,7 +1861,7 @@ parade than outside it. And those who did were armed and had a
 sideways look that spelled trouble for the demonstration.
 
 But that was later. The parade was great and dramatic and epic and
-millions of people participated in it and mingled with the elefants
+millions of people participated in it and mingled with the elephants
 and the camels and even some smart watched it from the
 balconies and perched on top of street lights. It proceeded down Royal
 street and then went right on Canal street to go left again on Loyola
@@ -1876,7 +1876,7 @@ but I'm pretty sure it was not our fault.
 
 *revise and write*
 
-Tremend Trouble in Tremé
+Terrible Trouble in Tremé
 --------------------------------------
 
 The press said afterwards that we had been inciting the masses to
