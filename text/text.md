@@ -1714,7 +1714,7 @@ driving box and started to move it.
 
 It was stupid, of course. But nobody was there to tell me that at that
 moment. No, it didn't sink, Gummy, you moron. Can't you see it is
-right there. And please stop crying!
+right there. Please stop crying!
 
 Rocking Manuel
 ---------------------
@@ -1822,25 +1822,62 @@ for them. That is why I stayed at the circus all the time and I mostly missed wh
 true as it gets, since I knew it from a first hand account. Where was
 I? You know, here and there, doing stuff, busying myself. 
 
-The parade started right there on the docks, we gathered all the
-visible stuff to go march through the French quarter, place of vice
-now and ever, but that rhymes with circus, right? The carriages and
-gaffers went on their way to set up the act in a big esplanade, while
-the rest ordered their ranks in the docks.
+I expected to be busier than usual, since a dockworkers strike had
+been announced. However, we were surprised to see mainly black
+fellows, but also the occasional whitey
+coming up the plank and helping us unload our shit to the docks. No
+shortage of workers was available, indeed, and we had everything ready
+at the harbour in less time that it usually took to unload a train. 
 
-Already the people were gathering around us, some palefaces but mostly
-brothers. It was in the middle of the morning of a working day, but
-there were many able young men who, apparently, had skipped work or
-simply didn't have one to go to. So many idle men spell trouble, and
-trouble was what happened.
+It was all for the sake of workers' union and stuff, so we were
+expected to join the demonstration that was going to take place as
+soon as the parade was ready. A demonstration with elephants, the
+world hadn't seen the like of it before that. It was going to be
+awesome, but I wan't going to participate in it, since just the cages
+and floats and artists were participating in it, we roustabouts went
+straight to the circus grounds to take care of laying out the circus
+grounds, set up the big top and all the rest of the business we
+usually did.
+
+So I didn't see but the start of the parade and demonstration, that
+formed right there on the docks,  and it was slated to go march through the French quarter, place of vice
+now and ever, but that rhymes with circus, right? Yes, in Latin, ha ha
+you're fun, Duke. And smart. 
+
+
+As soon it left Jacson square, the people were gathering around the parade, some palefaces but mostly
+brothers. The longlegs gave out ducats pretty freely, the circus
+direction wanted to be a bit party for America's workers, a gift from
+the All Races Republic of Florida to the workers of America. Not all
+of America. Just the workers. Of course, all folks in the
+demonstration got their ducat and even helped to carry placards saying
+"More workers, why not more jobs?", "Screwmen or bust!" or "Union shop or no shop". A
+general strike had been called by the workers, and in the middle of the morning of a working day
+there were many able young men who, apparently, had skipped work and
+joined the strike or
+simply didn't have one to go to. They started to swell the ranks of
+the ranks of the demonstration, and soon there was more people on the
+parade than outside it. And those who did were armed and had a
+sideways look that spelled trouble for the demonstration.
 
 But that was later. The parade was great and dramatic and epic and
-millions of people watched it from the sides of the streets and the
+millions of people participated in it and mingled with the elefants
+and the camels and even some smart watched it from the
 balconies and perched on top of street lights. It proceeded down Royal
 street and then went right on Canal street to go left again on Loyola
-Avenue. People cheered all the way to the train station, where the
+Avenue. People cheered all the way to the train station esplanade, where the
 circus was due to mount again in carriages and go back to the
-esplanade. 
+esplanade. Apparently the Southern Pacific railway workers, who were
+also on strike, were going to help us anyways. People told me that it
+was all beautiful and pacific and a bit workers party.
+
+But elsewhere, trouble was brewing and already brewed. And I didn't see it or anything,
+but I'm pretty sure it was not our fault.
+
+*revise and write*
+
+Tremend Trouble in Tremé
+--------------------------------------
 
 The press said afterwards that we had been inciting the masses to
 rebellion, but that was not true, well, not completely. The only papers they posted were
