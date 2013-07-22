@@ -1849,8 +1849,9 @@ you're fun, Duke. And smart.
 
 
 As soon it left Jackson square, the people were gathering around the parade, some palefaces but mostly
-brothers. The longlegs gave out ducats pretty freely, the circus
-direction wanted to be a bit party for America's workers, a gift from
+brothers. The stiltwalkers gave out ducats pretty much to everybody on
+sight, the circus
+management wanted to be a big party for America's workers, a gift from
 the All Races Republic of Florida to the workers of America. Not all
 of America. Just the workers. Of course, all folks in the
 demonstration got their ducat and even helped to carry placards saying
@@ -1886,12 +1887,18 @@ The press said afterwards that we had been inciting the masses to
 rebellion, but that was not true, well, not completely. The only papers they posted were
 circus paper, nothing that told the emaciated, overworked and
 exploited brothers of the still United States of America that workers'
-paradise was just a hundred miles away, in the Republic of Florida. So
-if they somehow got wind of it and rioted, it was not our fault. Maybe
-they heard the paper posters talking, or maybe they were just on the
-brink of rebellion, all the United States are, ain't they?
+paradise was just a hundred miles away, in the Republic of
+Florida. People talked in the parade, exchanged addresses, all normal
+among educated workers. And yes, people and elephants held a few
+placards. So what? Is that forbidden now in democratic America?
 
-It was nobody's fault either that a couple of our own clowns ended up
+Maybe it's not so democratic, and maybe
+they heard the paper posters talking, or maybe they were just on the
+brink of rebellion, all the United States are, ain't they? Yes, I see
+you all nodding, you know it's true, people were just asserting their
+rights and that was that.
+
+It was nobody's fault either but the repressive Lousiana cops that a couple of our own clowns ended up
 in jail, but that was somehow how it all started. Why the clowns were
 sent to jail is not clear, since as I said they had not been on the
 parade, I said that, right? They might have been drunk and on the
