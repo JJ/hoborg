@@ -2251,10 +2251,11 @@ remembered Tracy.
 I needed Tracy to keep him busy and focused on something other than
 the gaffe. I talked to her, she owed me, and, honkie and all, she
 paid her dues so she not-so-reluctanctly agreed to keep Rufus
-distracted when needed. Which might be any time now.
+distracted when needed. Which might be any time now. 
 
-I took everything to a city car mechanic and gave him the sack and the
-money. And a dozen of ducat to watch the show so that he could see the mech in
+But her abilities didn't lie in the building trade, so I had to have
+the other part of the business covered. I took everything to a city car mechanic and gave him the sack and some
+money up front, and a dozen of ducats to watch the show so that he could see the mech in
 action and have an idea of how to rig what I gave him together to make
 it look like that. And to have him keep his mouth shut, no question
 asked, no sideways looks when I was bullshitting him about what I
@@ -2263,9 +2264,17 @@ wanted the stuff for.
 I didn't have much confidence in the guy, but actually it didn't take
 him long to have something that if seen in the dark, 
 and from a distance, and if you really had seen Manuel just a couple
-of times, could pass for the original. So there was no fucking way
-Rufus could be mistaken. And I had spent two days and lots of pesos
+of times, could pass for the original. He did a really good job on the
+driving box, though. It really looked like the original one, wear and
+tear and all. It couldn't work a damn thing, but made all the right
+noises so if you worked it you could think something was larry
+somewhere. 
+All in all, there was no fucking way
+Rufus could be fooled for a long time, even if he didn't have all his
+wits about him. And I had spent two days and lots of pesos
 doing this. 
+
+*revise*
 
 That day, at dinner after the show, Rufus told me that somebody from
 the naval station was coming the next day at dawn to pick them up. I
