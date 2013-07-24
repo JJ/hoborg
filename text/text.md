@@ -1551,7 +1551,7 @@ probably be somebody else's problem.
 And that somebody else happened to be me for no other reason that
 Vince was nowhere to be found when she was discovered as a stowaway
 under the belly of one of the carriages. When did that
-happen? Well, couple of days after the arson and the Klanner barbecue. We had loaded
+happen? Well, couple of days after the arson and the Klansmen barbecue. We had loaded
 the carriages into the flatcars of the train that was taking us to
 Fort Lauderdale. That was late Tasahcé, it was becoming hot and we had
 to stop to water after a few miles and one hour, we were barely past
@@ -1562,13 +1562,14 @@ happened if you'd been in charge, but people's got priorities...
 
 So we stopped there at the watering depot and everybody was down their
 carriages to stretch their legs, clowns started shooting at a tree
-trunk just for the hell of it, and from between a flatbed and a
+trunk just for the hell of it, elephants were bellowing and from between a flatbed and a
 carriage, so black with soot she seemed almost beautiful, there came
 our friend Tracy. 
 
-A few moments later there she was in front of me, after going down the
+Somebody fetched me and a few moments later, there she was in front of
+me, after the find went down the 
 command line from manager to ringmaster to whoever wanted to be in
-charge of her. Which, by default, happened to be me.
+charge of her. Which, barring anybody else, happened to be me.
 
 I was pissed at the beginning. She was a piece of work, and she was
 white on top of that. But she knew how to earn a living if we only
