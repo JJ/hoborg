@@ -1531,14 +1531,17 @@ And then there was Tracy. Couple of days after the *incident*, when we
 were moving somewhere else, she was found under a carriage, a true
 possum belly queen. 
 
-The morning after her real or putative family all went to wherever
-those guys go where they die, she hanged around the circus and the
-show tent looking hangdog. I gave her some food, hell, she was not
+The morning after her real or make-believe family all went to wherever
+those guys go where they die, ha, ashes to ashes, that's rich,
+Captain, she hanged around the circus grounds and the 
+back lot looking derelict and not doing much else, a lot louse among
+many.  I let her stick around and gave her some food, hell, she was not
 guilty of what had happened, at least not completely, and she was an
-oppressed minority all by herself in that family that used her. But
-she was gaucho, she was not trusted, and for the rest of the circus
+oppressed minority all by herself in that family that used, and
+probably abused her. But the rest of the circus mates thought
+she was gaucho, she was not trusted, and for them
 she was like the fly that buzzes around you and your food, you just
-wave and wait until it finds a bigger shit to hang around. But hell,
+wave and wait until it finds a bigger shit to hang around. But  hell,
 she was pretty and she didn't seem to have any place to go, why the
 hell would she hang around a circus otherwise, for hell's sake. If
 somebody bothered to  think about her, which they probably didn't,
@@ -1546,8 +1549,9 @@ they would think she'd had her day in the sun but but now she'd
 probably be somebody else's problem.
 
 And that somebody else happened to be me for no other reason that
-Vince was nowhere to be found when she was discovered. When did that
-happen? Well, couple of days after what I just told you. We had loaded
+Vince was nowhere to be found when she was discovered as a stowaway
+under the belly of one of the carriages. When did that
+happen? Well, couple of days after the arson and the Klanner barbecue. We had loaded
 the carriages into the flatcars of the train that was taking us to
 Fort Lauderdale. That was late Tasahcé, it was becoming hot and we had
 to stop to water after a few miles and one hour, we were barely past
