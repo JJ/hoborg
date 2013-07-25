@@ -14,7 +14,7 @@ Manuel the Mechanical Man | 1908 | Mech | Pensacola Naval Yards | Mechanical Mar
 Rufus "the Mechanical Man man" Reed | 1883 | Black | Pensacola | Mechanical marvel fixer-upper | Blacksmith and then mechanic
 Vince "Chilly" Winters | 1887 | Virginia | black | Roustabout | Fulgencio's buddy in the circus, circus roustabout and all-hands man.
 Bill "Red" Rickard |- | Florida | black Seminole | Circus roustabout | Shows up only fleetingly
-Boris "Just Boris" Bacigalupo | - |- | Black | Circus manager | - 
+Boris "Just Boris" Bacigalupo | 1858 | Memphis, Tennessee | Black | Circus manager | - 
 Raúl "Puff" Ramírez | 1867 | Bayamo, Cuba | Hispanic | Ringmaster | Cynical ringmaster of the circus, he's been through all and seen it all. Smokes a pipe. 
 Guy "Indian Giver" Hillcrest |- |- | Caucasian | Layout man| He says he's octoroon. Good with negotiations
 Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White | Blackface clown, boss of the clown posse | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
