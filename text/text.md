@@ -779,10 +779,16 @@ States. Did I say umpirialist? I meant umpirialistic. Imperialist? You
 made that word up, Duke, didn't you? OK, OK, OK, imperialist, so what
 gives? 
 
-When Boris was gone and apparently using the phone in his office, I started to think that what's bad about crooked officials is that they can bend two or three
-different ways. And this Boris was having too long a conversation with Tampa  or whoever the hell he had decided to talk. It was not helping that the clerk and the secretary kept
+I could hear the circus manager  talking to somebody in his office,
+and he was taking so much time that I started to think that what's bad
+about crooked officials is that they can bend two or three 
+different ways. Yes, Duke, and sometimes it's them that make you bend
+and bugger you, I know, old chap... 
+And this Boris was having too long a conversation with
+the official in Tampa  or whoever the hell he had decided to talk. It was not helping that the clerk and the secretary kept
 looking at me with that look of "You don't belong here" which I tried
-hard not to return. And this was starting to look like a situation in
+hard not to return, because that was exactly what I wanted and needed,
+to belong there. And this was starting to look like a situation in
 which I would have to fight my way out, so I edged a bit closer to the door because you never know.
 
 To avoid their gaze I started to look around. In the walls of the office hanged posters of announcements and
