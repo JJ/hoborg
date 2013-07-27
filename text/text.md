@@ -2255,7 +2255,7 @@ might..."
 "They won't, don't worry. If I need you, I know where I can find
 you. Don't worry." Too many don't worries to not actually worry. I
 stood there, thinking what to say. Rufus resumed his tinkering  with
-sparks flying out ot the wires;  
+sparks flying out of the wires;  
 Manuel looked away from me. I left.
 
 If Manuel left, this could be the end of my circus days, which I expected to arrive
@@ -2298,9 +2298,12 @@ while. Since everybody knew that sooner than  Manuel was going
 away soon I told him we were building a replica for the menagerie, but
 since Rufus was very jealous of his act we didn't want him to know
 what we were doing, right? That was a few pesos more. And then a few
-more when the diligence vanished after just a day.
+more when the diligence vanished after just a day. And then it was the
+*act* part the one that had to go. No way something that actually
+moved could be built in so short a time and by a blacksmith. 
 
-And the questions increased in the same proportion. Who was going to
+And the questions increased in the same proportion that the will bo
+build it went down. Who was going to
 be in charge of the gaffe? Did I want just one or several to sell?
 Could the thing be traced back to him? I had to answer yes to that
 one, there were nobody else in the circus with the tools to do it, and
@@ -2313,6 +2316,9 @@ way.
 
 I was then at a loss. Rufus could leave any time now. And then I
 remembered Tracy.
+
+White help
+----------------
 
 I needed Tracy to keep him busy and focused on something other than
 the gaffe. I talked to her, she owed me, and, honkie and all, she
@@ -2447,7 +2453,7 @@ Crocodile tears
 -------------------
 
 I cried like I've seen the clowns doing in their act. Close your eyes
-just so, open your mouth, and wail a trembling a for as long as you
+just so, open your mouth, and wail a trembling *a* for as long as you
 don't care to breath. That might be a long time, indeed, just enough
 to be noticed by Rufus, who came up to me and put an awkward hand in
 my back.
