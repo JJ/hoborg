@@ -2137,7 +2137,7 @@ will too," replied Boris.
 
 Manuel dropped Rufus, who fell to the floor. "All out and
 over, all out, all over." That was the sign that the assembly had
-finished and that we had to clean up whateverwe dirtied and go to our
+finished and that we had to clean up whatever we dirtied and go to our
 carriages and sleeping tents, so people shuffled out of the ring, the clowns circled it with
 Manuel in tow, and Rufus was just left there, a rag of a man. I came down
 to him and helped him to stand up, brushing his clothes. His eyes were
@@ -2157,19 +2157,22 @@ Closed for repairs
 
 After that day, Rufus was here and there, waiting at the clowns
 quarters for a good while before getting Manuel back, lost for hours
-when he was not in posession of the mech, and looking lost the rest of
+when he was not in possession of the mech, and looking lost the rest of
 the time. I wasn't feeling very good either. since the clowns didn't
 let me anywhere near the mech, but at least I had some chances as long
 as it was returned to Rufus from time to time. 
-But I thought he was just moody until he flatly
-told me that he was taking Manuel away from the circus. 
+But I thought he was just moody until one day, when we were taking the
+mech back from the clowns to the menagerie, he flatly
+told me that he was taking Manuel away from the circus to have it
+fixed for some reason or other. 
 
-There was something funky going on there. Funkier that whatever I was
+There was something funky going on there. Funkier that whatever the
+clowns, or myself were
 up to, at least. Yes, I am not a people's guard, but funky is funky,
 OK? 
-Up until yesterday it was
+Up until a few days before it was
 working perfectly and all of a sudden the mech breaks down and has to
-be taken somewhere for repairs. It had been dented and had chipped in
+be taken somewhere for repairs. To tell the truth, it had been dented and had chipped in
 some places, but it wasn't that bad. Well, it was also a bit rustier
 than before it had sailed; the hot funk of New Orleans and the sea are
 no good for him, I tell you. But nothing a bit of paint and a hammer
@@ -2183,7 +2186,7 @@ that's the only place where..." He was shuffling his feet and looking
 as if he wanted to be somewhere else. 
 
 "Can't we have a look? I've seen you mending it from time to time,
-that way I can..." I said, hoping for a way to keep it close. 
+so maybe I can help you with..." I said, groping for a way to keep it close. 
 
 "No way. This time it's broken real good. It's the photoelectric cell
 that activates head movement so... Besides, the Torres Quevedo engine
@@ -2191,60 +2194,92 @@ has to be revised and reprogrammed... and while we are at it we'll
 repaint, grease, change a thing here and there..." Maybe he didn't say
 that, but it sounded like that. 
 
-I couldn't allow that to happen. It couldn't go anywhere. And I looked
-for a way of keeping him in so that I could get it out. 
+"How long will that take?" I asked. Maybe not too long. I could stand
+that.
 
-"I can't do a damn thing, son. He's given me a wad of papers that seem
-legit as far as I can tell a. Besides, neither me nor anybody else in
+"Who knows. It will be on the queue along with other military mechs,
+and I have to undergo retraining and... " He said this while he was
+leaving. So no joy here. But I couldn't allow that to happen. It
+couldn't go anywhere, not for long, maybe for ever. I had to look
+for a way of keeping him in so that I could get it out. I went to
+Boris.
+
+"I can't do a damn thing, son. He's given me a wad of papers that seems
+legit as far as I can tell. Besides, neither me nor anybody else in
 the circus know squat about
 those things, so it's got to be taken elsewhere to have it fixed real
-good. So enough with that, if you're our of that job until he returns you can go back to help the rest of the crew, don't
-worry about that." Boris the manager told me when I grabbed hold of
-him. But I wasn't worried about *that*, not precisely. That
+good." I tried to "but" him, but he waved his hand to shut me up. "So
+enough with that, if you're our of that job until he returns you can
+go back to help the rest of the crew, don't 
+worry about that." But I wasn't worried about *that* part. That 
 was indeed the least of my worries. 
 
 "But, gee, I don't know, It kind of didn't seem to have any kind of
 problem, so..." 
 
-"What do you mean?"
+"What do you mean?" Said Boris. 
 
 "Well, what I was saying is..." What  I was  saying was what? That I
 intended to take it away myself? That if I didn't manage that, just
 out of spite I
 was going to snitch on Rufus to the clowns  who were going
-to maim and slay him? Couldn't do that, either. 
+to maim and slay him? Couldn't do that, either. If the clowns knew
+about it and didn't suspect anything it wasn't going to be this son of
+Tarsicia who was going to put them on the track.
 
-"I see. OK, let me check back with the ministry and I'll see what I
+"I understand you're worried about falling back to a less qualified
+work, Full. That's a genuine  concern for a worker and citizen of the Republic, and I will address it
+in due time. But let me check back with the ministry and I'll see what I
 can do, whether I can get some other act or something, OK?" 
 Out of a robot and in a dancing poodles act, I was seeing myself doing
 that. Yes, they are cute, Captain. Get yourself a dozen and make them
-dance a cutesy polka. 
+dance a nice polka. 
 
-So I was going to get nothing out of that. So I went back
-to Rufus to try another angle. He was tweaking at things inside
+I didn't expect anything out of that, if he even cared about doing
+what he said. So I went back
+to Rufus to try another angle. 
+
+He was in his carriage workshop, tweaking at things inside
 Manuel, who was slightly bent and with a hatch in the back wide
 open. He closed it tight when he heard me opening the door to his
 workshop. 
 
 "You'll need help for the transport." I told him.
 
-*write and revise*
+He looked up and dropped his hands from the mech, who turned around
+and looked at me, too, wide open eyes. 
 
-This could be the end of my circus days, which I expected to arrive
+"A truck from the Estación will be sent with two Navy orderlies to
+help me. Don't worry about that". 
+
+"Well, anyways," I said, "they are not skilled, you know, they
+might..."
+
+"They won't, don't worry. If I need you, I know where I can find
+you. Don't worry." Too many don't worries to not actually worry. I
+stood there, thinking what to say. Rufus resumed his tinkering  with
+sparks flying out ot the wires;  
+Manuel looked away from me. I left.
+
+If Manuel left, this could be the end of my circus days, which I expected to arrive
 anyways sooner or later, but not like this. But the first day I was
 there 
 came back to me. That day I saw Manuel for the first time and I was
 conned out of a good amount of pesos.
 
 And then I knew how to grab hold of Manuel. So the circus day would
-truly be over, but it would be over my way and a good way, too. 
+truly be over, but it would be over my way. And a good way it was, too. 
 
 
 Gaffe building for fun and profit
 -----------------------------------------
 
 I couldn't build it myself, of course. But if you've got the money and
-the determination and the original model, nothing is impossible.
+the determination and the original model, nothing is impossible. What
+I was thinking about building? Wireless, you were here the first day,
+a week ago,
+ain't you? When I told everybody how I was conned in the circus using
+a gaffe that *looked*, in fact, nothing like the real Manuel? 
 
 So the idea was not to recreate the mech, but to create something that
 looked like the mech, at least from a distance and weighed like the
