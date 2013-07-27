@@ -2305,7 +2305,7 @@ more when the diligence vanished after just a day. And then it was the
 *act* part the one that had to go. No way something that actually
 moved could be built in so short a time and by a blacksmith. 
 
-And the questions increased in the same proportion that the will bo
+And the questions increased in the same proportion that the will be
 build it went down. Who was going to
 be in charge of the gaffe? Did I want just one or several to sell?
 Could the thing be traced back to him? I had to answer yes to that
@@ -2477,17 +2477,21 @@ you, er, drive" As if.  Meanwhile, the not-quite-revolutionary sailors
 had started the truck and were stepping on the pedal making noises for
 good measure. I stopped crying and hugged the guy.
 
-"Gee, thanks, Rufus. All I need now." I pushed him lightly on the
+"Gee, thanks, Rufus. It's all I need now. Have a safe trip, and so long" I pushed him lightly on the
 shoulder. "Goodbye." 
 
 He didn't even look at the lump the truck was carrying. I had some
 time until they noticed. At least, until they stopped to take a pee,
 which might take long, as long as they've had all their piping well
-cleaned before leaving.  
+cleaned before leaving.  They left through the gates of the circus,
+being waved here and there by some people. Nobody waved back, and the
+truck left among a dust cloud. 
 
 I went back to the cage, where I was received by a few hungry tigers
 doing the rounds and roaring and moaning. I was going to need some
 good time to get the real Manuel back from there. 
+
+*write*
 
 With the hobos around the fire
 --------------
