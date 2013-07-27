@@ -2127,21 +2127,37 @@ contorted, trying to escape. Manuel brought him to confront Ted.
 
 "Who's controlling who, now, Rufus? Who's more qualified? Who should
 be in charge? We'll let you have it alright, but only after and when
-we want. Is that right, Boris? He said, addressing the circus manager.
+we want. Is that right, Boris?" He said, addressing the circus manager.
 
 "I couldn't care less and I had a great time here, so whoever attends
-will too." Manuel dropped Rufus, who fell to the floor. "All out and
-over, all out, all over." That was the sign that everything had
-finished. People shuffled out of the ring, the clowns circled it with
-Manuel in tow, and Rufus was just there, a rag of a man. I came down
+will too," replied Boris. 
+
+Manuel dropped Rufus, who fell to the floor. "All out and
+over, all out, all over." That was the sign that the assembly had
+finished and that we had to clean up whateverwe dirtied and go to our
+carriages and sleeping tents, so people shuffled out of the ring, the clowns circled it with
+Manuel in tow, and Rufus was just left there, a rag of a man. I came down
 to him and helped him to stand up, brushing his clothes. His eyes were
-all rage, but his mouth was clapped shut. 
+all rage, but his mouth was clapped shut. He let himself be helped for
+a moment, but brushed me off and walked briskly to his carriage. 
+
+Yes, Captain, I really felt bad about him. He would probably feel
+worse when I took the mech away for him, but I didn't plan on
+humiliating him first, it would probably not be necessary. By the by,
+what's happened to Gummy? It's been a few nights already he's not been
+around, ain't he? Just a day? 
 
 Closed for repairs
 -----------------------
 
 *write and revise* 
 
+After that day, Rufus was here and there, waiting at the clowns
+quarters for a good while before getting Manuel back, lost for hours
+when he was not in posession of the mech, and looking lost the rest of
+the time. I wasn't feeling very good either. since the clowns didn't
+let me anywhere near the mech, but at least I had some chances as long
+as it was returned to Rufus from time to time. 
 But I thought he was just moody until he flatly
 told me that he was taking Manuel away from the circus. 
 
