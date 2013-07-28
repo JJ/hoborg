@@ -758,7 +758,7 @@ Not quite. Although seducing one of them would be a way of marrying
 into the circus, I was not amused by that prospect. So I have two words
 for you: Fake. Papers. 
 With them in hand, a good buttoned-up shirt and my scant belongings in
-a burlap bindle over my sholder I crossed under the circus arch, which had just arrived
+a burlap bindle over my shoulder I crossed under the circus arch, which had just arrived
 to the city of Ferry Pass. 
 
 "Let me check that." said the improbably named Boris, the circus
@@ -2499,7 +2499,18 @@ truck left among a dust cloud.
 
 I went back to the cage, where I was received by a few hungry tigers
 doing the rounds and roaring and moaning. I was going to need some
-good time to get the real Manuel back from there. 
+good time to get the real Manuel back from there.  I was only hoping I
+could do that before Rufus realized something was amiss with their cargo.
+
+*write*
+
+Lunch with tigers
+-------------------------
+
+Yes, folks, you're about to enter the tale, but you know that part
+already, you don't want me to tell you, right? Yes? You want?  Gee,
+guys, you're so full of yourselves... Yes, man, stories is all we've
+got. We'll, I got a mech! Just kidding... 
 
 *write*
 
