@@ -2514,10 +2514,111 @@ got. We'll, I got a mech! Just kidding...
 
 So you want to know how Manuel went to be in a jail with tigers to
 where you found us. First thing you need to know about tigers in
-jails: they don't spend all the time there. And when they're not
-there, nobody pays attention.
+cages: they don't spend all the time there. And when they're not
+there, nobody pays attention to the cage. Which is the moment you can
+use to sneak in the back lot dodging any task you had assigned, which
+weren't any for the time being, since the circus manager hadn't found
+yet a new job for me.
 
-*write*
+That's usually the moment when somebody comes in looking for a quiet
+place to poop or for a quick hump or just lay there under the cage for
+a nap. 
+
+So that's exactly what happened. It was Bill, the black seminole who
+had a taste for conversation while pooping, something I had had to
+endure several times at the beginning, when we shared a crew. And we
+talked about old times, he laughed and exerted himself, and I sweated
+because tiger stretching and training never took too long. Hopefully,
+longer than Bill's pooping.
+
+He finally took a round stone from the floor and cleaned himself, hey,
+Duke, no fuss about that, how do you clean yourself? Newspapers? No
+wonder you're nobility, man. 
+
+Enough laughing, so I was sweating black ink because I could hear what
+was either the tiger roaring or Bill's fart factory functioning,
+which, come to think of it, would make a nice name for a circus
+attraction. But then he left and there were no more roars and it took
+me a second to draw the straw-covered canvas away from Manuel, make it
+stand up and use the gear box to get it moving somewhere else. 
+
+There was no other way of doing it that make it move by itself to my
+carriage, where I intended to hide it exactly where we had found
+crazy: in the possum belly. 
+
+Of course, in my way to my carriage with Manuel in tow I found
+everybody and his mother. But I had expected that, so I disguised
+Manuel with a burlap bag, a dab of paint here and there and a bit or
+mud thrown over liberally over it all. As soon as I didn't find the
+circus manager or Ted, everything would be OK. 
+
+*write and revise*
+
+Talking with the circus manager
+-----------------------------------------------
+
+"What the hell is that, boy." Boris asked when he met me a few yards
+away from my carriage.
+
+So far it hadn't gone too bad. Whoever cared enough to ask me
+something received a tale about this being a substitute for Manuel,
+Manuel's twice removed cousing, not knowing anything about Manuel
+having been taken anywhere else, or replies about why the hell do you
+want to know. 
+
+But Boris was Boris, He was the second worst person to meet, with
+Cracker being the first, but he was rarely seen mingling with the
+crowd, exactly the opposite of Boris, who was seen in his office only
+if absolutely necessary. He was always where something, like the
+transport of a mech that was going to be eventually misplaced, was
+going on.
+
+"Well, it's exactly what you see, boss." I answered,
+noncommittally. My body tried to say the same, I tried to seem
+completely relaxed, although I was starting to sweat again. He
+probably smelled fear somewhere.
+
+"So, it's... Manuel's poor cousin." He said, after pausing a few
+heartbeats.
+
+"Exactly!" I answered happily, and turned to continue walking.  But he
+was again at it.
+
+"But where did you get it?" He was frowning, and that was not good. It
+wasn't good either that people were starting to notice us on the back
+lot and were starting to gather around.
+
+"Me? I didn't, it was just there, so..."
+
+"Where do you mean?"
+
+I haven't gone so far as to invent a whole story. So I started to make
+it dance, moving one of the wheels at the same time it spun one of the
+arms. The pebbles on the ground made its head bob. Somebody started to
+beat his feet and clap their hands, yes, the first mechanical jig in
+history. Do you want me to show how I did it?
+
+Forget about it
+----------------------
+
+Do you remember what I was talking about? Yes, Manuel and something or
+other about it, right? The manager left me alone, although he didn't
+seem amused. He was probably busy or something, but he left me alone
+witht he rest of the small crowd that had gathered. Which, when I
+stopped the show, were also on their way to something more interesting
+or their duties, whatever came first.
+
+Sometimes the easiest way fo hide somethign is to show it in plain
+sight. But you don't have to push it too far: in a while it was in the
+possum belly of my carriage, something he did largely by himself by
+catching the beam under the carriage belly and pulling himself up. I
+covered it with lots of stuff, ropes, cabling, and anything I could
+find there. The platform was sagging due to weight. It probably
+couldn't stand a long trip, but I intended to alight it as soon as I
+possibly could. 
+
+*revise and write*
+
 
 With the hobos around the fire
 --------------
