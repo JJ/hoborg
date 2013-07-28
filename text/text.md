@@ -2515,6 +2515,11 @@ already, you don't want me to tell you, right? Yes? You want?  Gee,
 guys, you're so full of yourselves... Yes, man, stories is all we've
 got. We'll, I got a mech! Just kidding... 
 
+So you want to know how Manuel went to be in a jail with tigers to
+where you found us. First thing you need to know about tigers in
+jails: they don't spend all the time there. And when they're not
+there, nobody pays attention.
+
 *write*
 
 With the hobos around the fire
