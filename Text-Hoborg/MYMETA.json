@@ -33,6 +33,7 @@
       "runtime" : {
          "requires" : {
             "File::Slurp" : "0",
+            "Lingua::EN::Fathom" : "0.25",
             "Test::More" : "0",
             "Text::Hunspell" : "2.08",
             "version" : "0"
@@ -40,5 +41,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "v0.0.3"
+   "version" : "v0.0.4"
 }
