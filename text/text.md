@@ -60,7 +60,7 @@ But OK, OK, don't complain, I see that I am jumping over myself. Let me
 tell you how it all started. 
 
 
-Who wants a mechanical man?
+A walk in the sun.
 -------------------------------------------
 
 *revise* 
@@ -74,7 +74,7 @@ hear mine? OK, Duke, I owe you. So here it goes.
 
 What do you mean, Gummy? It's the plain truth. I will tell it to you exactly like it happened. Yes,
 sir, I'm sure, what are you, a fuckin' people's court?  Do I have to
-take the oath or anything?
+take the oath or what?
 
 Alright, then. This is the real story of how I came to be in the possession of Manuel
 the Man-Made Man starts in Mobile, which is only fitting, given the
@@ -112,7 +112,7 @@ that's what you're thinking about. Which you, no doubt, are.
 
 I was there, looking up and down while strolling alongside the docks, minding my own business,
 which was precisely what I was looking for at that early moment of the
-day. I needed a hire, was looking for a job for somebody who needed a quick mind and a strong pair
+day. I needed a hire, was looking to work for somebody who needed a quick mind and a strong pair
 of arms, but meanwhile I kept dodging the sun and keeping myself in the shade,
 because the sun made  my clothes too warm for comfort. What was it?
 Big Winter? Winter's younger brother? Rvfo Cuse or Rakko,  can't
@@ -136,9 +136,15 @@ nines and sweating as if they were going to melt right there and then. Sticking 
 sore thumb, if you ask me, no way to walk in this place crying "Mug
 me." Adding insult to injury they were also  yelling "I'm a capitalist
 pig." But I was minding my own business, which was for the time being not related to those
-guys, but could be. 
+guys, but could be.  
 
-No, they had a pretty normal face and hair and cloth-colored cloth; they were nondescript
+No, Gummy, they were quiet, not even talking to each other. But they
+had their eyes set on me and their walk was taking them towards me.
+
+Who wants a mechanical man?
+---------------------------------------------
+
+What did they look like, you say? Well, they had a pretty normal face and hair and cloth-colored cloth; they were nondescript
 besides what I have already said. Although they 
  had probably not been mugged yet because one of the dandies had his
 demeanor bolted on, instead of having been born into it. Strong but
@@ -189,7 +195,12 @@ just told you, Dale. Damn, do you want to hear the story or not?
 You had heard about that Manuel that is now stashed in the moored
 wagon before I showed up here with it? Well, I hadn't, I was not so 
 well informed and educated as you all apparently are in this
-jungle. 
+jungle. Why did they ask me? I was strong and young and confident. I
+still am. Do you want to wrestle? Gee, Dale, how the fuck do you want
+me to know that? For all I knew, they had asked every other guy
+walking in the docks! And I might have been the only one wanting to
+listen to them and to the job, even if I had never heard about
+anything like that. 
 
 Which is why the speaking non-descript man described it for me,
 just in case I got it wrong and got them a kicking watering can or the
@@ -298,19 +309,19 @@ Here's a bit of money to get you started
 
 *revise and rewrite* 
 
-They told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
-that, he didn't stay in a single place, but kept moving all over the
+That's what they told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
+that, it didn't stay in a single place, but kept moving all over the
 map. Along with a circus.
 
 "A circus?" I asked. "What's its act? Bite chicken heads off?" I asked them. 
 
-"As far as we know, it could bite the head of something considerably
+"As far as we know, it could rip off the head of something considerably
 bigger than a chicken." Talking-guy said, while Fists-means-business
 smiled in a nondescript way. "But yes, we are pretty sure it can do
 that too."
 
 I got the money. No receipt, Duke, man, what are you talking about? We just
-shook hands and looked each other deep in our eyes. Can't remember
+shook hands and looked each other deep into our eyes. Can't remember
 the color, they were rather nondescript. White around and darker stuff in the
 middle, all I can remember. After that
 I told them I would take it from there, and they were on
@@ -319,7 +330,7 @@ delivery in a few days. Now that I've got what they want I'll have to
 look for them when I arrive at my destination. Or rather they will
 look for me.
 
-Whatever, that's not going to be today. No, today I'm not gonna tell
+Whatever, that's not going to be today. No, tonight I'm not gonna tell
 you about my joining the circus either.  Which, by the way, at that precise
 moment I didn't really think it was going to be necessary.
 
@@ -327,19 +338,20 @@ Duke of Poo tells his story
 --------------------------------
 
 Ladies and gentlemen, or just gentlemen, nobody of the fair sex today
-in our little company,  our dear Fulgencio seems to be a bit under the
+in our distinguished company,  our dear Fulgencio seems to be a bit under the
 weather today or just plainly fed up with telling stories, so it's
 going to be my pleasure to delight you  with the story of my
 life before the Call. No, Gummy Eddy, you've never heard this before, I
 promise. I just made it up anew, I mean, this is the real deal, all I've
-told you before was made up. Besides, I haven't
+told you before was a tall tale. Besides, I haven't
 even started to drink today! Oh my, I haven't even started to drink
 today! Somebody buy me a drink, oh please. Captain Cabo? 
 
 That's better. So, it's my pleasure now to tell you the story. When I was a little boy... 
 
-Gentlemen, gentlemen please behave yourselves. I
-will cut it short. During the  War I was in the Glorious
+Gentlemen, gentlemen, please behave yourselves. I
+will cut it short and to the chase. To my chase, how I was chased by
+that ragtag band of robbers and rustlers. During the  War I was in the Glorious
 Confederate Army,  what's with it? That was Macon, Georgia, it was
 part of a
 confederate state, I was conscripted! I never had any slaves! We
@@ -367,7 +379,7 @@ the castle I own in the Big Rock Candy Mountain, near the Lemonade
 springs. But all that is lost to me. When Florida was no longer a
 state of the Union all was taken from me, all the train lines I had
 painstakingly gathered were, overnight, property of the people of
-Florida.  I lost fuck-all.  It was stolen by these damn fanatics!
+Florida.  I lost fuck-all.  It was robbed by these damn fanatics!
 
 Down and out and with ten thousand pesos in Mobile and Panama City.
 ---------------------------------------------------------------------
@@ -484,7 +496,7 @@ made from behind a carriage corner. Hell, you've probably called marks
 from behind carriage corners a few times anyways. Yes, you laugh, but
 look at it from the point of view of the lugen. Hey, stop laughing!
 Lugens do have a point of view! OK, OK, they probably haven't or they
-wouldn't be so incredibly dumb.
+wouldn't be so incredibly dumb. 
 
 So I was dumb, and I know now, but I didn't know them. The whole
 circus mission, I mean gig, got into me and it seemed kind of so out
@@ -519,7 +531,7 @@ soul and I don't give a rat's ass if you  are going
 to run to the next comisaría and denounce me for anti-popular
 activities. What could they take from me? My freedom? My life? They
 can have it all and good riddance, I've always lived next to a rail
-yard and, before I'm caught, I'll die in them.
+yard and, before I'm caught, I'll do myself and die in them.
 
 As a point of fact, I was about to do exactly that the day they took
 my railway from me. The name of Jacksonville had just been changed to
@@ -745,10 +757,11 @@ they the new ones look mean..." But I was only half-listening by now. I had a pl
 I married a bearded woman
 ------------------------------------
 
-Not quite, although seducing one of them would be a way of marrying
+Not quite. Although seducing one of them would be a way of marrying
 into the circus, I was not amused by that prospect. So I have two words
 for you: Fake. Papers. 
-With them in hand, I crossed under the circus arch, which had just arrived
+With them in hand, a good buttoned-up shirt and my scant belongings in
+a burlap bindle over my sholder I crossed under the circus arch, which had just arrived
 to the city of Ferry Pass. 
 
 "Let me check that." said the improbably named Boris, the circus
