@@ -2617,6 +2617,11 @@ find there. The platform was sagging due to weight. It probably
 couldn't stand a long trip, but I intended to alight it as soon as I
 possibly could. 
 
+We were going to the train station as soon as the performance was
+over. Next stop for the circus, DeLand. Next stop for me, freedom and
+financial independence for me. By way of Hobos Depot, where I am right
+now. 
+
 *revise and write*
 
 
