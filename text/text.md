@@ -2527,10 +2527,10 @@ That's usually the moment when somebody comes in looking for a quiet
 place to poop or for a quick hump or just lay there under the cage for
 a nap. 
 
-So that's exactly what happened. It was Bill, the black seminole who
+So that's exactly what happened. It was Bill, the black Seminole who
 had a taste for conversation while pooping, something I had had to
 endure several times at the beginning, when we shared a crew. And we
-talked about old times, he laughed and exerted himself, and I sweated
+talked about old times, he laughed and exerted himself, and I sweat
 because tiger stretching and training never took too long. Hopefully,
 longer than Bill's pooping.
 
@@ -2565,7 +2565,7 @@ away from my carriage.
 
 So far it hadn't gone too bad. Whoever cared enough to ask me
 something received a tale about this being a substitute for Manuel,
-Manuel's twice removed cousing, not knowing anything about Manuel
+Manuel's twice removed cousin, not knowing anything about Manuel
 having been taken anywhere else, or replies about why the hell do you
 want to know. 
 
@@ -2607,11 +2607,11 @@ Forget about it
 Do you remember what I was talking about? Yes, Manuel and something or
 other about it, right? The manager left me alone, although he didn't
 seem amused. He was probably busy or something, but he left me alone
-witht he rest of the small crowd that had gathered. Which, when I
+with the rest of the small crowd that had gathered. Which, when I
 stopped the show, were also on their way to something more interesting
 or their duties, whatever came first.
 
-Sometimes the easiest way fo hide somethign is to show it in plain
+Sometimes the easiest way to hide something is to show it in plain
 sight. But you don't have to push it too far: in a while it was in the
 possum belly of my carriage, something he did largely by himself by
 catching the beam under the carriage belly and pulling himself up. I
