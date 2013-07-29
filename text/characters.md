@@ -1,7 +1,6 @@
 ---
 layout: index
 ---
-
 Hoborg characters
 ===========
 
