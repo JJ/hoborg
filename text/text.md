@@ -1951,13 +1951,13 @@ that apparently arrested them.
 
 So it was not our fault either that Ted, as white as it gets but all
 dressed up and with the blackface makeup on went, or rather should I
-say paraded dow Claiborne Avenue, up to there in the circus clown car
+say paraded down Claiborne Avenue, up to there in the circus clown car
 followed by the marching band and the elephants and a few acrobats and
 eventually a few thousand locals to demand early release of his
 mates. 
 
 When they arrived at the police station, it was very unlikely that
-jokes would be the only thing to be cracked.
+jokes would be the only thing to be cracked. Never was when Cracker was in charge. 
 
 Knock, knock, knocks who?
 -----------------------------------
