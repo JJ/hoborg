@@ -1453,9 +1453,12 @@ to the ringmaster when Vince came up to me with a saddled show horse.
 I did. When I came back, he'd flown away, obviously. He was the luckiest
 one of the whole group. 
 
-We galloped together in the direction of Miami, where the Klansmen
-had went. What we were going to do once we caught up with them I had
-no idea, but I was pretty sure the rest of the posse did.
+We galloped together in the direction of Miami, following the path the
+Klansmen seemed to have taken. What we were going to do once we caught
+up with them I had  
+no idea, but I was pretty sure the rest of the posse did, and that
+seemed to be the reason they were holding the reins of the horses more
+than their will to take proper care of the circus property. 
 
 *write and revise*
 
@@ -1600,13 +1603,17 @@ gave her a chance.
 
 Plus she was pretty. Bad hair, but pretty. Yes, I already said that. 
 
-So she was adopted.
+So she was adopted. By me. 
 
 ¿Manuel? He was somewhere else in the train. Should be, at
 least. And Rufus with him. I couldn't care less about it in that
 moment. 
 
-*write and revise*
+Neither I did care for a week or so, but I'm not going to talk about
+that, you wankers. We were talking about Manuel, right? So that's all
+the talk you're gonna get today or tomorrow. 
+
+*revise* 
 
 The second greatest show on earth goes to New Orleans
 ----------------------------------------------------------------------------
@@ -1684,12 +1691,16 @@ things in cabins, covering the carriages with tarpaulins and hauling
 supplies belowdecks. Which is a nice word that somebody shouted while
 we were doing there and means in the basement of the ship. 
 
-I got myself a cabin with Shorty and one of the windjammers. Which I
+I got myself a cabin with Shorty and one of the windjammers, if one
+played and the other danced we could keep ourselves amused during the
+whole trip. Which I
 only discovered after I woke up to the sound of explosions
 somewhere. Some mighty thunderstorm might be happening, but that was
 unlikely since the boat did not seem to be swinging too
 much. Something completely different might be going on, and I got
 dressed and went up to the deck to check it out.
+
+*revise*
 
 Attack on the high seas
 ------------------------------
@@ -1750,7 +1761,7 @@ right there. Please stop crying!
 Rocking Manuel
 ---------------------
 
-*revise and write*
+*revise*
 
 Give me a mud puddle and I can tell you how to pull a wagon out of
 it. Give me a mare and I can get a foal out of her pussy. Give me
@@ -1773,7 +1784,8 @@ keeping my two feet and its four wheels on deck, which was not the
 easiest thing on earth. 
 
 I moved to the left, which was starboard I think, trying to keep the
-bulk of the deck cabins between us and the airship, but we were moving
+bulk of the deck cabins between us and the airship, a good amount of
+Spanish steel, but we were moving
 in fits and starts and I started to hear some muffled thuds not so far
 away from me, like metal drums covered in blankets. And I started to get worried, but not
 enough to avoid the seasickness that was growing from my belly and
@@ -1819,7 +1831,7 @@ everybody got undercover and didn't see them approaching and boarding
 the ship from a speed boat. Its intention then was run and look for valuables that
 could be easily loaded and get on their way. 
 
-Except that in this occasion  they had found me and Manuel. Either
+Except that in this occasion they had found me and Manuel. Either
 they considered Manuel a strangely shaped buoy or they chose not to do
 anything about him, but no sooner had they spotted me they started
 to shoot their guns against me. But at the same time, Manuel had
@@ -1840,16 +1852,19 @@ throw them into the water, I just didn't know how or what. And he was
 not gonna tell.
 
 The third guy? He was given to the clown posse. I am not gonna talk
-about it.
+about it. No, really. 
 
-*write and revise*
+*revise*
 
 Parade of the monsters in New Orleans
 ---------------------------------------------------
 
-My main concern in New Orleans was to keep an eye on Manuel, just in
+No more pirates until we arrived to the port in New Orleans, where My main concern was to keep an eye on Manuel, just in
 case these capitalist pigs wanted to lay their hands on it and keep
-for them. That is why I stayed at the circus all the time and I mostly missed what I am about to tell you. But is as
+for them. How did I know they wanted it? Well, who wouldn't? Yes,
+myself a few weeks before, but I wasn't a capitalist but a loyal
+Republic citizen, so what would I know?
+That is why I stayed at the circus all the time and I mostly missed what I am about to tell you. But is as
 true as it gets, since I knew it from a first hand account. Where was
 I? You know, here and there, doing stuff, busying myself. 
 
@@ -1876,9 +1891,9 @@ now and ever, but that rhymes with circus, right? Yes, in Latin, ha ha
 you're fun, Duke. And smart. 
 
 
-As soon it left Jackson square, the people were gathering around the parade, some palefaces but mostly
-brothers. The stiltwalkers gave out ducats pretty much to everybody on
-sight, the circus
+As soon as it left Jackson Square, the people started gathering around the parade, some palefaces but mostly
+brothers. The stiltwalkers that went on front gave out ducats pretty much to everybody on
+sight who was a shade darker than chalk, the circus
 management wanted to be a big party for America's workers, a gift from
 the All Races Republic of Florida to the workers of America. Not all
 of America. Just the workers. Of course, all folks in the
