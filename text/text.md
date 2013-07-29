@@ -1610,7 +1610,7 @@ least. And Rufus with him. I couldn't care less about it in that
 moment. 
 
 Neither I did care for a week or so, but I'm not going to talk about
-that, you wankers. We were talking about Manuel, right? So that's all
+that, you jerks. We were talking about Manuel, right? Well, I was. So that's all
 the talk you're gonna get today or tomorrow. 
 
 *revise* 
@@ -1725,8 +1725,8 @@ his pipe. I hadn't heard his coming, as I never did. This guy was the
 master of the ring and made himself heard and seen but his special
 skill was to make that happen only when and if he wanted. 
 
-"The airship was not on the table, then" I answered. "Or he would have
-lost it. " That made his smile extensible to almost three quarters of
+"The airship was not on the table, then." I answered. "Or he would have
+lost it." That made his smile extensible to almost three quarters of
 his mouth. And he snorted, too.
 
 "They are probably pirates from Texas. The airship model is not
@@ -1926,12 +1926,13 @@ but I'm pretty sure it was not our fault.
 Terrible Trouble in Tremé
 --------------------------------------
 
-The press said afterwards that we had been inciting the masses to
+The capitalist press said afterwards that we had been inciting the masses to
 rebellion, but that was not true, well, not completely. The only papers they posted were
 circus paper, nothing that told the emaciated, overworked and
 exploited brothers of the still United States of America that workers'
 paradise was just a hundred miles away, in the Republic of
-Florida. People talked in the parade, exchanged addresses, all normal
+Florida. People talked in the parade, exchanged addresses for keeping
+in touch, all normal
 among educated workers. And yes, people and elephants held a few
 placards. So what? Is that forbidden now in democratic America?
 
@@ -1943,13 +1944,14 @@ rights and that was that.
 
 It was nobody's fault either but the repressive Louisiana cops that a couple of our own clowns ended up
 in jail, but that was somehow how it all started. Why the clowns were
-sent to jail is not clear, since as I said they had not been on the
+sent to that jail in a neighborhood called Tremé and inhabited by brothers is not clear, since as I said they had not been on the
 parade, I said that, right? They might have been drunk and on the
 wrong side of a police officer, or just too black for the Irish copper
 that apparently arrested them.
 
 So it was not our fault either that Ted, as white as it gets but all
-dressed up and with the blackface makeup on went there in the circus clown car
+dressed up and with the blackface makeup on went, or rather should I
+say paraded dow Claiborne Avenue, up to there in the circus clown car
 followed by the marching band and the elephants and a few acrobats and
 eventually a few thousand locals to demand early release of his
 mates. 
@@ -2002,32 +2004,36 @@ The clown car stopped and Ted "Cracker" Armistead, the chief of the
 clown posse, came out of it. tiptoeing on his apparently too small
 dancing shoes. His blackface mask was 
 starting to melt due to the New Orleans heat and it was becoming a
-pink and gray mess leaking goo on his white gown. He came to the truck
+pink and gray mess leaking goo on his white gown. He came up to the truck
 where Rufus was struggling to 
 get Manuel loose.
 
-"Leave that alone." Cracker said, not very loud, but so clearly that I
+"Leave that thing alone." Cracker said, not very loud, but so clearly that I
 could hear it among the din of the parade and the rest of the
 circus. Rufus shivered, but kept going at the straps.
 
 "Stop the truck!" He yelled this time. The truck shuddered to a
 stop, and Rufus fell back on his bottom. 
 
-"Come down from there. You'll get it back in time for the show. For
-now, let it bask in the glory of the people. He's a hero." Ted said,
-extending his arms in a way that managed to be threatening.
+"I would ask you to let that go and come down from there. You don't
+need to worry, you'll get it back in time for the show. For
+now, let it bask in the glory of the people. He's a hero. Manuel, the
+Manly Mechanical Man!" Ted said,
+extending his arms in a way that managed to be threatening at the same
+time it asked for the applause of everybody surrounding them. 
 
 "But..." Rufus said, while trying to stand up.
 
 "Boy, get it running again!" Ted said to the truck driver. Rufus was
-trying to stand up and fell down again.
+barely crouching and fell down again.
 
-"But... It's dented!" Rufus managed to say.
+"But... It's dented!" Rufus managed to say from the floor.
 
-"Yes. Don't repair it. They are combat wounds, and must be worn with
+"Yes. You don't dare repair it. They are combat wounds, and must be worn with
 pride!" Ted said while walking back to the clown car. 
 
-Rufus crept down from the truck and walked crestfallen back to his
+Rufus didn't dare to try anything after that. He lied there for a
+while and eventually, when he noticed the truck was picking up speed, crept down from the truck and walked crestfallen back to his
 wagon. The rest of the parade proceeded loudly and I continued doing
 my job and wondering if this was a chance or a trap. I would discover
 soon enough.
@@ -2139,7 +2145,7 @@ of clowns, who tried to ride him, climbing on him and falling down,
 legs up, to the general merriment of the circus people. The band
 started to play and highlighted falls with bass drum strokes.
 
-"Can't... can't do that!" Said Rufus, and started to try and follow
+"Can't... I can't do that!" Said Rufus, and started to try and follow
 Manuel, who had now changed to pursuit mode and was trying to catch
 the clowns who were all running in a row in front of it. A game of cat
 and mouse followed, whenever Rufus was approaching Manuel it slowed
@@ -2180,7 +2186,7 @@ Closed for repairs
 
 *write and revise* 
 
-After that day, Rufus was here and there, waiting at the clowns
+After that day, Rufus was to and fro, sometimes waiting at the clown
 quarters for a good while before getting Manuel back, lost for hours
 when he was not in possession of the mech, and looking lost the rest of
 the time. I wasn't feeling very good either. since the clowns didn't

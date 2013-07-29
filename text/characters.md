@@ -23,7 +23,7 @@ kidnappers.
 Theodore "Cracker" Armistead | 1846 | Augusta, Georgia | White | Blackface clown, boss of the clown posse | Son of plantation owner and slaver, fought as a volunteer for the confederate Army, joining the Revolution for being against the USA
 "Clippo" | - | - | - | Auguste clown | Cracker's sidekick, usual butt of his jokes
 Tracy Wilson | 1888 | Miami, Florida | White |  Poser at the jig show | Possum girl that joins the circus.
-Shorty | - | - | - | Circus midget? | Shares cabin with Ful.
+Shorty | - | - | - | Circus midget? | Shares cabin with Full in the boat to New Orleans.
 
 At the hobo jungle
 ------------------------
