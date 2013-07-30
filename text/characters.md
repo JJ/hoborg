@@ -34,6 +34,6 @@ Reuben "Duke of Poo" Poole | 1843 |Richmond, Virginia| Caucasian | Bum with  del
 Gummy Eddy | 1881 |-| Caucasian | Hobo with no teeth
 Captain Cabo |- |- | Hispanic | Hobo that served in the army
 Wireless Jim |- |- | Black | Hobo that invented the radio.
-Hatless Daring Dale |- |- | Black | Revolutionary bum
+Henry Hatless Daring Dale |- |- | Black | Revolutionary bum
 Eyebrowless Eric | - | - | Asian | Hobo mentioned once 
 

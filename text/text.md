@@ -2617,22 +2617,69 @@ I haven't gone so far as to invent a whole story. So I started to make
 it dance, moving one of the wheels at the same time it spun one of the
 arms. The pebbles on the ground made its head bob. Somebody started to
 beat his feet and clap their hands, yes, the first mechanical jig in
-history. Do you want me to show how I did it?
+history. Do you want me to make it dance just the way I did it then?
+Of course you do. 
 
 Forget about it
 ----------------------
 
 Do you remember what I was talking about? Yes, Manuel and something or
-other about it, right? The manager left me alone, although he didn't
-seem amused. He was probably busy or something, but he left me alone
-with the rest of the small crowd that had gathered. Which, when I
-stopped the show, were also on their way to something more interesting
-or their duties, whatever came first.
+other about him, right? The manager left us alone after that, although he didn't
+seem amused when he elbowed his way out of the ring that had organized
+itself. He was probably busy or something, and I was relieved. The
+small crowd that gethered remembered they were required somewhere else
+as soon as I
+stopped the show and were also on their way to something more exciting
+or their duties, whatever came first. So I was left alone with Manuel
+in whallow disguise.
 
 Sometimes the easiest way to hide something is to show it in plain
-sight. But you don't have to push it too far: in a while it was in the
+sight. But you don't have to push it too far: from there I took it to
+my carriage, and in a while it was in the
 possum belly of my carriage, something he did largely by himself by
-catching the beam under the carriage belly and pulling himself up. I
+catching the beam under the carriage belly and pulling himself up. It
+was only the second or third time I was let with Manuel all by muself,
+and I really started to why the thing was so wonderful and was coveted
+by so many people. So flexible, so strong. So obedient. And so
+cute. Why aren't there so many of them? They're the spawn of
+capitalism, you say, Dale? Please, go ahead. I'm listening. It might
+seem as if I'm sleeping, but I'm not, I swear, I love revolutionary
+rhetoric as much as the next man.
+
+Mechanical workers or the gears of capitalist evil
+--------------------------------------------------
+
+Don't you what this spawn of capitalist evil is really like? I, Henry
+Dale, don't call me Hatless, call me Daring Dale, since I dare, and I
+dare for the revolution, which is freedom for all people. Freedom that
+will be taken away from us if this nefarious thing takes over from the
+honest worker.
+
+Can't you see it? Never sleep, never die and if they do they are fixed
+or replaced. Never tire, never do anything that is not required from
+them. How can you not see that? They don't drink, they don't
+dance... well, they dance, OK, they dance, but listen to Henry Dale,
+they dance to the tune of capitalism! No worker will be able to earn
+his wage if all industries, all companies are subdued by these
+tireless robots! They must be destroyed and I've heard enough. Help me
+or I'll do it all by myself!
+
+
+Flying with mechs
+-----------------
+
+Hey, hold that guy! What's with him? Take the torch away from him or
+he'll, well, do not much to Manuel, but maybe make him a bit
+sooty. Anybody? Nobody? Well, since I have the driving box right here,
+what do you want? A cat-and-mouse game or an uppercut? Uppercut it is,
+then. Yay! Sorry, guy, didn't want to hurt you, but you seemed out of
+your mind. Don't run!
+
+Well, he's run so he's going to miss the last part of the story. Where
+was I before the rant? Yes, the perfect worker was under the belly of
+the carriage, where we usually carried clothes and whatnots and the
+ocassional Tracy. 
+I
 covered it with lots of stuff, ropes, cabling, and anything I could
 find there. The platform was sagging due to weight. It probably
 couldn't stand a long trip, but I intended to alight it as soon as I
@@ -2640,8 +2687,8 @@ possibly could.
 
 We were going to the train station as soon as the performance was
 over. Next stop for the circus, DeLand. Next stop for me, freedom and
-financial independence for me. By way of Hobos Depot, where I am right
-now. 
+financial independence. By way of Hobos Jungle, where I am right
+now. But that was not gonna happen. At least not as intended.
 
 *revise and write*
 
