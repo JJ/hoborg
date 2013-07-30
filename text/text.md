@@ -2631,18 +2631,18 @@ Do you remember what I was talking about? Yes, Manuel and something or
 other about him, right? The manager left us alone after that, although he didn't
 seem amused when he elbowed his way out of the ring that had organized
 itself. He was probably busy or something, and I was relieved. The
-small crowd that gethered remembered they were required somewhere else
+small crowd that was milling about there remembered they were required somewhere else
 as soon as I
 stopped the show and were also on their way to something more exciting
 or their duties, whatever came first. So I was left alone with Manuel
-in whallow disguise.
+in shallow disguise.
 
 Sometimes the easiest way to hide something is to show it in plain
 sight. But you don't have to push it too far: from there I took it to
 my carriage, and in a while it was in the
 possum belly of my carriage, something he did largely by himself by
 catching the beam under the carriage belly and pulling himself up. It
-was only the second or third time I was let with Manuel all by muself,
+was only the second or third time I was let with Manuel all by myself,
 and I really started to why the thing was so wonderful and was coveted
 by so many people. So flexible, so strong. So obedient. And so
 cute. Why aren't there so many of them? They're the spawn of
@@ -2682,7 +2682,7 @@ your mind. Don't run!
 Well, he's run so he's going to miss the last part of the story. Where
 was I before the rant? Yes, the perfect worker was under the belly of
 the carriage, where we usually carried clothes and whatnots and the
-ocassional Tracy. 
+occasional Tracy. 
 I
 covered it with lots of stuff, ropes, cabling, and anything I could
 find there. The platform was sagging due to weight. It probably
@@ -2694,7 +2694,11 @@ over. Next stop for the circus, DeLand. Next stop for me, freedom and
 financial independence. By way of Hobos Jungle, where I am right
 now. But that was not gonna happen. At least not as intended.
 
-*revise and write*
+The camp was lifted a while after the last show. Carriages were
+dragged using horses and trucks to the train station, and I struck a
+conversation with Guy Hillcrest, the octoroon, who always knew
+everything and was a good proxy for the trainmaster, who was the one
+that actually organized the trip. 
 
 
 With the hobos around the fire
