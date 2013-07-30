@@ -2696,6 +2696,15 @@ conversation with Guy Hillcrest, the octoroon, who always knew
 everything and was a good proxy for the trainmaster, who was the one
 that actually organized the trip. 
 
+"Take a good pee, Full." They called me Full. Not Fool. *You* are fools. 
+
+"Why? Ain't we stopping after a while?" I asked as if I cared.
+
+"No, not this time. We'll try to make good time to Lake City. Please
+get your stuff together and get ready for the long haul." Not the long
+haul, please, I thought. No way I could make it with everybody around
+when we arrived. No way. I was going back to take a pee by the rail
+tracks. And then I saw you.
 
 With the hobos around the fire
 --------------
