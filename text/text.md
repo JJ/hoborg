@@ -2721,7 +2721,7 @@ ticket in first class to travel as far as it would take.
 These kinds of vehicles are, to tell you the truth, not my favorite
 way of conveyance to my destiny. Razorbacks might be worse than
 brakemen and they can be brutal if they find you in *their*
-train. Plus you can be shangaied and surgically changed to become part
+train. Plus you can be shanghaied and surgically changed to become part
 of the menagerie. Don't protest, I know it from first or maybe no more
 than second or third hand, that happens.
 
@@ -2755,7 +2755,7 @@ sponsors, Ivory Soap, makes your skin smell like something it's never
 done before, back to the Duke who was spotted crouching there, by the
 side, and ready to run and this guy Guy was going to call somebody to
 kick him in an artistic way but then Full, our very dear Half and
-Half, jumped up to the ocassion and there he was, "Let me take care of
+Half, jumped up to the occasion and there he was, "Let me take care of
 him, I'll show him." Or something to that tune, but instead of kicking
 him in the ribs, he took him to his carriage, bought him a drink,
 yessir, a drink for our Duke, and then asked him a question. "You know
