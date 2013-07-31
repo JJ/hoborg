@@ -2698,13 +2698,80 @@ that actually organized the trip.
 
 "Take a good pee, Full." They called me Full. Not Fool. *You* are fools. 
 
-"Why? Ain't we stopping after a while?" I asked as if I cared.
+"Why? Ain't we stopping after a while?" I asked as if I cared. Which I did. 
 
 "No, not this time. We'll try to make good time to Lake City. Please
 get your stuff together and get ready for the long haul." Not the long
 haul, please, I thought. No way I could make it with everybody around
 when we arrived. No way. I was going back to take a pee by the rail
-tracks. And then I saw you.
+tracks. And then I saw you. Yes, you, Duke.
+
+Helping those who help you
+--------------------------
+
+Yes, young man, just that day I had felt the need to be on the road
+again to visit the ducal house and since that was the first train that
+was getting formed in Freedomville, I thought of buying myself a
+ticket in first class to travel as far as it would take. 
+
+These kinds of vehicles are, to tell you the truth, not my favorite
+way of conveyance to my destiny. Razorbacks might be worse than
+brakemen and they can be brutal if they find you in *their*
+train. Plus you can be shangaied and surgically changed to become part
+of the menagerie. Don't protest, I know it from first or maybe no more
+than second or third hand, that happens.
+
+But the ducal house was beckoning and I couldn't find anything else
+that precise night a couple of weeks ago. Jesus! Just a couple of
+weeks and you are like the child I had and was taken away from me by
+these revolutionary bastards! I thank God Hatless has gone away for
+good, I couldn't stand his very sight! That bastard cheap bum! I could
+curse him all the way to Chattanooga and still have some to go. Leech! 
+
+Making a hot box
+----------------
+
+In fact, he will continue cursing this way until dawn if we just give
+him a chance, which will not help us hear the story. Allow me,
+Wireless Jim, to continue with it for the benefit of those of you who
+weren't there. I wasn't either but I got it, you know, from the radio,
+I can hear the radio in my mind and it tells me about things that have
+happened or could happen or will happen in the future. It's talking
+right now, for you, for all, about war, war in Europe, which is not of
+our concern, but could be, you know. 
+
+But, unlike our Duke here, I don't let myself be carried by the
+voices, wireless is here to make company and I'm here to relate what
+happened. After being spotted by that guy named Guy, you dig it, guy
+the Guy, ain't that a crack, and the guy a cracker, that's even
+funnier, I can hear the laughs, this guy spotted Duke or maybe he just
+smelled it as a distance, really, Duke, take a hike to Lemonade
+Springs and dive there, fully clothed, or hear this word from our
+sponsors, Ivory Soap, makes your skin smell like something it's never
+done before, back to the Duke who was spotted crouching there, by the
+side, and ready to run and this guy Guy was going to call somebody to
+kick him in an artistic way but then Full, our very dear Half and
+Half, jumped up to the ocassion and there he was, "Let me take care of
+him, I'll show him." Or something to that tune, but instead of kicking
+him in the ribs, he took him to his carriage, bought him a drink,
+yessir, a drink for our Duke, and then asked him a question. "You know
+trains, do you."
+
+Why did he make that question, you ask? Or better, why did he invite
+and treat our Duke? Out of generosity, since we all know this Half and
+Half of ours is the kind of guy who is always generous to fellow
+citizens with boobs, and that's not the case of our Duke, or rather
+is, man, you're fat, ain't you, there he is, still cursing, it will
+not slim you down even a bit, but there you go, our Half and Half
+wanted to stop the train not to far and Duke, who knows trains as if
+he owned them, that is rich, because he *actually* owned them, and
+you're not laughing, explained him how to create a hot box. Which I'll
+explain in a moment, as soon as this station starts the Popular
+Mechanics program. Right now... it's happening.. now.
+
+*write*
+
+
 
 With the hobos around the fire
 --------------
