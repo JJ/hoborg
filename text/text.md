@@ -1985,7 +1985,7 @@ Yes, I said I was keeping an eye of Manuel, but to keep it from the
 capitalist pigs. I couldn't do anything about the circus people. Even
 if I had known. Yes, sometimes I'm a lousy eyekeeper, but what the
 hell, I can't keep it company for ever! Well, I do know. Where is it,
-by the way? Wireless took it for ride? Aw, c'mon, Wireless, bring it
+by the way? Wireless took it for a ride? Aw, c'mon, Wireless, bring it
 back! You're going to break it!
 
 Who's that mech?
@@ -2745,7 +2745,7 @@ right now, for you, for all, about war, war in Europe, which is not of
 our concern, but could be, you know. 
 
 But, unlike our Duke here, I don't let myself be carried by the
-voices, wireless is here to make company and I'm here to relate what
+voices, wireless is here to keep you company and I'm here to relate what
 happened. After being spotted by that guy named Guy, you dig it, guy
 the Guy, ain't that a crack, and the guy a cracker, that's even
 funnier, I can hear the laughs, this guy spotted Duke or maybe he just
@@ -2761,7 +2761,7 @@ him in the ribs, he took him to his carriage, bought him a drink,
 yessir, a drink for our Duke, and then asked him a question. "You know
 trains, do you."
 
-Why did he make that question, you ask? Or better, why did he invite
+Why did he ask that question, you say? Or better, why did he invite
 and treat our Duke? Out of generosity, since we all know this Half and
 Half of ours is the kind of guy who is always generous to fellow
 citizens with boobs, and that's not the case of our Duke, or rather
@@ -2772,6 +2772,23 @@ he owned them, that is rich, because he *actually* owned them, and
 you're not laughing, explained him how to create a hot box. Which I'll
 explain in a moment, as soon as this station starts the Popular
 Mechanics program. Right now... it's happening.. now.
+
+Well, I'm glad you ask that question, dear Juan from Palatka, because
+having a hot box is not something that should be wished on anybody
+except maybe whatever capitalist pig comes your way. Well, well, a hot
+box happens, when it does, when whatever carries an axle, you know
+what's an axle, right, you should since you seem to be acquainted at
+least with these terms, gets too hot for comfort and maybe for
+continuing being solid. Well, you say here you want to know how can
+that happen, right? I expect that if you want to *actually* do it, my
+dear friend, is only for the greater good of the Republic but anyways
+rest assured your friendly neighborhood Guard has been duly notified,
+ha ha, just joking, we all know you're a good citizen even if your
+real name is not Juan but Jaime, ha ha, actually not joking *at all*
+now. So I'm not telling you how to do that. And that's all from your
+Popular Mechanics program. 
+
+
 
 *write*
 
