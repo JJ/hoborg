@@ -2788,7 +2788,15 @@ real name is not Juan but Jaime, ha ha, actually not joking *at all*
 now. So I'm not telling you how to do that. And that's all from your
 Popular Mechanics program. 
 
-
+But our Duke, yes, our Duke, didn't have any qualms about telling this
+young boy, yes, for a good reason, maybe for a good reason, let's just
+all agree that's it's a good reason, will we? Well, well, so he up and
+told him that it was a matter of taking a few rags out of the box or
+just cleaning up the oil. Easy as peaches, right? And then you have a
+train running in the dark, there goes the train, full of hopes, of
+dreams, of elephants, oh boy the stink of the elephants, and what will
+happen to then when the train derails, oh boy, what will happen to
+them? 
 
 *write*
 
