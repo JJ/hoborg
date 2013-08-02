@@ -15,7 +15,9 @@ Twitter @hoborg_novel](http://twitter.com/hoborg_novel).
 Meet the mechanical man
 ----------------------------------
 
-There he was, gleaming in places, rusty in others. Rolling and
+There he was, gleaming in places, rusty in others, its history written
+in its bumps and patches like the history of a person is written in
+the wrinkles of its face. Rolling and
 whistling and frolicking to the general merriment of the public. 
 And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
@@ -2793,6 +2795,63 @@ train running in the dark, there goes the train, full of hopes, of
 dreams, of elephants, oh boy the stink of the elephants, and what will
 happen to then when the train derails, oh boy, what will happen to
 them? 
+
+We'll tell you. After the break for public service announcements. 
+
+Fast train burning
+------------------
+
+And this is your friend Wireless Jim, talking from the People's Voice,
+or rather My Own Voice, but I am part of the People, so it's People's
+Voice anyways, don't you think so? Yes it is and I remind you we left
+our heroes, Fulgencio and Reuben Poole, also known to his friends and
+foes alike as Duke of Poo, don't take this in a bad way, a Duke is a
+Duke and he know his shit, ha, ha, that's rich, which in this case is
+how to derail a train, something he know so well he might as well have
+done it a couple of times, no offense, here, Duke, we're all fellow
+hobos in the Jungle here, don't care if you did it out of spite after
+they were oh so callously taken away from you, no? Ah, before that,
+for insurance, and it was a coal train, so no death of human being
+involved, only a big payment from the insurance company, which is good
+and well and even revolutionary if you ask me! Three hoorays for our
+friend Reube Poole The Comrade of Poo!
+
+This comrade was rather worried, after a while, a good while, of what
+was going on a few carriages in front of him. He could see the sparks,
+o beautiful sparks, lighting the night, but harbingers of doom and
+derailment and general maiming. And he asked Fulgencio about the
+trainmaster and his whereabouts and whether anybody was checking for
+that kind of things, which is what any sensible person in charge of
+trains should do, but nobody was doing squat and the Duke was fretting
+and Fulgencio was fretting and the little mech was just sleeping under
+the carriage, oblivious of anything happening around him or not, who
+knows what's in the gear and machinery mind of those things. 
+
+It was exactly the opposite which seemed to be in our friend
+Fulgencio's mind, as if there were anywhere else there any time. "Save
+the mech, he though, save him." Not save it, he was "him" already for
+him, what with having saved his life and all, you know, his buddy, his
+friend, a friend he had been paid to retrieve and he was going to give
+back after the second installment, but friends to that for each other
+all the time, mainly if they have no say in it, right? Is that the way
+of the revolution? Well why not? Besides, he wanted to save it and he
+picked up the driving box and, blindly, moved it back and forth from
+under the carriage until he could see his face, and then, deftly
+moving it in the flatbed platform, jumped in the direction of the
+train. Yay it jumped!
+
+What happened then? You all want to know? Did he crash and burn and
+killed an elephant puppy? No he didn't! Did he fall straight on
+another rail and kept running parallel to the train, extending its
+arms and picking the Duke and Fulgencio in his arms with love as if he
+were his tin grandfather? No he didn't! Did he...?
+
+
+Jumping Fulgencio
+-----------------
+
+Will you shut up, Jim? Hell, we could be here the whole night
+listening to your description of a train whistle!
 
 *write*
 
