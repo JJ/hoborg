@@ -17,7 +17,7 @@ Mechanical Man, does not smoke. Putative mother Tarsicia,  real mother,
 not known.
 Manuel the Mechanical Man | 1908 | Mech | Pensacola Naval Yards | Mechanical Marvel | A roving robot
 Rufus "the Mechanical Man man" Reed | 1883 | Black | Pensacola | Mechanical marvel fixer-upper | Blacksmith and then mechanic
-Vince "Chilly" Winters | 1887 | Virginia | black | Roustabout | Fulgencio's buddy in the circus, circus roustabout and all-hands man.
+Vince "Chilly" Winters | 1887 | Virginia | Black | Roustabout | Fulgencio's buddy in the circus, circus roustabout and all-hands man.
 Bill "Red" Rickard |- | Florida | Black Seminole | Circus roustabout | Shows up only fleetingly
 Boris "Just Boris" Bacigalupo | 1858 | Memphis, Tennessee | Black | Circus manager | - 
 Raúl "Puff" Ramírez | 1867 | Bayamo, Cuba | Hispanic | Ringmaster | Cynical ringmaster of the circus, he's been through all and seen it all. Smokes a pipe. 
@@ -36,7 +36,7 @@ Name | Date of Birth | Place of Birth | Race | Other data
 --- |--- |--- |--- | ---
 Reuben "Duke of Poo" Poole | 1843 |Richmond, Virginia| Caucasian | Bum with  delirium of greatness, former railroad owner
 Gummy Eddy | 1881 |-| Caucasian | Hobo with no teeth
-Captain Cabo |- |- | Hispanic | Hobo that served in the American army
+Captain Cabo |- |- | Hispanic | Hobo that served in the American army during the Cuban-American war. 
 Wireless Jim |- |- | Black | Hobo that invented the radio and talks like one
 Henry Hatless Daring Dale |- |- | Black | Revolutionary bum
 Eyebrowless Eric | - | - | Asian | Hobo mentioned once 
