@@ -2850,8 +2850,24 @@ were his tin grandfather? No he didn't! Did he...?
 Jumping Fulgencio
 -----------------
 
-Will you shut up, Jim? Hell, we could be here the whole night
-listening to your description of a train whistle!
+Will you shut the fucking fuck up, Jim? Hell, we could be here the whole night
+listening to your description of a train whistle! Here, have a drink
+on me, and let me continue with the story, our story. Duke, want to
+say something? He's asleep, which is just as well.
+
+No, Gummy, Manuel didn't pluck us from the train and deposit us safely
+in the ground. In fact, he was first and then we jumped a few hundred
+yards from him when the train slowed down to go uphill. And then it
+was a matter of walking down the tracks until we found him lying in
+the bushes. There was much whining and huffing by the part of our
+Duke, whose feet are not made for this kind of things, but other than
+that it was no big deal.
+
+The cool part was when we actually rode the mech back to the
+station. No, not in the actual rails, but the track was wide enough to
+fit us riding piggyback on it. That was way cool. No, we hadn't
+thought what we were going to do if another train came our way. I
+guess jump and fuck the mech to hell. 
 
 *write*
 
@@ -2867,12 +2883,11 @@ steps away from the fire, out of fuel or simply not working. Fulgencio
 just spat at the fire, raising a small flame that made José look alive
 for a brief moment. 
 
-Fulgencio had found this group in a rail yard in Tallahassee when
-descending from a train, trying to be unobtrusive. But there was no
+Fulgencio had found this group in the rail yard in Tallahassee, trying to be unobtrusive. But there was no
 way he could pull that out while 
 being trailed by a two hundred and fifty pound walking cash register,
 and he was immediately hailed by them and asked to join them by the
-fire. Liquor was passed, bread and cheese shared, and histories
+fire  even before they saw the Duke. Liquor was passed, bread and cheese shared, and histories
 and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
