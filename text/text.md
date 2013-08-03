@@ -906,8 +906,8 @@ table to eat. What? No, I haven't been in the army, in no army,
 indeed. How do I know about that? People talk, you know. 
 
 As a matter of fact, somebody told me that in the table where we
-gauchos sat. There was Jay, who had actually fought in the patriotic
-war and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
+gauchos sat. There was Jay, who had actually fought in the Patriotic
+War and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
 that helped with anything that was needed, and Gina, who rode horses.
 Why do you want to know how Bill and Vince were? Just your average
 Bill and Vince, Bill a black Seminole and Vince a black, strong guy from Virginia
@@ -937,10 +937,10 @@ Nobody understands Gummy Fucking Eddie, so I will tell his story for
 him. Yes, I'll be telling you all my story in the army and why I'm a
 Captain and a Corporal at the same time, but be patient and all of you
 will be satisfied. Gummy, if you don't stop doing that right now I'm
-not going to act your puppet now or never. Really.
+not going to act as your puppet now or never. Really.
 
-So he was fighting for freedom in Cuba. He came back like this. OK,
-don't throw a tantrum, I'll start again. 
+What he was saying is that he was fighting for freedom in Cuba. He came back like this. OK,
+don't throw a tantrum, I'll start again and tell the whole story straight. 
 
 It was 1905 or 1906, and Gummy was a jobless musician in Chicago. Then
 everybody and his mother started talking about war this, war that,
@@ -950,11 +950,12 @@ hands, bound for Florida. OK, not me, Gummy, but I'm translating him,
 so I is gonna be Gummy from now on. You get it? Yes, you too,
 Gummy, I'm so very happy you understand this.
 
-In Tampa there was a big camp filled to the hilts with black people
-like me. Most people going to Cuba seemed to be black, at least from
-the sergeants down. Not that we saw anybody with heavier brass than
+In Tampa we were met by a big, open air camp, filled to the hilts with black people
+like me. No surprise here, most people fighting in Cuba seemed to be black, at least from
+the sergeants down, although I couldn't tell, we didn't see anybody with heavier brass than
 that. It was sergeant this, corporal that, sometimes a sergeant mayor,
-and that was that. They barked their orders, clean this, drill that,
+always a cracker,
+and that was that. They barked their orders, clean this, do that drill,
 but mostly it was wait on our butts and roam around. Roaming stopped
 fast enough, because as soon as we set step outside the camp whiteys
 screamed abuse at us and we couldn't do much, no bars, no candy shops,
@@ -2869,6 +2870,11 @@ fit us riding piggyback on it. That was way cool. No, we hadn't
 thought what we were going to do if another train came our way. I
 guess jump and fuck the mech to hell. 
 
+Besides, we didn't ride all the way, the fuel in Manuel, hey, that
+sounds nice, was petering out and we just went to the closest water
+depot and waited for the next train, inbound or outbound, does not
+matter. 
+
 *write*
 
 
@@ -2885,9 +2891,9 @@ for a brief moment.
 
 Fulgencio had found this group in the rail yard in Tallahassee, trying to be unobtrusive. But there was no
 way he could pull that out while 
-being trailed by a two hundred and fifty pound walking cash register,
-and he was immediately hailed by them and asked to join them by the
-fire  even before they saw the Duke. Liquor was passed, bread and cheese shared, and histories
+being trailed by a two hundred and fifty pound walking cash register.
+He was immediately hailed by them and asked to join them by the
+fire even before they saw the Duke. Liquor was passed, bread and cheese shared, and histories
 and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
