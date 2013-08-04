@@ -19,4 +19,4 @@ More than two and a half million people live happily here, under the
 guidance of the Patriotic Council led by Monday Cudjo, an Estelusti
 with a Spanish grandmother whose wiseness arises from his blood that
 mixes all the races of this new Florida: Seminole, Negro and
-Spanihs. Let him guide our people and free us from all threats. 
+Spanish. Let him guide our people and free us from all threats. 
