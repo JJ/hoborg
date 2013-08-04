@@ -15,7 +15,6 @@ liking), or just talking about it.  You can follow its evolution [in
 Twitter @hoborg_novel](http://twitter.com/hoborg_novel). 
 
 
-
 Meet the mechanical man
 ----------------------------------
 
@@ -2860,24 +2859,64 @@ listening to your description of a train whistle! Here, have a drink
 on me, and let me continue with the story, our story. Duke, want to
 say something? He's asleep, which is just as well.
 
-No, Gummy, Manuel didn't pluck us from the train and deposit us safely
-in the ground. In fact, he was first and then we jumped a few hundred
+No, Gummy, Manuel didn't pluck us from the train with its strong arms and deposit us safely
+in the ground. In fact, he was first to go and then we jumped a few hundred
 yards from him when the train slowed down to go uphill. And then it
 was a matter of walking down the tracks until we found him lying in
 the bushes. There was much whining and huffing by the part of our
 Duke, whose feet are not made for this kind of things, but other than
 that it was no big deal.
 
-The cool part was when we actually rode the mech back to the
-station. No, not in the actual rails, but the track was wide enough to
-fit us riding piggyback on it. That was way cool. No, we hadn't
-thought what we were going to do if another train came our way. I
-guess jump and fuck the mech to hell. 
+No, we didn't turn back to say goodbye to all that. Goodbye to Tracy,
+to sawdust and elephant dung and to waking up and not knowing where
+you were or, what's more important, where the reason you were there
+was at that particular moment. From that moment until now and from now
+until delivery, Manuel will be close to me and that will be that. 
 
-Besides, we didn't ride all the way, the fuel in Manuel, hey, that
+The train didn't say goodbye to us, either. If they didn't crash, I
+doubt they would notice me missing. Or the mech, for that matter,
+since whoever cared to thing about it would think it was in the Navy
+station at Pensacola. Maybe, some time from now, somebody will find a
+Manuel poster among others and will wonder where the hell it will be
+and why it's not returned. 
+
+Rufus, that's another story. Their deal with the bohunks must have
+gone sour. But it's not as if he can go back to the circus and say,
+"Hey, did I happen to leave a mech lying around somewhere? I need it
+for, you know, the naval station thing" because by that time somebody
+must have called the naval station and the guards must be on him. If I
+pity him, you ask, Gummy? Well, if I stop to think about it, yes,
+well, a bit. But, you know, it's a tough ride. At least I did it when
+he was away from the clowns. 
+
+Tracy... well, she's a piece of work, she'll manage pretty well
+without me or, for that matter, without anybody else. Mark my words,
+she'll get far, is what I say.
+
+All that left with the train. Except Rufus, who was somewhere
+else. And we had to get somewhere from Nowhere depot, where we had
+fallen. And all we had was a little money in the kick, a veteran hobo
+and a perfectly serviceable mech that was, in fact, a bit the worse
+for wear. 
+
+The cool part was when we actually rode the mech. No, not in the
+actual rails, but the track was wide enough to ride inside. And the
+mech was strong enouth to 
+fit us riding piggyback on it. Well, one of us piggyback, that was me,
+and the other standing somewhere and hanging on to his arms. That was
+way cool. No, we hadn't 
+thought what we were going to do if another train came our way. I
+guess jump and fuck the mech to hell. But it just didn't happen. 
+
+Besides, we didn't ride all the way back to the station, the fuel in Manuel, hey, that
 sounds nice, was petering out and we just went to the closest water
-depot and waited for the next train, inbound or outbound, does not
-matter. 
+depot and waited for the next train, inbound or outbound, did not
+matter. And eventually we arrived here.
+
+End of the story. Applause, applause. Tomorrow I'm taking the weekly
+coal train to, well, does not matter, away from here and we might not
+see each other again. So let's drink and dance and be merry. Yes,
+Manuel will dance too.
 
 *write*
 
