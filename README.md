@@ -63,7 +63,7 @@ to follow you in Twitter.
 Start reading and participating
 ---------------------------------------
 
-Just go to [the novel](text/text.md). You can also [read about the characters](text/characters.md), although doing so might result in spoilerage. 
+Just go to [the novel](text/text.md). You can also [read about the characters](text/characters.md), although doing so might result in spoilerage, or about the [geography of the Republic of Florida](text/geography.md).
 
 How this can help
 -----------------------
@@ -78,7 +78,9 @@ the novel text itself as well as scraps we might need for
 later. [resources](resources/README.md) contains HTML templates,
 images and other non-text stuff. [apps](apps/README.md) includes
 conversion scripts and other mainly Perl scripts I use for managing
-this. 
+this. [Text-Hoborg](Text-Hoborg/README) contains a Perl module that is
+used for testing and continuous integration and might eventually
+contain the novel itself and be released that way. 
 
 Get in touch
 ---------------

@@ -2897,7 +2897,7 @@ for wear.
 
 The cool part was when we actually rode the mech. No, not in the
 actual rails, but the track was wide enough to ride inside. And the
-mech was strong enouth to 
+mech was strong enough to 
 fit us riding piggyback on it. Well, one of us piggyback, that was me,
 and the other standing somewhere and hanging on to his arms. That was
 way cool. No, we hadn't 
@@ -2914,8 +2914,7 @@ coal train to, well, does not matter, away from here and we might not
 see each other again. So let's drink and dance and be merry. Yes,
 Manuel will dance too.
 
-*write*
-
+*revise*
 
 
 With the hobos around the fire

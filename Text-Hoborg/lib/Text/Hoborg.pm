@@ -7,7 +7,7 @@ use File::Slurp 'read_file';
 
 use version; our $VERSION = qv('0.0.4');
 
-our @appendices = qw(characters.md); #auxiliary and additional files
+our @appendices = qw(characters.md geography.md); #auxiliary and additional files
 
 # Module implementation here
 sub new {
