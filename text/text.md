@@ -2218,7 +2218,7 @@ here and there could not mend.
 "Where again is it going?" I asked Rufus. He looked to his right and
 answered. 
 
-"Well, he can only be fixed in the Estación Naval at Pensacola,
+"Well, he can only be fixed at the Estación Naval at Pensacola,
 that's the only place where..." He was shuffling his feet and looking
 as if he wanted to be somewhere else. 
 
@@ -2229,14 +2229,14 @@ so maybe I can help you with..." I said, groping for a way to keep it close.
 that activates head movement so... Besides, the Torres Quevedo engine
 has to be revised and reprogrammed... and while we are at it we'll
 repaint, grease, change a thing here and there..." Maybe he didn't say
-that, but it sounded like that. 
+those words, but it sounded like that or something that sounded as queer. 
 
 "How long will that take?" I asked. Maybe not too long. I could stand
 that.
 
-"Who knows. It will be on the queue along with other military mechs,
-and I have to undergo retraining and... " He said this while he was
-leaving. So no joy here. But I couldn't allow that to happen. It
+"Who knows. It will be on the workshop queue along with other military mechs,
+and while it is refurbished I have to undergo retraining and... " He said this while he was
+leaving. So no joy here. But still I couldn't allow that to happen. It
 couldn't go anywhere, not for long, maybe for ever. I had to look
 for a way of keeping him in so that I could get it out. I went to
 Boris.
@@ -2728,8 +2728,8 @@ of the menagerie. Don't protest, I know it from first or maybe no more
 than second or third hand, that happens.
 
 But the ducal house was beckoning and I couldn't find anything else
-that precise night a couple of weeks ago. Jesus! Just a couple of
-weeks and you are like the child I had and was taken away from me by
+that precise night a couple of days ago. Jesus! Just a few
+days and you are like the child I had and was taken away from me by
 these revolutionary bastards! I thank God Hatless has gone away for
 good, I couldn't stand his very sight! That bastard cheap bum! I could
 curse him all the way to Chattanooga and still have some to go. Leech! 
@@ -2993,9 +2993,22 @@ behind. She remained that way until they entered a warehouse in the
 outskirts of town. The door was half open, and when the driver came
 down from the cabin he realized it was the same person that had
 debriefed him in the Pinkerton Albuquerque office, a big black guy
-that went by the name of Cyrus. 
+that went by the name of Cyrus. That was the one he expected so he
+directed all his attention to Tracy.
 
-*write*
+"How come? I mean, how come? Are you...?" Tracy was cleaning her face
+and didn't even make an attempt to greet him in anyway. She seemed
+about to leave to an office at the end of the warehouse, which was
+filled with machinery of different kinds, some covered with tarps. 
+
+"Same as you, Frank." He was a bit startled to listen to his real name
+spoken by her, whom he had met in very different circumstances. "A
+Pinkerton agent on a mission."
+
+"And a successful mission, Frank. Congratulations!" Cyrus interjected,
+shaking his hand with both hands. 
+
+*revise*
 
 
 Table of contents
