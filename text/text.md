@@ -2944,7 +2944,7 @@ Now it was time to leave this jungle and deliver. Enough time had passed for any
 pursuer to quiet down and in a few hours he would be contacting the
 Pinkerton office in Tallahassee. They would be taking care of him and
 the mech and he would get a few months of rest in his home base in
-Alburquerque. 
+Albuquerque. 
 
 He loaded Manuel in a buggy, secured it with ropes and covered it with
 burlap and blankets he'd gathered these days in the jungle. It was
@@ -2953,13 +2953,13 @@ downtown.
 
 He left the switchyard to a convenient opening the hobos had shown him
 and started to drag the buggy towards the city. Nobody noticed him and
-nobody paid attention to him, he could be any colective farm  or
+nobody paid attention to him, he could be any collective farm  or
 factory worker doing an errand in the middle of the day. He passed
 armed guards, party officials in uniform, American refugees begging,
 being this town close to the border, it would not take long before
 they were picked up by guards and forcefully assigned some job
 somewhere. Quite a few cars surrounded by smoke plied the streets, but
-there were even more bycicles. 
+there were even more bicycles. 
 
 From Railroad avenue he made a right in Neamathla street, where he
 noticed some armed mechs guarding the doors of the official buildings there. They had that tarnished
@@ -2975,6 +2975,23 @@ so far away, at All Races and Boulevard St. a couple of blocks away,
 but he was seeing a few more mech guards and he doubted he could make
 it.
 
+And then a white truck, dirty with mud, stopped by him. On its bed a
+woman dressed in overalls and a straw hat stood up and jumped to land
+by him. She was muddy and dirty and smelled of cow dung, but it was
+Tracy. 
+
+"Need a ride?" She said without blinking and a nod to the closest
+mechanic guards.
+
+"Hell, yes!" They slid down the truck bed a couple of boards to be
+used as ramp and dragged the buggy up it to a rest in the truck
+bed. They secured it there with a few more ropes and chains. 
+
+He opened his mouth to question Tracy, but she just sat down and
+looked pointedly at some Guards that were approaching them from
+behind. 
+
+*write*
 
 
 Table of contents
