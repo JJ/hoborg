@@ -2943,8 +2943,39 @@ hobos do when gathered around the fire.
 Now it was time to leave this jungle and deliver. Enough time had passed for any
 pursuer to quiet down and in a few hours he would be contacting the
 Pinkerton office in Tallahassee. They would be taking care of him and
-the mech and he would gest a few months of rest in his home base in
+the mech and he would get a few months of rest in his home base in
 Alburquerque. 
+
+He loaded Manuel in a buggy, secured it with ropes and covered it with
+burlap and blankets he'd gathered these days in the jungle. It was
+heavy, tiring work but the best way to go unnoticed when he walked to
+downtown.
+
+He left the switchyard to a convenient opening the hobos had shown him
+and started to drag the buggy towards the city. Nobody noticed him and
+nobody paid attention to him, he could be any colective farm  or
+factory worker doing an errand in the middle of the day. He passed
+armed guards, party officials in uniform, American refugees begging,
+being this town close to the border, it would not take long before
+they were picked up by guards and forcefully assigned some job
+somewhere. Quite a few cars surrounded by smoke plied the streets, but
+there were even more bycicles. 
+
+From Railroad avenue he made a right in Neamathla street, where he
+noticed some armed mechs guarding the doors of the official buildings there. They had that tarnished
+look, and the legs, Manuel had had at the beginning of its life, but
+their arms ended in blunt guns and sharp bayonets. When he went past
+them, Manuel started to shake and move towards them with its wheels,
+all by itself. It was well tied and it didn't manage to get himself
+loose, but if he kept trying for a while he would probably manage to
+do it. And the mechs were starting to turn their heads in their
+direction. That wasn't good. He started to hurry, but there was not
+much he could do with so many pounds in drag. Pinkerton office was not
+so far away, at All Races and Boulevard St. a couple of blocks away,
+but he was seeing a few more mech guards and he doubted he could make
+it.
+
+
 
 Table of contents
 ----------------------
