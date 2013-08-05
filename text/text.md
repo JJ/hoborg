@@ -2985,7 +2985,11 @@ bed. They secured it there with a few more ropes and chains.
 
 He opened his mouth to question Tracy, but she just sat down and
 looked pointedly at some Guards that were approaching them from
-behind. 
+behind. She remained that way until they entered a warehouse in the
+outskirts of town. The door was half open, and when the driver came
+down from the cabin he realized it was the same person that had
+debriefed him in the Pinkerton Albuquerque office, a big black guy
+that went by the name of Cyrus. 
 
 *write*
 
