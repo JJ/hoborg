@@ -2936,6 +2936,12 @@ and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
 
+Now it was time to leave this jungle and deliver. Enough time had passed for any
+pursuer to quiet down and in a few hours he would be contacting the
+Pinkerton office in Tallahassee. They would be taking care of him and
+the mech and he would gest a few months of rest in his home base in
+Alburquerque. 
+
 Table of contents
 ----------------------
 
