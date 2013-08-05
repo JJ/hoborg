@@ -41,3 +41,16 @@ Wireless Jim |- |- | Black | Hobo that invented the radio and talks like one
 Henry Hatless Daring Dale |- |- | Black | Revolutionary bum
 Eyebrowless Eric | - | - | Asian | Hobo mentioned once 
 
+At Pinkerton
+------------
+
+Name | Office | Race | Other data
+--- |--- |--- |---
+Cyrus | Albuquerque and then Tallahassee | Black | Mission officer for the mech retrieval. 
+
+At the Florida Government
+-------------------------
+
+Name | Position | Race | Other data
+--- |--- |--- |---
+ Monday Cudjo | Patriotic Council Chairman | Mixed, black, Muskogee, Hispanic | Not mentioned in this book, only in [the geography appendix](geography). 
