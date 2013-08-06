@@ -5,6 +5,8 @@ layout: index
 Hoborg characters
 ===========
 
+If you don't want to spoil the end, don't continue reading. 
+
 At the circus
 ----------------
 
@@ -47,6 +49,8 @@ At Pinkerton
 Name | Office | Race | Other data
 --- |--- |--- |---
 Cyrus | Albuquerque and then Tallahassee | Black | Mission officer for the mech retrieval. 
+Gary |  Albuquerque and then Tallahassee | Hispanic |  Mission officer for the mech retrieval.
+Claire | St. Louis and then Tallahassee | White | Undercover operative 
 
 At the Florida Government
 -------------------------
