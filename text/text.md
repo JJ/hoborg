@@ -3006,7 +3006,69 @@ spoken by her, whom he had met in very different circumstances. "A
 Pinkerton agent on a mission."
 
 "And a successful mission, Frank. Congratulations!" Cyrus interjected,
-shaking his hand with both hands. 
+shaking his hand with both his. A couple of persons were descending
+from the office, one of them shouting.
+
+"Here's my man!" He hugged Fulgencio, or Frank, and patted him in the
+back. "I knew you would make it." 
+
+"Did you?" Frank pushed him away. "Yes, you did, did you? So you sent
+Tracy..." 
+
+"Claire. In fact, her name is Claire and she comes from our office in
+St. Louis."
+
+"Thanks, Gary, many thanks, I was doing pretty well without her,
+thank you, and in fact, I put my ass on the line for her several
+times..." 
+
+"Yes, Frank, you acted as a team, that's all we ask from Pinkerton
+agents. Even if you don't know you're in the same side. Rest assured,
+Frank, we all acknowledge your contribution to the cause an' all..."
+
+"If you had told I had a team we could..."
+
+"Yes, of course, it would have added a kink more to your lovemaking,
+wouldn't it? Fucking a Pinkerton agent and all... Not to mention it
+would have made you an asset being able to spill the beans on your two
+team members?"
+
+"Two? Was there another one besides Tracy, I mean, Claire?"
+
+"Did I say two?" Said Gary, acting surprised. "Silly me, I meant one,
+our beautiful and loyal Claire, as good as two."
+
+He'd lost sight of the white muddy truck with Manuel on it. 
+
+"What now?" Said Frank.
+
+"In a couple of days you're taking the airship to Albuquerque, take
+one week, or two, and report to the office there." 
+
+"I knew that, man. I meant what happens to Manuel." 
+
+Gary smiled broadly.
+
+"I don't think you should be concerned with that. You mission is over,
+and we are all very grateful for it. But I can tell you that he's been
+taken to one such Doctor Tesla for examinations. And then, who knows."
+
+"This Doc. Will he break it up? It's working perfectly, you know."
+Frank Said.
+
+"Of course it is, my good boy, of course it is. What it's not is your
+concern right now. Take a rest now, write your reports when you're
+done, and then go back home." Said Gary, giving him the back and
+returning to the office. He motioned the man who had come with
+him. "Clark, show him around and keep him comfortable, cuddle him if
+he asks to. He's a hero of the democracy and the American dream, you
+know."
+
+"And who isn't?" Answered Clark. "C'mon, boy, it's over now, let's
+go."
+
+"Yes, over and out. All over and all out." Answered Frank, and he
+accompanied Clark without saying another word.
 
 *revise*
 
