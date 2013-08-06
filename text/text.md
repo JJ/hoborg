@@ -1969,7 +1969,7 @@ crack windows and put stuff behind them to prepare for the siege.
 
 But the action didn't take long to start. The clowns, to the blaring music of the
 marching band and much dancing from locals and circus people alike,
-unloaded the mech which Ted had comandeered. Then the clowns went around
+unloaded the mech which Ted had commandeered. Then the clowns went around
 the mech singing "Police home is coming down, coming down" while the
 coppers where kept at bay by distractions and the occasional shot to
 make them hunker down. Which they did, mostly, until a slightly bent forward
