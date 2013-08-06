@@ -2,8 +2,8 @@
 layout: index
 ---
 
-Hoborg: A novel. Book One
-================
+Manuel, the Marvelous Mechanical Man: A novel. Book One
+=======================================================
 
 Prologue
 -----------
