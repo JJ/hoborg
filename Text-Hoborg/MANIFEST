@@ -1,9 +1,12 @@
 Changes
 lib/Text/Hoborg.pm
+lib/Text/Hoborg/Manuel.pod
 Makefile.PL
 MANIFEST			This list of files
 README
 t/00.load.t
-t/perlcritic.t
-t/pod-coverage.t
-t/pod.t
+t/01.readability.t
+t/words.dic
+t/characters.md
+t/geography.md
+t/text.md

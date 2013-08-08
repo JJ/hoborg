@@ -12,12 +12,18 @@ our @appendices = qw(characters.md geography.md); #auxiliary and additional file
 # Module implementation here
 sub new {
   my $class = shift;
-  my $dir = shift || "../../../text";
+  my $dir = shift;
+  if ( ! $dir ) {
+      $dir = -d "../text" ? "../text": "../../text";
+      $dir = -d $dir ? $dir : "t";
+  }
   my $text_file = "$dir/text.md";
   my $text = read_file($text_file);
-  my $self = { _text => $text,
-	       _text_file => $text_file,
-	       _appendices => {} 
+  my $self = { 
+      _dir => $dir,
+      _text => $text,
+      _text_file => $text_file,
+      _appendices => {} 
   };
   for my $a (@appendices ) {
       $text_file = "$dir/$a";
@@ -26,6 +32,11 @@ sub new {
   }
   bless  $self, $class;
   return $self;
+}
+
+sub dir {
+    my $self = shift;
+    return $self->{'_dir'};
 }
 
 sub text {

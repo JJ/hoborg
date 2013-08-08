@@ -1,4 +1,4 @@
-use lib qw( ../lib );
+use lib qw( ../lib ); # -*- cperl -*- 
 
 use strict;
 use warnings; 
@@ -12,9 +12,7 @@ diag( "Testing Text::Hoborg $Text::Hoborg::VERSION" );
 # You can use relative or absolute paths.
 my $text = new Lingua::EN::Fathom;
 
-my $dir = -d "../text" ? "../text": "../../text";
-
-my $hoborg = new Text::Hoborg $dir;
+my $hoborg = new Text::Hoborg;
 $text->analyse_file($hoborg->text_file);
 my $fog = $text->fog;
 my $kincaid = $text->kincaid;

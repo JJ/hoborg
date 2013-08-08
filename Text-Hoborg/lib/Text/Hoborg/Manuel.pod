@@ -1,24 +1,23 @@
-Manuel, the Magnificent Mechanical Man: A novel. Book One
-=======================================================
 
-Prologue
------------
+=head1 Manuel, the Magnificent Mechanical Man: A novel. Book One
 
-This novel is released under a free license. Please check [its web for
-details](http://github.com/JJ/hoborg). You can help by proof-reading,
+
+=head2 Prologue
+
+This novel is released under a free license. Please check L<its web for
+details|http://github.com/JJ/hoborg>. You can help by proof-reading,
 forking (that is, creating your very own copy and changing it to your
-liking), or just talking about it.  You can follow its evolution [in
-Twitter @hoborg_novel](http://twitter.com/hoborg_novel). 
+liking), or just talking about it.  You can follow its evolution L<in
+Twitter @hoborg_novel|http://twitter.com/hoborg_novel>. 
 
 
-Meet the mechanical man
-----------------------------------
+=head2 Meet the mechanical man
 
 There he was, gleaming in places, rusty in others, its history written
 in its bumps and patches like the history of a person is written in
 the wrinkles of its face. Rolling and
 whistling and frolicking to the general merriment of the public. 
-And I'm using *he* liberally here, since I'm talking about a
+And I'm using I<he> liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
@@ -58,10 +57,9 @@ But OK, OK, don't complain, I see that I am jumping over myself. Let me
 tell you how it all started. 
 
 
-A walk in the sun.
--------------------------------------------
+=head2 A walk in the sun.
 
-*revise* 
+I<revise> 
 
 So this is what you hobos do, right? Sit around the fire in this rail
 yard... Jungle? How come you call this a jungle? It's a rail
@@ -93,12 +91,14 @@ citizen, ain't I?
 
 So. It was early winter, but the weather was still sunny and mild. I was walking
 in the docks, as I was wont to do. The air was clear and I could see ships
-docking and leaving,  
+docking and leaving,
+
 ships from all our sister nations of the world, Spain, Cuba, Colombia,
 Puerto Rico, but also from not-so-friendly places 
 who decided the buck needn't stop here and had resumed trade as soon as the
 smoke from the Freedom War settled down and become the smoke of the
-smokestacks built during the Planazo, formerly unfriendly places like  
+smokestacks built during the Planazo, formerly unfriendly places like
+
 the imperialist United Kingdom, the Austrohungarian Empire, those bohunks... The
 air swarmed also with the airships about to dock or leave from the
 airship port, the Spanish clover-fronted ones, the elegant Cubans,
@@ -134,13 +134,14 @@ nines and sweating as if they were going to melt right there and then. Sticking 
 sore thumb, if you ask me, no way to walk in this place crying "Mug
 me." Adding insult to injury they were also  yelling "I'm a capitalist
 pig." But I was minding my own business, which was for the time being not related to those
-guys, but could be.  
+guys, but could be.
+
 
 No, Gummy, they were quiet, not even talking to each other. But they
 had their eyes set on me and their walk was taking them towards me.
 
-Who wants a mechanical man?
----------------------------------------------
+
+=head2 Who wants a mechanical man?
 
 What did they look like, you say? Well, they had a pretty normal face and hair and cloth-colored cloth; they were nondescript
 besides what I have already said. Although they 
@@ -175,7 +176,7 @@ two nondescript persons make an offer, or one does while the other has
 an slightly threatening posture, you listen to them. One's got to earn
 a living, and I was just thinking about doing the same the Republic
 did with those imperialistic airships. No harm done if no harm is
-done, right? Well, you know now that some harm would be *eventually*
+done, right? Well, you know now that some harm would be I<eventually>
 done. But I didn't know back then. 
 
 Besides, their words and general demeanor told me that a good living it might be, too. Ten thousand pesos on the spot,
@@ -185,7 +186,8 @@ store. They liked shiny, rolling things. Those were a few of the
 reasons they offered for  wanting the mech, which they called Manuel
 the Mechanical Man. Which they told me was, metaphorically speaking, 
 I know, Duke, you like when I speak metaphorically, kicking dust in a
-circus.  
+circus.
+
 
 Before that sunny day in the Mobile docks, I had never heard of the
 thing.  What was my business before that day, do you want to know? Dock hand, I
@@ -202,15 +204,17 @@ anything like that.
 
 Which is why the speaking non-descript man described it for me,
 just in case I got it wrong and got them a kicking watering can or the
-tin man from the Wizard of Oz.  
+tin man from the Wizard of Oz.
+
 
 "This gimmick Manuel you've got to get us  is like a a rolling
-teakettle with ears," he told me.  
+teakettle with ears," he told me.
 
-A rolling teakettle with ears
-------------------------------------
 
-*revise and write*
+
+=head2 A rolling teakettle with ears
+
+I<revise and write>
 
 Think about the Tin Woodsman. Did you all read it? You didn't? Too old
 for it, Duke? Nobody did? Doesn't matter, because this Manuel was
@@ -262,10 +266,10 @@ could be so delicate as to grasp a pigeon egg without breaking
 it. Great machine, I tell you. 
 
 Yes, let's make it dance for a while, let me just get my driving box. 
-Eyes. Did I say anything about the whole fucking *face*? No proper
+Eyes. Did I say anything about the whole fucking I<face>? No proper
 face to speak of, really, but as soon as there's something on top of
 the body, not that it's a proper body either, but you get my
-drift... so if that upside down bucket is a *head*, the grilled gap on the bottom, that
+drift... so if that upside down bucket is a I<head>, the grilled gap on the bottom, that
 would be a mouth, right? On top of that a strut could be the nose, and
 two holes covered with glass the eyes. Some dummy painted two lines on
 top of that that could go for eyebrows, and then there were two holes on the side
@@ -279,7 +283,7 @@ When it walked, or rather rolled, there was smoke coming out of its
 neck. Some dummy put it initially in the ass, but it made the eyes of
 whoever was driving it sting, so somebody else rigged it to have the
 exhaust as hight as possible. Not in the head, it wouldn't look
-healthy, people would be all "Your dummy is *burning*!."
+healthy, people would be all "Your dummy is I<burning>!."
 
 Anyway, the noise. It could honk, did I tell ya? Yes, he can do stuff
 all of its own when he wants. When there's something in front, I don't
@@ -297,15 +301,16 @@ don't have that much to go. Yes, it runs on petrol, like any other
 machine. And electricity. And spit. And  that's what the two average guys  told me. Well, not all of that, I
 added a little bit on my own, and you can see the rest. Including the
 back.
- 
+
 And enough with the talking. Tomorrow, or the day after that, I'll
-tell you how I became a  
+tell you how I became a
+
 circus roustabout.
 
-Here's a bit of money to get you started
-----------------------------------------------------
 
-*revise and rewrite* 
+=head2 Here's a bit of money to get you started
+
+I<revise and rewrite> 
 
 That's what they told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
 that, it didn't stay in a single place, but kept moving all over the
@@ -332,8 +337,8 @@ Whatever, that's not going to be today. No, tonight I'm not gonna tell
 you about my joining the circus either.  Which, by the way, at that precise
 moment I didn't really think it was going to be necessary.
 
-Duke of Poo tells his story
---------------------------------
+
+=head2 Duke of Poo tells his story
 
 Ladies and gentlemen, or just gentlemen, nobody of the fair sex today
 in our distinguished company,  our dear Fulgencio seems to be a bit under the
@@ -356,7 +361,7 @@ confederate state, I was conscripted! I never had any slaves! We
 nobility abhor slavery! I've
 told you! 
 
-Thanks, Captain, we *former* soldiers have to respect and care for
+Thanks, Captain, we I<former> soldiers have to respect and care for
 each other. I'll go ahead with it. So I when I left my ducal home in
 Georgia, all smartly dressed in gray to which I added a foulard which
 really suited the rest, I went to the railway station and instead of
@@ -379,8 +384,8 @@ state of the Union all was taken from me, all the train lines I had
 painstakingly gathered were, overnight, property of the people of
 Florida.  I lost fuck-all.  It was robbed by these damn fanatics!
 
-Down and out and with ten thousand pesos in Mobile and Panama City.
----------------------------------------------------------------------
+
+=head2 Down and out and with ten thousand pesos in Mobile and Panama City.
 
 In the name of the people, Duke, just stop crying like a
 sissy. Somebody buy him more to drink or take him to sleep or
@@ -389,7 +394,8 @@ goes...
 
 The circus with the mech seemed to be not too far, somewhere in West Florida. There
 I went. This was going to be easy as peaches. Go there, get in, grab
-it, get out. Except it was not.  
+it, get out. Except it was not.
+
 
 The ten thou I had when I arrived at Panama City, where the circus
 happened to be a few days later, weren't even enough to have bought a
@@ -485,8 +491,8 @@ explains what happened next, when I got out, intending to walk around
 the tent and loiter there waiting for the sideshow to close and see where everything
 went. 
 
-Hey, are you interested in the mechanical man?
---------------------------------------------------------------
+
+=head2 Hey, are you interested in the mechanical man?
 
 "I sure am" I answered the besuited man that was calling me from
 behind a carriage corner.   You'd be well advised if you walk off calls
@@ -521,8 +527,8 @@ Enough with that. I know better now. But maybe you can learn from me,
 yes, a young man like me. Stop laughing! Stop rolling on the floor! Aw,
 go to hell. 
 
-The day they took the railway from me
----------------------------------------------------
+
+=head2 The day they took the railway from me
 
 I'm alright now. Liquor and spirits soothe my soul, because I have a
 soul and I don't give a rat's ass if you  are going
@@ -587,11 +593,11 @@ homeless, so when I left the office the last day and assigned a depot
 in the middle of nowhere, I took a train and called it home. And you
 are my family. 
 
-Buying elephants from a circus
-----------------------------------------
+
+=head2 Buying elephants from a circus
 
 I have never been in the army. Did you hear me saying I was a soldier? No way, Captain,
-I would have said that if I *had* been in the army, which I
+I would have said that if I I<had> been in the army, which I
 wasn't. The point is, in the army the mates, or so I've heard, try to
 con you into cleaning their boots, out of your food sent from home,
 whatever. So you learn the looks of somebody who is turning a
@@ -650,8 +656,9 @@ behind my ears of circus ways and humbugs, wasn't.
 yelled, but not louder than the noise we had already made. 
 
 "Afraid not, it could damage the mechanical man, my friend has said,"
-he answered, coyly.  
- 
+he answered, coyly.
+
+
 "Damage it? How come? It does its act  in broad daylight," I told him.
 
 "Yes, but it's now being kept off anything bright to be repaired
@@ -690,10 +697,10 @@ So I was out of that circus pretty fast. Same speed I was left without a
 plan and two hundred pesos short. Yes, Gummy, there's always a lesson to be
 learned and you often learn them the hard way. But learn I did. 
 
-*revise* 
+I<revise> 
 
-It's a plan
--------------
+
+=head2 It's a plan
 
 "So you're saying the circus is like an office?" I asked the old clown
 who had the strange ability of laughing and crying at the same time,
@@ -752,8 +759,8 @@ they the new ones look mean..." But I was only half-listening by now. I had a pl
 
 "Funny thing is, that new clown was also white," he continued saying.
 
-I married a bearded woman
-------------------------------------
+
+=head2 I married a bearded woman
 
 Not quite. Although seducing one of them would be a way of marrying
 into the circus, I was not amused by that prospect. So I have two words
@@ -788,7 +795,8 @@ Moral Popular Exhibition Featuring Karl the Elephant and the Mysterious
 Mechanical Man. Took less for him to take the bribe than to write the
 name of the job where I wanted to be transferred. Took him a bit
 more to endow the paper with all kinds of stamps and produce a good amount of copies and leave a huge
-paper trail all the way to Tampa.  
+paper trail all the way to Tampa.
+
 A second bribe
 would be needed for the archivist, but that was all. Yes, capitalista
 ways in the people's republic and all that. I didn't like it as a citizen, but I
@@ -822,8 +830,8 @@ mechanical reason.
 I realized Boris had stopped talking; shortly he came back from his office at the end of the
 carriage. And he did not seem happy. 
 
-School years
-------------------
+
+=head2 School years
 
 No, that's Fulgencio Ribera, with a b. I don't know any Rivera with a
 vee from
@@ -835,8 +843,8 @@ Candy Mountain by the Lemonade Springs.
 
 Just go to hell. I'm off to sleep. 
 
-You don't look like a circus person
----------------------------------------------
+
+=head2 You don't look like a circus person
 
 "Sorry, boy. This does not check out." The circus manager said, handing the papers
 back to me. The clerks nodded and continued their rustling and radio
@@ -872,8 +880,8 @@ true, Duke?
 So that's how and why I entered the circus. Until my cover was blown
 or I was off with my prize, whatever happened first. 
 
-Circus hand. And foot
-----------------------------
+
+=head2 Circus hand. And foot
 
 Do you think it would be easy to steal an elephant from a circus? They
 are big, they are heavy, they can trample you or slug you a good one
@@ -896,7 +904,7 @@ weeks.
 those days, sometimes from closed lips, sometimes accompanied by a
 sideways spit. That's how they call the people that is not born into
 the circus, people sent from the circus commission specially, which
-they call *red* gauchos. That's why I did not have other way out that
+they call I<red> gauchos. That's why I did not have other way out that
 stick with them when sticking needed to be done. 
 
 That was usually at lunchtime or when any food was served. As was done
@@ -929,8 +937,8 @@ Did he score? Why are you interested? Hey, stop touching yourself,
 Gummy you
 old pervert! I'm out of here!
 
-Gummy Eddie tells his story. Actually, no, Captain Corporal tells Gummy Eddie's story
------------------------------------------
+
+=head2 Gummy Eddie tells his story. Actually, no, Captain Corporal tells Gummy Eddie's story
 
 Nobody understands Gummy Fucking Eddie, so I will tell his story for
 him. Yes, I'll be telling you all my story in the army and why I'm a
@@ -1003,8 +1011,7 @@ right? We don't have to keep blabbing this way... no, that's not
 Gummy, that's just me. Why do you want to know, Hatless?
 
 
-There's a lot of vice in Miami
---------------------------------------
+=head2 There's a lot of vice in Miami
 
 "We usually play to a full house here," Vince told me while we were
 on the road to post papers to announce the circus around town. Elegant
@@ -1037,7 +1044,8 @@ had their special seats just for them, they had to be filled, right?
 
 So, by the time Tracy came up to us, we weren't either ready for
 conversation or in the mood for gifts. So much paper to post... Besides,
-we had considered a couple of times to charley it.  
+we had considered a couple of times to charley it.
+
 
 Who is Tracy? You're about to know her and we were about to do it, too. 
 
@@ -1066,7 +1074,7 @@ just liked to spend their days shooting squirrels and drinking. And
 fucking their sisters, I tell you. Many of them couldn't read just
 because they hadn't enough in their heads to be able to join the lines
 to form a letter. Yes, I know, Duke, it's an all-races republic. But including them does
-not mean I have to *like* them, right? I could have liked this one,
+not mean I have to I<like> them, right? I could have liked this one,
 though, if only she'd had a nicer and bigger rack. Nothing personal, Duke, you're my man. 
 
 But she continued in our footsteps, asking us where we were from and
@@ -1094,12 +1102,13 @@ difficult to grasp..."OK, to there after a good while, when you see
 people coming up to the circus, and you tell the girl at the ticket
 counter to send for us. We are Fulgencio and Vince. Can you remember
 that? OK, bye now." I waved her with my hand, just in case it was not
-clear enough.  
+clear enough.
+
 
 She nodded again, and turned back. When she disappeared around a corner we could finally charley the paper, and we might even manage to score tonight. 
 
-Gringo up, gringo down
-------------------------------
+
+=head2 Gringo up, gringo down
 
 As we had expected, that evening the carnival was going full throttle, but I still could spot Tracy,
 these gringas really don't know how to mix with the crowd. She was so
@@ -1116,7 +1125,7 @@ good at it, and got and assignment from the government.
 
 But no government job was needed to lay stark naked and pout, which she
 seemed to be good enough at. She wasn't too reluctant to undress when the ringmaster told her, and she only lingered at the unbuttoning at the interesting parts. She had no bra, as we had been able to make out under her white dress, but she wore panties that had seen so many washes that they were threadbare here and there. She eventually took them off also, standing there on her moccasins. She quickly fell into a pose. 
- 
+
 As I had already noticed with her clothes on, she did not have a great body, even for a
 paleface. Too whitey, cute pair of boobs, those pink nipples could win
 her a good pouch of pesos, and flat booty. But hey, she was white,
@@ -1143,12 +1152,12 @@ away. I understand that, we men could be there the whole day and do no
 work. Except maybe touching ourselves. Please, Gummy, you've already
 done it today once, can't you please stop?
 
-Somebody's daughter
-------------------
+
+=head2 Somebody's daughter
 
 That night I went to the girl show tent more than usual. I took
 advantage of every errand to escape for a few seconds and go there to
-see how Tracy was doing. Not that I could actually *get* in there, you
+see how Tracy was doing. Not that I could actually I<get> in there, you
 know. We roustabouts and circus mates weren't allowed in there, we
 couldn't see the girls we shared a table at the mess room (not that it
 was usual, but even so...) or a seat at the train completely naked and
@@ -1186,7 +1195,8 @@ came up to her, grabbing her arm and covering her with a blanket. The
 other girls run to the back of the tent, and I was left there with the
 professor, who seemed to be more elsewhere than there, and a few marks
 who seemed to think this might be a part or the show or just liked to
-be in the middle of things.  
+be in the middle of things.
+
 
 When I arrived at the main tent door I pushed aside the people
 flooding out from inside and came in, there was a standoff
@@ -1204,8 +1214,8 @@ bodily available should come to help fellow circus folk.
 Of course we outnumbered them. But this was a losum game, we might
 lose even if we won. 
 
-It's a clem!
---------------
+
+=head2 It's a clem!
 
 There were on my count three, no, four, no, half a dozen guys in front
 of the scene.  I couldn't handle them all by myself, no way. So I made
@@ -1280,7 +1290,8 @@ funny anyways.
 "She's hardly worth half that amount. You seen her tits? Stupid
 question, that's what you have at home instead of radio, as civilized
 homes do." The old man took this in stride. It was money talking now,
-and that was a language they both understood very well.  
+and that was a language they both understood very well.
+
 
 So it became an auction, except for the witticisms and the bludgeon
 shaking from time to time. Guy was really having a great time, but I
@@ -1294,9 +1305,10 @@ through the rip, shaking his grips like a mill and buzzing like a
 pissed off old drone. It pushed the honkey that was closer to the
 opening, making him drop the machete. The other guys released the
 girls, and came to him, starting to batter them with their clubs. They
-made one or two dents, but all of a sudden one of them, the *father*,  realized their prey
+made one or two dents, but all of a sudden one of them, the I<father>,  realized their prey
 had fled and their power to bargain themselves out of the situation
-had dropped to nil.  
+had dropped to nil.
+
 
 So they used instead the opening left to escape. But he stopped a
 moment before going out to waggle his finger at us and yell.
@@ -1315,8 +1327,8 @@ We didn't bother running after them. I actually run towards Tracy, who
 wore an expression difficult to describe. No, it was absolutely not
 nondescript. Rather the other way round. 
 
-It's a badger game
-------------------
+
+=head2 It's a badger game
 
 Somebody told me that Rufus had been hurt by the honkies, and I went
 to the office where Guy was tending to him. He had been outside the
@@ -1325,7 +1337,7 @@ escaping hit him in the head. Guy was stitching him, while he said:
 
 "It's a badger game. And we shouldn't have fallen for that. It's us
 who badger them, not the other way round." A badger game, something I
-know now, is when you sell a mark the key to your *girlfriend*
+know now, is when you sell a mark the key to your I<girlfriend>
 carriage and, when he opens the door and finds her there (or not), you
 threaten him to give you more money or else. 
 
@@ -1382,8 +1394,9 @@ didn't like them a bit. I felt my cheeks burn and I first though I had
 flushed, but then I realize there was light and heat coming from the
 open door. Something was afire out there.
 
-We didn't start the fire
------------------------------
+
+=head2 We didn't start the fire
+
 I was out of the door a fraction of a second after Ted.   One of the
 midway concession shops was afire, and we run there.   There were
 horses and confusion and what looked like a bonfire, right next to
@@ -1457,15 +1470,16 @@ one of the whole group.
 
 We galloped together in the direction of Miami, following the path the
 Klansmen seemed to have taken. What we were going to do once we caught
-up with them I had  
+up with them I had
+
 no idea, but I was pretty sure the rest of the posse did, and that
 seemed to be the reason they were holding the reins of the horses more
 than their will to take proper care of the circus property. 
 
-*write and revise*
+I<write and revise>
 
-Clown act
--------------
+
+=head2 Clown act
 
 A few hundred yards down the path  the clown car sped past us,
 apparently also in pursuit of the attackers in their
@@ -1532,10 +1546,11 @@ back into their car and driving back to the circus.
 "Let's go. Let the Guard take care of this mess."  We walked back to
 our horses, not speaking at all. We arrived all tired and sooty back
 at the circus and we went straight to our carriage; we could hear
-laughs coming from the clown carriages for a while still.  
+laughs coming from the clown carriages for a while still.
 
-Rebuilding
--------------
+
+
+=head2 Rebuilding
 
 Fortunately, nobody was badly damaged by the fire at the circus. And
 you have to fight fire with fire, so no big deal here. But didn't mean
@@ -1555,7 +1570,7 @@ focus of the conversation to talk about other stuff. Which was just a
 well, since from time to time he gave me tidbits I could later one use
 to grab hold of Manuel. 
 
-And then there was Tracy. Couple of days after the *incident*, when we
+And then there was Tracy. Couple of days after the I<incident>, when we
 were moving somewhere else, she was found under a carriage, a true
 possum belly queen. 
 
@@ -1615,10 +1630,10 @@ Neither I did care for a week or so, but I'm not going to talk about
 that, you jerks. We were talking about Manuel, right? Well, I was. So that's all
 the talk you're gonna get today or tomorrow. 
 
-*revise* 
+I<revise> 
 
-The second greatest show on earth goes to New Orleans
-----------------------------------------------------------------------------
+
+=head2 The second greatest show on earth goes to New Orleans
 
 So we were going back to the United States of America. What was left
 of them, 
@@ -1639,7 +1654,8 @@ of elephant dung, but if you put lions and horses and bearded women
 and whatnots inside a steamer they're gonna get mighty nervous, I tell
 ya. So no way Noah would have made it for forty days. Unless he got him a
 circus manager like we did. Friend of saying platitudes, but a good organizer
-all the same.  
+all the same.
+
 
 Yes, I would have preferred an airship. The circus comisario was on its
 way to New Orleans already. But, pray tell, how the fuck do you expect
@@ -1676,7 +1692,7 @@ have a mind. A cat's mind, if you ask me.
 
 So after checking me out he mostly did what it was told, turn right,
 turn left, up the plank, to the prow. To tell you the truth, it kind
-*wanted* to get to the very end of the prow; every time I veered away
+I<wanted> to get to the very end of the prow; every time I veered away
 to let it rest near the castle it kind of tugged to the right, as if
 wanting to be there, looking at the sea. Ever seen the sea? Yes,
 Count, you watched it for hours on end from your own boat. It's mighty
@@ -1702,10 +1718,10 @@ unlikely since the boat did not seem to be swinging too
 much. Something completely different might be going on, and I got
 dressed and went up to the deck to check it out.
 
-*revise*
+I<revise>
 
-Attack on the high seas
-------------------------------
+
+=head2 Attack on the high seas
 
 When I arrived at the main deck, everything seemed to be quiet for a
 few seconds. The sea was calm and deep blue, the sky only sported a
@@ -1760,10 +1776,10 @@ It was stupid, of course. But nobody was there to tell me that at that
 moment. No, it didn't sink, Gummy, you moron. Can't you see it is
 right there. Please stop crying!
 
-Rocking Manuel
----------------------
 
-*revise*
+=head2 Rocking Manuel
+
+I<revise>
 
 Give me a mud puddle and I can tell you how to pull a wagon out of
 it. Give me a mare and I can get a foal out of her pussy. Give me
@@ -1804,8 +1820,8 @@ used for that, forward and turning and backwards was all I knew back then.
 So, unhelpful and all, cursing through my teeth as I was, he
 eventually saved my life. 
 
-Biting the bait
-------------------
+
+=head2 Biting the bait
 
 The sound of bullets hitting on us was getting too close for comfort
 and soon I was more intent on dodging bullets or rather the sound of them than
@@ -1820,7 +1836,8 @@ what the hell was that about and I saw some strange shapes in the
 direction we were heading, towards the back
 of the boat and right between the ramp that was my destination and
 where I was standing now. I then turned completely, oblivious of the
-mech and paralyzed like the rabbit caught in front of a light.  
+mech and paralyzed like the rabbit caught in front of a light.
+
 
 Those shapes revealed themselves into three guys, dressed in tights; one of
 them run to stern (abaft, I should say if I knew the first word about
@@ -1856,10 +1873,10 @@ not gonna tell.
 The third guy? He was given to the clown posse. I am not gonna talk
 about it. No, really. 
 
-*revise*
+I<revise>
 
-Parade of the monsters in New Orleans
----------------------------------------------------
+
+=head2 Parade of the monsters in New Orleans
 
 No more pirates until we arrived to the port in New Orleans, where My main concern was to keep an eye on Manuel, just in
 case these capitalist pigs wanted to lay their hands on it and keep
@@ -1892,7 +1909,6 @@ formed right there on the docks,  and it was slated to go march through the Fren
 now and ever, but that rhymes with circus, right? Yes, in Latin, ha ha
 you're fun, Duke. And smart. 
 
-
 As soon as it left Jackson Square, the people started gathering around the parade, some palefaces but mostly
 brothers. The stiltwalkers that went on front gave out ducats pretty much to everybody on
 sight who was a shade darker than chalk, the circus
@@ -1923,10 +1939,10 @@ was all beautiful and pacific and a bit workers party.
 But elsewhere, trouble was brewing and already brewed. And I didn't see it or anything,
 but I'm pretty sure it was not our fault.
 
-*revise and write*
+I<revise and write>
 
-Terrible Trouble in Tremé
---------------------------------------
+
+=head2 Terrible Trouble in Tremé
 
 The capitalist press said afterwards that we had been inciting the masses to
 rebellion, but that was not true, well, not completely. The only papers they posted were
@@ -1961,8 +1977,8 @@ mates.
 When they arrived at the police station, it was very unlikely that
 jokes would be the only thing to be cracked. Never was when Cracker was in charge. 
 
-Knock, knock, knocks who?
------------------------------------
+
+=head2 Knock, knock, knocks who?
 
 The metropolitan police locked and bolted all doors of the police station and started to
 crack windows and put stuff behind them to prepare for the siege. 
@@ -1986,8 +2002,8 @@ hell, I can't keep it company for ever! Well, I do know. Where is it,
 by the way? Wireless took it for a ride? Aw, c'mon, Wireless, bring it
 back! You're going to break it!
 
-Who's that mech?
---------------------------
+
+=head2 Who's that mech?
 
 That night's act would have been quite a success if we hadn't got wind
 that the national guard had been called and was likely to crash our
@@ -2041,8 +2057,7 @@ my job and wondering if this was a chance or a trap. I would discover
 soon enough.
 
 
-By the people, for the people
-------------------------------------------
+=head2 By the people, for the people
 
 After New Orleans, something had become  loose in the head of Rufus the
 mechanical man man, mirroring whatever had happened inside Manuel when he had
@@ -2099,10 +2114,10 @@ clowns. And silence descended on the bleachers. Even the gamblers
 stopped gambling, and the smart dogs
 that were frolicking here and there hushed and sat down on their butt.
 
-*revise and write*
+I<revise and write>
 
-Settling accounts with the clowns
--------------------------------------------------
+
+=head2 Settling accounts with the clowns
 
 "Rufus, be short and to the point. We all know what's going on, so
 tell us only what we don't know." Said Boris. Rufus was visibly
@@ -2183,10 +2198,10 @@ humiliating him first, it would probably not be necessary. By the by,
 what's happened to Gummy? It's been a few nights already he's not been
 around, ain't he? Just a day? 
 
-Closed for repairs
------------------------
 
-*write and revise* 
+=head2 Closed for repairs
+
+I<write and revise> 
 
 After that day, Rufus was to and fro, sometimes waiting at the clown
 quarters for a good while before getting Manuel back, lost for hours
@@ -2244,7 +2259,7 @@ those things, so it's got to be taken elsewhere to have it fixed real
 good." I tried to "but" him, but he waved his hand to shut me up. "So
 enough with that, if you're our of that job until he returns you can
 go back to help the rest of the crew, don't 
-worry about that." But I wasn't worried about *that* part. That 
+worry about that." But I wasn't worried about I<that> part. That 
 was indeed the least of my worries. 
 
 "But, gee, I don't know, It kind of didn't seem to have any kind of
@@ -2291,7 +2306,8 @@ might..."
 "They won't, don't worry. If I need you, I know where I can find
 you. Don't worry." Too many don't worries to not actually worry. I
 stood there, thinking what to say. Rufus resumed his tinkering  with
-sparks flying out of the wires;  
+sparks flying out of the wires;
+
 Manuel looked away from me. I left.
 
 If Manuel left, this could be the end of my circus days, which I expected to arrive
@@ -2304,15 +2320,14 @@ And then I knew how to grab hold of Manuel. So the circus day would
 truly be over, but it would be over my way. And a good way it was, too. 
 
 
-Gaffe building for fun and profit
------------------------------------------
+=head2 Gaffe building for fun and profit
 
 I couldn't build it myself, of course. But if you've got the money and
 the determination and the original model, nothing is impossible. What
 I was thinking about building? Wireless, you were here the first day,
 a week ago,
 ain't you? When I told everybody how I was conned in the circus using
-a gaffe that *looked*, in fact, nothing like the real Manuel? 
+a gaffe that I<looked>, in fact, nothing like the real Manuel? 
 
 So the idea was not to recreate the mech, but to create something that
 looked like the mech, at least from a distance and weighed like the
@@ -2325,7 +2340,7 @@ Rufus himself helped me to get away with it. He wanted so much to make
 everybody think Manuel was broken, that he loosed a screw or something
 so that he, I mean it, Manuel, stopped working altogether. That made
 easier to substitute it: I couldn't for the world make something that
-looked and *acted* like the mech. 
+looked and I<acted> like the mech. 
 
 Luckily, there were bits and parts of the mech in Rufus's workshop and
 I took them to the circus blacksmith together with a wad of pesos to
@@ -2335,7 +2350,7 @@ away soon I told him we were building a replica for the menagerie, but
 since Rufus was very jealous of his act we didn't want him to know
 what we were doing, right? That was a few pesos more. And then a few
 more when the diligence vanished after just a day. And then it was the
-*act* part the one that had to go. No way something that actually
+I<act> part the one that had to go. No way something that actually
 moved could be built in so short a time and by a blacksmith. 
 
 And the questions increased in the same proportion that the will be
@@ -2353,8 +2368,8 @@ way.
 I was then at a loss. Rufus could leave any time now. And then I
 remembered Tracy.
 
-White help
-----------------
+
+=head2 White help
 
 I needed Tracy to keep him busy and focused on something other than
 the gaffe. I talked to her, she owed me, and, honkie and all, she
@@ -2382,7 +2397,7 @@ Rufus could be fooled for a long time, even if he didn't have all his
 wits about him. And I had spent two days and lots of pesos
 doing this. 
 
-*revise*
+I<revise>
 
 That day, at dinner after the show, Rufus told me that somebody from
 the naval station was coming the next day at dawn to pick them up. I
@@ -2398,9 +2413,9 @@ was relieved. Dawn was good. I was damn good.  Yes, a damn good
 dawn. Why are you laughing?
 
 
-Dawning on her
---------------------
-*revise and write*
+=head2 Dawning on her
+
+I<revise and write>
 
 "I just wanted to have a nice and wet farewell from you." Tracy told
 Rufus with a voice and hip motion that would have had the Pope of Rome
@@ -2425,15 +2440,15 @@ their beds, so they were beyond care when I drove Manuel to the tigers cage
 and hid it there. This might seem more difficult than it actually
 was. Tigers sleep very soundly, not having a care in the world, and
 the only thing you have to care about when entering their cage is not
-to step on them. This they don't like. *revise and write*
+to step on them. This they don't like. I<revise and write>
  I put the gaffe in place of Manuel and covered it
 with a canvas.
 
 The difficult part was going to be to drive the gaffe into the truck bed. But I
 still had Tracy. 
 
-Gripping gaffes
---------------------
+
+=head2 Gripping gaffes
 
 "Not only I have to hump that drooling geek, but I also have to help
 you to haul stuff." Said Tracy.
@@ -2478,18 +2493,19 @@ under the burlap.
 Easier said than done. No, Captain, I couldn't hit them, they were
 three and I was one. No, Duke, I couldn't bribe them, my pesos had run
 out and I only had the money I had managed to oach when handing the
-popper.  
+popper.
+
 
 In fact, the very moment Rufus looked at the covered lump in the truck
 the only thing I could think about was to start and cry.
 
-*revise and write* 
+I<revise and write> 
 
-Crocodile tears
--------------------
+
+=head2 Crocodile tears
 
 I cried like I've seen the clowns doing in their act. Close your eyes
-just so, open your mouth, and wail a trembling *a* for as long as you
+just so, open your mouth, and wail a trembling I<a> for as long as you
 don't care to breath. That might be a long time, indeed, just enough
 to be noticed by Rufus, who came up to me and put an awkward hand in
 my back.
@@ -2525,10 +2541,10 @@ doing the rounds and roaring and moaning. I was going to need some
 good time to get the real Manuel back from there.  I was only hoping I
 could do that before Rufus realized something was amiss with their cargo.
 
-*write*
+I<write>
 
-Lunch with tigers
--------------------------
+
+=head2 Lunch with tigers
 
 Yes, folks, you're about to enter the tale, but you know that part
 already, you don't want me to tell you, right? Yes? You want?  Gee,
@@ -2575,10 +2591,10 @@ Manuel with a burlap bag, a dab of paint here and there and a bit or
 mud thrown over liberally over it all. As soon as I didn't find the
 circus manager or Ted, everything would be OK. 
 
-*write and revise*
+I<write and revise>
 
-Talking with the circus manager
------------------------------------------------
+
+=head2 Talking with the circus manager
 
 "What the hell is that, boy." Boris asked when he met me a few yards
 away from my carriage.
@@ -2622,8 +2638,8 @@ beat his feet and clap their hands, yes, the first mechanical jig in
 history. Do you want me to make it dance just the way I did it then?
 Of course you do. 
 
-Forget about it
-----------------------
+
+=head2 Forget about it
 
 Do you remember what I was talking about? Yes, Manuel and something or
 other about him, right? The manager left us alone after that, although he didn't
@@ -2648,8 +2664,8 @@ capitalism, you say, Dale? Please, go ahead. I'm listening. It might
 seem as if I'm sleeping, but I'm not, I swear, I love revolutionary
 rhetoric as much as the next man.
 
-Mechanical workers or the gears of capitalist evil
---------------------------------------------------
+
+=head2 Mechanical workers or the gears of capitalist evil
 
 Don't you what this spawn of capitalist evil is really like? I, Henry
 Dale, don't call me Hatless, call me Daring Dale, since I dare, and I
@@ -2667,8 +2683,7 @@ tireless robots! They must be destroyed and I've heard enough. Help me
 or I'll do it all by myself!
 
 
-Flying with mechs
------------------
+=head2 Flying with mechs
 
 Hey, hold that guy! What's with him? Take the torch away from him or
 he'll, well, do not much to Manuel, but maybe make him a bit
@@ -2698,7 +2713,7 @@ conversation with Guy Hillcrest, the octoroon, who always knew
 everything and was a good proxy for the trainmaster, who was the one
 that actually organized the trip. 
 
-"Take a good pee, Full." They called me Full. Not Fool. *You* are fools. 
+"Take a good pee, Full." They called me Full. Not Fool. I<You> are fools. 
 
 "Why? Ain't we stopping after a while?" I asked as if I cared. Which I did. 
 
@@ -2708,8 +2723,8 @@ haul, please, I thought. No way I could make it with everybody around
 when we arrived. No way. I was going back to take a pee by the rail
 tracks. And then I saw you. Yes, you, Duke.
 
-Helping those who help you
---------------------------
+
+=head2 Helping those who help you
 
 Yes, young man, just that day I had felt the need to be on the road
 again to visit the ducal house and since that was the first train that
@@ -2718,7 +2733,7 @@ ticket in first class to travel as far as it would take.
 
 These kinds of vehicles are, to tell you the truth, not my favorite
 way of conveyance to my destiny. Razorbacks might be worse than
-brakemen and they can be brutal if they find you in *their*
+brakemen and they can be brutal if they find you in I<their>
 train. Plus you can be shanghaied and surgically changed to become part
 of the menagerie. Don't protest, I know it from first or maybe no more
 than second or third hand, that happens.
@@ -2730,8 +2745,8 @@ these revolutionary bastards! I thank God Hatless has gone away for
 good, I couldn't stand his very sight! That bastard cheap bum! I could
 curse him all the way to Chattanooga and still have some to go. Leech! 
 
-Making a hot box
-----------------
+
+=head2 Making a hot box
 
 In fact, he will continue cursing this way until dawn if we just give
 him a chance, which will not help us hear the story. Allow me,
@@ -2766,7 +2781,7 @@ citizens with boobs, and that's not the case of our Duke, or rather
 is, man, you're fat, ain't you, there he is, still cursing, it will
 not slim you down even a bit, but there you go, our Half and Half
 wanted to stop the train not to far and Duke, who knows trains as if
-he owned them, that is rich, because he *actually* owned them, and
+he owned them, that is rich, because he I<actually> owned them, and
 you're not laughing, explained him how to create a hot box. Which I'll
 explain in a moment, as soon as this station starts the Popular
 Mechanics program. Right now... it's happening.. now.
@@ -2778,11 +2793,11 @@ box happens, when it does, when whatever carries an axle, you know
 what's an axle, right, you should since you seem to be acquainted at
 least with these terms, gets too hot for comfort and maybe for
 continuing being solid. Well, you say here you want to know how can
-that happen, right? I expect that if you want to *actually* do it, my
+that happen, right? I expect that if you want to I<actually> do it, my
 dear friend, is only for the greater good of the Republic but anyways
 rest assured your friendly neighborhood Guard has been duly notified,
 ha ha, just joking, we all know you're a good citizen even if your
-real name is not Juan but Jaime, ha ha, actually not joking *at all*
+real name is not Juan but Jaime, ha ha, actually not joking I<at all>
 now. So I'm not telling you how to do that. And that's all from your
 Popular Mechanics program. 
 
@@ -2798,8 +2813,8 @@ them?
 
 We'll tell you. After the break for public service announcements. 
 
-Fast train burning
-------------------
+
+=head2 Fast train burning
 
 And this is your friend Wireless Jim, talking from the People's Voice,
 or rather My Own Voice, but I am part of the People, so it's People's
@@ -2847,8 +2862,7 @@ arms and picking the Duke and Fulgencio in his arms with love as if he
 were his tin grandfather? No he didn't! Did he...?
 
 
-Jumping Fulgencio
------------------
+=head2 Jumping Fulgencio
 
 Will you shut the fucking fuck up, Jim? Hell, we could be here the whole night
 listening to your description of a train whistle! Here, have a drink
@@ -2914,11 +2928,10 @@ coal train to, well, does not matter, away from here and we might not
 see each other again. So let's drink and dance and be merry. Yes,
 Manuel will dance too.
 
-*revise*
+I<revise>
 
 
-With the hobos around the fire
---------------
+=head2 With the hobos around the fire
 
 "I'm gonna get me one of those dummies, I'm gonna do it" The first
 hobo announced, with just a hint of a threat in his voice, veiled by
@@ -3066,22 +3079,29 @@ go."
 "Yes, over and out. All over and all out." Answered Frank, and he
 accompanied Clark without saying another word.
 
-*revise*
+I<revise>
 
 
-Table of contents
-----------------------
+=head2 Table of contents
 
-* For your peruse and joy, here's the table of contents (actually, this line will go)
+=over
+
+=item *
+
+For your peruse and joy, here's the table of contents (actually, this line will go)
 {:toc}
 
-Acknowledgements
---------------------------
+
+=back
+
+
+=head2 Acknowledgements
 
 This book started one fine day of May, but would not have been
 possible without the help of many people around me, most of them
-unknown. So I would like to dedicate it to the people that [answered
+unknown. So I would like to dedicate it to the people that L<answered
 my question on symbols on the History
-StackExchange](http://history.stackexchange.com/questions/8894/looking-for-a-symbol-for-southern-usa-communism) and then [another
-question on circus layout](http://history.stackexchange.com/questions/8942/where-can-i-find-american-circus-or-carnival-grounds-plans/8972?noredirect=1). Marian,
+StackExchange|http://history.stackexchange.com/questions/8894/looking-for-a-symbol-for-southern-usa-communism> and then L<another
+question on circus layout|http://history.stackexchange.com/questions/8942/where-can-i-find-american-circus-or-carnival-grounds-plans/8972?noredirect=1>. Marian,
 the librarian of the Clarke College was also incredibly helpful. 
+

@@ -4,8 +4,8 @@ use v5.14;
 use Text::Markdown 'markdown';
 use File::Slurp 'read_file';
 
-my $text_file = shift || "../text/text.md";
-my $header_file = shift || "../resources/header.html";
+my $text_file = shift || "../../text/text.md";
+my $header_file = shift || "../../resources/header.html";
 
 my $text = read_file($text_file);
 my $header = read_file( $header_file);

@@ -9,7 +9,6 @@ BEGIN {
 use_ok( 'Text::Hoborg' );
 }
 
-diag( "Testing Text::Hoborg $Text::Hoborg::VERSION" );
 
 # You can use relative or absolute paths.
 my $speller = Text::Hunspell->new(
@@ -17,10 +16,13 @@ my $speller = Text::Hunspell->new(
 				  "/usr/share/hunspell/en_US.dic"     # Hunspell dictionary file
 				 );
 
-my $dir = -d "../text" ? "../text": "../../text";
-$speller->add_dic("$dir/words.dic");
 
-my $hoborg = new Text::Hoborg $dir;
+my $hoborg = new Text::Hoborg;
+my $dir = $hoborg->dir();
+
+diag( "Testing Text::Hoborg $Text::Hoborg::VERSION in $dir" );
+
+$speller->add_dic("$dir/words.dic");
 
 my @words = split /\s+/, $hoborg->text;
 
