@@ -2,7 +2,7 @@
 layout: index
 ---
 
-Manuel, the Marvelous Mechanical Man: A novel. Book One
+Manuel, the Magnificent Mechanical Man: A novel. Book One
 =======================================================
 
 Prologue
