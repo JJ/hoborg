@@ -8,7 +8,8 @@ This novel is released under a free license. Please check [its web for
 details](http://github.com/JJ/hoborg). You can help by proof-reading,
 forking (that is, creating your very own copy and changing it to your
 liking), or just talking about it.  You can follow events related to it [in
-Twitter @hoborg_novel](http://twitter.com/hoborg_novel) and also, if
+Twitter @hoborg_novel](http://twitter.com/hoborg_novel) and
+[Facebook](https://www.facebook.com/ManuelTheMagnificent) and also, if
 you like it, buy it in Amazon, for instance
 [in Amazon.com](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=16QNPK4SMEZDPPSBY44Q&). 
 

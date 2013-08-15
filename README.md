@@ -33,7 +33,9 @@ How you can help
 After four paragraphs, you might have already realized English is not my
 main language. Sending me corrections  is not the only way you can help
 
-* You can just [follow @hoborg_novel on Twitter](http://twitter.com/hoborg_novel) and interact with it.
+* You can just
+  [follow @hoborg_novel on Twitter](http://twitter.com/hoborg_novel)
+  or [Facebook](https://www.facebook.com/ManuelTheMagnificent) and interact with it.
 * Get a [GitHub account](http://github.com).
 * Watch, star or fork this repo. You don't need to do anything else.
    for the time being, but it will help me achieve some visibility.
