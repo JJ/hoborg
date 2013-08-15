@@ -1,8 +1,9 @@
 ---
 layout: index
 ---
+
 Manuel, the Magnificent Mechanical Man: A novel.
-=======================================================
+==================================
 
 Prologue
 -----------
