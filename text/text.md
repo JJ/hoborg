@@ -1,8 +1,8 @@
 ---
 layout: index
 ---
-Hoborg: A novel. Book One
-================
+Manuel, the Magnificent Mechanical Man: A novel.
+=======================================================
 
 Prologue
 -----------
@@ -10,15 +10,19 @@ Prologue
 This novel is released under a free license. Please check [its web for
 details](http://github.com/JJ/hoborg). You can help by proof-reading,
 forking (that is, creating your very own copy and changing it to your
-liking), or just talking about it.  You can follow its evolution [in
-Twitter @hoborg_novel](http://twitter.com/hoborg_novel). 
-
+liking), or just talking about it.  You can follow events related to it [in
+Twitter @hoborg_novel](http://twitter.com/hoborg_novel) and
+[Facebook](https://www.facebook.com/ManuelTheMagnificent) and also, if
+you like it, buy it in Amazon, for instance
+[in Amazon.com](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=16QNPK4SMEZDPPSBY44Q&). 
 
 
 Meet the mechanical man
 ----------------------------------
 
-There he was, gleaming in places, rusty in others. Rolling and
+There he was, gleaming in places, rusty in others, its history written
+in its bumps and patches like the history of a person is written in
+the wrinkles of its face. Rolling and
 whistling and frolicking to the general merriment of the public. 
 And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
@@ -907,8 +911,8 @@ table to eat. What? No, I haven't been in the army, in no army,
 indeed. How do I know about that? People talk, you know. 
 
 As a matter of fact, somebody told me that in the table where we
-gauchos sat. There was Jay, who had actually fought in the patriotic
-war and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
+gauchos sat. There was Jay, who had actually fought in the Patriotic
+War and transferred to the circus, and now took care of animals, Bill and Vince, two roustabouts
 that helped with anything that was needed, and Gina, who rode horses.
 Why do you want to know how Bill and Vince were? Just your average
 Bill and Vince, Bill a black Seminole and Vince a black, strong guy from Virginia
@@ -938,10 +942,10 @@ Nobody understands Gummy Fucking Eddie, so I will tell his story for
 him. Yes, I'll be telling you all my story in the army and why I'm a
 Captain and a Corporal at the same time, but be patient and all of you
 will be satisfied. Gummy, if you don't stop doing that right now I'm
-not going to act your puppet now or never. Really.
+not going to act as your puppet now or never. Really.
 
-So he was fighting for freedom in Cuba. He came back like this. OK,
-don't throw a tantrum, I'll start again. 
+What he was saying is that he was fighting for freedom in Cuba. He came back like this. OK,
+don't throw a tantrum, I'll start again and tell the whole story straight. 
 
 It was 1905 or 1906, and Gummy was a jobless musician in Chicago. Then
 everybody and his mother started talking about war this, war that,
@@ -951,11 +955,12 @@ hands, bound for Florida. OK, not me, Gummy, but I'm translating him,
 so I is gonna be Gummy from now on. You get it? Yes, you too,
 Gummy, I'm so very happy you understand this.
 
-In Tampa there was a big camp filled to the hilts with black people
-like me. Most people going to Cuba seemed to be black, at least from
-the sergeants down. Not that we saw anybody with heavier brass than
+In Tampa we were met by a big, open air camp, filled to the hilts with black people
+like me. No surprise here, most people fighting in Cuba seemed to be black, at least from
+the sergeants down, although I couldn't tell, we didn't see anybody with heavier brass than
 that. It was sergeant this, corporal that, sometimes a sergeant mayor,
-and that was that. They barked their orders, clean this, drill that,
+always a cracker,
+and that was that. They barked their orders, clean this, do that drill,
 but mostly it was wait on our butts and roam around. Roaming stopped
 fast enough, because as soon as we set step outside the camp whiteys
 screamed abuse at us and we couldn't do much, no bars, no candy shops,
@@ -1456,9 +1461,12 @@ to the ringmaster when Vince came up to me with a saddled show horse.
 I did. When I came back, he'd flown away, obviously. He was the luckiest
 one of the whole group. 
 
-We galloped together in the direction of Miami, where the Klansmen
-had went. What we were going to do once we caught up with them I had
-no idea, but I was pretty sure the rest of the posse did.
+We galloped together in the direction of Miami, following the path the
+Klansmen seemed to have taken. What we were going to do once we caught
+up with them I had  
+no idea, but I was pretty sure the rest of the posse did, and that
+seemed to be the reason they were holding the reins of the horses more
+than their will to take proper care of the circus property. 
 
 *write and revise*
 
@@ -1603,13 +1611,17 @@ gave her a chance.
 
 Plus she was pretty. Bad hair, but pretty. Yes, I already said that. 
 
-So she was adopted.
+So she was adopted. By me. 
 
 ¿Manuel? He was somewhere else in the train. Should be, at
 least. And Rufus with him. I couldn't care less about it in that
 moment. 
 
-*write and revise*
+Neither I did care for a week or so, but I'm not going to talk about
+that, you jerks. We were talking about Manuel, right? Well, I was. So that's all
+the talk you're gonna get today or tomorrow. 
+
+*revise* 
 
 The second greatest show on earth goes to New Orleans
 ----------------------------------------------------------------------------
@@ -1687,12 +1699,16 @@ things in cabins, covering the carriages with tarpaulins and hauling
 supplies belowdecks. Which is a nice word that somebody shouted while
 we were doing there and means in the basement of the ship. 
 
-I got myself a cabin with Shorty and one of the windjammers. Which I
+I got myself a cabin with Shorty and one of the windjammers, if one
+played and the other danced we could keep ourselves amused during the
+whole trip. Which I
 only discovered after I woke up to the sound of explosions
 somewhere. Some mighty thunderstorm might be happening, but that was
 unlikely since the boat did not seem to be swinging too
 much. Something completely different might be going on, and I got
 dressed and went up to the deck to check it out.
+
+*revise*
 
 Attack on the high seas
 ------------------------------
@@ -1717,8 +1733,8 @@ his pipe. I hadn't heard his coming, as I never did. This guy was the
 master of the ring and made himself heard and seen but his special
 skill was to make that happen only when and if he wanted. 
 
-"The airship was not on the table, then" I answered. "Or he would have
-lost it. " That made his smile extensible to almost three quarters of
+"The airship was not on the table, then." I answered. "Or he would have
+lost it." That made his smile extensible to almost three quarters of
 his mouth. And he snorted, too.
 
 "They are probably pirates from Texas. The airship model is not
@@ -1753,7 +1769,7 @@ right there. Please stop crying!
 Rocking Manuel
 ---------------------
 
-*revise and write*
+*revise*
 
 Give me a mud puddle and I can tell you how to pull a wagon out of
 it. Give me a mare and I can get a foal out of her pussy. Give me
@@ -1776,7 +1792,8 @@ keeping my two feet and its four wheels on deck, which was not the
 easiest thing on earth. 
 
 I moved to the left, which was starboard I think, trying to keep the
-bulk of the deck cabins between us and the airship, but we were moving
+bulk of the deck cabins between us and the airship, a good amount of
+Spanish steel, but we were moving
 in fits and starts and I started to hear some muffled thuds not so far
 away from me, like metal drums covered in blankets. And I started to get worried, but not
 enough to avoid the seasickness that was growing from my belly and
@@ -1822,7 +1839,7 @@ everybody got undercover and didn't see them approaching and boarding
 the ship from a speed boat. Its intention then was run and look for valuables that
 could be easily loaded and get on their way. 
 
-Except that in this occasion  they had found me and Manuel. Either
+Except that in this occasion they had found me and Manuel. Either
 they considered Manuel a strangely shaped buoy or they chose not to do
 anything about him, but no sooner had they spotted me they started
 to shoot their guns against me. But at the same time, Manuel had
@@ -1843,16 +1860,19 @@ throw them into the water, I just didn't know how or what. And he was
 not gonna tell.
 
 The third guy? He was given to the clown posse. I am not gonna talk
-about it.
+about it. No, really. 
 
-*write and revise*
+*revise*
 
 Parade of the monsters in New Orleans
 ---------------------------------------------------
 
-My main concern in New Orleans was to keep an eye on Manuel, just in
+No more pirates until we arrived to the port in New Orleans, where My main concern was to keep an eye on Manuel, just in
 case these capitalist pigs wanted to lay their hands on it and keep
-for them. That is why I stayed at the circus all the time and I mostly missed what I am about to tell you. But is as
+for them. How did I know they wanted it? Well, who wouldn't? Yes,
+myself a few weeks before, but I wasn't a capitalist but a loyal
+Republic citizen, so what would I know?
+That is why I stayed at the circus all the time and I mostly missed what I am about to tell you. But is as
 true as it gets, since I knew it from a first hand account. Where was
 I? You know, here and there, doing stuff, busying myself. 
 
@@ -1879,9 +1899,9 @@ now and ever, but that rhymes with circus, right? Yes, in Latin, ha ha
 you're fun, Duke. And smart. 
 
 
-As soon it left Jackson square, the people were gathering around the parade, some palefaces but mostly
-brothers. The stiltwalkers gave out ducats pretty much to everybody on
-sight, the circus
+As soon as it left Jackson Square, the people started gathering around the parade, some palefaces but mostly
+brothers. The stiltwalkers that went on front gave out ducats pretty much to everybody on
+sight who was a shade darker than chalk, the circus
 management wanted to be a big party for America's workers, a gift from
 the All Races Republic of Florida to the workers of America. Not all
 of America. Just the workers. Of course, all folks in the
@@ -1914,12 +1934,13 @@ but I'm pretty sure it was not our fault.
 Terrible Trouble in Tremé
 --------------------------------------
 
-The press said afterwards that we had been inciting the masses to
+The capitalist press said afterwards that we had been inciting the masses to
 rebellion, but that was not true, well, not completely. The only papers they posted were
 circus paper, nothing that told the emaciated, overworked and
 exploited brothers of the still United States of America that workers'
 paradise was just a hundred miles away, in the Republic of
-Florida. People talked in the parade, exchanged addresses, all normal
+Florida. People talked in the parade, exchanged addresses for keeping
+in touch, all normal
 among educated workers. And yes, people and elephants held a few
 placards. So what? Is that forbidden now in democratic America?
 
@@ -1931,19 +1952,20 @@ rights and that was that.
 
 It was nobody's fault either but the repressive Louisiana cops that a couple of our own clowns ended up
 in jail, but that was somehow how it all started. Why the clowns were
-sent to jail is not clear, since as I said they had not been on the
+sent to that jail in a neighborhood called Tremé and inhabited by brothers is not clear, since as I said they had not been on the
 parade, I said that, right? They might have been drunk and on the
 wrong side of a police officer, or just too black for the Irish copper
 that apparently arrested them.
 
 So it was not our fault either that Ted, as white as it gets but all
-dressed up and with the blackface makeup on went there in the circus clown car
+dressed up and with the blackface makeup on went, or rather should I
+say paraded down Claiborne Avenue, up to there in the circus clown car
 followed by the marching band and the elephants and a few acrobats and
 eventually a few thousand locals to demand early release of his
 mates. 
 
 When they arrived at the police station, it was very unlikely that
-jokes would be the only thing to be cracked.
+jokes would be the only thing to be cracked. Never was when Cracker was in charge. 
 
 Knock, knock, knocks who?
 -----------------------------------
@@ -1953,7 +1975,7 @@ crack windows and put stuff behind them to prepare for the siege.
 
 But the action didn't take long to start. The clowns, to the blaring music of the
 marching band and much dancing from locals and circus people alike,
-unloaded the mech which Ted had comandeered. Then the clowns went around
+unloaded the mech which Ted had commandeered. Then the clowns went around
 the mech singing "Police home is coming down, coming down" while the
 coppers where kept at bay by distractions and the occasional shot to
 make them hunker down. Which they did, mostly, until a slightly bent forward
@@ -1967,7 +1989,7 @@ Yes, I said I was keeping an eye of Manuel, but to keep it from the
 capitalist pigs. I couldn't do anything about the circus people. Even
 if I had known. Yes, sometimes I'm a lousy eyekeeper, but what the
 hell, I can't keep it company for ever! Well, I do know. Where is it,
-by the way? Wireless took it for ride? Aw, c'mon, Wireless, bring it
+by the way? Wireless took it for a ride? Aw, c'mon, Wireless, bring it
 back! You're going to break it!
 
 Who's that mech?
@@ -1990,32 +2012,36 @@ The clown car stopped and Ted "Cracker" Armistead, the chief of the
 clown posse, came out of it. tiptoeing on his apparently too small
 dancing shoes. His blackface mask was 
 starting to melt due to the New Orleans heat and it was becoming a
-pink and gray mess leaking goo on his white gown. He came to the truck
+pink and gray mess leaking goo on his white gown. He came up to the truck
 where Rufus was struggling to 
 get Manuel loose.
 
-"Leave that alone." Cracker said, not very loud, but so clearly that I
+"Leave that thing alone." Cracker said, not very loud, but so clearly that I
 could hear it among the din of the parade and the rest of the
 circus. Rufus shivered, but kept going at the straps.
 
 "Stop the truck!" He yelled this time. The truck shuddered to a
 stop, and Rufus fell back on his bottom. 
 
-"Come down from there. You'll get it back in time for the show. For
-now, let it bask in the glory of the people. He's a hero." Ted said,
-extending his arms in a way that managed to be threatening.
+"I would ask you to let that go and come down from there. You don't
+need to worry, you'll get it back in time for the show. For
+now, let it bask in the glory of the people. He's a hero. Manuel, the
+Manly Mechanical Man!" Ted said,
+extending his arms in a way that managed to be threatening at the same
+time it asked for the applause of everybody surrounding them. 
 
 "But..." Rufus said, while trying to stand up.
 
 "Boy, get it running again!" Ted said to the truck driver. Rufus was
-trying to stand up and fell down again.
+barely crouching and fell down again.
 
-"But... It's dented!" Rufus managed to say.
+"But... It's dented!" Rufus managed to say from the floor.
 
-"Yes. Don't repair it. They are combat wounds, and must be worn with
+"Yes. You don't dare repair it. They are combat wounds, and must be worn with
 pride!" Ted said while walking back to the clown car. 
 
-Rufus crept down from the truck and walked crestfallen back to his
+Rufus didn't dare to try anything after that. He lied there for a
+while and eventually, when he noticed the truck was picking up speed, crept down from the truck and walked crestfallen back to his
 wagon. The rest of the parade proceeded loudly and I continued doing
 my job and wondering if this was a chance or a trap. I would discover
 soon enough.
@@ -2127,7 +2153,7 @@ of clowns, who tried to ride him, climbing on him and falling down,
 legs up, to the general merriment of the circus people. The band
 started to play and highlighted falls with bass drum strokes.
 
-"Can't... can't do that!" Said Rufus, and started to try and follow
+"Can't... I can't do that!" Said Rufus, and started to try and follow
 Manuel, who had now changed to pursuit mode and was trying to catch
 the clowns who were all running in a row in front of it. A game of cat
 and mouse followed, whenever Rufus was approaching Manuel it slowed
@@ -2168,7 +2194,7 @@ Closed for repairs
 
 *write and revise* 
 
-After that day, Rufus was here and there, waiting at the clowns
+After that day, Rufus was to and fro, sometimes waiting at the clown
 quarters for a good while before getting Manuel back, lost for hours
 when he was not in possession of the mech, and looking lost the rest of
 the time. I wasn't feeling very good either. since the clowns didn't
@@ -2194,7 +2220,7 @@ here and there could not mend.
 "Where again is it going?" I asked Rufus. He looked to his right and
 answered. 
 
-"Well, he can only be fixed in the Estación Naval at Pensacola,
+"Well, he can only be fixed at the Estación Naval at Pensacola,
 that's the only place where..." He was shuffling his feet and looking
 as if he wanted to be somewhere else. 
 
@@ -2205,14 +2231,14 @@ so maybe I can help you with..." I said, groping for a way to keep it close.
 that activates head movement so... Besides, the Torres Quevedo engine
 has to be revised and reprogrammed... and while we are at it we'll
 repaint, grease, change a thing here and there..." Maybe he didn't say
-that, but it sounded like that. 
+those words, but it sounded like that or something that sounded as queer. 
 
 "How long will that take?" I asked. Maybe not too long. I could stand
 that.
 
-"Who knows. It will be on the queue along with other military mechs,
-and I have to undergo retraining and... " He said this while he was
-leaving. So no joy here. But I couldn't allow that to happen. It
+"Who knows. It will be on the workshop queue along with other military mechs,
+and while it is refurbished I have to undergo retraining and... " He said this while he was
+leaving. So no joy here. But still I couldn't allow that to happen. It
 couldn't go anywhere, not for long, maybe for ever. I had to look
 for a way of keeping him in so that I could get it out. I went to
 Boris.
@@ -2599,22 +2625,69 @@ I haven't gone so far as to invent a whole story. So I started to make
 it dance, moving one of the wheels at the same time it spun one of the
 arms. The pebbles on the ground made its head bob. Somebody started to
 beat his feet and clap their hands, yes, the first mechanical jig in
-history. Do you want me to show how I did it?
+history. Do you want me to make it dance just the way I did it then?
+Of course you do. 
 
 Forget about it
 ----------------------
 
 Do you remember what I was talking about? Yes, Manuel and something or
-other about it, right? The manager left me alone, although he didn't
-seem amused. He was probably busy or something, but he left me alone
-with the rest of the small crowd that had gathered. Which, when I
-stopped the show, were also on their way to something more interesting
-or their duties, whatever came first.
+other about him, right? The manager left us alone after that, although he didn't
+seem amused when he elbowed his way out of the ring that had organized
+itself. He was probably busy or something, and I was relieved. The
+small crowd that was milling about there remembered they were required somewhere else
+as soon as I
+stopped the show and were also on their way to something more exciting
+or their duties, whatever came first. So I was left alone with Manuel
+in shallow disguise.
 
 Sometimes the easiest way to hide something is to show it in plain
-sight. But you don't have to push it too far: in a while it was in the
+sight. But you don't have to push it too far: from there I took it to
+my carriage, and in a while it was in the
 possum belly of my carriage, something he did largely by himself by
-catching the beam under the carriage belly and pulling himself up. I
+catching the beam under the carriage belly and pulling himself up. It
+was only the second or third time I was let with Manuel all by myself,
+and I really started to why the thing was so wonderful and was coveted
+by so many people. So flexible, so strong. So obedient. And so
+cute. Why aren't there so many of them? They're the spawn of
+capitalism, you say, Dale? Please, go ahead. I'm listening. It might
+seem as if I'm sleeping, but I'm not, I swear, I love revolutionary
+rhetoric as much as the next man.
+
+Mechanical workers or the gears of capitalist evil
+--------------------------------------------------
+
+Don't you what this spawn of capitalist evil is really like? I, Henry
+Dale, don't call me Hatless, call me Daring Dale, since I dare, and I
+dare for the revolution, which is freedom for all people. Freedom that
+will be taken away from us if this nefarious thing takes over from the
+honest worker.
+
+Can't you see it? Never sleep, never die and if they do they are fixed
+or replaced. Never tire, never do anything that is not required from
+them. How can you not see that? They don't drink, they don't
+dance... well, they dance, OK, they dance, but listen to Henry Dale,
+they dance to the tune of capitalism! No worker will be able to earn
+his wage if all industries, all companies are subdued by these
+tireless robots! They must be destroyed and I've heard enough. Help me
+or I'll do it all by myself!
+
+
+Flying with mechs
+-----------------
+
+Hey, hold that guy! What's with him? Take the torch away from him or
+he'll, well, do not much to Manuel, but maybe make him a bit
+sooty. Anybody? Nobody? Well, since I have the driving box right here,
+what do you want? A cat-and-mouse game or an uppercut? Uppercut it is,
+then. Yay! Sorry, guy, didn't want to hurt you, but you seemed out of
+your mind. Don't run!
+
+Well, he's run so he's going to miss the last part of the story. Where
+was I before the rant? Yes, the perfect worker was under the belly of
+the carriage, where we usually carried clothes and whatnots and the
+occasional Tracy. 
+I
 covered it with lots of stuff, ropes, cabling, and anything I could
 find there. The platform was sagging due to weight. It probably
 couldn't stand a long trip, but I intended to alight it as soon as I
@@ -2622,10 +2695,232 @@ possibly could.
 
 We were going to the train station as soon as the performance was
 over. Next stop for the circus, DeLand. Next stop for me, freedom and
-financial independence for me. By way of Hobos Depot, where I am right
-now. 
+financial independence. By way of Hobos Jungle, where I am right
+now. But that was not gonna happen. At least not as intended.
 
-*revise and write*
+The camp was lifted a while after the last show. Carriages were
+dragged using horses and trucks to the train station, and I struck a
+conversation with Guy Hillcrest, the octoroon, who always knew
+everything and was a good proxy for the trainmaster, who was the one
+that actually organized the trip. 
+
+"Take a good pee, Full." They called me Full. Not Fool. *You* are fools. 
+
+"Why? Ain't we stopping after a while?" I asked as if I cared. Which I did. 
+
+"No, not this time. We'll try to make good time to Lake City. Please
+get your stuff together and get ready for the long haul." Not the long
+haul, please, I thought. No way I could make it with everybody around
+when we arrived. No way. I was going back to take a pee by the rail
+tracks. And then I saw you. Yes, you, Duke.
+
+Helping those who help you
+--------------------------
+
+Yes, young man, just that day I had felt the need to be on the road
+again to visit the ducal house and since that was the first train that
+was getting formed in Freedomville, I thought of buying myself a
+ticket in first class to travel as far as it would take. 
+
+These kinds of vehicles are, to tell you the truth, not my favorite
+way of conveyance to my destiny. Razorbacks might be worse than
+brakemen and they can be brutal if they find you in *their*
+train. Plus you can be shanghaied and surgically changed to become part
+of the menagerie. Don't protest, I know it from first or maybe no more
+than second or third hand, that happens.
+
+But the ducal house was beckoning and I couldn't find anything else
+that precise night a couple of days ago. Jesus! Just a few
+days and you are like the child I had and was taken away from me by
+these revolutionary bastards! I thank God Hatless has gone away for
+good, I couldn't stand his very sight! That bastard cheap bum! I could
+curse him all the way to Chattanooga and still have some to go. Leech! 
+
+Making a hot box
+----------------
+
+In fact, he will continue cursing this way until dawn if we just give
+him a chance, which will not help us hear the story. Allow me,
+Wireless Jim, to continue with it for the benefit of those of you who
+weren't there. I wasn't either but I got it, you know, from the radio,
+I can hear the radio in my mind and it tells me about things that have
+happened or could happen or will happen in the future. It's talking
+right now, for you, for all, about war, war in Europe, which is not of
+our concern, but could be, you know. 
+
+But, unlike our Duke here, I don't let myself be carried by the
+voices, wireless is here to keep you company and I'm here to relate what
+happened. After being spotted by that guy named Guy, you dig it, guy
+the Guy, ain't that a crack, and the guy a cracker, that's even
+funnier, I can hear the laughs, this guy spotted Duke or maybe he just
+smelled it as a distance, really, Duke, take a hike to Lemonade
+Springs and dive there, fully clothed, or hear this word from our
+sponsors, Ivory Soap, makes your skin smell like something it's never
+done before, back to the Duke who was spotted crouching there, by the
+side, and ready to run and this guy Guy was going to call somebody to
+kick him in an artistic way but then Full, our very dear Half and
+Half, jumped up to the occasion and there he was, "Let me take care of
+him, I'll show him." Or something to that tune, but instead of kicking
+him in the ribs, he took him to his carriage, bought him a drink,
+yessir, a drink for our Duke, and then asked him a question. "You know
+trains, do you."
+
+Why did he ask that question, you say? Or better, why did he invite
+and treat our Duke? Out of generosity, since we all know this Half and
+Half of ours is the kind of guy who is always generous to fellow
+citizens with boobs, and that's not the case of our Duke, or rather
+is, man, you're fat, ain't you, there he is, still cursing, it will
+not slim you down even a bit, but there you go, our Half and Half
+wanted to stop the train not to far and Duke, who knows trains as if
+he owned them, that is rich, because he *actually* owned them, and
+you're not laughing, explained him how to create a hot box. Which I'll
+explain in a moment, as soon as this station starts the Popular
+Mechanics program. Right now... it's happening.. now.
+
+Well, I'm glad you ask that question, dear Juan from Palatka, because
+having a hot box is not something that should be wished on anybody
+except maybe whatever capitalist pig comes your way. Well, well, a hot
+box happens, when it does, when whatever carries an axle, you know
+what's an axle, right, you should since you seem to be acquainted at
+least with these terms, gets too hot for comfort and maybe for
+continuing being solid. Well, you say here you want to know how can
+that happen, right? I expect that if you want to *actually* do it, my
+dear friend, is only for the greater good of the Republic but anyways
+rest assured your friendly neighborhood Guard has been duly notified,
+ha ha, just joking, we all know you're a good citizen even if your
+real name is not Juan but Jaime, ha ha, actually not joking *at all*
+now. So I'm not telling you how to do that. And that's all from your
+Popular Mechanics program. 
+
+But our Duke, yes, our Duke, didn't have any qualms about telling this
+young boy, yes, for a good reason, maybe for a good reason, let's just
+all agree that's it's a good reason, will we? Well, well, so he up and
+told him that it was a matter of taking a few rags out of the box or
+just cleaning up the oil. Easy as peaches, right? And then you have a
+train running in the dark, there goes the train, full of hopes, of
+dreams, of elephants, oh boy the stink of the elephants, and what will
+happen to then when the train derails, oh boy, what will happen to
+them? 
+
+We'll tell you. After the break for public service announcements. 
+
+Fast train burning
+------------------
+
+And this is your friend Wireless Jim, talking from the People's Voice,
+or rather My Own Voice, but I am part of the People, so it's People's
+Voice anyways, don't you think so? Yes it is and I remind you we left
+our heroes, Fulgencio and Reuben Poole, also known to his friends and
+foes alike as Duke of Poo, don't take this in a bad way, a Duke is a
+Duke and he know his shit, ha, ha, that's rich, which in this case is
+how to derail a train, something he know so well he might as well have
+done it a couple of times, no offense, here, Duke, we're all fellow
+hobos in the Jungle here, don't care if you did it out of spite after
+they were oh so callously taken away from you, no? Ah, before that,
+for insurance, and it was a coal train, so no death of human being
+involved, only a big payment from the insurance company, which is good
+and well and even revolutionary if you ask me! Three hoorays for our
+friend Reube Poole The Comrade of Poo!
+
+This comrade was rather worried, after a while, a good while, of what
+was going on a few carriages in front of him. He could see the sparks,
+o beautiful sparks, lighting the night, but harbingers of doom and
+derailment and general maiming. And he asked Fulgencio about the
+trainmaster and his whereabouts and whether anybody was checking for
+that kind of things, which is what any sensible person in charge of
+trains should do, but nobody was doing squat and the Duke was fretting
+and Fulgencio was fretting and the little mech was just sleeping under
+the carriage, oblivious of anything happening around him or not, who
+knows what's in the gear and machinery mind of those things. 
+
+It was exactly the opposite which seemed to be in our friend
+Fulgencio's mind, as if there were anywhere else there any time. "Save
+the mech, he though, save him." Not save it, he was "him" already for
+him, what with having saved his life and all, you know, his buddy, his
+friend, a friend he had been paid to retrieve and he was going to give
+back after the second installment, but friends to that for each other
+all the time, mainly if they have no say in it, right? Is that the way
+of the revolution? Well why not? Besides, he wanted to save it and he
+picked up the driving box and, blindly, moved it back and forth from
+under the carriage until he could see his face, and then, deftly
+moving it in the flatbed platform, jumped in the direction of the
+train. Yay it jumped!
+
+What happened then? You all want to know? Did he crash and burn and
+killed an elephant puppy? No he didn't! Did he fall straight on
+another rail and kept running parallel to the train, extending its
+arms and picking the Duke and Fulgencio in his arms with love as if he
+were his tin grandfather? No he didn't! Did he...?
+
+
+Jumping Fulgencio
+-----------------
+
+Will you shut the fucking fuck up, Jim? Hell, we could be here the whole night
+listening to your description of a train whistle! Here, have a drink
+on me, and let me continue with the story, our story. Duke, want to
+say something? He's asleep, which is just as well.
+
+No, Gummy, Manuel didn't pluck us from the train with its strong arms and deposit us safely
+in the ground. In fact, he was first to go and then we jumped a few hundred
+yards from him when the train slowed down to go uphill. And then it
+was a matter of walking down the tracks until we found him lying in
+the bushes. There was much whining and huffing by the part of our
+Duke, whose feet are not made for this kind of things, but other than
+that it was no big deal.
+
+No, we didn't turn back to say goodbye to all that. Goodbye to Tracy,
+to sawdust and elephant dung and to waking up and not knowing where
+you were or, what's more important, where the reason you were there
+was at that particular moment. From that moment until now and from now
+until delivery, Manuel will be close to me and that will be that. 
+
+The train didn't say goodbye to us, either. If they didn't crash, I
+doubt they would notice me missing. Or the mech, for that matter,
+since whoever cared to thing about it would think it was in the Navy
+station at Pensacola. Maybe, some time from now, somebody will find a
+Manuel poster among others and will wonder where the hell it will be
+and why it's not returned. 
+
+Rufus, that's another story. Their deal with the bohunks must have
+gone sour. But it's not as if he can go back to the circus and say,
+"Hey, did I happen to leave a mech lying around somewhere? I need it
+for, you know, the naval station thing" because by that time somebody
+must have called the naval station and the guards must be on him. If I
+pity him, you ask, Gummy? Well, if I stop to think about it, yes,
+well, a bit. But, you know, it's a tough ride. At least I did it when
+he was away from the clowns. 
+
+Tracy... well, she's a piece of work, she'll manage pretty well
+without me or, for that matter, without anybody else. Mark my words,
+she'll get far, is what I say.
+
+All that left with the train. Except Rufus, who was somewhere
+else. And we had to get somewhere from Nowhere depot, where we had
+fallen. And all we had was a little money in the kick, a veteran hobo
+and a perfectly serviceable mech that was, in fact, a bit the worse
+for wear. 
+
+The cool part was when we actually rode the mech. No, not in the
+actual rails, but the track was wide enough to ride inside. And the
+mech was strong enough to 
+fit us riding piggyback on it. Well, one of us piggyback, that was me,
+and the other standing somewhere and hanging on to his arms. That was
+way cool. No, we hadn't 
+thought what we were going to do if another train came our way. I
+guess jump and fuck the mech to hell. But it just didn't happen. 
+
+Besides, we didn't ride all the way back to the station, the fuel in Manuel, hey, that
+sounds nice, was petering out and we just went to the closest water
+depot and waited for the next train, inbound or outbound, did not
+matter. And eventually we arrived here.
+
+End of the story. Applause, applause. Tomorrow I'm taking the weekly
+coal train to, well, does not matter, away from here and we might not
+see each other again. So let's drink and dance and be merry. Yes,
+Manuel will dance too.
+
+*revise*
 
 
 With the hobos around the fire
@@ -2638,15 +2933,147 @@ steps away from the fire, out of fuel or simply not working. Fulgencio
 just spat at the fire, raising a small flame that made José look alive
 for a brief moment. 
 
-Fulgencio had found this group in a rail yard in Tallahassee when
-descending from a train, trying to be unobtrusive. But there was no
+Fulgencio had found this group in the rail yard in Tallahassee, trying to be unobtrusive. But there was no
 way he could pull that out while 
-being trailed by a two hundred and fifty pound walking cash register,
-and he was immediately hailed by them and asked to join them by the
-fire. Liquor was passed, bread and cheese shared, and histories
+being trailed by a two hundred and fifty pound walking cash register.
+He was immediately hailed by them and asked to join them by the
+fire even before they saw the Duke. Liquor was passed, bread and cheese shared, and histories
 and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
+
+Now it was time to leave this jungle and deliver. Enough time had passed for any
+pursuer to quiet down and in a few hours he would be contacting the
+Pinkerton office in Tallahassee. They would be taking care of him and
+the mech and he would get a few months of rest in his home base in
+Albuquerque. 
+
+He loaded Manuel in a buggy, secured it with ropes and covered it with
+burlap and blankets he'd gathered these days in the jungle. It was
+heavy, tiring work but the best way to go unnoticed when he walked to
+downtown.
+
+He left the switchyard to a convenient opening the hobos had shown him
+and started to drag the buggy towards the city. Nobody noticed him and
+nobody paid attention to him, he could be any collective farm  or
+factory worker doing an errand in the middle of the day. He passed
+armed guards, party officials in uniform, American refugees begging,
+being this town close to the border, it would not take long before
+they were picked up by guards and forcefully assigned some job
+somewhere. Quite a few cars surrounded by smoke plied the streets, but
+there were even more bicycles. 
+
+From Railroad avenue he made a right in Neamathla street, where he
+noticed some armed mechs guarding the doors of the official buildings there. They had that tarnished
+look, and the legs, Manuel had had at the beginning of its life, but
+their arms ended in blunt guns and sharp bayonets. When he went past
+them, Manuel started to shake and move towards them with its wheels,
+all by itself. It was well tied and it didn't manage to get himself
+loose, but if he kept trying for a while he would probably manage to
+do it. And the mechs were starting to turn their heads in their
+direction. That wasn't good. He started to hurry, but there was not
+much he could do with so many pounds in drag. Pinkerton office was not
+so far away, at All Races and Boulevard St. a couple of blocks away,
+but he was seeing a few more mech guards and he doubted he could make
+it.
+
+And then a white truck, dirty with mud, stopped by him. On its bed a
+woman dressed in overalls and a straw hat stood up and jumped to land
+by him. She was muddy and dirty and smelled of cow dung, but it was
+Tracy. 
+
+"Need a ride?" She said without blinking and a nod to the closest
+mechanic guards.
+
+"Hell, yes!" They slid down the truck bed a couple of boards to be
+used as ramp and dragged the buggy up it to a rest in the truck
+bed. They secured it there with a few more ropes and chains. 
+
+He opened his mouth to question Tracy, but she just sat down and
+looked pointedly at some Guards that were approaching them from
+behind. She remained that way until they entered a warehouse in the
+outskirts of town. The door was half open, and when the driver came
+down from the cabin he realized it was the same person that had
+debriefed him in the Pinkerton Albuquerque office, a big black guy
+that went by the name of Cyrus. That was the one he expected so he
+directed all his attention to Tracy.
+
+"How come? I mean, how come? Are you...?" Tracy was cleaning her face
+and didn't even make an attempt to greet him in anyway. She seemed
+about to leave to an office at the end of the warehouse, which was
+filled with machinery of different kinds, some covered with tarps. 
+
+"Same as you, Frank." He was a bit startled to listen to his real name
+spoken by her, whom he had met in very different circumstances. "A
+Pinkerton agent on a mission."
+
+"And a successful mission, Frank. Congratulations!" Cyrus interjected,
+shaking his hand with both his. A couple of persons were descending
+from the office, one of them shouting.
+
+"Here's my man!" He hugged Fulgencio, or Frank, and patted him in the
+back. "I knew you would make it." 
+
+"Did you?" Frank pushed him away. "Yes, you did, did you? So you sent
+Tracy..." 
+
+"Claire. In fact, her name is Claire and she comes from our office in
+St. Louis."
+
+"Thanks, Gary, many thanks, I was doing pretty well without her,
+thank you, and in fact, I put my ass on the line for her several
+times..." 
+
+"Yes, Frank, you acted as a team, that's all we ask from Pinkerton
+agents. Even if you don't know you're in the same side. Rest assured,
+Frank, we all acknowledge your contribution to the cause an' all..."
+
+"If you had told I had a team we could..."
+
+"Yes, of course, it would have added a kink more to your lovemaking,
+wouldn't it? Fucking a Pinkerton agent and all... Not to mention it
+would have made you an asset being able to spill the beans on your two
+team members?"
+
+"Two? Was there another one besides Tracy, I mean, Claire?"
+
+"Did I say two?" Said Gary, acting surprised. "Silly me, I meant one,
+our beautiful and loyal Claire, as good as two."
+
+He'd lost sight of the white muddy truck with Manuel on it. 
+
+"What now?" Said Frank.
+
+"In a couple of days you're taking the airship to Albuquerque, take
+one week, or two, and report to the office there." 
+
+"I knew that, man. I meant what happens to Manuel." 
+
+Gary smiled broadly.
+
+"I don't think you should be concerned with that. You mission is over,
+and we are all very grateful for it. But I can tell you that he's been
+taken to one such Doctor Tesla for examinations. And then, who knows."
+
+"This Doc. Will he break it up? It's working perfectly, you know."
+Frank Said.
+
+"Of course it is, my good boy, of course it is. What it's not is your
+concern right now. Take a rest now, write your reports when you're
+done, and then go back home." Said Gary, giving him the back and
+returning to the office. He motioned the man who had come with
+him. "Clark, show him around and keep him comfortable, cuddle him if
+he asks to. He's a hero of the democracy and the American dream, you
+know."
+
+"And who isn't?" Answered Clark. "C'mon, boy, it's over now, let's
+go."
+
+"Yes, over and out. All over and all out." Answered Frank, and he
+accompanied Clark without saying another word.
+
+*revise*
+
 
 Table of contents
 ----------------------
