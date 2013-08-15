@@ -7,6 +7,8 @@ hoborg
 A dieselpunk novel with Spanish-created robot hobos in a balcanized
 America at the beginning of the XX century. 
 
+The novel is completed and [available in Amazon.com for a dollar](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=1HG3N2ZNW9C40MFDC9WP&) 
+
 Build status
 ---------------
 
@@ -34,7 +36,9 @@ How you can help
 After four paragraphs, you might have already realized English is not my
 main language. Sending me corrections  is not the only way you can help
 
-* You can just [follow @hoborg_novel on Twitter](http://twitter.com/hoborg_novel) and interact with it.
+* You can just
+  [follow @hoborg_novel on Twitter](http://twitter.com/hoborg_novel)
+  or [Facebook](https://www.facebook.com/ManuelTheMagnificent) and interact with it.
 * Get a [GitHub account](http://github.com).
 * Watch, star or fork this repo. You don't need to do anything else.
    for the time being, but it will help me achieve some visibility.
@@ -66,7 +70,7 @@ to follow you in Twitter.
 Start reading and participating
 ---------------------------------------
 
-Just go to [the novel](text/text). You can also [read about the characters](text/characters), although doing so might result in spoilerage. 
+Just go to [the novel](text/text). You can also [read about the characters](text/characters), although doing so might result in spoilerage, or about the [geography of the Republic of Florida](text/geography).
 
 How this can help
 -----------------------
@@ -81,7 +85,9 @@ the novel text itself as well as scraps we might need for
 later. [resources](resources/README) contains HTML templates,
 images and other non-text stuff. [apps](apps/README) includes
 conversion scripts and other mainly Perl scripts I use for managing
-this. 
+this. [Text-Hoborg](Text-Hoborg/README) contains a Perl module that is
+used for testing and continuous integration and might eventually
+contain the novel itself and be released that way. 
 
 Get in touch
 ---------------
