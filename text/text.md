@@ -3053,7 +3053,7 @@ He'd lost sight of the white muddy truck with Manuel on it.
 
 "What now?" Said Frank.
 
-"In a couple of days you're travelling  to Albuquerque via airship and
+"In a couple of days you're traveling  to Albuquerque via airship and
 a few stops in the middle. Don't worry, it's going to be safe and, for
 the time being, nobody seems to have missed a mechanical man
 anywhere, although the circus may have reported your other identity
