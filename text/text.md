@@ -1,16 +1,16 @@
 Manuel, the Magnificent Mechanical Man: A novel.
-=======================================================
+==================================
 
 Prologue
 -----------
 
-This novel is released under a free license. Please check [its web for
+This novel is released under a free license, please check [its web for
 details](http://github.com/JJ/hoborg). You can help by proof-reading,
 forking (that is, creating your very own copy and changing it to your
-liking), or just talking about it.  You can follow events related to it [in
+liking) or just talking about it.  You can follow events related to it [in
 Twitter @hoborg_novel](http://twitter.com/hoborg_novel) and
 [Facebook](https://www.facebook.com/ManuelTheMagnificent) and also, if
-you like it, buy it in Amazon, for instance
+you like it, buy it in any of the Amazon instances, for instance
 [in Amazon.com](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=16QNPK4SMEZDPPSBY44Q&). 
 
 
@@ -25,12 +25,12 @@ And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
-I didn't really liked it, or even the idea of it, but I had no other
+I didn't really liked it or even the idea of it, but I had no other
 way out than be attached to it. On the other hand, the
 public... filled with brothers, of my own race, of the other races
 that had been oppressed since they arrived to this land or since the
 paleface newcomers arrived. Even palefaces, because all races are one
-and the same in the People's Republic, ain't that?
+and the same in the People's Republic, ain't it?
 
 But I am not a paleface, because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
@@ -2940,36 +2940,40 @@ became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
 
 Now it was time to leave this jungle and deliver. Enough time had passed for any
-pursuer to quiet down and in a few hours he would be contacting the
+pursuer to quiet down and in a few hours he would be reporting at the
 Pinkerton office in Tallahassee. They would be taking care of him and
 the mech and he would get a few months of rest in his home base in
-Albuquerque. 
+Albuquerque. And he eventually would get to meet his parents and a few
+friends.
 
 He loaded Manuel in a buggy, secured it with ropes and covered it with
-burlap and blankets he'd gathered these days in the jungle. It was
-heavy, tiring work but the best way to go unnoticed when he walked to
-downtown.
+burlap pieces and blankets he had gathered these past few days in the jungle. It was
+heavy, tiring work best left to beast or to Manuel himself but the best way to go unnoticed when he made his
+way walking towards downtown.
 
-He left the switchyard to a convenient opening the hobos had shown him
-and started to drag the buggy towards the city. Nobody noticed him and
-nobody paid attention to him, he could be any collective farm  or
-factory worker doing an errand in the middle of the day. He passed
+He left the switchyard through a convenient opening the hobos had shown him
+and started to drag the buggy towards the city. Nobody noticed him
+getting out and
+nobody paid him any attention after that, he could be any worker from
+a collective farm  or
+factory  doing an errand in the middle of the day. He passed
 armed guards, party officials in uniform, American refugees begging,
-being this town close to the border, it would not take long before
-they were picked up by guards and forcefully assigned some job
+being this town close to the border; it would not take long before
+they were picked up by Guards and forcefully assigned some job
 somewhere. Quite a few cars surrounded by smoke plied the streets, but
-there were even more bicycles. 
+there were even more bicycles and more than a few horse-drawn carriages. 
 
-From Railroad avenue he made a right in Neamathla street, where he
-noticed some armed mechs guarding the doors of the official buildings there. They had that tarnished
+From Railroad Avenue he made a right in Neamathla street, where he
+noticed some armed mechs guarding the doors of the official buildings
+there. They had that tarnished 
 look, and the legs, Manuel had had at the beginning of its life, but
 their arms ended in blunt guns and sharp bayonets. When he went past
 them, Manuel started to shake and move towards them with its wheels,
-all by itself. It was well tied and it didn't manage to get himself
+all by itself. It was well tied and it did not manage to worry himself
 loose, but if he kept trying for a while he would probably manage to
 do it. And the mechs were starting to turn their heads in their
 direction. That wasn't good. He started to hurry, but there was not
-much he could do with so many pounds in drag. Pinkerton office was not
+much he could do with so many pounds in tow. Pinkerton office was not
 so far away, at All Races and Boulevard St. a couple of blocks away,
 but he was seeing a few more mech guards and he doubted he could make
 it.
