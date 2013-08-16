@@ -2928,21 +2928,26 @@ With the hobos around the fire
 
 "I'm gonna get me one of those dummies, I'm gonna do it" The first
 hobo announced, with just a hint of a threat in his voice, veiled by
-the amount of moonshine he had already taken. José sat slumped a few
-steps away from the fire, out of fuel or simply not working. Fulgencio
+the amount of moonshine he had already taken. Manuel sat slumped a few
+steps away from the fire, out of fuel or simply not working. Frank,
+also known as Fulgencio
 just spat at the fire, raising a small flame that made José look alive
 for a brief moment. 
 
-Fulgencio had found this group in the rail yard in Tallahassee, trying to be unobtrusive. But there was no
+Frank had found this group in the rail yard in Tallahassee, trying to be unobtrusive. But there was no
 way he could pull that out while 
 being trailed by a two hundred and fifty pound walking cash register.
 He was immediately hailed by them and asked to join them by the
-fire even before they saw the Duke. Liquor was passed, bread and cheese shared, and histories
+fire even before they saw the Duke. Liquor was passed, bread and
+cheese shared, mulligan stew cooked and histories
 and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
 
-Now it was time to leave this jungle and deliver. Enough time had passed for any
+Now it was time to leave this jungle and deliver the goods. And it was
+not going to be in a coal train to somewhere, but by foot to the city
+they were in.
+Enough time had passed for any
 pursuer to quiet down and in a few hours he would be reporting at the
 Pinkerton office in Tallahassee. They would be taking care of him and
 the mech and he would get a few months of rest in his home base in
@@ -3048,32 +3053,37 @@ He'd lost sight of the white muddy truck with Manuel on it.
 
 "What now?" Said Frank.
 
-"In a couple of days you're taking the airship to Albuquerque, take
-one week, or two, and report to the office there." 
+"In a couple of days you're travelling  to Albuquerque via airship and
+a few stops in the middle. Don't worry, it's going to be safe and, for
+the time being, nobody seems to have missed a mechanical man
+anywhere, although the circus may have reported your other identity
+missing for work. No big deal, anyways. When you've arrived there,  take
+one week, or two, and then report to the office." 
 
-"I knew that, man. I meant what happens to Manuel." 
+"I knew that, man. I meant what is going to happen to Manuel." 
 
 Gary smiled broadly.
 
 "I don't think you should be concerned with that. You mission is over,
-and we are all very grateful for it. But I can tell you that he's been
+and we are all very grateful for it, your country is too, and you'll
+be duly rewarded. But I can tell you that he's going to be
 taken to one such Doctor Tesla for examinations. And then, who knows."
 
-"This Doc. Will he break it up? It's working perfectly, you know."
+"This Doc. Will that doc break it up? It's working perfectly, you know."
 Frank Said.
 
 "Of course it is, my good boy, of course it is. What it's not is your
-concern right now. Take a rest now, write your reports when you're
-done, and then go back home." Said Gary, giving him the back and
+concern right now or any time in the future. Take a rest now, write your reports when you're
+done with that, and then go back home." Said Gary, giving him the back and
 returning to the office. He motioned the man who had come with
 him. "Clark, show him around and keep him comfortable, cuddle him if
 he asks to. He's a hero of the democracy and the American dream, you
 know."
 
-"And who isn't?" Answered Clark. "C'mon, boy, it's over now, let's
+"And who isn't?" Clark said. "C'mon, boy, it's over now, let's
 go."
 
-"Yes, over and out. All over and all out." Answered Frank, and he
+"Yes, over and out. All over and all out." Answered Frank. He
 accompanied Clark without saying another word.
 
 *revise*
