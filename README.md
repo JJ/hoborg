@@ -1,7 +1,7 @@
 hoborg
 ======
 
-A dieselpunk novel with Spanish-created robot hobos in a balcanized
+A dieselpunk novel with a Spanish-created robot hobo in a balkanized
 America at the beginning of the XX century. 
 
 The novel is completed and [available in Amazon.com for a dollar](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=1HG3N2ZNW9C40MFDC9WP&) 
