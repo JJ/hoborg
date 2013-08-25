@@ -5,7 +5,7 @@ use strict;
 use Carp;
 use File::Slurp 'read_file';
 
-use version; our $VERSION = qv('0.0.4');
+use version; our $VERSION = qv('0.0.5');
 
 our @appendices = qw(characters.md geography.md); #auxiliary and additional files
 
@@ -61,12 +61,12 @@ __END__
 
 =head1 NAME
 
-Text::Hoborg - Just a placeholder for spell checking. Might have more stuff
+Text::Hoborg - Spell-and-quality check for texts, including novels. 
 
 
 =head1 VERSION
 
-This document describes Text::Hoborg version 0.0.1
+This document describes Text::Hoborg version 0.0.5
 
 
 =head1 SYNOPSIS
@@ -75,8 +75,11 @@ This document describes Text::Hoborg version 0.0.1
     
 =head1 DESCRIPTION
 
-This module loads the novel so that transformation can be done on
-it. It should know where the text is placed. 
+This started as a spell and quality check for my novel, "Manuel the
+Magnificent Mechanical Man". Eventually, it can be used for checking
+any kind of markdown-formatted text, be it fiction or non-fiction. It
+includes, as documentation, the novel itself and also in the test
+directory the markdown source. 
 
 =head1 INTERFACE
 
@@ -92,7 +95,14 @@ Returns the text in original format
 
 Returns the name of the text file
 
+=head2 dir
 
+Returns the dir the source file is in. Since this is managed from the
+object, it is useful for other functions
+
+=head2 appendices
+
+Returns an array with the appendices that go with the novel
 
 
 =head1 DEPENDENCIES
