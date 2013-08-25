@@ -15,7 +15,8 @@ use version; our $VERSION = qv('0.0.3');
 use Spreadsheet::ParseExcel;
 
 
-our @columns = qw( title author ASIN transaction sales returned sold_or_lent lending_rate avg_list_price avg_sale_price file_size shipping royalties );
+our @columns_13 = qw( title author ASIN transaction sales returned sold_or_lent lending_rate avg_list_price avg_sale_price file_size shipping royalties );
+our @columns_12 = qw( title ASIN transaction sales returned sold_or_lent lending_rate avg_list_price avg_sale_price file_size shipping royalties );
 
 # Module implementation here
 
@@ -24,12 +25,13 @@ sub new {
   my $file_name = shift || croak "No file name";
   my $parser = Spreadsheet::ParseExcel->new();
   my $sheet = $parser->parse($file_name);
-  my ($date ) = ( $file_name =~ /report-(\S+).xls/);
+  my ($month,$year ) = ( $file_name =~ /report-(\d+)-(\d+).xls/);
   if ( !defined $sheet ) {
     croak $parser->error(), ".\n";
   }
   my $self = { _sheet => $sheet,
-	       _date => $date };
+	       _month => $month,
+	       _year => $year};
   bless $self, $class;
   
   $self->_process(); #Process sheet 
@@ -41,10 +43,16 @@ sub _process {
   my $sheet = $self->{'_sheet'}->worksheet(0); # single sheet
   my ($row_min, $row_max) = $sheet->row_range();
   my ($col_min, $col_max) = $sheet->col_range();
+  if ( $col_max == 12 ) {
+    $self->{'_columns'} = \@columns_13;
+  } else {
+    $self->{'_columns'} = \@columns_12;
+  }
 
   my @shops;
   my $shop_index = 0;
   my $empty_row = 0;
+  my @columns = @{$self->{'_columns'}};
   for (my $r  = $row_min; $r <= $row_max; $r++) {
 
     my $first_cell_value = $sheet->get_cell( $r, 0 );
@@ -57,11 +65,11 @@ sub _process {
       }
     } else {
       $empty_row = 0;
-      my @columns;
+      my @column_data;
       for (my $c = $col_min; $c <= $col_max; $c++) {
-	push @columns, $sheet->get_cell($r, $c );
+	push @column_data, $sheet->get_cell($r, $c );
       }
-      push @{$shops[$shop_index]}, \@columns;
+      push @{$shops[$shop_index]}, \@column_data;
     }
   }
   
@@ -70,11 +78,12 @@ sub _process {
   #Now process shop data
   my @data;
   for my $s (@shops ) {
-    if ( $s->[4][1] ) { #Some sales
+    if ( $s->[3][1] ) { #Some sales
       my ($shop ) = ( $s->[2][0]->value() =~ /(Amazon\.\S+)/ );
-      for (my $r = 4; $r < @$s -1 ; $r++ ) {
+      for (my $r = 3; $r < @$s -1 ; $r++ ) {
 	my $month_sales = { shop => $shop,
-			    date => $self->{'_date'} };
+			    month => $self->{'_month'},
+			    year => $self->{'_year'}};
 	for (my $c = $col_min; $c <=$col_max; $c ++ ) {
 	  $month_sales->{$columns[$c]} = $s->[$r][$c]->value();
 	}
@@ -113,6 +122,28 @@ sub sales_by_product {
 
   }
   return $sales;
+}
+
+sub to_csv {
+  my $self = shift;
+  my $header = shift;
+  my @columns = ( 'shop', 'year', 'month', @columns_13 );
+  my $csv;
+  if ( $header ) {
+    $csv .= join(";", @columns )."\n";
+  }
+  for my $d ( @{$self->{'_data'}} ) {
+    my @row;
+    for ( my $c = 0; $c < $#columns; $c++ ) {
+      if ( $d->{$columns[$c]} ) {
+	$csv .= $d->{$columns[$c]}.";";
+      } else {
+	$csv .=";";
+      }
+    }
+    $csv .= $d->{$columns[$#columns]}."\n";
+  }
+  return $csv;
 }
 
 1; # Magic true value required at end of module
