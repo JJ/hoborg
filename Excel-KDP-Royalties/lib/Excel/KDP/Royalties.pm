@@ -79,7 +79,7 @@ sub _process {
   my @data;
   for my $s (@shops ) {
     if ( $s->[3][1] ) { #Some sales
-      my ($shop ) = ( $s->[2][0]->value() =~ /(Amazon\.\S+)/ );
+      my ($shop ) = ( $s->[2][0]->value() =~ /(Amazon.+)$/ );
       for (my $r = 3; $r < @$s -1 ; $r++ ) {
 	my $month_sales = { shop => $shop,
 			    month => $self->{'_month'},
