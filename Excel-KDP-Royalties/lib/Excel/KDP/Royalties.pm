@@ -78,7 +78,7 @@ sub _process {
   #Now process shop data
   my @data;
   for my $s (@shops ) {
-    if ( $s->[3][1] ) { #Some sales
+    if ( $s->[3][1] && ($s->[0][0]->value() !~ /^1/)) { #Some sales
       my ($shop ) = ( $s->[2][0]->value() =~ /(Amazon.+)$/ );
       for (my $r = 3; $r < @$s -1 ; $r++ ) {
 	my $month_sales = { shop => $shop,

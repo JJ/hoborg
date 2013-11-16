@@ -8,6 +8,7 @@ use  Excel::KDP::Royalties;
 my $test_file = 'kdp-report-7-2013.xls';
 my $another_test_file = 'kdp-report-9-2012.xls';
 my $and_another_test_file = 'kdp-report-8-2013.xls';
+my $yet_another_test_file = 'kdp-report-10-2013.xls';
 
 if (! -e $test_file ) {
   $test_file = "t/$test_file";
@@ -29,5 +30,8 @@ is( $royalties->unit_sales('Amazon.co.uk'), 2, "Sales in amazon.co.uk");
 
 $royalties = new Excel::KDP::Royalties $and_another_test_file;
 is( $royalties->unit_sales('Amazon IN'), 3, "Sales in amazon IN");
+
+$royalties = new Excel::KDP::Royalties $yet_another_test_file;
+is( $royalties->unit_sales('Amazon Kindle BR'), 0, "Sales after oct 2013");
 
 done_testing()
