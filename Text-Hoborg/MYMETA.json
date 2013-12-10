@@ -1,10 +1,10 @@
 {
-   "abstract" : "Just a placeholder for spell checking. Might have more stuff",
+   "abstract" : "Spell-and-quality check for texts, including novels. ",
    "author" : [
       "JJ Merelo <jj@merelo.net>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.132140",
+   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120630",
    "license" : [
       "unknown"
    ],
@@ -41,5 +41,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "v0.0.4"
+   "version" : "v0.0.5"
 }

@@ -33,5 +33,6 @@ is( $royalties->unit_sales('Amazon IN'), 3, "Sales in amazon IN");
 
 $royalties = new Excel::KDP::Royalties $yet_another_test_file;
 is( $royalties->unit_sales('Amazon Kindle BR'), 0, "Sales after oct 2013");
+is( $royalties->unit_sales('Amazon.co.uk'), 1, "Sales after oct 2013 Amazon.co.uk");
 
 done_testing()

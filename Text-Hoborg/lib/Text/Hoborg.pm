@@ -55,7 +55,7 @@ sub appendices {
 }
 
 
-"All over, all out, all over and out"; # Magic circus phrase
+"All over, all out, all over and out"; # Magic circus phrase said at the end of the show
 
 __END__
 
@@ -78,7 +78,7 @@ This document describes Text::Hoborg version 0.0.5
 This started as a spell and quality check for my novel, "Manuel the
 Magnificent Mechanical Man". Eventually, it can be used for checking
 any kind of markdown-formatted text, be it fiction or non-fiction. It
-includes, as documentation, the novel itself and also in the test
+includes, as documentation, the novel itself (check it out at L<Text::Hoborg::Manuel> and also in the test
 directory the markdown source. 
 
 =head1 INTERFACE
