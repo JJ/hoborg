@@ -9,13 +9,22 @@ BEGIN {
 use_ok( 'Text::Hoborg' );
 }
 
+my $dict_dir;
+
+if ( -e "/usr/share/hunspell/en_US.aff" ) {
+  $dict_dir =  "/usr/share/hunspell";
+} elsif  ( -e "data/en_US.aff" ) {
+  $dict_dir = "data";
+} else {
+  $dict_dir = "../data";
+}
 
 # You can use relative or absolute paths.
 my $speller = Text::Hunspell->new(
-				  "/usr/share/hunspell/en_US.aff",    # Hunspell affix file
-				  "/usr/share/hunspell/en_US.dic"     # Hunspell dictionary file
+				  "$dict_dir/en_US.aff",    # Hunspell affix file
+				  "$dict_dir/en_US.dic"     # Hunspell dictionary file
 				 );
-
+die unless $speller;
 
 my $hoborg = new Text::Hoborg;
 my $dir = $hoborg->dir();

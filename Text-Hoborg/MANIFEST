@@ -10,3 +10,6 @@ t/words.dic
 t/characters.md
 t/geography.md
 t/text.md
+data/en_US.aff		English affixes 
+data/en_US.dic		... and dicts
+

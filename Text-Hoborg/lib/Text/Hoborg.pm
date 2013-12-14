@@ -5,7 +5,8 @@ use strict;
 use Carp;
 use File::Slurp 'read_file';
 
-use version; our $VERSION = qv('0.0.5');
+use version; our $VERSION = qv('0.0.6'); #(Hopefully) first
+                                         #non-test-failing version
 
 our @appendices = qw(characters.md geography.md); #auxiliary and additional files
 
@@ -98,16 +99,22 @@ Returns the name of the text file
 =head2 dir
 
 Returns the dir the source file is in. Since this is managed from the
-object, it is useful for other functions
+object, it is useful for other functions.
 
 =head2 appendices
 
-Returns an array with the appendices that go with the novel
+Returns an array with the appendices included with the novel. It's
+used mainly for checking the spelling.
 
 
 =head1 DEPENDENCIES
 
-Text::Hoborg requires L<Text::Hunspell>. And the Hoborg novel L<http://jj.github.io/hoborg> should be somewhere
+Text::Hoborg requires L<Text::Hunspell>. And the Hoborg novel
+L<http://jj.github.io/hoborg> should be somewhere.  It also needs the
+C<en_US> dictionnary for C<hunspell>, which you can install with
+C<sudo apt-get install hunspell-en-us> , but since I found no way of expressing this
+dependency within Makefile.PL, I have added it to the C<data> dir,
+mainly
 
 =head1 AUTHOR
 

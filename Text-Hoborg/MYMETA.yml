@@ -23,4 +23,4 @@ requires:
   Test::More: 0
   Text::Hunspell: 2.08
   version: 0
-version: v0.0.5
+version: v0.0.6
