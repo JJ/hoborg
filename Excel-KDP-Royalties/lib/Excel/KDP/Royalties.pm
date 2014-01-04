@@ -16,6 +16,7 @@ use Spreadsheet::ParseExcel;
 
 
 our @columns_13 = qw( title author ASIN transaction sales returned sold_or_lent lending_rate avg_list_price avg_sale_price file_size shipping royalties );
+our @columns_13_2013 = qw( title author ASIN  sales returned sold_or_lent royalty_type transaction avg_list_price file_size avg_sale_price  shipping royalties );
 our @columns_12 = qw( title ASIN transaction sales returned sold_or_lent lending_rate avg_list_price avg_sale_price file_size shipping royalties );
 
 # Module implementation here
@@ -43,10 +44,12 @@ sub _process {
   my $sheet = $self->{'_sheet'}->worksheet(0); # single sheet
   my ($row_min, $row_max) = $sheet->row_range();
   my ($col_min, $col_max) = $sheet->col_range();
-  if ( $col_max == 12 ) {
+  if ( $col_max == 11 ) {
+    $self->{'_columns'} = \@columns_12;
+  } elsif ( $sheet->get_cell(0,7)->value() =~ /^P/ ) {
     $self->{'_columns'} = \@columns_13;
   } else {
-    $self->{'_columns'} = \@columns_12;
+    $self->{'_columns'} = \@columns_13_2013;
   }
 
   my @shops;
