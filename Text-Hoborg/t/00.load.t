@@ -34,16 +34,17 @@ diag( "Testing Text::Hoborg $Text::Hoborg::VERSION in $dir" );
 $speller->add_dic("$dir/words.dic");
 
 my @words = split /\s+/, $hoborg->text;
+my $word_re = qr/([\w\'áéíóúÁÉÍÓÚñÑ]+)/;
 
 for my $w (@words) {
-  my ($stripped_word) = ( $w =~ /([\w\'áéíóúÁÉÍÓÚñÑ]+)/ );
+  my ($stripped_word) = ( $w =~ $word_re );
   ok( $speller->check( $stripped_word), "Checking $stripped_word in text")   if ( $stripped_word ) ;
 }
 
 for my $a (keys %{$hoborg->appendices()}) {
   @words = split /\s+/, $hoborg->appendices()->{$a};
   for my $w (@words) {
-    ($stripped_word) = ( $w =~ /([\w\'áéíóúÁÉÍÓÚñÑ]+)/ );
+    ($stripped_word) = ( $w =~ $word_re );
     ok( $speller->check( $stripped_word), "Checking $stripped_word in $a") if ( $stripped_word ) ;
   }
 }
