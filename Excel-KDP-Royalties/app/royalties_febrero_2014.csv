@@ -1,0 +1,167 @@
+shop;year;month;title;author;ASIN;transaction;sales;returned;sold_or_lent;lending_rate;avg_list_price;avg_sale_price;file_size;shipping;royalties
+Amazon.com;2012;1;Er Ni�o La� (Spanish Edition);;B006H55AYS;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.es;2012;1;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;1;;1;N/A;0,86;N/A;N/A;N/A;0,30
+Amazon.com;2013;1;Er Ni�o La� (Spanish Edition);;B006H55AYS;Gratuita - Promoción;6;;6;N/A;1,04;0,00;N/A;N/A;0,00
+Amazon.com;2013;1;La revoluci�n ser� contagiada (Spanish Edition);;B0091L3IVC;35%;1;1;;N/A;1,99;N/A;N/A;N/A;0,00
+Amazon.co.uk;2013;1;Er Ni�o La� (Spanish Edition);;B006H55AYS;Gratuita - Promoción;2;;2;N/A;0,75;0,00;N/A;N/A;0,00
+Amazon.de;2013;1;Er Ni�o La� (Spanish Edition);;B006H55AYS;Gratuita - Promoción;1;;1;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2013;1;Er Ni�o La� (Spanish Edition);;B006H55AYS;35%;2;;2;N/A;0,86;N/A;N/A;N/A;0,60
+Amazon.es;2013;1;Er Ni�o La� (Spanish Edition);;B006H55AYS;Gratuita - Promoción;41;;41;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2013;1;La revoluci�n ser� contagiada (Spanish Edition);;B0091L3IVC;35%;8;2;6;N/A;1,73;N/A;N/A;N/A;3,66
+Amazon.es;2013;1;lujoyglamour.com (Spanish Edition);;B00B385JJU;35%;2;;2;N/A;0,95;N/A;N/A;N/A;0,66
+Amazon.com;2014;1;Introducci�n a JavaScript: C�mo hacer programas sencillos con JavaScript y node.js (Spanish Edition);;B00HXL8QA0;Estándar;3;;3;;1,05;N/A;0,26;N/A;1,11
+Amazon.co.uk;2014;1;Introducci�n a JavaScript: C�mo hacer programas sencillos con JavaScript y node.js (Spanish Edition);;B00HXL8QA0;Estándar;1;;1;;0,75;N/A;0,26;N/A;0,26
+Amazon.es;2014;1;La revoluci�n ser� contagiada (Spanish Edition);;B0091L3IVC;Estándar;1;;1;;0,91;N/A;1,21;N/A;0,32
+Amazon.es;2014;1;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);;B00CLOF224;Estándar;3;;3;;0,96;N/A;0,53;N/A;1,02
+Amazon.es;2014;1;Introducci�n a JavaScript: C�mo hacer programas sencillos con JavaScript y node.js (Spanish Edition);;B00HXL8QA0;Estándar;15;;15;;0,86;N/A;0,26;N/A;4,50
+Amazon.com;2013;10;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Estándar;1;;1;;1,00;N/A;0,40;N/A;0,35
+Amazon.com;2013;10;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Estándar;1;;1;;1,30;N/A;0,53;N/A;0,46
+Amazon.co.uk;2013;10;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Estándar;1;;1;;0,75;N/A;0,15;N/A;0,26
+Amazon.es;2013;10;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Estándar;1;;1;;0,91;N/A;1,21;N/A;0,32
+Amazon.es;2013;10;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Estándar;2;;2;;0,95;N/A;0,40;N/A;0,66
+Amazon.es;2013;10;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Estándar;6;;6;;0,97;N/A;0,53;N/A;2,05
+Amazon.com;2013;11;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;3;;3;;1,00;0,00;0,15;N/A;0,00
+Amazon.com;2013;11;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;2;;2;;1,08;0,00;0,26;N/A;0,00
+Amazon.com;2013;11;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Estándar;1;;1;;0,99;N/A;1,21;N/A;0,35
+Amazon.it;2013;11;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;2;;2;;0,86;0,00;0,26;N/A;0,00
+Amazon.es;2013;11;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Estándar;2;;2;;0,86;N/A;0,15;N/A;0,60
+Amazon.es;2013;11;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;12;;12;;0,86;0,00;0,15;N/A;0,00
+Amazon.es;2013;11;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;9;;9;;0,86;0,00;0,26;N/A;0,00
+Amazon.es;2013;11;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Estándar;1;;1;;0,91;N/A;1,21;N/A;0,32
+Amazon.es;2013;11;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Estándar;1;;1;;0,96;N/A;0,53;N/A;0,34
+Amazon.com;2011;12;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.es;2011;12;Er Ni�o La� (Spanish Edition);;B006H55AYS;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.es;2011;12;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;3;;3;N/A;0,86;N/A;N/A;N/A;0,90
+Amazon.es;2011;12;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;4;2;2;N/A;0,99;N/A;N/A;N/A;0,70
+Amazon.com;2012;12;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2012;12;Antalayolog�a (Spanish Edition);;B006JUNQNI;Gratuita - Promoción;5;;5;N/A;1,11;0,00;N/A;N/A;0,00
+Amazon.com;2012;12;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2012;12;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;Gratuita - Promoción;3;;3;N/A;2,09;0,00;N/A;N/A;0,00
+Amazon.es;2012;12;Antalayolog�a (Spanish Edition);;B006JUNQNI;Gratuita - Promoción;63;;63;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2012;12;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;35%;1;;1;N/A;1,73;N/A;N/A;N/A;0,61
+Amazon.es;2012;12;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;Gratuita - Promoción;41;;41;N/A;1,73;0,00;N/A;N/A;0,00
+Amazon.com;2013;12;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;2;;2;;0,99;0,00;0,15;N/A;0,00
+Amazon.com;2013;12;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Estándar;1;;1;;0,99;N/A;0,26;N/A;0,35
+Amazon.com;2013;12;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;2;;2;;0,99;0,00;0,26;N/A;0,00
+Amazon.com;2013;12;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Estándar;1;;1;;0,99;N/A;1,21;N/A;0,35
+Amazon.com;2013;12;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;3;;3;;1,00;0,00;0,40;N/A;0,00
+Amazon.co.uk;2013;12;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Estándar;1;;1;;0,75;N/A;0,15;N/A;0,26
+Amazon.de;2013;12;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;1;;1;;0,86;0,00;0,15;N/A;0,00
+Amazon.de;2013;12;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;1;;1;;1,00;0,00;0,40;N/A;0,00
+Amazon.es;2013;12;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;5;;5;;0,86;0,00;0,15;N/A;0,00
+Amazon.es;2013;12;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Estándar;1;;1;;0,91;N/A;1,21;N/A;0,32
+Amazon.es;2013;12;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;11;;11;;0,95;0,00;0,40;N/A;0,00
+Amazon.es;2013;12;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Estándar;1;;1;;0,96;N/A;0,53;N/A;0,34
+Amazon para México;2013;12;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;1;;1;;12,78;0,00;0,26;N/A;0,00
+Amazon.co.uk;2012;2;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2013;2;La revoluci�n ser� contagiada (Spanish Edition);;B0091L3IVC;35%;1;;1;N/A;1,99;N/A;N/A;N/A;0,70
+Amazon.com;2012;3;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;2;;2;N/A;1,14;N/A;N/A;N/A;0,80
+Amazon.es;2012;3;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;1;;1;N/A;0,86;N/A;N/A;N/A;0,30
+Amazon.com;2013;3;La revoluci�n ser� contagiada (Spanish Edition);;B0091L3IVC;35%;1;;1;N/A;2,25;N/A;N/A;N/A;0,79
+Amazon.es;2013;3;La revoluci�n ser� contagiada (Spanish Edition);;B0091L3IVC;35%;3;;3;N/A;1,48;N/A;N/A;N/A;1,57
+Amazon.es;2013;3;lujoyglamour.com (Spanish Edition);;B00B385JJU;35%;1;;1;N/A;0,95;N/A;N/A;N/A;0,33
+Amazon.com;2012;4;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.es;2012;4;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;1;;1;N/A;0,86;N/A;N/A;N/A;0,30
+Amazon.es;2013;4;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;35%;4;;4;N/A;0,99;N/A;N/A;N/A;1,40
+Amazon.es;2012;5;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;3;;3;N/A;0,86;N/A;N/A;N/A;0,90
+Amazon.com;2013;5;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;2;;2;N/A;1,29;N/A;N/A;N/A;0,90
+Amazon.de;2013;5;La Cuarta Taifa (Spanish Edition);Juan Julián Merelo Guervós;B006K5O9T2;35%;1;;1;N/A;0,89;N/A;N/A;N/A;0,31
+Amazon.es;2013;5;La Cuarta Taifa (Spanish Edition);Juan Julián Merelo Guervós;B006K5O9T2;35%;2;;2;N/A;0,99;N/A;N/A;N/A;0,70
+Amazon.es;2013;5;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;35%;5;;5;N/A;0,99;N/A;N/A;N/A;1,75
+Amazon.es;2013;5;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;35%;1;;1;N/A;0,95;N/A;N/A;N/A;0,33
+Amazon.es;2013;5;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;15;;15;N/A;0,99;N/A;N/A;N/A;5,25
+Amazon.es;2012;6;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2013;6;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;3;;3;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.es;2013;6;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;35%;3;;3;N/A;0,86;N/A;N/A;N/A;0,90
+Amazon.es;2013;6;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;51;;51;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2013;6;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.es;2013;6;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;35%;1;;1;N/A;0,95;N/A;N/A;N/A;0,33
+Amazon.es;2013;6;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.es;2012;7;La Cuarta Taifa (Spanish Edition);;B006K5O9T2;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2013;7;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;2;;2;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.com;2013;7;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;5;;5;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.com;2013;7;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;15;;15;N/A;1,00;0,00;N/A;N/A;0,00
+Amazon.com;2013;7;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Gratuita - Promoción;21;;21;N/A;1,08;0,00;N/A;N/A;0,00
+Amazon.co.uk;2013;7;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Gratuita - Promoción;3;;3;N/A;0,75;0,00;N/A;N/A;0,00
+Amazon.es;2013;7;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;35%;2;;2;N/A;0,86;N/A;N/A;N/A;0,60
+Amazon.es;2013;7;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;35%;2;;2;N/A;0,86;N/A;N/A;N/A;0,60
+Amazon.es;2013;7;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;46;;46;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2013;7;La Cuarta Taifa (Spanish Edition);Juan Julián Merelo Guervós;B006K5O9T2;35%;1;;1;N/A;0,89;N/A;N/A;N/A;0,31
+Amazon.es;2013;7;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;35%;3;;3;N/A;0,99;N/A;N/A;N/A;1,05
+Amazon.es;2013;7;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;35;;35;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.es;2013;7;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;35%;8;;8;N/A;0,95;N/A;N/A;N/A;2,64
+Amazon.es;2013;7;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;130;;130;N/A;0,95;0,00;N/A;N/A;0,00
+Amazon.es;2013;7;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;5;1;4;N/A;0,99;N/A;N/A;N/A;1,40
+Amazon.es;2013;7;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Gratuita - Promoción;187;;187;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.com;2012;8;Er Ni�o La� (Spanish Edition);;B006H55AYS;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2012;8;Peque�os Golpes y Mayores Fallos (Spanish Edition);;B006HV9PE8;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2012;8;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.com;2012;8;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;35%;13;;13;N/A;2,07;N/A;N/A;N/A;9,46
+Amazon.es;2012;8;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;35%;49;;49;N/A;1,73;N/A;N/A;N/A;29,89
+Amazon.com;2013;8;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;35%;1;;1;N/A;1,15;N/A;N/A;N/A;0,40
+Amazon.com;2013;8;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;4;;4;N/A;1,07;0,00;N/A;N/A;0,00
+Amazon.com;2013;8;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;35%;1;;1;N/A;1,15;N/A;N/A;N/A;0,40
+Amazon.com;2013;8;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;1;;1;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.com;2013;8;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;35%;1;;1;N/A;1,32;N/A;N/A;N/A;0,46
+Amazon.com;2013;8;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;15;;15;N/A;1,03;0,00;N/A;N/A;0,00
+Amazon.com;2013;8;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;35%;2;;2;N/A;1,27;N/A;N/A;N/A;0,88
+Amazon.com;2013;8;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;11;;11;N/A;1,12;0,00;N/A;N/A;0,00
+Amazon.com;2013;8;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;10;;10;N/A;1,18;N/A;N/A;N/A;4,16
+Amazon.com;2013;8;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Gratuita - Promoción;5;;5;N/A;1,19;0,00;N/A;N/A;0,00
+Amazon.com;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;35%;6;;6;N/A;1,02;N/A;N/A;N/A;2,15
+Amazon.com;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;88;;88;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.co.uk;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;11;;11;N/A;0,75;0,00;N/A;N/A;0,00
+Amazon.de;2013;8;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;35%;1;;1;N/A;0,86;N/A;N/A;N/A;0,30
+Amazon.de;2013;8;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;2;;2;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.de;2013;8;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;1;;1;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.de;2013;8;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;4;;4;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.de;2013;8;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;4;;4;N/A;1,00;0,00;N/A;N/A;0,00
+Amazon.de;2013;8;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;1;;1;N/A;0,99;N/A;N/A;N/A;0,35
+Amazon.de;2013;8;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Gratuita - Promoción;1;;1;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.de;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;2;;2;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon CA;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;2;;2;N/A;1,03;0,00;N/A;N/A;0,00
+Amazon.it;2013;8;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;1;;1;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.it;2013;8;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;2;;2;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.it;2013;8;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;1;;1;N/A;1,00;0,00;N/A;N/A;0,00
+Amazon.it;2013;8;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Gratuita - Promoción;1;;1;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.es;2013;8;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;35%;4;;4;N/A;0,86;N/A;N/A;N/A;1,20
+Amazon.es;2013;8;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;16;;16;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2013;8;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;35%;1;;1;N/A;0,86;N/A;N/A;N/A;0,30
+Amazon.es;2013;8;Antalayolog�a (Spanish Edition);Juan Julián Merelo Guervós;B006JUNQNI;Gratuita - Promoción;4;;4;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2013;8;La Cuarta Taifa (Spanish Edition);Juan Julián Merelo Guervós;B006K5O9T2;35%;1;;1;N/A;0,89;N/A;N/A;N/A;0,31
+Amazon.es;2013;8;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;35%;12;;12;N/A;0,99;N/A;N/A;N/A;4,20
+Amazon.es;2013;8;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;154;;154;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.es;2013;8;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;35%;6;;6;N/A;0,95;N/A;N/A;N/A;1,98
+Amazon.es;2013;8;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;43;;43;N/A;0,95;0,00;N/A;N/A;0,00
+Amazon.es;2013;8;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;115;;115;N/A;0,99;N/A;N/A;N/A;40,25
+Amazon.es;2013;8;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;Gratuita - Promoción;24;;24;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.es;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;35%;3;;3;N/A;0,86;N/A;N/A;N/A;0,90
+Amazon.es;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;16;;16;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon IN;2013;8;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;1;;1;N/A;0,00;0,00;N/A;N/A;0,00
+Amazon IN;2013;8;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;1;;1;N/A;0,00;0,00;N/A;N/A;0,00
+Amazon IN;2013;8;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;1;;1;N/A;0,00;0,00;N/A;N/A;0,00
+Amazon.com;2012;9;Antalayolog�a (Spanish Edition);;B006JUNQNI;Gratuita - Promoción;3;;3;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.com;2012;9;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;Gratuita - Promoción;3;;3;N/A;1,99;0,00;N/A;N/A;0,00
+Amazon.co.uk;2012;9;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;Gratuita - Promoción;2;;2;N/A;1,25;0,00;N/A;N/A;0,00
+Amazon.es;2012;9;Antalayolog�a (Spanish Edition);;B006JUNQNI;35%;2;;2;N/A;0,86;N/A;N/A;N/A;0,60
+Amazon.es;2012;9;Antalayolog�a (Spanish Edition);;B006JUNQNI;Gratuita - Promoción;26;;26;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2012;9;La revoluci�n ser� contagiada (primera parte) (Spanish Edition);;B0091L3IVC;Gratuita - Promoción;23;;23;N/A;1,73;0,00;N/A;N/A;0,00
+Amazon.com;2013;9;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;3;;3;N/A;1,04;0,00;N/A;N/A;0,00
+Amazon.com;2013;9;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;5;;5;N/A;1,13;0,00;N/A;N/A;0,00
+Amazon.com;2013;9;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;2;;2;N/A;1,14;0,00;N/A;N/A;0,00
+Amazon.com;2013;9;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;3;1;2;N/A;1,32;N/A;N/A;N/A;0,92
+Amazon.com;2013;9;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;14;;14;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.co.uk;2013;9;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;1;;1;N/A;0,75;N/A;N/A;N/A;0,26
+Amazon.co.uk;2013;9;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;Gratuita - Promoción;1;;1;N/A;0,75;0,00;N/A;N/A;0,00
+Amazon Japón;2013;9;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;1;;1;N/A;100,00;0,00;N/A;N/A;0,00
+Amazon Japón;2013;9;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;1;;1;N/A;99,00;0,00;N/A;N/A;0,00
+Amazon Japón;2013;9;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;1;;1;N/A;99,00;0,00;N/A;N/A;0,00
+Amazon.it;2013;9;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;1;;1;N/A;1,00;0,00;N/A;N/A;0,00
+Amazon.es;2013;9;Er Ni�o La� (Spanish Edition);Juan Julián Merelo Guervós;B006H55AYS;Gratuita - Promoción;21;;21;N/A;0,86;0,00;N/A;N/A;0,00
+Amazon.es;2013;9;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;35%;6;;6;N/A;0,99;N/A;N/A;N/A;2,10
+Amazon.es;2013;9;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;97;;97;N/A;0,99;0,00;N/A;N/A;0,00
+Amazon.es;2013;9;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;35%;2;;2;N/A;0,95;N/A;N/A;N/A;0,66
+Amazon.es;2013;9;lujoyglamour.com (Spanish Edition);Juan Julián Merelo Guervós;B00B385JJU;Gratuita - Promoción;5;;5;N/A;0,95;0,00;N/A;N/A;0,00
+Amazon.es;2013;9;Historia L�gico Natural (Historia L�gico-Natural) (Spanish Edition);Juan Julián Merelo Guervós;B00CLOF224;35%;26;;26;N/A;0,99;N/A;N/A;N/A;9,10
+Amazon.es;2013;9;Manuel, the Magnificent Mechanical Man (Logical-Natural History);Juan Julián Merelo Guervós;B00ED084BK;35%;2;;2;N/A;0,86;N/A;N/A;N/A;0,60
+Amazon para México;2013;9;La revoluci�n ser� contagiada (Spanish Edition);Juan Julián Merelo Guervós;B0091L3IVC;Gratuita - Promoción;1;;1;N/A;34,99;0,00;N/A;N/A;0,00
