@@ -1,0 +1,97 @@
+Using worker: worker-linux-2-2.bb.travis-ci.org:travis-linux-20
+
+travis_fold:start:git.1$ git clone --depth=50 --branch=master git://github.com/JJ/hoborg.git JJ/hoborg
+Cloning into 'JJ/hoborg'...
+remote: Counting objects: 266, done.ote: Compressing objects:   0% (1/142)   ote: Compressing objects:   1% (2/142)   ote: Compressing objects:   2% (3/142)   ote: Compressing objects:   3% (5/142)   ote: Compressing objects:   4% (6/142)   ote: Compressing objects:   5% (8/142)   ote: Compressing objects:   6% (9/142)   ote: Compressing objects:   7% (10/142)   ote: Compressing objects:   8% (12/142)   ote: Compressing objects:   9% (13/142)   ote: Compressing objects:  10% (15/142)   ote: Compressing objects:  11% (16/142)   ote: Compressing objects:  12% (18/142)   ote: Compressing objects:  13% (19/142)   ote: Compressing objects:  14% (20/142)   ote: Compressing objects:  15% (22/142)   ote: Compressing objects:  16% (23/142)   ote: Compressing objects:  17% (25/142)   ote: Compressing objects:  18% (26/142)   ote: Compressing objects:  19% (27/142)   ote: Compressing objects:  20% (29/142)   ote: Compressing objects:  21% (30/142)   ote: Compressing objects:  22% (32/142)   ote: Compressing objects:  23% (33/142)   ote: Compressing objects:  24% (35/142)   ote: Compressing objects:  25% (36/142)   ote: Compressing objects:  26% (37/142)   ote: Compressing objects:  27% (39/142)   ote: Compressing objects:  28% (40/142)   ote: Compressing objects:  29% (42/142)   ote: Compressing objects:  30% (43/142)   ote: Compressing objects:  31% (45/142)   ote: Compressing objects:  32% (46/142)   ote: Compressing objects:  33% (47/142)   ote: Compressing objects:  34% (49/142)   ote: Compressing objects:  35% (50/142)   ote: Compressing objects:  36% (52/142)   ote: Compressing objects:  37% (53/142)   ote: Compressing objects:  38% (54/142)   ote: Compressing objects:  39% (56/142)   ote: Compressing objects:  40% (57/142)   ote: Compressing objects:  41% (59/142)   ote: Compressing objects:  42% (60/142)   ote: Compressing objects:  43% (62/142)   ote: Compressing objects:  44% (63/142)   ote: Compressing objects:  45% (64/142)   ote: Compressing objects:  46% (66/142)   ote: Compressing objects:  47% (67/142)   ote: Compressing objects:  48% (69/142)   ote: Compressing objects:  49% (70/142)   ote: Compressing objects:  50% (71/142)   ote: Compressing objects:  51% (73/142)   ote: Compressing objects:  52% (74/142)   ote: Compressing objects:  53% (76/142)   ote: Compressing objects:  54% (77/142)   ote: Compressing objects:  55% (79/142)   ote: Compressing objects:  56% (80/142)   ote: Compressing objects:  57% (81/142)   ote: Compressing objects:  58% (83/142)   ote: Compressing objects:  59% (84/142)   ote: Compressing objects:  60% (86/142)   ote: Compressing objects:  61% (87/142)   ote: Compressing objects:  62% (89/142)   ote: Compressing objects:  63% (90/142)   ote: Compressing objects:  64% (91/142)   ote: Compressing objects:  65% (93/142)   ote: Compressing objects:  66% (94/142)   ote: Compressing objects:  67% (96/142)   ote: Compressing objects:  68% (97/142)   ote: Compressing objects:  69% (98/142)   ote: Compressing objects:  70% (100/142)   ote: Compressing objects:  71% (101/142)   ote: Compressing objects:  72% (103/142)   ote: Compressing objects:  73% (104/142)   ote: Compressing objects:  74% (106/142)   ote: Compressing objects:  75% (107/142)   ote: Compressing objects:  76% (108/142)   ote: Compressing objects:  77% (110/142)   ote: Compressing objects:  78% (111/142)   ote: Compressing objects:  79% (113/142)   ote: Compressing objects:  80% (114/142)   ote: Compressing objects:  81% (116/142)   ote: Compressing objects:  82% (117/142)   ote: Compressing objects:  83% (118/142)   ote: Compressing objects:  84% (120/142)   ote: Compressing objects:  85% (121/142)   ote: Compressing objects:  86% (123/142)   ote: Compressing objects:  87% (124/142)   ote: Compressing objects:  88% (125/142)   ote: Compressing objects:  89% (127/142)   ote: Compressing objects:  90% (128/142)   ote: Compressing objects:  91% (130/142)   ote: Compressing objects:  92% (131/142)   ote: Compressing objects:  93% (133/142)   ote: Compressing objects:  94% (134/142)   ote: Compressing objects:  95% (135/142)   ote: Compressing objects:  96% (137/142)   ote: Compressing objects:  97% (138/142)   ote: Compressing objects:  98% (140/142)   ote: Compressing objects:  99% (141/142)   ote: Compressing objects: 100% (142/142)   ote: Compressing objects: 100% (142/142), done.ote: Total 266 (delta 167), reused 208 (delta 118)ay be copied only under the terms of either the Artistic License or the
+GNU General Public License, which may be found in the Perl 5 source kit.
+
+Complete documentation for Perl, including FAQ lists, should be found on
+this system using "man perl" or "perldoc perl".  If you have access to the
+Internet, point your browser at http://www.perl.org/, the Perl Home Page.
+
+$ cpanm --version
+cpanm (App::cpanminus) version 1.6102
+travis_fold:start:before_install.1$ sudo apt-get install libhunspell-1.3-0 hunspell-en-us libhunspell-dev
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 1%Reading package lists... 7%Reading package lists... 7%Reading package lists... 7%Reading package lists... 7%Reading package lists... 26%Reading package lists... 31%Reading package lists... 31%Reading package lists... 31%Reading package lists... 31%Reading package lists... 38%Reading package lists... 38%Reading package lists... 39%Reading package lists... 39%Reading package lists... 55%Reading package lists... 62%Reading package lists... 62%Reading package lists... 63%Reading package lists... 63%Reading package lists... 66%Reading package lists... 66%Reading package lists... 67%Reading package lists... 67%Reading package lists... 67%Reading package lists... 67%Reading package lists... 81%Reading package lists... 81%Reading package lists... 84%Reading package lists... 84%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 89%Reading package lists... 89%Reading package lists... 90%Reading package lists... 90%Reading package lists... 91%Reading package lists... 91%Reading package lists... 91%Reading package lists... 91%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 73%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following extra packages will be installed:
+  dictionaries-common
+Suggested packages:
+  ispell jed-extra hunspell openoffice.org-hunspell openoffice.org-core
+The following NEW packages will be installed:
+  dictionaries-common hunspell-en-us libhunspell-1.3-0 libhunspell-dev
+0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+Need to get 848 kB of archives.
+After this operation, 2,778 kB of additional disk space will be used.
+0% [Working]            Get:1 http://us.archive.ubuntu.com/ubuntu/ precise/main libhunspell-1.3-0 amd64 1.3.2-4 [142 kB]
+            2% [1 libhunspell-1.3-0 14.0 kB/142 kB 10%]                                           17% [Working]             Get:2 http://us.archive.ubuntu.com/ubuntu/ precise/main dictionaries-common all 1.12.1ubuntu2 [246 kB]
+             19% [2 dictionaries-common 20.5 kB/246 kB 8%]                                             46% [Working]             Get:3 http://us.archive.ubuntu.com/ubuntu/ precise/main hunspell-en-us all 20070829-4ubuntu3 [248 kB]
+             53% [3 hunspell-en-us 65.5 kB/248 kB 26%]                                         75% [Waiting for headers]                         Get:4 http://us.archive.ubuntu.com/ubuntu/ precise/main libhunspell-dev amd64 1.3.2-4 [213 kB]
+                         76% [4 libhunspell-dev 12.8 kB/213 kB 6%]                                         100% [Working]              Fetched 848 kB in 1s (842 kB/s)
+Preconfiguring packages ...
+Selecting previously unselected package libhunspell-1.3-0.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 59321 files and directories currently installed.)
+Unpacking libhunspell-1.3-0 (from .../libhunspell-1.3-0_1.3.2-4_amd64.deb) ...
+Selecting previously unselected package dictionaries-common.
+Unpacking dictionaries-common (from .../dictionaries-common_1.12.1ubuntu2_all.deb) ...
+Adding 'diversion of /usr/share/dict/words to /usr/share/dict/words.pre-dictionaries-common by dictionaries-common'
+Selecting previously unselected package hunspell-en-us.
+Unpacking hunspell-en-us (from .../hunspell-en-us_20070829-4ubuntu3_all.deb) ...
+Selecting previously unselected package libhunspell-dev.
+Unpacking libhunspell-dev (from .../libhunspell-dev_1.3.2-4_amd64.deb) ...
+Processing triggers for man-db ...
+Setting up libhunspell-1.3-0 (1.3.2-4) ...
+Setting up dictionaries-common (1.12.1ubuntu2) ...
+install/dictionaries-common: Byte-compiling for emacsen flavour emacs23
+Wrote /usr/share/emacs23/site-lisp/dictionaries-common/debian-ispell.elc
+Wrote /usr/share/emacs23/site-lisp/dictionaries-common/ispell.elc
+Wrote /usr/share/emacs23/site-lisp/dictionaries-common/flyspell.elc
+Setting up libhunspell-dev (1.3.2-4) ...
+Processing triggers for dictionaries-common ...
+Setting up hunspell-en-us (20070829-4ubuntu3) ...
+Processing triggers for libc-bin ...
+ldconfig deferred processing now taking place
+travis_fold:end:before_install.1travis_fold:start:before_install.2$ cd Text-Hoborg
+travis_fold:end:before_install.2travis_fold:start:install$ cpanm --quiet --installdeps --notest .
+Successfully installed Text-Hunspell-2.08
+Successfully installed Lingua-EN-Syllable-0.251
+Successfully installed Lingua-EN-Fathom-1.15
+3 distributions installed
+travis_fold:end:install$ perl Makefile.PL && make test
+Writing Makefile for Text::Hoborg
+Writing MYMETA.yml and MYMETA.json
+cp lib/Text/Hoborg.pm blib/lib/Text/Hoborg.pm
+PERL_DL_NONLAZY=1 /home/travis/perl5/perlbrew/perls/5.16/bin/perl "-MExtUtils::Command::MM" "-e" "test_harness(0, 'blib/lib', 'blib/arch')" t/*.t
+t/00.load.t ......... t/00.load.t ......... 1/? # Testing Text::Hoborg 0.0.3
+
+#   Failed test 'Checking Kindom'
+#   at t/00.load.t line 29.
+
+#   Failed test 'Checking austro'
+#   at t/00.load.t line 29.
+
+#   Failed test 'Checking bohunks'
+#   at t/00.load.t line 29.
+t/00.load.t ......... 10303/? # Looks like you failed 3 tests of 12142.
+                               t/00.load.t ......... Dubious, test returned 3 (wstat 768, 0x300)
+Failed 3/12142 subtests 
+t/01.readability.t .. # Testing Text::Hoborg 0.0.3
+# Fog = 8.74054568814684
+# Kincaid = 6.72903566793856
+# Flesch = 73.3345778616023
+t/01.readability.t .. 1/?                            t/01.readability.t .. ok
+
+Test Summary Report
+-------------------
+t/00.load.t       (Wstat: 768 Tests: 12142 Failed: 3)
+  Failed tests:  555, 557, 560
+  Non-zero exit status: 3
+Files=2, Tests=12148,  2 wallclock secs ( 0.98 usr  0.05 sys +  2.09 cusr  0.05 csys =  3.17 CPU)
+Result: FAIL
+Failed 1/2 test programs. 3/12148 subtests failed.
+make: *** [test_dynamic] Error 255
+
+The command "make test" exited with 2.
+
+Done. Your build exited with 1.
