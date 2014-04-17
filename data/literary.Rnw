@@ -1,0 +1,20 @@
+\documentclass{article}
+\begin{document}
+\title{Literary metrics: a few data on the writing process}
+\author{JJ Merelo}
+\maketitle
+
+<<data,echo=FALSE>>=
+hoborg.data <- read.csv('manny-data.csv')
+hoborg.word.deltas <- read.csv('hoborg-word-deltas.csv')
+@ 
+
+This is the evolution of the number of words
+
+\begin{figure}
+<<plot,fig.width=5,fig.height=5,echo=FALSE>>=
+plot(hoborg.data$Tests,type='o')
+@ 
+\end{figure}
+
+\end{document}
