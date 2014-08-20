@@ -2,7 +2,7 @@ hoborg
 ======
 
 A dieselpunk novel with a Spanish-created robot hobo in a balkanized
-America at the beginning of the XX century. 
+America at the beginning of the XXth century. 
 
 The novel is completed and [available in Amazon.com for a dollar](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=1HG3N2ZNW9C40MFDC9WP&) 
 
@@ -30,7 +30,7 @@ railway hobo, accompanied with a hobo cyborg - the hoborg of the title.
 How you can help
 -----------------------
 
-After four paragraphs, you might have already realized English is not my
+After the paragraphs above, you might have already realized English is not my
 main language. Sending me corrections  is not the only way you can help
 
 * You can just
@@ -55,9 +55,8 @@ main language. Sending me corrections  is not the only way you can help
 Full disclosure
 ------------------
 
-When the novel is roughly finished (that is, it's got an ending, it
-will actually never be finished since it might evolve in time) I
-intend to publish it in Amazon.com. Since all your contributions will
+The novel is roughly finished (that is, it's got an ending, it
+will actually never be finished since it might evolve in time) and published it in Amazon.com and the rest of the Amazon shops. Since all your contributions will
 be here, in the repo, they are obviously acknowledged, but I'll
 acknowledge it also in the prologue itself and, if I earn enough to be
 able to physically print it and mail it, will mail you a copy. That's
@@ -72,7 +71,7 @@ Just go to [the novel](text/text.md). You can also [read about the characters](t
 How this can help
 -----------------------
 
-Read the [installation instructions](INSTALL.md) to get your very own novel going in Github. 
+Read the [installation instructions](INSTALL.md) to get your very own novel going in Github. They are long-ish, but may be worth the while.
 
 Navigating the repository
 ---------------------------------
