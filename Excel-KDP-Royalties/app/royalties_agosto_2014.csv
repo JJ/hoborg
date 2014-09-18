@@ -1,0 +1,11 @@
+shop;year;month;title;author;ASIN;transaction;sales;returned;sold_or_lent;lending_rate;avg_list_price;avg_sale_price;file_size;shipping;royalties
+Amazon.com;2014;8;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;2;;2;;1,08;N/A;0,33;N/A;0,76
+Amazon.com;2014;8;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;6;;6;;1,03;N/A;1,00;N/A;2,18
+Amazon.com;2014;8;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;2;;N/A;N/A;N/A;N/A;3,08
+Amazon.co.uk;2014;8;Manuel, the Magnificent Mechanical Man;Juan Julián Merelo Guervós;B00ED084BK;Estándar;1;;1;;0,75;N/A;0,23;N/A;0,26
+Amazon.es;2014;8;#slash: El día que me mataron;Juan Julián Merelo Guervós;B006HV9PE8;Estándar;1;;1;;0,89;N/A;0,22;N/A;0,31
+Amazon.es;2014;8;Historia Lógico Natural;Juan Julián Merelo Guervós;B00CLOF224;Estándar;3;;3;;0,96;N/A;0,53;N/A;1,02
+Amazon.es;2014;8;Manuel, the Magnificent Mechanical Man;Juan Julián Merelo Guervós;B00ED084BK;Estándar;1;;1;;0,86;N/A;0,23;N/A;0,30
+Amazon.es;2014;8;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;7;;7;;0,86;N/A;0,33;N/A;2,10
+Amazon.es;2014;8;#slash: La muerta de verdad;Juan Julián Merelo Guervós;B00IBIYHC0;Estándar;1;;1;;0,89;N/A;0,21;N/A;0,31
+Amazon.es;2014;8;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;26;;26;;0,93;N/A;1,00;N/A;8,58
