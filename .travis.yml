@@ -7,4 +7,5 @@ perl:
 before_install:
   - sudo apt-get install libhunspell-1.3-0 hunspell-en-us libhunspell-dev
   - cd Text-Hoborg
+  - cpanm  ExtUtils::PkgConfig
 script: "perl Makefile.PL && make test"
