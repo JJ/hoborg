@@ -1,0 +1,31 @@
+shop;year;month;title;author;ASIN;transaction;sales;returned;sold_or_lent;lending_rate;avg_list_price;avg_sale_price;file_size;shipping;royalties
+Amazon.com;2014;10;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;8;1;7;;1.03;N/A;0.33;N/A;2.57
+Amazon.com;2014;10;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;2;;N/A;N/A;N/A;N/A;2.66
+Amazon.com;2014;10;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Estándar;8;;8;;0.99;N/A;1;N/A;2.8
+Amazon.com;2014;10;La Cuarta Taifa;JJ Merelo;B00NEODWJK;Estándar;1;;1;;0.99;N/A;0.4;N/A;0.35
+Amazon.es;2014;10;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;13;;13;;0.86;N/A;0.33;N/A;3.9
+Amazon.es;2014;10;#slash: entre profesionales;Juan Juli�n Merelo Guerv�s;B00IVTNGBC;Estándar;1;;1;;0.86;N/A;0.24;N/A;0.3
+Amazon.es;2014;10;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Estándar;32;;32;;0.93;N/A;1;N/A;10.56
+Amazon.es;2014;10;#slash: El fin del capítulo;Juan Juli�n Merelo Guerv�s;B00KUWR20O;Estándar;1;;1;;0.89;N/A;0.25;N/A;0.31
+Amazon.es;2014;10;Una esquina en Nueva York;Juan Juli�n Merelo Guerv�s;B00MRANX32;Estándar;1;;1;;0.92;N/A;0.28;N/A;0.32
+Amazon para México;2014;10;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;1;;1;;12.84;N/A;0.33;N/A;4.49
+Amazon.com;2014;11;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;2;;2;;0.99;N/A;0.33;N/A;0.7
+Amazon.com;2014;11;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;1;;N/A;N/A;N/A;N/A;1.39
+Amazon.com;2014;11;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Estándar;5;;5;;1.03;N/A;1;N/A;1.82
+Amazon.com;2014;11;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;1;;N/A;N/A;N/A;N/A;1.39
+Amazon.es;2014;11;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;13;1;12;;0.86;N/A;0.33;N/A;3.6
+Amazon.es;2014;11;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;10;;N/A;N/A;N/A;N/A;11.31
+Amazon.es;2014;11;Iniciación al uso del ordenador e Internet con software libre;Juan Juli�n Merelo Guerv�s;B00IRBQCZ6;Estándar;1;;1;;2.6;2.6;0.45;0.05;1.78
+Amazon.es;2014;11;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Estándar;41;;41;;0.93;N/A;1;N/A;13.53
+Amazon.es;2014;11;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;16;;N/A;N/A;N/A;N/A;18.1
+Amazon para México;2014;11;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;1;;1;;12.84;N/A;0.33;N/A;4.49
+Amazon.com;;;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;4;;4;;0.99;N/A;0.33;N/A;1.4
+Amazon.com;;;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Estándar;4;;4;;1.06;N/A;1;N/A;1.49
+Amazon.com;;;Una esquina en Nueva York;Juan Juli�n Merelo Guerv�s;B00MRANX32;Estándar;2;;2;;1.1;N/A;0.28;N/A;0.77
+Amazon.de;;;Antalayología;Juan Juli�n Merelo Guerv�s;B006JUNQNI;Estándar;1;;1;;0.86;N/A;0.26;N/A;0.3
+Amazon.de;;;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Estándar;1;;1;;0.93;N/A;1;N/A;0.33
+Amazon.es;;;Historia Lógico Natural;Juan Juli�n Merelo Guerv�s;B00CLOF224;Estándar;7;;7;;0.96;N/A;0.53;N/A;2.38
+Amazon.es;;;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;11;;11;;0.86;N/A;0.33;N/A;3.3
+Amazon.es;;;Aprende Git;�ngel Pablo Hinojosa Guti�rrez;B00K515GL2;Estándar;33;1;32;;0.93;N/A;1;N/A;10.56
+Amazon.es;;;Una esquina en Nueva York;Juan Juli�n Merelo Guerv�s;B00MRANX32;Estándar;7;;7;;0.92;N/A;0.28;N/A;2.24
+Amazon para México;;;Introducción a JavaScript;Juan Juli�n Merelo Guerv�s;B00HXL8QA0;Estándar;1;;1;;12.84;N/A;0.33;N/A;4.49
