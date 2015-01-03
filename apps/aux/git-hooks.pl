@@ -4,20 +4,42 @@ use strict;
 use warnings;
 use v5.14;
 use Git::Hooks;
+use File::Slurp qw(read_file write_file);
+
+my $layout_preffix=<<EOT;
+---
+layout: index
+---
+
+EOT
 
 POST_COMMIT {
   my ($git) = @_;
   my $branch =  $git->command(qw/rev-parse --abbrev-ref HEAD/);
   if ( $branch =~ /master/ ) {
-      if ( $git->command(qw/show --name-status/) =~ /testeando.ad/ ) {
-	  #Now change branch and process
-	  #Inspired by http://stackoverflow.com/questions/15214762/how-can-i-sync-documentation-with-github-pages
-	  $git->command(qw/checkout gh-pages/);
-	  $git->command( 'checkout', 'master', '--', 'testeando.ad' );
-	  `asciidoc --backend deckjs testeando.ad -o index.html`;
-	  $git->command('commit','-a', '-m', "Generando diapos en gh-pages");
+    my $changed = $git->command(qw/show --name-status/);
+    my @changed_files = ($changed =~ /\s\w\s+(\S+)/g);
+    my @mds = grep ( /\.md/, @changed_files );
+    #Now change branch and process
+    #Inspired by http://stackoverflow.com/questions/15214762/how-can-i-sync-documentation-with-github-pages
+    $git->command(qw/checkout gh-pages/);
+    for my $f ( @mds ) {
+      $git->command( 'checkout', 'master', '--', $f );
+      my $file_content = read_file( $f );
+      $file_content =~ s/\.md\)/\)/g; # Change links
+      $file_content = $layout_preffix.$file_content;
+      if ( $f ne 'README.md' ) {
+	write_file($f, $file_content);
+	$git->command('add', $f );
+      } else {
+	write_file('index.md', $file_content );
+	$git->command('add', 'index.md' );
+	unlink('README.md');
       }
-      $git->command(qw/checkout master/); #back to original
+      $git->command('commit','-a', '-m', "Sync $f from master to gh-pages");
+      say "Processing $f";
+    }
+    $git->command(qw/checkout master/); #back to original branch
   }
 };
 
@@ -25,7 +47,7 @@ run_hook($0, @ARGV);
 
 =head1 NAME
 
-git-hooks.pl - Genera diapos en otra rama. 
+git-hooks.pl - post-commit hooks to sync markdown files with GitHub pages
 
 =head2 SYNOPSIS
 
