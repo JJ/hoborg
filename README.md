@@ -22,7 +22,7 @@ which is inmediately at war with the (now diminished) America.
 
 An American Pinkerton agent is sent into that state to recover a
 *mechanical man* that has been seen in a circus doing gigs from
-Pensacola to St. Pitersburg entertaining the masses. 
+Pensacola to St. Petersburg entertaining the masses. 
 
 He succeeds, but going back to Washington is not easy. He becomes a
 railway hobo, accompanied with a hobo cyborg - the hoborg of the title.
