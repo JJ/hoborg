@@ -119,7 +119,7 @@ because the sun made  my clothes too warm for comfort. What was it?
 Big Winter? Winter's younger brother? Rvfo Cuse or Rakko,  can't
 tell,  even less so now that all months have changed their names and
 places to
-something that does not have gods or umpirators or unpopular
+something that does not have gods or emperors or unpopular
 names and reminds us of our brothers that were here before we arrived. But it's always little this or big that or whatever berry,
 so... It's Otowosk-rakko now, right? Otowoskuce, you say, Gummy? Can't
 be Ehole, Captain no way, not so cold... Well, you see, people no longer know the month they are
@@ -233,7 +233,7 @@ Lost you all? Big, roundish, thick-on-the-bottom, metallic, upside-down
 bucket with another on top, body and head. Which goes to account for
 the name mechanical man, but when I first saw him that what I though
 about. It was even steaming a little bit, because he's not actually
-mechanical, you see, it's also fuel-powered ad some electrickal cables
+mechanical, you see, it's also fuel-powered ad some electrical cables
 to spark it to motion whenever it's needed. Or something like that. I
 didn't built it, I just carry it from one place to another. 
 
@@ -2361,7 +2361,7 @@ White help
 
 I needed Tracy to keep him busy and focused on something other than
 the gaffe. I talked to her, she owed me, and, honkie and all, she
-paid her dues so she not-so-reluctanctly agreed to keep Rufus
+paid her dues so she not-so-reluctantly agreed to keep Rufus
 distracted when needed. Which might be any time now. 
 
 But her abilities didn't lie in the building trade, so I had to have
@@ -2390,7 +2390,7 @@ doing this.
 That day, at dinner after the show, Rufus told me that somebody from
 the naval station was coming the next day at dawn to pick them up. I
 had actually seen him talking to a couple of look-alike guys with
-moustaches that look exactly like what you saw in your mind when you
+mustaches that look exactly like what you saw in your mind when you
 thought about a bohunk, and nothing like what you see when you think
 "sailor." Yes, they had that. No, not that. Well, a bit. But, you
 know, we are the rainbow republic, bohunks and whiteys and everything
@@ -2448,7 +2448,7 @@ again and she stopped looking anything like lovely.
 "How much do you reckon I still owe you?" she said, crooking her mouth
 and joining her eyebrows until they formed a thick bush in the middle
 or her forehead. In fact, she had a single eyebrow, so frowning made
-her look as if she had a moustache. Which, come to think of it, she
+her look as if she had a mustache. Which, come to think of it, she
 also had. Man, do cracker women have hair in all the wrong places... 
 
 So well, she helped me to carry the gaffe to the truck bed; a truck
