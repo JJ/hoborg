@@ -923,14 +923,13 @@ way. So, despite have been for years in circus life he was still
 considered a gaucho. He didn't do it himself, so he joined us
 reluctantly and when there was pussy to be smelled. 
 
-That didn't allow him to focus too much on the information I wanted
-from him. Which was all for the better, People would have suspected if
-I did. So I threw questions at him to see if they stuck, and they did
+That didn't allow him to focus too much on the information I wanted to draw
+from him. Which was all for the better, people would have suspected if
+I did. So I threw questions at him to see if they stuck. They did
 from time to time.
 
 Did he score? Why are you interested? Hey, stop touching yourself,
-Gummy you
-old pervert! I'm out of here!
+Gummy you old pervert! I'm out of here!
 
 Gummy Eddie tells his story. Actually, no, Captain Corporal tells Gummy Eddie's story
 -----------------------------------------
@@ -938,19 +937,20 @@ Gummy Eddie tells his story. Actually, no, Captain Corporal tells Gummy Eddie's 
 Nobody understands Gummy Fucking Eddie, so I will tell his story for
 him. Yes, I'll be telling you all my story in the army and why I'm a
 Captain and a Corporal at the same time, but be patient and all of you
-will be satisfied. Gummy, if you don't stop doing that right now I'm
-not going to act as your puppet now or never. Really.
+will be satisfied. Gummy, if you don't stop doing that right fucking now I'm
+not going to act as your puppet now or never. Promised.
 
 What he was saying is that he was fighting for freedom in Cuba. He came back like this. OK,
 don't throw a tantrum, I'll start again and tell the whole story straight. 
 
-It was 1905 or 1906, and Gummy was a jobless musician in Chicago. Then
+It was 1905 or 1906, and Gummy was a jobless musician in Chicago. As if there were any other kind.
+Then
 everybody and his mother started talking about war this, war that,
 Cuba, defending American interests, and all of a sudden I was in a
 train all dressed in khaki with an old winchester and a bag in my
 hands, bound for Florida. OK, not me, Gummy, but I'm translating him,
 so I is gonna be Gummy from now on. You get it? Yes, you too,
-Gummy, I'm so very happy you understand this.
+Gummy, I'm so very happy you understand this. Is that a smile?
 
 In Tampa we were met by a big, open air camp, filled to the hilts with black people
 like me. No surprise here, most people fighting in Cuba seemed to be black, at least from
@@ -958,20 +958,20 @@ the sergeants down, although I couldn't tell, we didn't see anybody with heavier
 that. It was sergeant this, corporal that, sometimes a sergeant mayor,
 always a cracker,
 and that was that. They barked their orders, clean this, do that drill,
-but mostly it was wait on our butts and roam around. Roaming stopped
+but mostly it was wait on our butts and roam around. Which aforementioned roaming stopped
 fast enough, because as soon as we set step outside the camp whiteys
-screamed abuse at us and we couldn't do much, no bars, no candy shops,
+screamed abuse at us and we couldn't do much, no bars, no candy shops, no pussy,
 no nothing, everything was closed in front of our nose stubs. So we
 stayed at the camp, one worry more for sergeants and corporals and
 whatnots and one less for us.
 
-But the problem with going to war is that you end up doing it. And on
+But the problem with going to war is that you end up actually doing it. And on
 a boat, to top it. We spent like a day puking our guts off so we saw
-fishes in the sea literally get so fat they sunk to the bottom with
-all the half-digested stuff we were throwing up and at them. It didn't
+fishes in the sea literally get so fat with sick they sunk to the bottom with
+all the half-digested stuff we were barfing up and at them. It didn't
 help that we were so packed in the boat that people just fell of the
 brim from time to time, and some were so wasted they just stayed there
-for the fishes to feast upon. Somebody surely missed them, but not us,
+for the fishes to feast upon. Somebody somewhere surely missed them, but not us,
 we were too busy keeping our guts together and worrying about what was
 going to come next.
 
@@ -981,13 +981,14 @@ few skirmishes in, hell, in somewhere too hot for human beings, we
 established a rearguard supply base in Guantánamo, One Ton of Ammo we
 called, some smartass came with that because that was what they kept
 telling us, we would be receiving one ton of this, one ton of that,
-but the only thing we got was malaria and scurvy.
+but the only thing we got a ton of was malaria and scurvy.
 
 Yes, scurvy. The supply base didn't even have fresh supplies for
-itself and whatever fresh we had was reserved for our sick brothers,
+itself and whatever fresh we had was reserved for our sick brothers and our cracker officials,
 but at the end everybody was sick; we couldn't even move out of the
 base because as soon as we did we heard the crack of the
-sharpshooters. Many people did anyways, it was better to die quickly
+sharpshooters. Cracking on crackers. Hey, that's rich.
+Many people did anyways, it was better to die quickly
 than to do it slowly, painfully and stinking to high heaven.
 
 I lost most of my teeth there due to scurvy. But I lost whatever I had
