@@ -119,7 +119,7 @@ because the sun made  my clothes too warm for comfort. What was it?
 Big Winter? Winter's younger brother? Rvfo Cuse or Rakko,  can't
 tell,  even less so now that all months have changed their names and
 places to
-something that does not have gods or emperors or unpopular
+something that does not have gods or umpirators or unpopular
 names and reminds us of our brothers that were here before we arrived. But it's always little this or big that or whatever berry,
 so... It's Otowosk-rakko now, right? Otowoskuce, you say, Gummy? Can't
 be Ehole, Captain no way, not so cold... Well, you see, people no longer know the month they are
@@ -233,7 +233,7 @@ Lost you all? Big, roundish, thick-on-the-bottom, metallic, upside-down
 bucket with another on top, body and head. Which goes to account for
 the name mechanical man, but when I first saw him that what I though
 about. It was even steaming a little bit, because he's not actually
-mechanical, you see, it's also fuel-powered ad some electrical cables
+mechanical, you see, it's also fuel-powered ad some electrickal cables
 to spark it to motion whenever it's needed. Or something like that. I
 didn't built it, I just carry it from one place to another. 
 
