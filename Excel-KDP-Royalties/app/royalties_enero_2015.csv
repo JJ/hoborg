@@ -1,0 +1,75 @@
+shop;year;month;title;author;ASIN;transaction;sales;returned;sold_or_lent;lending_rate;avg_list_price;avg_sale_price;file_size;shipping;royalties
+Amazon.com;2015;1;Er Niño Laí;Juan Julián Merelo Guervós;B006H55AYS;Estándar;2;1;1;;0,99;N/A;0,15;N/A;0,35
+Amazon.com;2015;1;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;7;;7;;0,97;N/A;0,33;N/A;2,40
+Amazon.com;2015;1;#slash: La muerta de verdad;Juan Julián Merelo Guervós;B00IBIYHC0;Estándar;1;1;;;0,99;N/A;0,21;N/A;0,00
+Amazon.com;2015;1;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;4;;4;;0,99;N/A;1,00;N/A;1,40
+Amazon.com;2015;1;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;1;;N/A;N/A;N/A;N/A;1,38
+Amazon.com;2015;1;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;1;;1;;0,99;N/A;0,28;N/A;0,35
+Amazon.com;2015;1;Nuboso, con posibilidad de despliegue;Juan J. Merelo Guervós;B00SDLIGC2;Estándar;1;;1;;0,97;N/A;0,36;N/A;0,34
+Amazon.co.uk;2015;1;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;1;;1;;0,80;N/A;0,28;N/A;0,28
+Amazon.co.uk;2015;1;Nuboso, con posibilidad de despliegue;Juan J. Merelo Guervós;B00SDLIGC2;Estándar;1;;1;;0,82;N/A;0,36;N/A;0,29
+Amazon.de;2015;1;Antalayología;Juan Julián Merelo Guervós;B006JUNQNI;Estándar;1;;1;;0,86;N/A;0,26;N/A;0,30
+Amazon.de;2015;1;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;1;;1;;0,93;N/A;1,00;N/A;0,33
+Amazon.de;2015;1;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;1;;1;;0,86;N/A;0,28;N/A;0,30
+Amazon.es;2015;1;La revolución será contagiada;Juan Julián Merelo Guervós;B0091L3IVC;Estándar;1;;1;;0,82;N/A;1,21;N/A;0,29
+Amazon.es;2015;1;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;8;;8;;0,83;N/A;0,33;N/A;2,33
+Amazon.es;2015;1;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;4;;N/A;N/A;N/A;N/A;4,87
+Amazon.es;2015;1;The book of Pi;Juan Julián Merelo Guervós;B00I08UZM2;Estándar;1;;1;;0,86;N/A;0,20;N/A;0,30
+Amazon.es;2015;1;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;34;1;33;;0,83;N/A;1,00;N/A;9,65
+Amazon.es;2015;1;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;5;;N/A;N/A;N/A;N/A;6,08
+Amazon.es;2015;1;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;3;;3;;0,82;N/A;0,28;N/A;0,87
+Amazon.es;2015;1;Nuboso, con posibilidad de despliegue;Juan J. Merelo Guervós;B00SDLIGC2;Estándar;11;;11;;0,82;N/A;0,36;N/A;3,19
+Amazon.com;2014;10;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;8;1;7;;1,03;N/A;0,33;N/A;2,57
+Amazon.com;2014;10;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;2;;N/A;N/A;N/A;N/A;2,66
+Amazon.com;2014;10;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;8;;8;;0,99;N/A;1,00;N/A;2,80
+Amazon.com;2014;10;La Cuarta Taifa;JJ Merelo;B00NEODWJK;Estándar;1;;1;;0,99;N/A;0,40;N/A;0,35
+Amazon.es;2014;10;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;13;;13;;0,86;N/A;0,33;N/A;3,90
+Amazon.es;2014;10;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Estándar;1;;1;;0,86;N/A;0,24;N/A;0,30
+Amazon.es;2014;10;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;32;;32;;0,93;N/A;1,00;N/A;10,56
+Amazon.es;2014;10;#slash: El fin del capítulo;Juan Julián Merelo Guervós;B00KUWR20O;Estándar;1;;1;;0,89;N/A;0,25;N/A;0,31
+Amazon.es;2014;10;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;1;;1;;0,92;N/A;0,28;N/A;0,32
+Amazon para México;2014;10;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;1;;1;;12,84;N/A;0,33;N/A;4,49
+Amazon.com;2014;11;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;2;;2;;0,99;N/A;0,33;N/A;0,70
+Amazon.com;2014;11;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;1;;N/A;N/A;N/A;N/A;1,39
+Amazon.com;2014;11;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;5;;5;;1,03;N/A;1,00;N/A;1,82
+Amazon.com;2014;11;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;1;;N/A;N/A;N/A;N/A;1,39
+Amazon.es;2014;11;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;13;1;12;;0,86;N/A;0,33;N/A;3,60
+Amazon.es;2014;11;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;10;;N/A;N/A;N/A;N/A;11,31
+Amazon.es;2014;11;Iniciación al uso del ordenador e Internet con software libre;Juan Julián Merelo Guervós;B00IRBQCZ6;Estándar;1;;1;;2,60;2,60;0,45;0,05;1,78
+Amazon.es;2014;11;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;41;;41;;0,93;N/A;1,00;N/A;13,53
+Amazon.es;2014;11;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;16;;N/A;N/A;N/A;N/A;18,10
+Amazon para México;2014;11;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;1;;1;;12,84;N/A;0,33;N/A;4,49
+Amazon.com;2014;12;#slash: El día que me mataron;Juan Julián Merelo Guervós;B006HV9PE8;Gratuita - Promoción ;3;;3;;1,03;0,00;0,22;N/A;0,00
+Amazon.com;2014;12;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;7;;7;;0,99;N/A;0,33;N/A;2,45
+Amazon.com;2014;12;The book of Pi;Juan Julián Merelo Guervós;B00I08UZM2;Estándar;1;;1;;0,99;N/A;0,20;N/A;0,35
+Amazon.com;2014;12;#slash: La muerta de verdad;Juan Julián Merelo Guervós;B00IBIYHC0;Gratuita - Promoción ;2;;2;;0,99;0,00;0,21;N/A;0,00
+Amazon.com;2014;12;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Gratuita - Promoción ;2;;2;;1,03;0,00;0,24;N/A;0,00
+Amazon.com;2014;12;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;6;;6;;1,02;N/A;1,00;N/A;2,15
+Amazon.com;2014;12;#slash: El fin del capítulo;Juan Julián Merelo Guervós;B00KUWR20O;Gratuita - Promoción ;2;;2;;0,99;0,00;0,25;N/A;0,00
+Amazon.de;2014;12;#slash: La muerta de verdad;Juan Julián Merelo Guervós;B00IBIYHC0;Gratuita - Promoción ;1;;1;;0,86;0,00;0,21;N/A;0,00
+Amazon Japón;2014;12;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Gratuita - Promoción ;1;;1;;101,00;0,00;0,24;N/A;0,00
+Amazon.it;2014;12;#slash: El día que me mataron;Juan Julián Merelo Guervós;B006HV9PE8;Gratuita - Promoción ;1;;1;;0,86;0,00;0,22;N/A;0,00
+Amazon.it;2014;12;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Gratuita - Promoción ;1;;1;;0,86;0,00;0,24;N/A;0,00
+Amazon.es;2014;12;Er Niño Laí;Juan Julián Merelo Guervós;B006H55AYS;Estándar;1;;1;;0,86;N/A;0,15;N/A;0,30
+Amazon.es;2014;12;#slash: El día que me mataron;Juan Julián Merelo Guervós;B006HV9PE8;Gratuita - Promoción ;34;;34;;0,89;0,00;0,22;N/A;0,00
+Amazon.es;2014;12;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;10;1;9;;0,86;N/A;0,33;N/A;2,70
+Amazon.es;2014;12;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;1;;N/A;N/A;N/A;N/A;1,21
+Amazon.es;2014;12;#slash: La muerta de verdad;Juan Julián Merelo Guervós;B00IBIYHC0;Gratuita - Promoción ;10;;10;;0,89;0,00;0,21;N/A;0,00
+Amazon.es;2014;12;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Gratuita - Promoción ;37;;37;;0,86;0,00;0,24;N/A;0,00
+Amazon.es;2014;12;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;44;;44;;0,93;N/A;1,00;N/A;14,52
+Amazon.es;2014;12;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;11;;N/A;N/A;N/A;N/A;13,28
+Amazon.es;2014;12;#slash: El fin del capítulo;Juan Julián Merelo Guervós;B00KUWR20O;Gratuita - Promoción ;6;;6;;0,89;0,00;0,25;N/A;0,00
+Amazon.es;2014;12;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;2;;2;;0,92;N/A;0,28;N/A;0,64
+Amazon para México;2014;12;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;5;;5;;12,84;N/A;0,33;N/A;22,45
+Amazon para México;2014;12;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Gratuita - Promoción ;1;;1;;13,12;0,00;0,24;N/A;0,00
+Amazon para México;2014;12;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;1;;1;;12,88;N/A;1,00;N/A;4,51
+Amazon.com;;;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;4;;4;;0,99;N/A;0,33;N/A;1,40
+Amazon.com;;;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;4;;4;;1,06;N/A;1,00;N/A;1,49
+Amazon.com;;;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;2;;2;;1,10;N/A;0,28;N/A;0,77
+Amazon.de;;;Antalayología;Juan Julián Merelo Guervós;B006JUNQNI;Estándar;1;;1;;0,86;N/A;0,26;N/A;0,30
+Amazon.de;;;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;1;;1;;0,93;N/A;1,00;N/A;0,33
+Amazon.es;;;Historia Lógico Natural;Juan Julián Merelo Guervós;B00CLOF224;Estándar;7;;7;;0,96;N/A;0,53;N/A;2,38
+Amazon.es;;;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;11;;11;;0,86;N/A;0,33;N/A;3,30
+Amazon.es;;;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;33;1;32;;0,93;N/A;1,00;N/A;10,56
+Amazon.es;;;Una esquina en Nueva York;Juan Julián Merelo Guervós;B00MRANX32;Estándar;7;;7;;0,92;N/A;0,28;N/A;2,24
+Amazon para México;;;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;1;;1;;12,84;N/A;0,33;N/A;4,49
