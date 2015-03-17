@@ -17,13 +17,13 @@ you like it, buy it in any of the Amazon versions, for instance
 Meet the mechanical man
 ----------------------------------
 
-There he was, gleaming in places, rusty in others, its history written
-in its bumps and patches like the history of a person is written in
-the wrinkles of its face. Rolling and
-whistling and frolicking to the general merriment of the public. 
-And I'm using *he* liberally here, since I'm talking about a
-mechanical man. A mechanical being. A mechanical... gimmick that looks
-like a man.
+There he was... a patchwork of gleaming steel and rotting rust; a history
+written in bumps and patches,  as poignant and undeniable as looking
+upon the wrinkles of an elderly face. He Rolled and whistled,
+while frolicking along, to the general merriment of the public. I
+use *he*  quite liberally here, since I'm talking about a mechanical man.
+Quite literally, a mechanical being. A mechanical... gimmick born of the 
+incessant need of man to reinvent himself.
 
 I didn't really liked it or even the idea of it, but I had no other
 way out than be attached to it. On the other hand, the
