@@ -22,7 +22,7 @@ written in bumps and patches,  as poignant and undeniable as looking
 upon the wrinkles of an elderly face. He Rolled and whistled,
 while frolicking along, to the general merriment of the public. I
 use *he*  quite liberally here, since I'm talking about a mechanical man.
-Quite literally, a mechanical being. A mechanical... gimmick born of the 
+He was quite literally, a mechanical being. A mechanical... gimmick born of the 
 incessant need of man to reinvent himself.
 
 I didn't really liked it or even the idea of it, but I had no other
