@@ -5,8 +5,10 @@ layout: index
 hoborg
 ======
 
-A dieselpunk novel with a Spanish-created robot hobo in a balkanized
-America at the beginning of the XXth century. 
+[![Join the chat at https://gitter.im/JJ/hoborg](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JJ/hoborg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+An ur-[dieselpunk](https://es.wikipedia.org/wiki/Dieselpunk) novel with a Spanish-created robot hobo in a balkanized
+United States of America at the beginning of the XXth century. 
 
 The novel is completed and [available in Amazon.com for a dollar](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=1HG3N2ZNW9C40MFDC9WP&) 
 
@@ -20,16 +22,16 @@ For the time being, mainly related to typos:
 Plot outline
 ---------------
 
-After America is defeated by a technologically superior Cuba and
+After the United States of America is defeated by a technologically superior Cuba and
 Spain, Florida becomes an independent multiracial socialist state
 which is inmediately at war with the (now diminished) America. 
 
-An American Pinkerton agent is sent into that state to recover a
+A North-American Pinkerton agent is sent into that state to recover a
 *mechanical man* that has been seen in a circus doing gigs from
-Pensacola to St. Pitersburg entertaining the masses. 
+Pensacola to St. Petersburg entertaining the masses. 
 
-He succeeds, but going back to Washington is not easy. He becomes a
-railway hobo, accompanied with a hobo cyborg - the hoborg of the title.
+He succeeds, or not, but taking the loot back to Washington might not be so easy. He becomes a
+railway hobo, accompanied with a hobo cyborg - the *hoborg* of the title.
 
 How you can help
 -----------------------
