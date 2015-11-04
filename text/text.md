@@ -25,11 +25,11 @@ And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
-I didn't really liked it or even the idea of it, but I had no other
+I didn't really like it or even the idea of it but I had no other
 way out than be attached to it. On the other hand, the
 public... filled with brothers, of my own race, of the other races
 that had been oppressed since they arrived to this land or since the
-paleface newcomers arrived. Even palefaces, because all races are one
+paleface newcomers arrived. Even the palefaces, because all races are one
 and the same in the People's Republic, ain't it?
 
 But I am not a paleface, because my name is Fulgencio
