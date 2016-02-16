@@ -141,72 +141,69 @@ had their eyes set on me and their walk was taking them towards me.
 Who wants a mechanical man?
 ---------------------------------------------
 
-What did they look like, you say? Well, they had a pretty normal face and hair and cloth-colored cloth; they were nondescript
-besides what I have already said. Although they 
- had probably not been mugged yet because one of the dandies had his
-demeanor bolted on, instead of having been born into it. Strong but
-nondescript too. Or nondescript for a those-fists-mean-business
-meaning of the word. 
+What did they look like, you say? Well, they had pretty normal faces and hair and
+cloth-colored cloth; they were nondescript besides what I have already said. 
+Although they'd probably not been mugged yet because one of the dandies had his
+demeanor bolted on, instead of having been born into it. Strong, but nondescript 
+too. Or nondescript in a those-fists-mean-business meaning of the word. 
 
-Being approached by these two guys I kind of put myself in a position
-where, if bad came to worse, I could have many 
-options. Walked away from the wall, squinted to see what they were up
-to, put my hands in a fist and out of the pockets. 
-Was not afraid, though, although they also seemed to avoid the glare and had
-their caps set just so you could not really see their face. So
-that you could not describe it later. That is why they were
-nondescript. Hey, said that already. You weren't listening?
+Being approached by these two guys I kind of put myself in a position where, if 
+worse came to worse, I had a few options. I walked away from the wall, squinted 
+to see what they were up to and put my hands in a fist and out of my pockets. 
+I wasn't afraid though. They also seemed to avoid the glare and had
+their caps set just so you couldn't really see their faces. So that you couldn't 
+describe them later. That's why they were nondescript. Hey, said that already! 
+You weren't listening?
 
-As they approached, the non-strong non-descript guy seemed to be the one that was going to
-do the talking, which he started to do as soon as he possibly could 
-without shouting. After touching their caps managing not to reveal
-even a tiny bit more of their faces and exchanging pleasantries, which was the right
-thing to do for well-educated gentlemen that we all were, they offered
-me a cigar which I rejected because I don't smoke, as you might have
-already noticed, and went down to business, not-strong in front of me
-and fists-mean-business by my side and slightly behind me. He really
-meant business that way too. Still not afraid, because I still had
+As they approached, the non-strong, non-descript guy seemed to be the one that was 
+going to do the talking, which he started to do as soon as he possibly could 
+without shouting. After touching their caps and managing not to reveal
+even a tiny bit more of their faces, we exchanging pleasantries. That was the right
+thing to do for the well-educated gentlemen that we all were. They offered
+me a cigar which I rejected because I don't smoke, as you might've
+already noticed, and we got down to business, with Not-strong in front of me
+and Fists-mean-business by my side and slightly behind me. He really
+meant business that way too. Still wasn't afraid, because I still had
 options. One of them, by the way, was to listen to them and eventually
 do business. 
 
-No, Gummy, I didn't hit them. Why should I? I was down on my luck. If
-two nondescript persons make an offer, or one does while the other has
-an slightly threatening posture, you listen to them. One's got to earn
-a living, and I was just thinking about doing the same the Republic
+No, Gummy, I didn't hit them! Why should I? I was down on my luck. If
+two nondescript people make an offer, or one does while the other has
+a slightly threatening posture, you listen to them. One's got to earn
+a living, and I was just thinking about doing the same as the Republic
 did with those imperialistic airships. No harm done if no harm is
-done, right? Well, you know now that some harm would be *eventually*
-done. But I didn't know back then. 
+done, right? Well, you know now that some harm would be done *eventually*. 
+But I didn't know back then. 
 
-Besides, their words and general demeanor told me that a good living it might be, too. Ten thousand pesos on the spot,
-ten thousand more when I got them something, which they really, really
-wanted for no particular reason. They were collectors. They had a hardware
-store. They liked shiny, rolling things. Those were a few of the
-reasons they offered for  wanting the mech, which they called Manuel
-the Mechanical Man. Which they told me was, metaphorically speaking, 
-I know, Duke, you like when I speak metaphorically, kicking dust in a
-circus.  
+Besides, their words and general demeanor told me that a good living it might 
+be, too. Ten thousand pesos on the spot, ten thousand more when I got them 
+something, which they really, really wanted for no particular reason. They were 
+collectors. They had a hardware store. They liked shiny, rolling things. Those 
+were a few of the reasons they offered for wanting the mech, which they called 
+Manuel the Mechanical Man. Which they told me he was, metaphorically speaking. 
+I know, Duke, you like when I speak metaphorically, kicking dust in a circus.  
 
-Before that sunny day in the Mobile docks, I had never heard of the
-thing.  What was my business before that day, do you want to know? Dock hand, I
-just told you, Dale. Damn, do you want to hear the story or not? 
-You had heard about that Manuel that is now stashed in the moored
-wagon before I showed up here with it? Well, I hadn't, I was not so 
+Before that sunny day on the Mobile docks, I had never heard of the thing. 
+What was my business before that day, you want to know? Dock hand, I
+just told you, Dale! Damn, do you want to hear the story or not? 
+You'd heard about the 'Manuel' that's now stashed in the moored
+wagon before I showed up here with it? Well, I hadn't, I wasn't so 
 well informed and educated as you all apparently are in this
-jungle. Why did they ask me? I was strong and young and confident. I
-still am. Do you want to wrestle? Gee, Dale, how the fuck do you want
-me to know that? For all I knew, they had asked every other guy
-walking in the docks! And I might have been the only one wanting to
-listen to them and to the job, even if I had never heard about
+jungle. Why did they ask me? I was strong and young and confident. Still am. 
+Do you want to wrestle? Gee, Dale, how the fuck do you expect
+me to have known that? For all I knew, they'd asked every other guy
+walking the docks! And, I might've been the only one wanting to
+listen to them and to the job, even if I'd never heard about
 anything like that. 
 
-Which is why the speaking non-descript man described it for me,
+Which is why the speaking, non-descript man described it for me,
 just in case I got it wrong and got them a kicking watering can or the
-tin man from the Wizard of Oz.  
+Tin Man from the Wizard of Oz.  
 
-"This gimmick Manuel you've got to get us  is like a a rolling
-teakettle with ears," he told me.  
+"This gimmick Manuel you've got to get us is like a a rolling teakettle 
+with ears." he told me.  
 
-A rolling teakettle with ears
+A rolling teakettle with ears.
 ------------------------------------
 
 *revise and write*
