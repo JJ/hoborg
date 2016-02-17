@@ -76,17 +76,17 @@ What do you mean, Gummy? It's the plain truth. I will tell it to you exactly lik
 it happened.  Yes, sir, I'm sure, what are you, a fuckin' people's court?  
 Do I have to take the oath or what?
 
-Alright, then. This is the real story of how I came to be in the possession of Manuel
-the Man-Made Man. It starts in Mobile, which is only fitting, given the
-circus obsession with phrases with words that all start the
-same. Mobile, yes, time ago it was in Alabama, but now it is a
-rough and tumble harbor town close to the border of the 
-United All Races People's Republic of Florida. That's a pretty long
-name for a place that starts at Pascagoula in the West and and goes no further
-than Brunswick in the East, if only our people have their way. Which they
-will, I have no doubt as a loyal citizen of the Republic. 
-Every dawning day brings new brothers to our new republic. Brothers of all races, 
-creeds and dispositions. 
+Alright, then. This is the real story of how I came to be in the
+possession of Manuel the Man-Made Man. It starts in Mobile, which is
+only fitting, given the circus obsession with phrases with words that
+all start the same. Mobile, yes, time ago it was in Alabama, but now
+it is a rough and tumble harbor town close to the border of the United
+All Races People's Republic of Florida. That's a pretty long name for
+a place that starts at Pascagoula in the West and and goes no further
+than Brunswick in the East, if only our people have their way. Which
+they will, I have no doubt as a loyal citizen of the Republic.  Every
+dawning day brings new brothers to our new republic. Brothers of all
+races, creeds and dispositions.
 
 OK, you all know that, no hooting, on with the story. But you all
 reckon now I'm a loyal Republic citizen, ain't I? 
@@ -186,7 +186,7 @@ I know, Duke, you like when I speak metaphorically, kicking dust in a circus.
 Before that sunny day on the Mobile docks, I had never heard of the thing. 
 What was my business before that day, you want to know? Dock hand, I
 just told you, Dale! Damn, do you want to hear the story or not? 
-You'd heard about the 'Manuel' that's now stashed in the moored
+You'd heard about the "Manuel" that's now stashed in the moored
 wagon before I showed up here with it? Well, I hadn't, I wasn't so 
 well informed and educated as you all apparently are in this
 jungle. Why did they ask me? I was strong and young and confident. Still am. 
@@ -1830,19 +1830,19 @@ everybody got undercover and didn't see them approaching and boarding
 the ship from a speed boat. Its intention then was run and look for valuables that
 could be easily loaded and get on their way. 
 
-Except that in this occasion they had found me and Manuel. Either
-they considered Manuel a strangely shaped buoy or they chose not to do
-anything about him, but no sooner had they spotted me they started
-to shoot their guns against me. But at the same time, Manuel had
-decided to move forward and pushed me aside, making me fall face first
-on the ground, from where I couldn't do anything,  I didn't even dare to raise my head for fear it got a new
-hole that afforded me a change of jobs to the shop of horrors of
-the circus.
+Except that in this occasion they had found me and Manuel. Either they
+considered Manuel a strangely shaped buoy or they chose not to do
+anything about him, but no sooner had they spotted me they started to
+shoot their guns against me. But at the same time, Manuel had decided
+to move forward and pushed me aside, making me fall face first on the
+ground, from where I couldn't do anything, I didn't even dare to raise
+my head for fear it got a new hole that afforded me a change of jobs
+to the shop of horrors of the circus.
 
 But the whole thing didn't take long. I heard them cursing and yelling
-and then the sound of an object falling to the water. I then raised my head and saw
-Manuel was rolling past where the guys had stood and was slowly coming
-to a halt. 
+and then the sound of an object falling to the water. I then raised my
+head and saw Manuel was rolling past where the guys had stood and was
+slowly coming to a halt.
 
 I really didn't find out what had happened, other that there were
 smears of blood in Manuel's claws. If he had just kept going, the two
