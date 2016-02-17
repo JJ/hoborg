@@ -66,7 +66,7 @@ A walk in the sun.
 
 *revise* 
 
-So this is what you hobos do, right? Sit around the fire in this railyard... jungle? 
+So this is what you hobos do, right? Sit around the fire in this rail yard... jungle? 
 How come you call this a jungle? It's a rail switchyard! 
 OK, jungle. And you tell tall tales around the fire, right? 
 And you want to hear mine? 
