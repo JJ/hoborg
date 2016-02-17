@@ -57,18 +57,29 @@ main language. Sending me corrections  is not the only way you can help
 Full disclosure
 ------------------
 
-The novel is roughly finished (that is, it's got an ending, it
-will actually never be finished since it might evolve in time) and published it in Amazon.com and the rest of the Amazon shops. Since all your contributions will
-be here, in the repo, they are obviously acknowledged, but I'll
-acknowledge it also in the prologue itself and, if I earn enough to be
-able to physically print it and mail it, will mail you a copy. That's
-quite unlikely to happen, however, so I'll make a promise I can keep:
-to follow you in Twitter.
+The novel is roughly finished (that is, it's got an ending, it will
+actually never be finished since it might evolve in time) and
+published it in Amazon.com and the rest of the Amazon shops. Since all
+your contributions will be here, in the repo, they are obviously
+acknowledged, but I'll acknowledge it also in the prologue itself and,
+if I earn enough to be able to physically print it and mail it, will
+mail you a copy. That's quite unlikely to happen, however, so I'll
+make a promise I can keep: to follow you in Twitter.
 
 Start reading and participating
 ---------------------------------------
 
-Just go to [the novel](text/text.md). You can also [read about the characters](text/characters.md), although doing so might result in spoilerage, or about the [geography of the Republic of Florida](text/geography.md).
+Just go to [the novel](text/text.md). You can also
+[read about the characters](text/characters.md), although doing so
+might result in spoilerage, or about the
+[geography of the Republic of Florida](text/geography.md). 
+
+Thanks
+------
+
+Many thanks to those that have provided
+[fixes and suggestions](https://github.com/JJ/hoborg/pulls?q=is%3Apr+is%3Aclosed)
+to the text: [`yarikoptic`](https://github.com/yarikoptic) and [`quentessential`](http://github.com/quentessential).
 
 How this can help
 -----------------------
