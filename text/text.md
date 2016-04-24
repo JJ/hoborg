@@ -72,36 +72,39 @@ OK, jungle. And you tell tall tales around the fire, right?
 And you want to hear mine? 
 OK, Duke, I owe you. So here it goes. 
 
+#####The transition between this first paragraph and the second one is a bit rough. The character talks to a person named Duke and then it suddenly goes to Gummy. While it's established that there are multiple people the narrator is talking to, it's a bit confusing as there is a jarring jump.
 What do you mean, Gummy? It's the plain truth. I will tell it to you exactly like 
 it happened.  Yes, sir, I'm sure, what are you, a fuckin' people's court?  
 Do I have to take the oath or what?
 
 Alright, then. This is the real story of how I came to be in the
 possession of Manuel the Man-Made Man. It starts in Mobile, which is
-only fitting, given the circus obsession with phrases with words that
-all start the same. Mobile, yes, time ago it was in Alabama, but now
-it is a rough and tumble harbor town close to the border of the United
+only fitting, given the circus obsession with phrases that
+all start the same.  Ah, Mobile. Long ago it was in Alabama, but now
+it is a rough-and-tumble harbor town close to the border of the United
 All Races People's Republic of Florida. That's a pretty long name for
 a place that starts at Pascagoula in the West and and goes no further
-than Brunswick in the East, if only our people have their way. Which
+than Brunswick in the East, <i>if only our people have their way. Which
 they will, I have no doubt as a loyal citizen of the Republic.  Every
 dawning day brings new brothers to our new republic. Brothers of all
-races, creeds and dispositions.
-
+races, creeds and dispositions.</i>
+#####The last part where I italicized is a bit confusing.  What people? What way? I think if you maybe explained it a little more or put a transition here (like a sentence), it would make the part less confusing.
 OK, you all know that, no hooting, on with the story. But you all
-reckon now I'm a loyal Republic citizen, ain't I? 
+reckon now I'm a loyal Republic citizen, right? 
 
 So. It was early winter, but the weather was still sunny and mild. I was walking
-along the docks, as I was wont to do. The air was clear and I could see ships
-docking and leaving, ships from all our sister nations of the world, Spain, Cuba, 
-Colombia, Puerto Rico, but also from not-so-friendly places 
-who decided the buck needn't stop here and had resumed trade as soon as the
+along the docks, as I like to do. The air was clear, and I could see ships
+docking and leaving, ships from all our sister nations of the world, like Spain, Cuba, 
+Colombia, and Puerto Rico. There were also some from not-so-friendly places 
+who decided the buck #Not sure what the buck is? needn't stop here and had resumed trade as soon as the
 smoke from the Freedom War settled down and become the smoke of the
-smokestacks built during the Planazo. Formerly unfriendly places like  
-the imperialist United Kingdom, the Austrohungarian Empire, those bohunks... The
-air swarmed also with the airships about to dock or leave from the
-airship port, the Spanish clover-fronted ones, the elegant Cubans,
-even the odd bulky and slumbering American, you could just spend the
+smokestacks built during the Planazo. 
+####This is a run-on sentence, but I'm not sure what the best way to divide this is. 
+Formerly unfriendly places like the imperialist United Kingdom, the Austrohungarian Empire, those bohunks... 
+####What is a bohunk?
+The air swarmed also with the airships about to dock or leave from the
+airship port.  There were the Spanish clover-fronted ones, the elegant Cubans, and
+even the odd bulky and slumbering American. You could just spend the
 whole day looking at them, slowly realizing they were no longer in the
 place you had first spotted them, in the middle of a cloud, or watching them
 appearing nose first from the middle of another. Yes, Gummy, they do look like that 
@@ -109,13 +112,17 @@ sometimes. If that's what you're thinking about. Which you, no doubt, are.
 
 I was there, looking up and down while strolling alongside the docks, minding my 
 own business, which was precisely what I was looking for at that early moment of 
-the day. I needed a hire, was looking to work for somebody who needed a quick 
+the day. 
+#####A bit awkward here, but the idea is clear.  The phrasing just needs a little work. 
+I was looking to work for somebody who needed a quick 
 mind and a strong pair of arms, but meanwhile I kept dodging the sun, keeping 
-myself in the shade, because the sun made my clothes too warm for comfort. 
+myself in the shade, because the sun made my clothes too warm for comfort.
+#####Maybe to make the transition between who the narrator is addressing you can use markers, like stars or hashtags or spaces? 
 What was it? Big Winter? Winter's younger brother? Rvfo Cuse or Rakko,  can't
 tell,  even less so now that all months have changed their names and
-places to something that does not have gods or umpirators or unpopular
-names and reminds us of our brothers that were here before we arrived. 
+<i>places to something that does not have gods or umpirators or unpopular
+names and reminds us of our brothers that were here before we arrived.</i>
+#####This previous part is really confusing, and I'm not sure how to revise here.
 But it's always little this or big that or whatever berry,
 so... It's Otowosk-rakko now, right? Otowoskuce, you say, Gummy? Can't
 be Ehole, Captain no way, not so cold... Well, you see, people no longer know the 
@@ -124,19 +131,19 @@ I have a grudge with that, either. It's all for the greater good of the
 Republic, ain't it? Keeping capitalists names out of the Republic and
 putting the names the great spirit of the people gave them. Whatever.
 
-So, sunny it was and I was walking in the shade. OK? Don't say I keep
-repeating myself, you don't stop whining and yawning! Here comes what
+So, it was sunny, and I was walking in the shade. OK? Don't say I keep
+repeating myself, you don't stop whining and yawning!  Here comes what
 happened then: these two dandy types came up to me from the sea
-shore, maybe they had alighted from a ship, maybe from one of the airships that 
+shore. Maybe they had alighted from a ship from one of the airships that 
 had landed a bit farther up the docks. They were dressed to the nines and sweating 
 as if they were going to melt right there and then. Sticking out like a
-sore thumb, if you ask me, no way to walk in this place crying "Mug
-me." Adding insult to injury they were also yelling "I'm a capitalist
+sore thumb, if you ask me.  Who walks into a place crying, "Mug
+me." Adding insult to injury they were also yelling, "I'm a capitalist
 pig." But I was minding my own business, which was for the time being not related 
-to those guys, but could be.  
+to those guys.
 
 No, Gummy, they were quiet, not even talking to each other. But they
-had their eyes set on me and their walk was taking them towards me.
+had their eyes set on me, and they were walking towards me.
 
 Who wants a mechanical man?
 ---------------------------------------------
