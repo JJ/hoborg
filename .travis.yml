@@ -5,6 +5,8 @@ branches:
     - gh-pages
 language: perl
 perl:
+  - "5.14"
+  - "5.12"
   - "5.16"
 before_install:
   - sudo apt-get update -qq
