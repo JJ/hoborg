@@ -5,3 +5,5 @@ hoborg.data.Test.plus1 <- rep(NA,length(hoborg.data.Test+1))
 hoborg.data.Test.plus1[1] <- 0
 hoborg.data.Test.plus1[2:length(hoborg.data.Test.plus1)] <- hoborg.data.Test[1:(length(hoborg.data.Test) -1 )]
 hoborg.diffs <- hoborg.data.Test - hoborg.data.Test.plus1
+deltas <- data.frame( x= 1:length(hoborg.diffs), y=hoborg.diffs)
+ggplot(deltas,aes(x=x,y=y))+geom_point()+scale_y_log10()
