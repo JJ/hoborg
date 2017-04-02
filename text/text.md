@@ -1464,48 +1464,48 @@ than their will to take proper care of the circus property.
 Clown act
 -------------
 
-A few hundred yards down the path  the clown car sped past us,
-apparently also in pursuit of the attackers in their
+A few hundred yards down the path, the clown car sped past us,
+apparently also in pursuit of the attackers on their
 horses. Wigs and big shoes were coming out of its windows and they were honking
 and laughing and shooting all at the same time. It was not going to take long
 for them to reach our attackers and in due time we could see light 
 arising from somewhere in the path, a few hundred yards ahead of us. 
 
-I would have stopped right there but didn't, afraid of being uncovered
+I would have stopped right there, but didn't, afraid of being uncovered
 by the other circus hands. Well, you know, I mean uncovered as not
 being part of the circus brotherhood. Nobody could have a hint of what
-I intended to do, I hadn't tell no one. 
+I intended to do, I hadn't told no one. 
 
 Not that I was under a cover, mind you. I just didn't want them to
-know that my purpose in life was not to live in and by the circus,
-just to get something out of it.
+know that my purpose in life was not to live in and around the circus,
+instead it was just to get something from it.
 
 But I should have left everything right there and then, because I didn't like
-what I saw down the road. It was not nice, you know. Not that they
+what I saw down the road. It wasn't pretty, you know. Not that they
 didn't deserve it, but one thing is thinking that somebody deserves
-what comes his way and another wanting him to be done in front of
+what comes his way and another is wanting him to be done in front of
 you. 
 
 It didn't take long for us to arrive there, but the whole time we
-listened to laughs and explosions and shoots. And yells, some happy yells, some
+listened to laughs and explosions and shots. And yells, some happy yells, some
 not. The yellow light coming out of it and above it danced, as if
 something was burning. And the smell. 
 
 One of the horses the Klansmen were using came in our direction and it
 very nearly made us fall from our ride; that along with the smoke
-and smell frightened them and we could not make them walk back
-again. So we tied them to some bush stalks and took from there by feet, half
-running. 
+frightened them and we couldn't make them walk back                           /* the smell was just mentioned */
+again. So we tied them to some thick branches of a bush and took from 
+there by feet, half running. 
 
 Not that we could do much when we arrived at a small clearing at the
 highway, from where the laughs and smells and smoke seemed to be
 coming from. The four Klansmen, robes on fire, were lying down, writhing. One of
 them was still trying to stand up,
-yelling, The clown posse was going around them, using their squirt
+yelling. The clown posse was going around them, using their squirt
 guns to douse them with something that kindled the fire, while they
-were laughing. And  doing the routine.
+were laughing and doing the routine.
 
-"Oh my oh my oh my, my guests are on fire" said Clippo, the Auguste.
+"Oh my, oh my, oh my, my guests are on fire" said Clippo, the Auguste.
 
 "They are just keeping warm, my boy," answered Ted, the
 Blackface clown. The other six were dancing around them, keeping a distance
@@ -1521,7 +1521,7 @@ what seemed now just a pile of ashes of a man.
 This went on for a while, and the rest of us that had arrived later on
 horseback couldn't do anything but look. Eventually Ted produced a
 gun with a barrel as long as his leg and shot one of them, the one who still
-was whimpering and moving, in the head.
+was whimpering and writhing, in the head.
 
 All was quiet after that, except for the fire crackling and the laughs of the clowns getting
 back into their car and driving back to the circus.
