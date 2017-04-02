@@ -208,12 +208,12 @@ A rolling teakettle with ears.
 
 *revise and write*
 
-Think about the Tin Woodsman. Did you all read it? You didn't? Too old
-for it, Duke? Nobody did? Doesn't matter, because this Manuel was
+Think about the Tin Woodsman. Did you all read it? Did you? Too old
+for it, Duke? Did anyone? Doesn't matter, because this Manuel was
 almost, but not quite, completely different from that. And not made of
-tin, either. 
+tin either. 
 
-Think now about a teakettle. You got it? That's it, thicker on the bottom
+Think now about a teakettle. Got it? That's it, thicker on the bottom
 and not so much on top. Yes, Count, we all know you served tea to
 royalty in your castle in Central Europe. Alright, south by southwest
 Europe. Whatever. You picture that, right? That would be a milk pail
@@ -222,18 +222,18 @@ aloud again. You all got the milk pail? Well, now put it on top of the
 teakettle. A small one. Two milk pails for you, Gummy. Lost you? Aw,
 what the hell, just go to sleep again. 
 
-Lost you all? Big, roundish, thick-on-the-bottom, metallic, upside-down
+Lost all of you? Big, roundish, thick-on-the-bottom, metallic, upside-down
 bucket with another on top, body and head. Which goes to account for
 the name mechanical man, but when I first saw him that what I though
 about. It was even steaming a little bit, because he's not actually
-mechanical, you see, it's also fuel-powered ad some electrickal cables
-to spark it to motion whenever it's needed. Or something like that. I
+mechanical, you see, it's also fuel-powered and some electrical cables
+spark it into motion whenever it's needed. Or something like that. I
 didn't built it, I just carry it from one place to another. 
 
 And, you see, it ain't have any legs. I don't know why, man, but those
 four wheels it has on the bottom just save me a lot of work. Yes, it
 did have some sort of midget legs at the beginning, but they made him,
-er, it, a piece of larry on stilted legs so they were ripped of and
+er, it, a piece of larry on stilted legs, so they were ripped off and
 substituted by this bogie rigged from, gee, I really don't know. A toy
 train? A streetcar? But the wheels, they had real tires on them, lest
 it could move only on rails. Come to think of it, I'll have to patch
@@ -241,16 +241,16 @@ them, they seem the worse for wear now...
 
 Of course the legs didn't go to waste! They were used for a sideshow
 in the ten-in-one called Robbie Lee, the Half-Mechanical Wonder of the
-New Century!
+this Century!
 
-So what we have here is a teakettle with ears on wheels. A mechanical
+So what we have here is a teakettle with ears and wheels. A mechanical
 hobo. A hobo mechanical organism? Count, I like that. Cut it down to
 hoborg and you've got it! Pass the bottle, man, don't hog it all for yourself!
 
-Arms? Gee, I forgot that. Of course it did have arms! Just two of
+Arms? Gee, I forgot that. Of course it had arms! Just two of
 them, yes. I always wondered why. Come to build a thing with arms, you
 could make it with three or four or what have you. But no, it had to be two and
-they looked like those in mannequins, with a joint in the elbow and
+they looked like those of mannequins, with a joint in the elbow and
 another at the shoulder and a grip at the end. No hands, just a
 grip. I didn't try to wrestle with him, no way. It was four hundred
 pounds of iron and copper. The grips were made with copper, and they
@@ -266,23 +266,23 @@ would be a mouth, right? On top of that a strut could be the nose, and
 two holes covered with glass the eyes. Some dummy painted two lines on
 top of that that could go for eyebrows, and then there were two holes on the side
 of the head with two half-moons behind them. The head could move left and
-right, that's it, couldn't nod at all. If it wanted to look down it
-had to bend all over. And when it moved it made a screeching noise,
+right, that's it; couldn't nod at all. If it wanted to look down it
+had to bend over. And when it moved it made a screeching noise,
 like a door closing. A 
 teensy door closing. Well, a teensy but heavy door closing. 
 
 When it walked, or rather rolled, there was smoke coming out of its
 neck. Some dummy put it initially in the ass, but it made the eyes of
 whoever was driving it sting, so somebody else rigged it to have the
-exhaust as hight as possible. Not in the head, it wouldn't look
-healthy, people would be all "Your dummy is *burning*!."
+exhaust as high as possible. Not in the head, it wouldn't look
+healthy, people would be all "Your dummy is *burning*!"
 
 Anyway, the noise. It could honk, did I tell ya? Yes, he can do stuff
 all of its own when he wants. When there's something in front, I don't
 know how the hell it does that, but he notices and honks the same way
 that he avoids to crash into people by just stopping. How do I know
-how it does that? Am I a fucking mechanician? So, all things
-considered,  it sounded like a car coming at you if you didn't see it
+how it does that? Am I a fucking mechanic? So, all things
+considered, it sounded like a car coming at you if you didn't see it
 coming. A honking, screeching, clanking little car.
 
 And now, for all of you, a honking, screeching, clanking and dancing
@@ -290,13 +290,12 @@ mech.
 
 Well, enough with the dancing. We're going to spend the fuel, and I
 don't have that much to go. Yes, it runs on petrol, like any other
-machine. And electricity. And spit. And  that's what the two average guys  told me. Well, not all of that, I
-added a little bit on my own, and you can see the rest. Including the
-back.
+machine. And electricity. And spit. And  that's what the two average guys  
+told me. Well, not all of that, I added a little bit on my own, and you
+can see the rest. Including the back.
  
 And enough with the talking. Tomorrow, or the day after that, I'll
-tell you how I became a  
-circus roustabout.
+tell you how I became a circus roustabout.
 
 Here's a bit of money to get you started
 ----------------------------------------------------
