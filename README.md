@@ -93,8 +93,8 @@ You already know the [text](text/README.md) directory, which contains
 the novel text itself as well as scraps we might need for
 later. [resources](resources/README.md) contains HTML templates,
 images and other non-text stuff. [apps](apps/README.md) includes
-conversion scripts and other scripts I use for managing
-this, mainly written in Perl. [Text-Hoborg](Text-Hoborg/README) contains a Perl module that is
+conversion scripts and other mainly Perl scripts I use for managing
+this. [Text-Hoborg](Text-Hoborg/README) contains a Perl module that is
 used for testing and continuous integration and might eventually
 contain the novel itself and be released that way. 
 
