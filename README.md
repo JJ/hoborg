@@ -33,7 +33,7 @@ How you can help
 -----------------------
 
 After the paragraphs above, you might have already realized English is not my
-main language. Sending me corrections  is not the only way you can help
+first language. Sending me corrections is not the only way you can help
 
 * You can just
   [follow @hoborg_novel on Twitter](http://twitter.com/hoborg_novel)
@@ -58,13 +58,14 @@ Full disclosure
 ------------------
 
 The novel is roughly completed (that is, it's got an ending, it will
-actually never be finished since it might evolve in time) and
-published it in Amazon.com and the rest of the Amazon shops. Since all
+actually never be finished since it might evolve in time) and is
+published on Amazon.com and the on rest of the Amazon shops. Since all
 your contributions will be here, in the repo, they are obviously
 acknowledged, but I'll acknowledge it also in the prologue itself and,
 if I earn enough to be able to physically print it and mail it, will
 mail you a copy. That's quite unlikely to happen, however, so I'll
-make a promise I can keep: to follow you in Twitter, so accompany your pull request with your Twitter account so I can fulfill my promise. 
+make a promise I can keep: to follow you in Twitter, so accompany your 
+pull request with your Twitter account so I can fulfill my promise. 
 
 Start reading and participating
 ---------------------------------------
@@ -89,7 +90,7 @@ Read the [installation instructions](INSTALL.md) to get your very own novel goin
 Navigating the repository
 ---------------------------------
 
-You already know the [text](text/README.md) directory, which contains
+You already know the [text](text/text.md) directory, which contains
 the novel text itself as well as scraps we might need for
 later. [resources](resources/README.md) contains HTML templates,
 images and other non-text stuff. [apps](apps/README.md) includes
