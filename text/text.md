@@ -1620,22 +1620,22 @@ The second greatest show on earth goes to New Orleans
 So we were going back to the United States of America. What was left
 of them, 
 anyways. They still seemed all too happy to shoot the odd border
-patrol or even taking an useless pop at an airship, but was mostly
+patrol or even taking an useless pop at an airship, but were mostly
 happy to get rid of second-rate citizens, or so it seemed. 
 
 That was apparently not enough to restore the broken railway links
 between the Republic and the US. Beyond Mobile, the railroad was blown
-up to, at least, Red Bluff. So the easiest way to go from here to
+up to, at least in Red Bluff. So the easiest way to go from here to
 there, from the real Land of the Free to the purported Land of the
 Free, was to sail from Pensacola. 
 
-So it was Noah's Ark all over again, as  Boris the circus manager said at
+So it was Noah's Ark all over again, as Boris the circus manager said at
 least one zillion times before, during and after boarding. Not that we
-did not know already that all that Noah stuff was a big steaming pile
+didn't know already that all that Noah stuff was a big steaming pile
 of elephant dung, but if you put lions and horses and bearded women
 and whatnots inside a steamer they're gonna get mighty nervous, I tell
 ya. So no way Noah would have made it for forty days. Unless he got him a
-circus manager like we did. Friend of saying platitudes, but a good organizer
+circus manager like we did. Fond of saying platitudes, but a good organizer
 all the same.  
 
 Yes, I would have preferred an airship. The circus comisario was on its
@@ -1643,11 +1643,11 @@ way to New Orleans already. But, pray tell, how the fuck do you expect
 to put an elephant in an airship? You did it once? Really? Why didn't
 you stick a couple of wings and a rocket up its butt and made it fly?
 No way, man, absolutely no way you could put the thirty-odd carriages
-in airships, you would have needed so many of them. Yes, you love
+in an airship, you would have needed many of them. Yes, you love
 airships, Commodore, that's a fact.
 
-This was my first chance to actually drive the mech. Aw, man, we are
-calling it a hoborg, but just from a couple of nights ago! Just let me
+This was my first chance to actually drive the mech. Aw, man, we were
+calling it a hoborg just a couple of nights ago! Just let me
 call it the way I've always done. You want to hear the story? As I was
 saying, you already know it has to be driven. On its own, he is barely
 able to repeatedly bump into a wall or wander aimlessly like a chicken
@@ -1655,12 +1655,12 @@ whose head has just been bitten by a geek. Or a frog, yes,
 Frog-Eatin'.  Grease was the one usually driving the mech, but he was
 too busy disengaging carriages from the tractor, securing them on the
 deck and trying at the same time to put the poor beasts at ease. The
-space occupied by the mech was needed for something so I got to drive
+space occupied by the mech was needed, so I got to drive
 it for the first time. 
 
 No, it does not even come close to driving a horse and I ain't never
 piloted a car. It's a metal box with a wheel and several levers and
-knobs. I was told to never get farther than a dozen feet from from it,
+knobs. I was told to never get farther than a dozen feet from from it,     /*  not get a dozen feet from it? unclear what is meant*/ 
 this wheel for turning, this lever forward, this knob to make it
 faster. Grease gave it to me, and I swear it turned its teakettle head
 to look at me. Yes, it does that. It's not only levers and knobs and
@@ -1668,7 +1668,7 @@ whatnots. I still don't know what half the driving box does, but I do
 know that the fucking mech has a mind of its own. No soul, Blackie, no
 soul, man. No man's got a soul, nobody. It's humbug the American
 capitalistas have been feeding you. So how come a fucking mechanical
-contraption have a soul if not even you have it!  But, boy, does it
+contraption can have a soul if not even you have it!  But, boy, does it
 have a mind. A cat's mind, if you ask me.
 
 So after checking me out he mostly did what it was told, turn right,
@@ -1678,17 +1678,17 @@ to let it rest near the castle it kind of tugged to the right, as if
 wanting to be there, looking at the sea. Ever seen the sea? Yes,
 Count, you watched it for hours on end from your own boat. It's mighty
 beautiful. No wonder even a mech would want to stand where he could watch it. Or maybe it
-was just a bit cranky. Who knows. He could not have gone there,
-anyways, because the space was taken by a bulk covered with a
+was just a bit cranky. Who knows. He couldn't have gone there,
+anyways, because the space was taken by some crates covered with a
 tarp. Nothing related with the circus, it should have been there
 before us, because the tarp had a different color, ours were green,
 this one was tan. 
 
 I didn't have the time to stay around to watch it any more because the
-Boris the circus manager grabbed me again and had me doing Chinese, putting
+Boris the circus manager grabbed me again and had me doing Chinese, putting     /*doing chinese? what is meant here? translating?*/
 things in cabins, covering the carriages with tarpaulins and hauling
-supplies belowdecks. Which is a nice word that somebody shouted while
-we were doing there and means in the basement of the ship. 
+supplies belowdeck. Which is a nice word that somebody shouted while
+we were down there and it means the basement of a ship. 
 
 I got myself a cabin with Shorty and one of the windjammers, if one
 played and the other danced we could keep ourselves amused during the
