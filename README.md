@@ -57,7 +57,7 @@ main language. Sending me corrections  is not the only way you can help
 Full disclosure
 ------------------
 
-The novel is roughly completed (that is, it's got an ending, it will
+The novel is roughly completed (that is, while it's got an ending, it will
 actually never be finished since it might evolve in time) and is
 published in Amazon.com and the rest of the Amazon shops. Since all
 your contributions will be here, in the repo, they are obviously
