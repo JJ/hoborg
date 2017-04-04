@@ -67,6 +67,8 @@ Any trouble, just check the L<Git::Hooks> manual.
 
 =head2 DESCRIPTION
 
+#sorry
+
 Inpired by
 L<http://stackoverflow.com/questions/15214762/how-can-i-sync-documentation-with-github-pages>
 this answer by Cory Gross in StackOverflow, the ever helpful site. It
