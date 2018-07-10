@@ -21,7 +21,7 @@ for my $l ( @logs ) {
 }
 
 
-say ",Tests,Fog,Kincaid,Flesch";
+say "Tests,Fog,Kincaid,Flesch";
 for (my $i = 0; $i <=$#tests; $i ++ ) {
   if ( $tests[$i] and $data[$i][0]) {
     say $tests[$i], ",",join(",",@{$data[$i]});
