@@ -1,0 +1,270 @@
+travis_fold:start:worker_infoWorker information
+hostname: travis-worker-gce-org-prod2-4:72404497-a907-4624-a364-ef2eaa5b0112
+version: v2.3.0 https://github.com/travis-ci/worker/tree/9c1321414ebd21739efdff448627af90c34e6610
+instance: testing-gce-9669ff04-80a0-40b4-b143-4515ca15f5ae:travis-ci-mega-trusty-1445287562
+startup: 21.188027796s
+travis_fold:end:worker_info_infoBuild system information
+Build language: perl
+Build group: stable
+Build dist: trusty
+Build image provisioning date and time
+Mon Oct 19 21:23:19 UTC 2015
+Operating System Details
+Distributor ID:Ubuntu
+Description:Ubuntu 14.04.3 LTS
+Release:14.04
+Codename:trusty
+Linux Version
+3.19.0-28-generic
+Cookbooks Version
+fffffff https://github.com/travis-ci/travis-cookbooks/tree/fffffff
+Git version
+git version 1.9.1
+GCC version
+gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
+Copyright (C) 2013 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.5.0 (tags/RELEASE_350/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+jruby-9.0.1.0
+ruby-1.9.3-p551
+ruby-2.0.0-p647
+ruby-2.1.7
+ruby-2.2.3
+Pre-installed Node.js versions
+iojs-v1.6
+iojs-v1.6.4
+v0.10
+v0.10.40
+v0.11.16
+v0.12.2
+v0.12.7
+v0.6.21
+v0.8.28
+v4.1.2
+Pre-installed Go versions
+1.0.3
+1.1.2
+1.2.2
+1.3.3
+1.4.2
+1.5.1
+mysql --version
+mysql  Ver 14.14 Distrib 5.5.44, for debian-linux-gnu (x86_64) using readline 6.3
+Pre-installed PostgreSQL versions
+9.1.19
+9.2.14
+9.3.10
+9.4.5
+Redis version
+redis-server 3.0.5
+RabbitMQ Version
+3.5.4
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.8
+Default Sphinx version
+2.2.8
+Installed Firefox version
+firefox 31.6.0esr
+ant -version
+Apache Ant(TM) version 1.9.3 compiled on April 8 2014
+mvn -version
+Apache Maven 3.1.1 (0728685237757ffbf44136acec0402957f723d9a; 2013-09-17 15:22:22+0000)
+Maven home: /usr/local/maven
+Java version: 1.8.0_60, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-8-oracle/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "3.19.0-28-generic", arch: "amd64", family: "unix"
+gradle -version
+
+------------------------------------------------------------
+Gradle 2.7
+------------------------------------------------------------
+
+Build time:   2015-09-14 07:26:16 UTC
+Build number: none
+Revision:     c41505168da69fb0650f4e31c9e01b50ffc97893
+
+Groovy:       2.3.10
+Ant:          Apache Ant(TM) version 1.9.3 compiled on December 23 2013
+JVM:          1.8.0_60 (Oracle Corporation 25.60-b23)
+OS:           Linux 3.19.0-28-generic amd64
+
+lein version
+Downloading Leiningen to /home/travis/.lein/self-installs/home/travis/.lein/leiningen-2.5.1-standalone.jar now...
+Leiningen 2.5.1 on Java 1.8.0_60 Java HotSpot(TM) 64-Bit Server VM
+phpenv versions
+* system (set by /home/travis/.phpenv/version)
+travis_fold:end:system_infoation...
+The following extra packages will be installed:
+  libc-dev-bin libc6-dev
+Suggested packages:
+  glibc-doc
+The following packages will be upgraded:
+  libc-dev-bin libc6 libc6-dev
+3 upgraded, 0 newly installed, 0 to remove and 256 not upgraded.
+Need to get 6,698 kB of archives.
+After this operation, 1,024 B of additional disk space will be used.
+Get:1 http://us.archive.ubuntu.com/ubuntu/ trusty-updates/main libc6-dev amd64 2.19-0ubuntu6.7 [1,910 kB]
+Get:2 http://us.archive.ubuntu.com/ubuntu/ trusty-updates/main libc-dev-bin amd64 2.19-0ubuntu6.7 [69.0 kB]
+Get:3 http://us.archive.ubuntu.com/ubuntu/ trusty-updates/main libc6 amd64 2.19-0ubuntu6.7 [4,719 kB]
+Fetched 6,698 kB in 0s (12.3 MB/s)
+Preconfiguring packages ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 135346 files and directories currently installed.)
+Preparing to unpack .../libc6-dev_2.19-0ubuntu6.7_amd64.deb ...
+Unpacking libc6-dev:amd64 (2.19-0ubuntu6.7) over (2.19-0ubuntu6.6) ...
+Preparing to unpack .../libc-dev-bin_2.19-0ubuntu6.7_amd64.deb ...
+Unpacking libc-dev-bin (2.19-0ubuntu6.7) over (2.19-0ubuntu6.6) ...
+Preparing to unpack .../libc6_2.19-0ubuntu6.7_amd64.deb ...
+Unpacking libc6:amd64 (2.19-0ubuntu6.7) over (2.19-0ubuntu6.6) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Not building database; man-db/auto-update is not 'true'.
+Setting up libc6:amd64 (2.19-0ubuntu6.7) ...
+Setting up libc-dev-bin (2.19-0ubuntu6.7) ...
+Setting up libc6-dev:amd64 (2.19-0ubuntu6.7) ...
+Processing triggers for libc-bin (2.19-0ubuntu6.6) ...
+travis_fold:end:fix.CVE-2015-75475.14 is not installed; attempting download
+travis_fold:start:git.checkoute:start:1aaefb60aster https://github.com/JJ/hoborg.git JJ/hoborg
+Cloning into 'JJ/hoborg'...
+remote: Counting objects: 654, done.ote: Compressing objects:   0% (1/213)   ote: Compressing objects:   1% (3/213)   ote: Compressing objects:   2% (5/213)   ote: Compressing objects:   3% (7/213)   ote: Compressing objects:   4% (9/213)   ote: Compressing objects:   5% (11/213)   ote: Compressing objects:   6% (13/213)   ote: Compressing objects:   7% (15/213)   ote: Compressing objects:   8% (18/213)   ote: Compressing objects:   9% (20/213)   ote: Compressing objects:  10% (22/213)   ote: Compressing objects:  11% (24/213)   ote: Compressing objects:  12% (26/213)   ote: Compressing objects:  13% (28/213)   ote: Compressing objects:  14% (30/213)   ote: Compressing objects:  15% (32/213)   ote: Compressing objects:  16% (35/213)   ote: Compressing objects:  17% (37/213)   ote: Compressing objects:  18% (39/213)   ote: Compressing objects:  19% (41/213)   ote: Compressing objects:  20% (43/213)   ote: Compressing objects:  21% (45/213)   ote: Compressing objects:  22% (47/213)   ote: Compressing objects:  23% (49/213)   ote: Compressing objects:  24% (52/213)   ote: Compressing objects:  25% (54/213)   ote: Compressing objects:  26% (56/213)   ote: Compressing objects:  27% (58/213)   ote: Compressing objects:  28% (60/213)   ote: Compressing objects:  29% (62/213)   ote: Compressing objects:  30% (64/213)   ote: Compressing objects:  31% (67/213)   ote: Compressing objects:  32% (69/213)   ote: Compressing objects:  33% (71/213)   ote: Compressing objects:  34% (73/213)   ote: Compressing objects:  35% (75/213)   ote: Compressing objects:  36% (77/213)   ote: Compressing objects:  37% (79/213)   ote: Compressing objects:  38% (81/213)   ote: Compressing objects:  39% (84/213)   ote: Compressing objects:  40% (86/213)   ote: Compressing objects:  41% (88/213)   ote: Compressing objects:  42% (90/213)   ote: Compressing objects:  43% (92/213)   ote: Compressing objects:  44% (94/213)   ote: Compressing objects:  45% (96/213)   ote: Compressing objects:  46% (98/213)   ote: Compressing objects:  47% (101/213)   ote: Compressing objects:  48% (103/213)   ote: Compressing objects:  49% (105/213)   ote: Compressing objects:  50% (107/213)   ote: Compressing objects:  51% (109/213)   ote: Compressing objects:  52% (111/213)   ote: Compressing objects:  53% (113/213)   ote: Compressing objects:  54% (116/213)   ote: Compressing objects:  55% (118/213)   ote: Compressing objects:  56% (120/213)   ote: Compressing objects:  57% (122/213)   ote: Compressing objects:  58% (124/213)   ote: Compressing objects:  59% (126/213)   ote: Compressing objects:  60% (128/213)   ote: Compressing objects:  61% (130/213)   ote: Compressing objects:  62% (133/213)   ote: Compressing objects:  63% (135/213)   ote: Compressing objects:  64% (137/213)   ote: Compressing objects:  65% (139/213)   ote: Compressing objects:  66% (141/213)   ote: Compressing objects:  67% (143/213)   ote: Compressing objects:  68% (145/213)   ote: Compressing objects:  69% (147/213)   ote: Compressing objects:  70% (150/213)   ote: Compressing objects:  71% (152/213)   ote: Compressing objects:  72% (154/213)   ote: Compressing objects:  73% (156/213)   ote: Compressing objects:  74% (158/213)   ote: Compressing objects:  75% (160/213)   ote: Compressing objects:  76% (162/213)   ote: Compressing objects:  77% (165/213)   ote: Compressing objects:  78% (167/213)   ote: Compressing objects:  79% (169/213)   ote: Compressing objects:  80% (171/213)   ote: Compressing objects:  81% (173/213)   ote: Compressing objects:  82% (175/213)   ote: Compressing objects:  83% (177/213)   ote: Compressing objects:  84% (179/213)   ote: Compressing objects:  85% (182/213)   ote: Compressing objects:  86% (184/213)   ote: Compressing objects:  87% (186/213)   ote: Compressing objects:  88% (188/213)   ote: Compressing objects:  89% (190/213)   ote: Compressing objects:  90% (192/213)   ote: Compressing objects:  91% (194/213)   ote: Compressing objects:  92% (196/213)   ote: Compressing objects:  93% (199/213)   ote: Compressing objects:  94% (201/213)   ote: Compressing objects:  95% (203/213)   ote: Compressing objects:  96% (205/213)   ote: Compressing objects:  97% (207/213)   ote: Compressing objects:  98% (209/213)   ote: Compressing objects:  99% (211/213)   ote: Compressing objects: 100% (213/213)   ote: Compressing objects: 100% (213/213), done.ote: Total 654 (delta 438), reused 624 (delta 415), pack-reused 0e:end:1aaefb60:start=1462001204859685722,finish=1462001205868588072,duration=1008902350e:start:0b23bad3e:end:0b23bad3:start=1462001205946177943,finish=1462001206021656494,duration=75478551ore detail)
+
+Copyright 1987-2013, Larry Wall
+
+Perl may be copied only under the terms of either the Artistic License or the
+GNU General Public License, which may be found in the Perl 5 source kit.
+
+Complete documentation for Perl, including FAQ lists, should be found on
+this system using "man perl" or "perldoc perl".  If you have access to the
+Internet, point your browser at http://www.perl.org/, the Perl Home Page.
+
+$ cpanm --version
+cpanm (App::cpanminus) version 1.7039 (/home/travis/perl5/perlbrew/bin/cpanm)
+perl version 5.014004 (/home/travis/perl5/perlbrew/perls/5.14/bin/perl)
+
+  %Config:
+    archname=x86_64-linux
+    installsitelib=/home/travis/perl5/perlbrew/perls/5.14/lib/site_perl/5.14.4
+    installsitebin=/home/travis/perl5/perlbrew/perls/5.14/bin
+    installman1dir=/home/travis/perl5/perlbrew/perls/5.14/man/man1
+    installman3dir=/home/travis/perl5/perlbrew/perls/5.14/man/man3
+    sitearchexp=/home/travis/perl5/perlbrew/perls/5.14/lib/site_perl/5.14.4/x86_64-linux
+    sitelibexp=/home/travis/perl5/perlbrew/perls/5.14/lib/site_perl/5.14.4
+    archlibexp=/home/travis/perl5/perlbrew/perls/5.14/lib/5.14.4/x86_64-linux
+    privlibexp=/home/travis/perl5/perlbrew/perls/5.14/lib/5.14.4
+  %ENV:
+    PERLBREW_BASHRC_VERSION=0.73
+    PERLBREW_HOME=/home/travis/.perlbrew
+    PERLBREW_MANPATH=/home/travis/perl5/perlbrew/perls/5.14/man
+    PERLBREW_PATH=/home/travis/perl5/perlbrew/bin:/home/travis/perl5/perlbrew/perls/5.14/bin
+    PERLBREW_PERL=5.14
+    PERLBREW_ROOT=/home/travis/perl5/perlbrew
+    PERLBREW_VERSION=0.73
+  @INC:
+    FatPacked::23513856=HASH(0x166cb00)
+    /home/travis/perl5/perlbrew/perls/5.14/lib/site_perl/5.14.4/x86_64-linux
+    /home/travis/perl5/perlbrew/perls/5.14/lib/site_perl/5.14.4
+    /home/travis/perl5/perlbrew/perls/5.14/lib/5.14.4/x86_64-linux
+    /home/travis/perl5/perlbrew/perls/5.14/lib/5.14.4
+    .
+travis_fold:start:before_install.1e:start:0151a26ae:end:0151a26a:start=1462001206117299245,finish=1462001211907624371,duration=5790325126e:start:0925d041ation... 0%Reading state information... 0%Reading state information... Done
+The following extra packages will be installed:
+  dictionaries-common
+Suggested packages:
+  ispell aspell hunspell jed-extra openoffice.org-hunspell openoffice.org-core
+The following NEW packages will be installed:
+  dictionaries-common hunspell-en-us libhunspell-1.3-0 libhunspell-dev
+0 upgraded, 4 newly installed, 0 to remove and 256 not upgraded.
+Need to get 745 kB of archives.
+After this operation, 2,827 kB of additional disk space will be used.
+0% [Working]            Get:1 http://us.archive.ubuntu.com/ubuntu/ trusty-updates/main libhunspell-1.3-0 amd64 1.3.2-6ubuntu2.1 [108 kB]
+            0% [1 libhunspell-1.3-0 0 B/108 kB 0%]                                      14% [Working]             Get:2 http://us.archive.ubuntu.com/ubuntu/ trusty/main dictionaries-common all 1.20.5 [232 kB]
+             16% [2 dictionaries-common 11.3 kB/232 kB 5%]                                             46% [Working]             Get:3 http://us.archive.ubuntu.com/ubuntu/ trusty/main hunspell-en-us all 20070829-4ubuntu3 [248 kB]
+             53% [3 hunspell-en-us 53.0 kB/248 kB 21%]                                         79% [Working]             Get:4 http://us.archive.ubuntu.com/ubuntu/ trusty-updates/main libhunspell-dev amd64 1.3.2-6ubuntu2.1 [157 kB]
+             86% [4 libhunspell-dev 53.2 kB/157 kB 34%]                                          100% [Working]              Fetched 745 kB in 0s (2,123 kB/s)
+Preconfiguring packages ...
+Selecting previously unselected package libhunspell-1.3-0:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 135346 files and directories currently installed.)
+Preparing to unpack .../libhunspell-1.3-0_1.3.2-6ubuntu2.1_amd64.deb ...
+Unpacking libhunspell-1.3-0:amd64 (1.3.2-6ubuntu2.1) ...
+Selecting previously unselected package dictionaries-common.
+Preparing to unpack .../dictionaries-common_1.20.5_all.deb ...
+Adding 'diversion of /usr/share/dict/words to /usr/share/dict/words.pre-dictionaries-common by dictionaries-common'
+ERROR: dictionaries-common is broken - called emacs-package-install as a new-style add-on, but has no compat file.
+Unpacking dictionaries-common (1.20.5) ...
+Selecting previously unselected package hunspell-en-us.
+Preparing to unpack .../hunspell-en-us_20070829-4ubuntu3_all.deb ...
+Unpacking hunspell-en-us (20070829-4ubuntu3) ...
+Selecting previously unselected package libhunspell-dev:amd64.
+Preparing to unpack .../libhunspell-dev_1.3.2-6ubuntu2.1_amd64.deb ...
+Unpacking libhunspell-dev:amd64 (1.3.2-6ubuntu2.1) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Not building database; man-db/auto-update is not 'true'.
+Processing triggers for postgresql-common (170.pgdg14.04+1) ...
+Building PostgreSQL dictionaries from installed myspell/hunspell packages...
+  en_us
+Removing obsolete dictionary files:
+Setting up libhunspell-1.3-0:amd64 (1.3.2-6ubuntu2.1) ...
+Setting up dictionaries-common (1.20.5) ...
+Install dictionaries-common for emacs23
+install/dictionaries-common: Byte-compiling for emacsen flavour emacs23
+Wrote /usr/share/emacs23/site-lisp/dictionaries-common/debian-ispell.elc
+Wrote /usr/share/emacs23/site-lisp/dictionaries-common/ispell.elc
+Wrote /usr/share/emacs23/site-lisp/dictionaries-common/flyspell.elc
+Setting up libhunspell-dev:amd64 (1.3.2-6ubuntu2.1) ...
+Processing triggers for dictionaries-common (1.20.5) ...
+Setting up hunspell-en-us (20070829-4ubuntu3) ...
+Processing triggers for libc-bin (2.19-0ubuntu6.6) ...
+
+travis_time:end:0925d041:start=1462001211912357247,finish=1462001215041851184,duration=3129493937e:start:1418e258e:end:1418e258:start=1462001215046802075,finish=1462001215064825911,duration=18023836e:start:025c1a6d  ExtUtils::PkgConfig
+--> Working on ExtUtils::PkgConfig
+Fetching http://www.cpan.org/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.15.tar.gz ... OK
+Configuring ExtUtils-PkgConfig-1.15 ... OK
+Building and testing ExtUtils-PkgConfig-1.15 ... OK
+Successfully installed ExtUtils-PkgConfig-1.15
+1 distribution installed
+
+travis_time:end:025c1a6d:start=1462001215069386372,finish=1462001216333642407,duration=1264256035e:start:06348153 --quiet --installdeps --notest .
+Successfully installed Shell-Guess-0.06
+Successfully installed File-chdir-0.1010
+Successfully installed HTTP-Tiny-0.056 (upgraded from 0.012)
+Successfully installed Sort-Versions-1.62
+Successfully installed Shell-Config-Generate-0.24
+Successfully installed FFI-CheckLib-0.14
+Successfully installed Alien-Base-0.028
+Successfully installed Alien-Hunspell-0.07
+Successfully installed Text-Hunspell-2.14
+Successfully installed Lingua-EN-Syllable-0.30
+Successfully installed Lingua-EN-Fathom-1.18
+Successfully installed File-Slurp-9999.19
+12 distributions installed
+
+travis_time:end:06348153:start=1462001216338847432,finish=1462001225965095238,duration=9626247806e:start:16ca5b45ake test
+Generating a Unix-style Makefile
+Writing Makefile for Text::Hoborg
+Writing MYMETA.yml and MYMETA.json
+cp lib/Text/Hoborg.pm blib/lib/Text/Hoborg.pm
+cp lib/Text/Hoborg/Manuel.pod blib/lib/Text/Hoborg/Manuel.pod
+PERL_DL_NONLAZY=1 "/home/travis/perl5/perlbrew/perls/5.14/bin/perl" "-MExtUtils::Command::MM" "-MTest::Harness" "-e" "undef *Test::Harness::Switches; test_harness(0, 'blib/lib', 'blib/arch')" t/*.t
+t/00.load.t ......... t/00.load.t ......... 1/? # Testing Text::Hoborg 0.0.6 in ../text
+t/00.load.t ......... 6856/? t/00.load.t ......... 17481/? t/00.load.t ......... 27793/?                                t/00.load.t ......... ok
+t/01.readability.t .. # Testing Text::Hoborg 0.0.6
+# Fog = 8.70529527974334
+# Kincaid = 6.01371177758682
+# Flesch = 79.7246377354585
+t/01.readability.t .. 1/?                            t/01.readability.t .. ok
+t/pod-coverage.t .... t/pod-coverage.t .... 1/1                            t/pod-coverage.t .... ok
+t/pod.t ............. t/pod.t ............. 1/2                            t/pod.t ............. ok
+All tests successful.
+Files=4, Tests=30048,  4 wallclock secs ( 2.73 usr  0.07 sys +  4.31 cusr  0.10 csys =  7.21 CPU)
+Result: PASS
+
+travis_time:end:16ca5b45:start=1462001225970307083,finish=1462001230727794488,duration=4757487405The command "perl Makefile.PL && make test" exited with 0.
+
+Done. Your build exited with 0.
