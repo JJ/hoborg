@@ -693,13 +693,13 @@ It's a plan
 
 "So you're saying the circus is like an office?" I asked the old clown
 who had the strange ability of laughing and crying at the same time,
-and make you do the same. We were in a cargo wagon, surrounded by
-cotton bales on a train bound for Pascagoula, where I was going following
+and will make you do the same. We were in a cargo wagon, surrounded by
+cotton bales on a train bound for Pascagoula. I was going following
 the circus, on the thought that it was a good idea to follow it and wait for the
 mech to drop from a carriage or be sold in an auction or
-something. Hoboing was a way of doing that and not make a dent on my
+something. Hoboing was a way of doing that and not putting a dent in my
 budget. The clown had been a silent companion for hours, but he became
-jolly the moment I offered him some drink. Making chitchat,  he told
+jolly the moment I offered him a drink. Making chitchat,  he told
 me that he was what is called a tramp clown, one of the three types of
 clowns that are out there. You don't know what are the other two,
 don't you, guys? Ask the Duke, he'll know for sure. No? Well, tough
@@ -717,30 +717,32 @@ all my ass."
 "What did you say?"
 
 "Something along the lines of him being circumcised by a precise
-kick to her sister in the jaw." 
+kick to his sister, in the jaw." 
 
-"He, that is funny. I met these guys up in the hills in New Mexico, I
+"Hey, that is funny. I met these guys up in the hills in New Mexico, I
 mean Mississippi, that... " It was funny that I had found this
-particular guy in the train, but chance didn't play a role in it. He
+particular guy on the train, but chance didn't play a role in it. He
 was also following the circus, which was a few wagons in front of us,
 bumming things out of them or of the people attending the carnival,
 making laughs for centavos. 
 
-"It's funny because that what clowns do. They make fun of people. It's
+"It's funny because thats what clowns do. They make fun of people. It's
 not about making fun of the right people, that takes all the fun out
 of it. Like making a circus a factory."
+                                                                         /* lost me on the circus is like a factory line*/
 
 "Come again, how's that office thing?" I needn't tell you that the cotton cargo
-wagon is the most comfortable of all. To top it, it's also quiet. Only
+wagon is the most comfortable of all. To top it off, it's also quiet. Only
 problem is you can't smoke or you'll become a ball of cotton fire in
 no time. Ain't that true, Eyebrowless Eric?
 
 "Well, it's not called the People's circus for no reason." he
 said. "It belongs to the state, as this railway does. So the very next
-day that had happened this mean person, dressed in combat clothes, came up to me and he
-said.
+day that had happened this mean person,                                      /*what had happened? */
+dressed in combat clothes, came up to me and he
+said:
 
-"Teach me everything, from now on I'll be you. 
+"Teach me everything, from now on I'll be you."
 
 "That he said. I don't know what
 the rest of the clown posse said, but I think they're not there anymore. And
