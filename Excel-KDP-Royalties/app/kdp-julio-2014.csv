@@ -1,0 +1,24 @@
+shop;year;month;title;author;ASIN;transaction;sales;returned;sold_or_lent;lending_rate;avg_list_price;avg_sale_price;file_size;shipping;royalties
+Amazon.com;2014;6;La revolución será contagiada;Juan Julián Merelo Guervós;B0091L3IVC;Estándar;1;;1;;0,99;N/A;1,21;N/A;0,35
+Amazon.com;2014;6;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;2;;2;;0,99;N/A;0,33;N/A;0,70
+Amazon.com;2014;6;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;KOLL;N/A;N/A;1;;N/A;N/A;N/A;N/A;2,24
+Amazon.com;2014;6;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;3;1;2;;0,99;N/A;1,00;N/A;0,70
+Amazon.es;2014;6;Historia Lógico Natural;Juan Julián Merelo Guervós;B00CLOF224;Estándar;1;;1;;0,96;N/A;0,53;N/A;0,34
+Amazon.es;2014;6;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;7;;7;;0,86;N/A;0,33;N/A;2,10
+Amazon.es;2014;6;The book of Pi;Juan Julián Merelo Guervós;B00I08UZM2;Estándar;1;;1;;0,86;N/A;0,20;N/A;0,30
+Amazon.es;2014;6;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Estándar;1;;1;;0,86;N/A;0,24;N/A;0,30
+Amazon.es;2014;6;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;16;;16;;0,93;N/A;1,00;N/A;5,28
+Amazon.es;2014;6;#slash: El fin del capítulo;Juan Julián Merelo Guervós;B00KUWR20O;Estándar;1;;1;;0,89;N/A;0,25;N/A;0,31
+Amazon para México;2014;6;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;1;;1;;12,84;N/A;0,33;N/A;4,49
+Amazon para México;2014;6;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;1;;1;;12,88;N/A;1,00;N/A;4,51
+Amazon.com;2014;7;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;2;;2;;1,08;N/A;0,33;N/A;0,76
+Amazon.com;2014;7;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Unidades KU/KOLL;N/A;N/A;3;;N/A;N/A;N/A;N/A;5,42
+Amazon.com;2014;7;The book of Pi;Juan Julián Merelo Guervós;B00I08UZM2;Estándar;1;;1;;0,99;N/A;0,20;N/A;0,35
+Amazon.com;2014;7;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;4;;4;;1,06;N/A;1,00;N/A;1,49
+Amazon.com;2014;7;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Unidades KU/KOLL;N/A;N/A;2;;N/A;N/A;N/A;N/A;3,61
+Amazon.co.uk;2014;7;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;1;;1;;0,75;N/A;0,33;N/A;0,26
+Amazon.de;2014;7;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;1;;1;;0,93;N/A;1,00;N/A;0,33
+Amazon.es;2014;7;Historia Lógico Natural;Juan Julián Merelo Guervós;B00CLOF224;Estándar;1;;1;;0,96;N/A;0,53;N/A;0,34
+Amazon.es;2014;7;Introducción a JavaScript;Juan Julián Merelo Guervós;B00HXL8QA0;Estándar;7;;7;;0,86;N/A;0,33;N/A;2,10
+Amazon.es;2014;7;#slash: entre profesionales;Juan Julián Merelo Guervós;B00IVTNGBC;Estándar;1;;1;;0,86;N/A;0,24;N/A;0,30
+Amazon.es;2014;7;Aprende Git;Ángel Pablo Hinojosa Gutiérrez;B00K515GL2;Estándar;13;;13;;0,93;N/A;1,00;N/A;4,29
