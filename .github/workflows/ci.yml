@@ -32,6 +32,9 @@ jobs:
       run: |
         cd Text-Hoborg
         cpanm ExtUtils::PkgConfig
+        cpanm File::Slurp
+        cpanm Lingua::EN::Fathom
+        cpanm Text::Hunspell
 
     - name: Run tests
       run: |
