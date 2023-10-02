@@ -13,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        perl: ["5.14", "5.12", "5.16"]
+        perl: ["5.34", "5.36", "5.38"]
 
     steps:
     - uses: actions/checkout@v4
