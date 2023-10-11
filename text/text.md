@@ -302,14 +302,15 @@ Here's a bit of money to get you started
 
 *revise and rewrite*
 
-That's what they told me, and gave me the ten thou. And a neat and very official looking printout of where this marvel could be found, since, to top all
+That's what they told me, and gave me the ten thou. And a neat and very 
+official looking printout of where this marvel could be found, since, to top all
 that, it didn't stay in a single place, but kept moving all over the
-map. Along with a circus.
+map. Along with the circus.
 
 "A circus?" I asked. "What's its act? Bite chicken heads off?" I asked them.
 
 "As far as we know, it could rip off the head of something considerably
-bigger than a chicken." Talking-guy said, while Fists-means-business
+bigger than a chicken." Talking-guy said, while Fists-that-mean-business
 smiled in a nondescript way. "But yes, we are pretty sure it can do
 that too."
 
@@ -318,14 +319,14 @@ shook hands and looked each other deep into our eyes. Can't remember
 the color, they were rather nondescript. White around and darker stuff in the
 middle, all I can remember. After that
 I told them I would take it from there, and they were on
-their way and I never ever saw them again, and I won't until I do the
+their way. Never ever saw them since, and I won't until I do the
 delivery in a few days. Now that I've got what they want I'll have to
-look for them when I arrive at my destination. Or rather they will
+look for them when I arrive at my destination. Or rather, they will
 look for me.
 
 Whatever, that's not going to be today. No, tonight I'm not gonna tell
 you about my joining the circus either.  Which, by the way, at that precise
-moment I didn't really think it was going to be necessary.
+moment I didn't really think was going to be necessary.
 
 Duke of Poo tells his story
 --------------------------------
